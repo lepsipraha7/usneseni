@@ -1,10 +1,11 @@
+#!/usr/bin/env ruby
 require 'open-uri'
 require 'json'
 require 'yaml'
 
 {
-  "rada" => 1..15,#1..512,
-  "zastupitelstvo" => 1..5, #1..128
+  "rada" => 1..2,#1..512,
+  "zastupitelstvo" => 1..4, #1..128
 }.each{|organ, rozsah|
   rozsah.to_a.each do |i|
     puts "Fetching #{organ} #{i}/#{rozsah.last}"
@@ -19,7 +20,9 @@ require 'yaml'
         filename = "source/usneseni_#{organ}_#{rok}.json"
         previous = File.exist?(filename) ? JSON.load(File.read(filename)) : []
         File.open(filename,"w"){|f| f <<
-          JSON.pretty_generate(previous.push(zasedani).uniq.sort{|a,b| a['cislo_usneseni']<=>b['cislo_usneseni']})
+          # JSON.pretty_generate(previous.push(zasedani).uniq.sort{|a,b| a['cislo_usneseni']<=>b['cislo_usneseni']})
+          # docasna deduplikace
+          JSON.pretty_generate(previous.push(zasedani).sort{|a,b| a['cislo_usneseni']<=>b['cislo_usneseni']}.reverse.uniq{|e| e['cislo_usneseni']}.reverse)
         }
       }
     end
