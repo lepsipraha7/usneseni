@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na vystavení objednávek v souvislosti s veřejnou zakázkou odstranění
+  a likvidace izolačního materiálu s azbestem včetně zajištění měření v kontrolovaných
+  pásmech, v domě Korunovační 28/127 Praha 7
+datum_vzniku_usneseni: '2016-06-29 00:00:00'
+cislo_usneseni: '0680/16-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27942/export/DZ_azb127~80341.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27942/export/export~298321.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na vystavení objednávek v souvislosti s veřejnou zakázkou odstranění a likvidace izolačního materiálu s azbestem včetně zajištění měření v kontrolovaných pásmech, v domě Korunovační 28/127 Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s vystavením objednávek&nbsp;v souvislosti s veřejnou zakázkou odstranění a likvidace izolačního materiálu s azbestem včetně zajištění měření v kontrolovaných pásmech, v domě Korunovační 28/127 Praha 7, společnosti PARECO s.r.o., Podohradská 1655/2, 155 00 Praha 5 IČO: 27165329, na zřízení 16 kontrolovaných pásem v částce 67.200,- Kč bez DPH, což činní 77.280,- Kč s DPH a společnosti AQUATEST a.s., Geologická 4, 152 00 Praha 5 IČO: 44794843, na provedení kontrolních měření v bytech v částce 117.380,- Kč bez DPH, což činní 142.030,- Kč s DPH, hrazeno z účtu zdaňované činnosti 9021<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>TAJ Ing. Miroslav Vacek</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat objednávky v souvislosti s veřejnou zakázkou odstranění a likvidace izolačního materiálu s azbestem včetně zajištění měření v kontrolovaných pásmech, v domě Korunovační 28/127 Praha 7, společnosti PARECO s.r.o., Podohradská 1655/2, 155 00 Praha 5 IČO: 27165329, na zřízení 16 kontrolovaných pásem v částce 67.200,- Kč bez DPH, což činní 77.280,- Kč s DPH a společnosti AQUATEST a.s., Geologická 4, 152 00 Praha 5 IČO: 44794843, na provedení kontrolních měření v bytech v částce 117.380,- Kč bez DPH, což činní 142.030,- Kč s DPH, hrazeno z účtu zdaňované činnosti 9021</p></span><span class="urzUkolTermin">  Termín:&nbsp;1.7.2016</span></li></ul></li></ol></li></ol>

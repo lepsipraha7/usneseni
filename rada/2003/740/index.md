@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Souhlas s podáním žalob na vyklizení, vymáhání dlužného nájemného s přivolením
+  k výpovědi z nájmu bytu
+datum_vzniku_usneseni: '2003-06-24 00:00:00'
+cislo_usneseni: 0740/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Souhlas s podáním žalob na vyklizení, vymáhání dlužného nájemného s přivolením k výpovědi z nájmu bytu</h3></span><div class="center">
+		<strong>č. 0740/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 24.06.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na souhlas s podáním žalob na bezdůvodné obohacení, na vyklizení, na vymáhání dlužného nájemného s přivolením k výpovědi z nájmu bytu<br><br><br>II.	souhlasí <br><br>s podáním žalob na bezdůvodné obohacení, na vyklizení, na vymáhání dlužného nájemného s přivolením k výpovědi z nájmu bytu, v domech svěřených městské části Praha 7, u osob uvedených v příloze č.1<br><br><br>III.	ukládá <br><br>Určen:	VED OMB Kadaňková Alena<br>Termín: 08.07.2003<br>Úkol:	předat potřebné doklady pro podání žalob na bezdůvodné obohacení, na vyklizení, na vymáhání dlužného nájemného s přivolením k výpovědi z nájmu bytu na OP, dle přílohy č.1<br> <br><br>Určen:	VED OP Lužová Jana<br>Termín: 12.08.2003<br>Úkol:	zajistit podání žalob na bezdůvodné obohacení, na vyklizení, na vymáhání dlužného nájemného s přivolením k výpovědi z nájmu bytu dle přílohy  č.1 a podkladů předaných OBH na OP<br> <br><br>Určen:	STA Mikšík Radek<br>Termín: 29.07.2003<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby na přivolení k výpovědi z nájmu bytu u Šlemr Miroslav, Osadní 39/46, Praha 7 (1)<br> <br>Určen:	STA Mikšík Radek<br>Termín: 29.07.2003<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby na přivolení k výpovědi z nájmu bytu u Laštovičková Alžběta a Laštovička Martin, bytem U Smaltovny 1334/22, Praha 7 (2) <br> <br><br>Určen:	STA Mikšík Radek<br>Termín: 29.07.2003<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby na přivolení k výpovědi z nájmu bytu u Milena Kozáková , Dobrovského 537/19, Praha 7 (3) <br> <br><br>Určen:	STA Mikšík Radek<br>Termín: 29.07.2003<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby u NBP Veverkova 16/1407, P7 - Tomáš Runštuk, se sídlem Studenstská 7, Praha 7 (4) <br> <br><br>Určen:	STA Mikšík Radek<br>Termín: 29.07.2003<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby na přivolení k výpovědi z nájmu bytu u Jan Schraml a Hana Schramlová, Veverkova 16/1407, Praha 7 (5) <br> <br> <br>Určen:	STA Mikšík Radek<br>Termín: 29.07.2003<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby na přivolení k výpovědi z nájmu bytu u Jan Růžička, Sládkova 9/259, Praha 7 (6)<br> <br> <br>Určen:	STA Mikšík Radek<br>Termín: 29.07.2003<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby na přivolení k výpovědi z nájmu bytu u Irena Lišková a Jiří Liška, Ortenovo nám. 14/1494, Praha 7 (7)<br> <br> <br>Určen:	STA Mikšík Radek<br>Termín: 29.07.2003<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby na přivolení k výpovědi z nájmu bytu u Daniel Hrubý, Malířská 10/234, Praha 7 (8)<br> <br> <br>Určen:	STA Mikšík Radek<br>Termín: 29.07.2003<br>Úkol:	podepsat žalobu na bezdůvodné obohacení a vyklizení u Sihelník František, Osadní 46/39, Praha 7 (9)<br> <br><br>Určen:	STA Mikšík Radek<br>Termín: 29.07.2003<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby na přivolení k výpovědi z nájmu bytu u Černý Josef, Osadní 41/46, Praha 7 (10)<br> <br> <br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

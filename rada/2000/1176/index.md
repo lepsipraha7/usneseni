@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Svěření ploch veřejné zeleně na území městské části Praha 7 , které jsou
+  ve správě Technické správy komunikací hl.m. Prahy - III. etapa
+datum_vzniku_usneseni: '2000-11-14 00:00:00'
+cislo_usneseni: 1176/00
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Svěření ploch veřejné zeleně na území městské části Praha 7 , které jsou ve správě Technické správy komunikací hl.m. Prahy - III. etapa</h3></span><div class="center">
+		<strong>č. 1176/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 14.11.2000</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na svěření ploch veřejné zeleně na území městské části Praha 7, které jsou ve správě Technické správy komunikací hl.m. Prahy - III. etapa<br><br>II.	souhlasí <br><br>se záměrem požádat hl.m. Prahu o  svěření ploch veřejné zeleně na území městské části Praha 7, které jsou ve správě Technické správy komunikací hl.m. Prahy .V III. etapě s těmito pozemky:<br><br>Katastrální území:		č. parc.		pozemek		výměra v m2	<br><br>Holešovice			13			část			2118<br>Holešovice			14			celý			253<br>Holešovice			266			celý			303<br>Holešovice			351			část			1007<br>Holešovice			417/2			část			314<br>Holešovice			2220			část			805<br>Holešovice 			2296			část 			946<br>Holešovice			2297/1			část			1134<br>Holešovice			2303			část			253<br>Holešovice			2305			část			387<br>Holešovice			2306			část			497<br>Holešovice			2309			část			283<br>Holešovice			2312 (2312/1)		část			1247<br>Holešovice			2328/2			celý			445<br>Holešovice			2416/10		celý			577<br>Holešovice			2416/20		část			609<br>Bubeneč			1871/1			část			1602<br>Bubeneč			2017			část			1305<br>Bubeneč			2018			část			613<br>Bubeneč			2019			část			605<br>Bubeneč			2021			část			1435<br>Bubeneč 			2028			část			676<br>Bubeneč			2151/1			část			7657<br><br>Bubeneč			2151/2			celý			1003<br>Bubeneč			2153			část			337<br><br>s návrhem usnesení  ZMČ Praha 7  - Návrh na svěření ploch veřejné zeleně na území městské části Praha 7, které jsou ve správě Technické správy komunikací hl.m. Prahy - III. etapa<br><br>III. ukládá <br><br> Určen:	–––––	ZAS STA Vayhel Luboš<br>Termín: 04.12.2000<br>Úkol:	předložit na zasedání Zastupitelstva MČ P7 návrh na svěření ploch veřejné zeleně na území městské části Praha 7, které jsou ve správě Technické správy komunikací hl.m. Prahy - III. etapa<br> <br> <br><br> <br>
+</div>
+</div>

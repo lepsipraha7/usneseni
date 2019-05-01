@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Souhlas s uzavřením dodatku č.1 k podnájemní smlouvě o nájmu nebytového
+  prostoru v objektu Veletržní 24, Praha 7, který je přílohou č.1 tohoto materiálu
+datum_vzniku_usneseni: '2003-09-30 00:00:00'
+cislo_usneseni: 1113/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Souhlas s uzavřením dodatku č.1 k podnájemní smlouvě o nájmu nebytového prostoru v objektu Veletržní 24, Praha 7, který je přílohou č.1 tohoto materiálu</h3></span><div class="center">
+		<strong>č. 1113/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 30.09.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na  souhlas s uzavřením dodatku č.1 k podnájemní smlouvě o nájmu nebytového prostoru v objektu Veletržní 24, Praha 7, který je přílohou č.1 tohoto materiálu <br><br>II.	souhlasí <br><br>s uzavřením dodatku č.1 k podnájemní smlouvě na pronájem nebytového prostoru v objektu Veletržní 24, Praha 7, který je přílohou č.1 tohoto materiálu <br><br>III. ukládá <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 15.10.2003<br>Úkol:	uzavřít dodatek č.1 k podnájemní smlouvě na pronájem nebytového prostoru v objektu Veletržní 24, Praha 7, který je přílohou č.1 tohoto materiálu<br> <br>	 <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

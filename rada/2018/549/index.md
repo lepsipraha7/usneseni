@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na revokaci usn. Návrh na zmocnění Mgr. Martiny Pojarové, ředitelky
+  Pečovatelského centra Praha 7, Heřmanova 1415/1, Praha 7, IČO: 70890307, k vypravení
+  pohřbu klientky Sociálně odlehčovacího centra č. 0548/18-R ze dne 12.7.2018, v názvu
+  a textu usnesení vč. příloh: Návrh na pověření Pečovatelského centra P7, Heřmanova
+  1415/1, P7, IČO: 70890307 k vypravení a úhradě pohřbu klientky SOC P7'
+datum_vzniku_usneseni: '2018-07-13 00:00:00'
+cislo_usneseni: '0549/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30091/export/duvodova_zprava_pohreb_l_vosoustova_verejna~375169.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30091/export/zplnomocneniverejne~375167.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30091/export/export~375370.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na revokaci usn. Návrh na zmocnění Mgr. Martiny Pojarové, ředitelky Pečovatelského centra Praha 7, Heřmanova 1415/1, Praha 7, IČO: 70890307, k vypravení pohřbu klientky Sociálně odlehčovacího centra č. 0548/18-R ze dne 12.7.2018, v názvu a textu usnesení vč. příloh: Návrh na pověření Pečovatelského centra P7, Heřmanova 1415/1, P7, IČO: 70890307 k vypravení a úhradě pohřbu klientky SOC P7</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>s návrhem na revokaci usn. Návrh na zmocnění Mgr. Martiny Pojarové, ředitelky Pečovatelského centra Praha 7, Heřmanova 1415/1, Praha 7, IČO: 70890307, k vypravení pohřbu klientky Sociálně odlehčovacího centra č. 0548/18-R ze dne 12.7.2018, v názvu a textu usnesení vč. příloh: Návrh na pověření Pečovatelského centra P7, Heřmanova 1415/1, P7, IČO: 70890307 k vypravení a úhradě pohřbu klientky SOC P7</p></span></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>Pečovatelské centrum Praha 7, Heřmanova 1415/1, Praha 7, IČO: 70890307, zastoupené ředitelkou Mgr. Martinou Pojarovou k vypravení a úhradě pohřbu klientky Sociálně odlehčovacího centra Prahy 7, a to v celkovém limitu nákladů do 50.000,-Kč, z rozpočtu Pečovatelského centra Praha 7<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Pověřit Pečovatelské centrum Praha 7, Heřmanova 1415/1, Praha 7, IČO: 70890307, zastoupené ředitelkou Mgr. Martinou Pojarovou k vypravení a úhradě pohřbu klientky Sociálně odlehčovacího centra Prahy 7, a to v celkovém limitu nákladů do 50.000,-Kč, z rozpočtu Pečovatelského centra Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;16.7.2018</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci pietního aktu u příležitosti významného dne Květnové
+  povstání českého lidu a státního svátku Den vítězství, dne 04.05.2018 od 09.00 h
+  u pomníku Obětem z povstání v květnu 1945 u paty mostu Barikádníků, Praha 7
+datum_vzniku_usneseni: '2018-04-17 00:00:00'
+cislo_usneseni: '0291/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29810/export/M13DV_Kvetnovekladeni_2018~346016.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29810/export/Zapis_4_jednani_KK_ze_dne_11_04_2018~346015.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29810/export/export~346901.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>Návrh na realizaci pietního aktu u příležitosti významného dne Květnové povstání českého lidu a státního svátku Den vítězství, dne 04.05.2018 od 09.00 h u pomníku Obětem z povstání v květnu 1945 u paty mostu Barikádníků, Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>realizaci pietního aktu u příležitosti významného dne Květnové povstání českého lidu a státního svátku Den vítězství, dne 04.05.2018 od 09.00 h u pomníku Obětem z povstání v květnu 1945 u paty mostu Barikádníků, Praha 7</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů v max. výši 6 000 Kč vč. DPH, v hotovosti, Miroslavu Laštovkovi, IČO: 711 11 964, za hudební doprovod na pietním aktu, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů v max. výši 4 000 Kč vč. DPH, v hotovosti, spolku Klub vojenských výsadkových veteránů Praha, z.s., IČO: 266 44 231, se sídlem Čínská 1949/35, Dejvice, 160 00 Praha 6, za zajištění čestné stráže na pietním aktu, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>RAD MgA. Hana Třeštíková</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci pietního aktu u příležitosti významného dne Květnové povstání českého lidu a státního svátku Den vítězství dle článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;18.5.2018</span></li></ul></li></ol></li></ol>

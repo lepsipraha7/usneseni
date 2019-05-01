@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Odpuštění poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002
+datum_vzniku_usneseni: '2002-09-23 00:00:00'
+cislo_usneseni: '0118/02'
+prilohy: []
+organ: zastupitelstvo
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení zastupitelstva MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Odpuštění poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002</h3></span><div class="center">
+		<strong>č. 0118/02</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 23.09.2002</strong><br><br>
+	</div>
+<br>Zastupitelstvo MČ Praha 7<br>po projednání<br><br>I.	bere na vědomí<br><br> <br>předložený materiál - návrh na odpuštění poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002<br><br><br>II.	souhlasí <br><br>s odpuštěním poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002 ve výši 1.406.394,- Kč, kde nájemci bytů dle tab. 2 ,přílohy č.2 uhradili dlužné nájemné v době od 22.04.2002 do 30.06.2002<br><br>s odpuštěním poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002 ve výši 29.074,- Kč, kde nájemci NBP dle tab. 3, přílohy č.2 uhradili dlužné nájemné v době od 22.04.2002 do 30.06.2002<br><br>s odpuštěním poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002 ve výši 86.767,- Kč, kde nájemci bytů dle tab. 4, přílohy č. 3 uhradili dlužné nájemné v době do 22.04.2002<br><br>s odpuštěním poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002 ve výši 172.755,- Kč, kde nájemníci NBP dle tab.5, přílohy č. 3 uhradili dlužné nájemné v době do 22.04.2002<br><br>s odpuštěním poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002 ve výši 767.957,- Kč, kde bytová družstva dle tab. 6, přílohy č. 4 uhradili dlužné nájemné v době od 22.04.2002 do 30.06.2002<br><br>s odpuštěním poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002 ve výši  138.491,- Kč, kde nájemci bytových jednotek (tab. 7, příloha č.6) uzavřeli s MČ P7 splátkový kalendář na dlužnou částku<br><br>s odpuštěním a vrácením poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002 ve výši 85.254,- Kč paní Vlastě Bernáškové, která uhradila dlužné nájemné 16.04.2002 (tab. 10, příloha č.7) včetně poplatku z prodlení a panu Jakubovi Chrastilovi, který uhradil dlužné nájemné ve výši 28.253,- Kč a poplatky z prodlení 8.391,- Kč za pana Boudu.<br><br>s odpuštěním poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002 ve výši 120.916,- Kč Monice a Václavu Kučerovi, kteří uhradili dne 17.04.2002 dlužné nájemné za manžele Javůrkovi ve výši 96.584,- dle svěřenecké smlouvy (příloha č.8)<br><br><br><br><br><br><br><br>III.	nesouhlasí<br><br>s odpuštěním poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002 ve výši 1.362.087,- Kč, kde nájemci bytových jednotek (tab. 8, příloha č.6) povinní dle rozsudku republiky, uhradili dlužný nájem<br><br>s odpuštěním poplatků z prodlení dle usnesení ZMČ P7 č. 0049/02-Z, z 22.04.2002 ve výši 76.047,- Kč, kde nájemci NBP (tab. 9, příloha č.6) povinní dle rozsudku republiky, uhradili dlužný nájem<br><br><br>IV.	ukládá <br><br> <br>Určen:	VED OBH Wawrečka Ronald<br>Termín: 24.09.2002<br>Úkol:	informovat správní firmy o odpuštění poplatků z prodlení na základě usnesení<br> <br><br> <br>Určen:	VED OBH Wawrečka Ronald<br>Termín: 24.09.2002<br>Úkol:	informovat žadatele o usnesení zastupitelstva ve věci prominutí poplatků<br> <br><br> <br>Určen:	VED OMA Špiclová Jaroslava<br>Termín: 24.09.2002<br>Úkol:	vydat příkaz správním firmám k vrácení částky dle tab. 10, přílohy č. 7 a přílohy č.8 jednotlivým nájemníkům a kopii zaslat na OFI<br> <br><br> <br><br><br> <br>	<br>Ing. Tomáš Dub starostaMěstské části Praha 7	Mgr. Luboš Vayhel zástupce starostyMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

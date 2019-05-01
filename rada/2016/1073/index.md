@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na udělení plné moci společnosti PP 53, a.s., IČ 29011299, Za zastávkou
+  373, PSČ 109 00, Praha 10 k zastupování při výkonu inženýrských činností souvisejících
+  se stavbou „Rekonstrukce Vodárenské věže Na Výšinách 1/1000, Praha 7 - Bubeneč“
+datum_vzniku_usneseni: '2016-10-25 00:00:00'
+cislo_usneseni: 1073/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28299/export/01_VodarVezPlnMoc~123308.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28299/export/02_VodarVezPlnMoc~123307.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28299/export/export~297511.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na udělení plné moci společnosti PP 53, a.s., IČ 29011299, Za zastávkou 373, PSČ 109 00, Praha 10 k zastupování při výkonu inženýrských činností souvisejících se stavbou „Rekonstrukce Vodárenské věže Na Výšinách 1/1000, Praha 7 - Bubeneč“</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s udělením plné moci společnosti PP 53, a.s., IČ 29011299, Za zastávkou 373, PSČ 109 00, Praha 10 k zastupování při výkonu inženýrských činností souvisejících se stavbou „Rekonstrukce Vodárenské věže Na Výšinách 1/1000, Praha 7 - Bubeneč“, která navazuje na uzavřenou smlouvu o dílo č. 2016/OIVZ/041 ze dne 14.10.2016<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s textem plné moci společnosti PP 53, a.s., IČ 29011299, Za zastávkou 373, PSČ 109 00, Praha 10 k zastupování při výkonu inženýrských činností souvisejících se stavbou „Rekonstrukce Vodárenské věže Na Výšinách 1/1000, Praha 7 - Bubeneč“, která navazuje na uzavřenou smlouvu o dílo č. 2016/OIVZ/041 ze dne 14.10.2016</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Pavel Vyhnánek, M.A.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat plnou moc společnosti PP 53, a.s., IČ 29011299, Za zastávkou 373, PSČ 109 00, Praha 10 k zastupování při výkonu inženýrských činností souvisejících se stavbou „Rekonstrukce Vodárenské věže Na Výšinách 1/1000, Praha 7 - Bubeneč“</p></span><span class="urzUkolTermin">  Termín:&nbsp;28.10.2016</span></li></ul></li></ol></li></ol>

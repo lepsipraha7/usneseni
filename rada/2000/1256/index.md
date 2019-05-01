@@ -1,0 +1,19 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření nájemních smluv na NBP po ukončeném VŘ
+datum_vzniku_usneseni: '2000-12-05 00:00:00'
+cislo_usneseni: 1256/00
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření nájemních smluv na NBP po ukončeném VŘ</h3></span><div class="center">
+		<strong>č. 1256/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 05.12.2000</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na uzavření nájemních smluv na NBP po ukončeném VŘ<br><br><br>II.	souhlasí <br><br>s uzavřením  smlouvy o smlouvě budoucí na NBP sklad o rozloze 21,67 m2, v přízemí domu Jana Zajíce 27/215, Praha 7, s nájemcem Mgr. Večeřová Zdenka (1), za nájemné 300,- Kč/m2/rok, na dobu neurčitou<br><br>s uzavřením nájemní smlouvy na NBP grafický ateliér  o rozloze 30,18 m2, v suterénu domu Pplk. Sochora 3/436, Praha 7, s nájemcem Petr Fabián, místo podnikání: v Olšinách 14/1670, Praha 10, IČO: 65627547, za nájemné 1000,- Kč/m2/rok, na dobu neurčitou<br><br>s uzavřením smlouvy o smlouvě budoucí na NBP kancelář o rozloze 26 m2, v přízemí domu Heřmanova 51/848, Praha 7, s nájemcem Jaroslava Málková, místo podnikání: U Letenského sadu 9/133, Praha 7, IČO: 67789480,  za nájemné 1000,- Kč/m2/rok, na dobu neurčitou<br><br>s uzavřením nájemní smlouvy na NBP garáž o rozloze 20 m2, ve dvoře domu Bubenská 39/1376, Praha 7, s nájemcem Eva De Silva (2),  za nájemné 900,- Kč/m2/rok, na dobu neurčitou<br><br>s uzavřením nájemní smlouvy na NBP garáž o rozloze 13 m2 , ve dvoře domu Šternberkova 17/446, Praha 7, s nájemcem Jiří Válek (3), za nájemné 1160,- Kč/m2/rok, na dobu neurčitou<br><br>s uzavřením smlouvy o smlouvě budoucí na NBP kancelář, sklad, v přízemí domu Komunardů 12/431, Praha 7, nájemce Stanislav Čapek, místo podnikání: U Smaltovny 14/416, Praha 7, IČO 60218088, za nájemné 800,-Kč/m2/rok, na dobu neurčitou<br><br><br><br><br><br><br><br>III.	ukládá <br><br> Určen:	     	ZAS STA Vayhel Luboš<br>Termín: 23.01.2001<br>Úkol:	uzavřít smlouvu o smlouvě budoucí na NBP sklad o rozloze 21,67 m2, v přízemí domu Jana Zajíce 27/215, Praha 7, s nájemcem Mgr. Večeřová Zdenka (1), za nájemné 300,- Kč/m2/rok, na dobu neurčitou<br> <br> Určen:	     	ZAS STA Vayhel Luboš<br>Termín: 23.01.2001<br>Úkol:	uzavřít nájemní smlouvu na NBP grafický ateliér  o rozloze 30,18 m2, v suterénu domu Pplk. Sochora 3/436, Praha 7, s nájemcem Petr Fabián, místo podnikání: v Olšinách 14/1670, Praha 10, IČO: 65627547, za nájemné 1000,- Kč/m2/rok, na dobu neurčitou<br> <br> Určen:	     	ZAS STA Vayhel Luboš<br>Termín: 23.01.2001<br>Úkol:	uzavřít smlouvu o smlouvě budoucí na NBP kancelář o rozloze 26 m2, v přízemí domu Heřmanova 51/848, Praha 7, s nájemcem Jaroslava Málková, místo podnikání: U Letenského sadu 9/133, Praha 7, IČO: 67789480,  za nájemné 1000,- Kč/m2/rok, na dobu neurčitou<br> <br> Určen:	     	ZAS STA Vayhel Luboš<br>Termín: 23.01.2001<br>Úkol:	uzavřít nájemní smlouvu na NBP garáž o rozloze 20 m2, ve dvoře domu Bubenská 39/1376, Praha 7, s nájemcem Eva De Silva (2),  za nájemné 900,- Kč/m2/rok, na dobu neurčitou<br> <br> Určen:	     	ZAS STA Vayhel Luboš<br>Termín: 23.01.2001<br>Úkol:	uzavřít nájemní smlouvu  na NBP garáž o rozloze 13 m2 , ve dvoře domu Šternberkova 17/446, Praha 7, s nájemcem Jiří Válek (3),   za nájemné 1160,- Kč/m2/rok, na dobu neurčitou<br> <br> Určen:	     	ZAS STA Vayhel Luboš<br>Termín: 23.01.2001<br>Úkol:	uzavřít smlouvu o smlouvě budoucí na NBP kancelář, sklad, v přízemí domu Komunardů 12/431, Praha 7, nájemce Stanislav Čapek, místo podnikání: U Smaltovny 14/416, Praha 7, IČO 60218088, za nájemné 800,-Kč/m2/rok, na dobu neurčitou<br> <br><br> </div>
+</div>

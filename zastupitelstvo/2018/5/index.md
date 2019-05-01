@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na vyslovení souhlasu MČ Praha 7 s odejmutím pozemků parc. č. 2118/6,
+  2118/10 a 2118/11 (část zeleně a chodníku u vstupu do Letenských sadů), vše k.ú.
+  Holešovice, ze svěřené správy MČ Praha 7
+datum_vzniku_usneseni: '2018-01-29 00:00:00'
+cislo_usneseni: 0005/18-Z
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27265/export/01_odejmutiGennet~321139.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27265/export/02_odejmutiGennet~321138.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27265/export/03_odejmutiGennet~321137.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27265/export/export~322826.pdf
+organ: zastupitelstvo
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh na vyslovení souhlasu MČ Praha 7 s odejmutím pozemků parc. č. 2118/6, 2118/10 a 2118/11 (část zeleně a chodníku u vstupu do Letenských sadů), vše k.ú. Holešovice, ze svěřené správy MČ Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>že pozemky parc. č. 2118/6, 2118/10 a 2118/11, vše k.ú. Holešovice, se nacházejí u vstupu do Letenských sadů a nachází se na nich z části zeleň a chodník</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že svěřená správa MČ Praha 7 u těchto pozemků pochází z doby svěřené správy MČ Praha 7 přilehlé budovy Kostelní 9/292 (dříve jesle, dnes soukromé zdravotnické zařízení Gennet), prodané v roce 2009</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že MČ Praha 7 je pro sjednocení pozemků, které tvoří součást Letenských sadů, do vlastnictví hl.m. Prahy</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol id="" class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>v souladu s odst. 1) § 19 zákona č. 131/2000 Sb., odejmutí nemovitých věcí, pozemků parc. 2118/6, 2118/10 a 2118/11, vše k.ú. Holešovice, hl.m. Prahou ze svěřené správy MČ Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="86">žádá</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>o odejmutí nemovitých věcí, pozemků parc. 2118/6, 2118/10 a 2118/11, vše k.ú. Holešovice, hl.m. Prahou ze svěřené správy MČ Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit OHM MHMP s usnesením Zastupitelstva MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;2.2.2018</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Informace o rozpočtovém výhledu MČ Praha 7 na r. 2003-2007 - hlavní činnost
+datum_vzniku_usneseni: '2001-10-16 00:00:00'
+cislo_usneseni: 1075/01
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Informace o rozpočtovém výhledu MČ Praha 7 na r. 2003-2007 - hlavní činnost</h3></span><div class="center">
+		<strong>č. 1075/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 16.10.2001</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh k rozpočtovému výhledu MČ Praha 7 na r. 2003-2007<br><br>II.	konstatuje,<br><br>- že rozpočtový výhled MČ Praha 7 na r. 2003-2007 představuje:<br>   ve zdrojové části maximální objemy odhadovaných příjmů a požadavků na dotační tituly<br>   ve výdajové části  souhrn požadavků  a předpokládaných potřeb<br><br>- že v návrhu  rozp. výhledu na r. 2003, 2004 a 2005  byly enormně  překročeny stanovené limity navýšení výdajů:<br><br>rok	           2003	              2004 	              2005<br>stanovený limit max. navýšení	   +   4 %  SR 2001	    + 2 %    r. 2003	     +   2 %   r. 2004<br>rozp.výhled	   + 22,8 %	    + 9,2 %	     + 16,2 %<br><br>- že základem pro rozp. výhled měl být kvalifikovaný odhad budoucího vývoje ve financování jednotlivých oblastí v návaznosti na možnosti zdrojové části rozpočtu. Toto pravidlo není ze strany některých ORJ dodržováno.<br><br>- že naplnění některých zdrojů uvedených v příjmové části rozpočtu se jeví jako nereálné především v oblasti předpokládaných objemů dotačních titulů na invest. akce<br><br>- že v této fázi sestavy rozpočtového výhledu nepokrývá zdrojová základna všechny evidované požadavky na rozpočty jednotlivých let, a to z důvodu chybějícího střednědobého výhledu státu a MHMP<br><br>- že investiční akce ze Zásobníku (ev. nově plánované akce) je možné zahrnout do konečné verze návrhu rozp. výhledu pouze za předpokladu zajištění vlastních zdrojů k jejich krytí, tj. převodů z VHČ event. fondů MČ. Výjimkou mohou být jen akce s příslibem poskytnutí dotačního titulu ze státního rozpočtu nebo rozpočtu HMP<br><br>- že  v dalších letech je třeba posilovat soběstačnost MČ Praha 7 v oblasti financování potřeb z vlastních zdrojů především z převodů z VHČ do hlavní činnosti<br> <br>III.	doporučuje<br><br>vedoucím  odborů (správcům ORJ)<br><br>- aby  vyvinuli maximální úsilí o získání investičních dotací ze státního rozpočtu a rozpočtu HMP v zájmu zajištění možné realizace plánovaných  investičních akcí.<br><br>- aby v zájmu posílení zdrojové základny MČ iniciativně hledali možnosti maximálního využití alternativních zdrojů financování k začlenění do rozpočtu. <br><br>- aby v oblasti hospodářské činnosti MČ Praha 7 byl sestaven obdobný výhled příjmů a výdajů na r. 2003-2007, ze kterého vyplynou celkové objemy finančních prostředků, které by mohly být v jednotlivých letech převáděny z VHČ do hlavní činnosti na krytí jejích potřeb. O zařazení těchto prostředků do kontrétní části výdajů rozhodne R MČ. Pokud nebudou nalezeny prostředky ke krytí potřeb, bude nutno přistoupit ke krácení výdajů způsobem, který stanoví R MČ.<br><br>IV.	ukládá <br><br> <br>Určen:	﷡﷡﷡﷡﷡	VED OMA Hrubý Roman<br>Termín: 31.10.2001<br>Úkol:	předložit R MČ a OFI výhled nákladů a výnosů včetně předpokládané daňové povinnosti na r. 2003 - 2007, a to v rozdělení na část běžné hospodářské činnosti včetně privatizace do 5. etapy a na část vyplývající z dokončení privatizace <br> <br><br><br> <br> <br>Určen:		VED OFI Stachová Jaroslava<br>Termín: průběžně<br>Úkol:	aktualizovat rozpočtový výhled MČ Praha 7 - hlavní činnost v návaznosti na termíny stanovené Statutem hl.m. Prahy, rozpisy dotací a   předpokládané objemy převodů z VHČ do HČ<br> <br><br><br><br><br><br><br><br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

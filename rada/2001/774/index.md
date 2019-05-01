@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Řešení situace veřejných soutěží na pronájem bytů za neregulované nájemné
+datum_vzniku_usneseni: '2001-07-19 00:00:00'
+cislo_usneseni: 0774/01
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Řešení situace veřejných soutěží na pronájem bytů za neregulované nájemné</h3></span><div class="center">
+		<strong>č. 0774/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 19.07.2001</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na řešení situace veřejných soutěží na pronájem bytů za neregulované nájemné <br><br>II.	souhlasí <br><br>s prodloužením veřejné nabídky na pronájem bytů za neregulované nájemné v domech, svěřených MČ Praha 7 pro občany  s trvalým pobytem na území MČ Praha 7  schválené usnesením RMČ P7 č.0657/01 ze dne 12.06.2001 do 20.8.2001 do 12,00 hod. (původní termín 16.07.2001)<br><br>s prodloužením veřejné nabídky na pronájem bytů za neregulované nájemné v domech, svěřených MČ Praha 7 pro občany s trvalým pobytem na území MČ Praha 7 a pro občany ČR schválené usnesením RMČ P7 č.0682/01 ze dne 19.6.2001 do 6.8.2001 do 12,00 hod. (původní termín 31.07.2001)<br><br>III.	mění <br><br>přílohu č. 1 - soutěžní podmínky, usnesení č. 0657/01-R ze dne 12.06.2001<br><br>v části „podmínky pro přijetí do výběrového řízení“ je znění poslední odrážky: <br>- potvrzení ohlašovny o místě trvalého pobytu na území MČ Praha 7 po dobu posledních 5 let a <br>  potvrzení o státním občanství ČR (kopie OP)<br><br>v části „přihlášky“ je znění poslední odrážky:<br>- potvrzení ohlašovny o místě trvalého pobytu na území MČ Praha 7 po dobu posledních 5 let<br><br>IV.	schvaluje<br><br>formulář Žádosti o nájem bytu s neregulovaným nájemným pro občany ČR splňující podmínku trvalého bydliště na území MČ Praha 7 po dobu posledních 5 let včetně dohody k žádosti o nájem bytu s neregulovaným nájemným pro občany ČR splňující podmínku trvalého bydliště na území MČ Praha 7 po dobu posledních 5 let, který je přílohou č. 1 tohoto materiálu<br><br><br><br><br>formulář Žádosti o nájem bytu s neregulovaným nájemným pro občany ČR splňující podmínku 10 let trvalého pobytu na území ČR včetně dohody k žádosti o nájem bytu s neregulovaným nájemným pro občany ČR splňující podmínku 10 let trvalého pobytu na území ČR,  který je přílohou č. 2 tohoto materiálu<br><br>V.	ukládá <br><br> Určen:	–––––	VED OBH Kněžourek Jan<br>Termín: 20.07.2001<br>Úkol:	zajistit zveřejnění změny termínu (prodloužení) a podmínek veřejné nabídky na pronájem bytů za neregulované nájemné v domech, svěřených MČ Praha 7 a upozornit zájemce na používání nových schválených formulářů na úřední desce Ú MČ Praha 7 <br> <br> Určen:	–––––	VED OBH Kněžourek Jan<br>Termín: průběžně<br>Úkol:	zajistit používání nových schválených formulářů „Žádost o pronájem bytu s neregulovaným nájemným“<br> <br> Určen:	–––––	ZAS STA Vayhel Luboš<br>Termín: 20.07.2001<br>Úkol:	osobně seznámit zájemce, kteří zaslali nabídky do veřejné soutěže s uzávěrkou 16.07.2001 s prodloužením termínu ukončení soutěže a projednat otázku kaucí<br> <br>  Určen:	–––––	VED OKO Dlouhý Bedřich<br>Termín: 20.08.2001<br>Úkol:	zajistit předání předsedovi komise pro vyhodnocení soutěže na nájem bytu s neregulovaným nájemným pro občany ČR splňující podmínku trvalého bydliště na území MČ Praha 7 po dobu posledních 5 let zajištěné a zapečetěné obálky s žádostmi do soutěže s ukončením v původním termínu 16.07.2001<br> <br><br> 	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br>	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

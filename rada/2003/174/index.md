@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Řešení žádostí projednaných při jednání majetkové komise dne 29.1.2003,
+  ke kterým doporučila vydat nesouhlas
+datum_vzniku_usneseni: '2003-02-18 00:00:00'
+cislo_usneseni: 0174/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Řešení žádostí projednaných při jednání majetkové komise dne 29.1.2003, ke kterým doporučila vydat nesouhlas</h3></span><div class="center">
+		<strong>č. 0174/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 18.02.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál na řešení žádostí projednaných při jednání majetkové komise dne 29.1.2003, ke kterým doporučila vydat nesouhlas<br><br>II.  nesouhlasí<br><br>s rozdělením bytu nájemce pana Hončla, Dukelských hrdinů 5/344, P7 na dva samostatné byty<br><br>s přisloučením části půdy k bytu č. 34 nájemkyně paní Z. Kloudové, U Průhonu 52, P7<br><br>s dlouhodobým pronájmem pozemku parc. č. 282/2, k.ú. Holešovice za účelem provozování čerpací stanice PHM<br><br>s dlouhodobým pronájmem s následným prodejem pozemku parc. č. 773/1, k.ú. Holešovice za účelem výstavby řadových garáží<br><br>s prodejem nebyt. prostoru - lékárny v objektu Dukelských hrdinů 33/691, P7 paní A. Laštovkové<br><br>s umístěním reklamního poutače společnosti 4 promo s.r.o. na domě Argentinská 12/194, P7<br><br>s udělením slevy ze základního nájemného z bytu rodiny Bartákových v domě Přístavní 19/1347, P7<br><br>s udělením slevy ze základního nájemného paní Pavle Ducháčkové -nájemkyni bytu č.8, Ortenovo nám. 10, P7<br><br>s prominutím pohledávek Bytovému družstvu Havanská 8/809  <br><br>s přehodnocením ceny nemovitosti - domu Dělnická 49/464 a pozemku parc. č. 889, k.ú. Holešovice dle požadavku BD Dělnická 49 <br><br><br>s rozložením úhrady pohledávek domu Letohradské 3/369 a trvá na úhradě dle KS uzavřené s Bytovým družstvem<br><br>s prodejem domu Skalecká 13/355 manželům Masnerovým bytem Skalecká 11, P7 <br><br><br><br>III.  ukládá<br><br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 28.02.2003<br>Úkol:	seznámit pana Pavla Hončla, Dukelských hrdinů 5/344, P7 se stanoviskem R MČ P7<br> <br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 28.02.2003<br>Úkol:	seznámit paní Zd. Kloudovou, U Průhonu 52, P7 se stanoviskem R MČ P7<br> <br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 28.02.2003<br>Úkol:	zaslat dopis Odboru obchodních aktivit MHMP se stanoviskem R MČ P7 k jejich žádosti ze dne 3.12.2002<br> <br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 28.02.2003<br>Úkol:	zaslat dopis Odboru obchodních aktivit MHMP se stanoviskem R MČ P7 k jejich žádosti ze dne 11.11.2002<br> <br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 28.02.2003<br>Úkol:	seznámit Mgr. Alenu Laštovkovou, Dukelských hrdinů 33/691, P7 se stanoviskem R MČ P7<br> <br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 28.02.2003<br>Úkol:	seznámit reklamní agenturu 4 promo s.r.o. se stanoviskem R MČ P7<br> <br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 28.02.2003<br>Úkol:	seznámit rodinu Bartákových, Přístavní 19/1347, P7 se stanoviskem R MČ P7<br> <br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 28.02.2003<br>Úkol:	seznámit paní Pavly Ducháčkovou, Ortenovo nám.10, P7 se stanoviskem R MČ P7<br> <br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 28.02.2003<br>Úkol:	seznámit BD Havanská 8/809 se stanoviskem R MČ P7<br> <br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 28.02.2003<br>Úkol:	seznámit BD Dělnická 49 se stanoviskem R MČ P7<br> <br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 28.02.2003<br>Úkol:	seznámit BD Letohradská 3 se stanoviskem R MČ P7<br> <br><br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 28.02.2003<br>Úkol:	seznámit manžele Masnerovy, Skalecká 11, P7 se stanoviskem R MČ P7<br> <br> <br><br><br><br>PhDr. Ivana Kučerová zástupkyně starostyM ěstské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

@@ -1,0 +1,58 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na poskytnutí finančních darů občanům, kteří se nad rámec výkonu
+  veřejné služby podíleli na odklízení sněhu a úklidu v měsících únor a březen 2010,
+  z Humanitního fondu
+datum_vzniku_usneseni: '2010-03-30 00:00:00'
+cislo_usneseni: 0315/10
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/20597/15-10-vzor_dar_smlouvy_sn%c3%adh.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na poskytnutí finančních darů občanům, kteří se nad rámec výkonu veřejné služby podíleli na odklízení sněhu a úklidu v měsících únor a březen 2010, z Humanitního fondu</h3></span><div class="center">
+		<strong>č. 0315/10</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 30.03.2010</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> návrh na poskytnutí finančních darů občanům, kteří se nad rámec výkonu veřejné služby podíleli na odklízení sněhu a úklidu v měsících únor a březen 2010, z Humanitního fondu</li></ul>
+</li>
+<li>Schvaluje<ul>
+<li>
+<strong>1.</strong> poskytnutí finančních darů občanům, kteří se nad rámec výkonu veřejné služby podíleli na odklízení sněhu a úklidu v měsících únor a březen 2010, dle přílohy č. 1 tohoto materiálu v celkovém objemu 5 550,- Kč hrazených z Humanitního fondu, a to:<ul>
+<li>
+<strong>1.1</strong> Zdeňku Kohlovi</li>
+<li>
+<strong>1.2</strong> Milanu Galbovi</li>
+<li>
+<strong>1.3</strong> Pavlu Noskovi</li>
+<li>
+<strong>1.4</strong> Milanu Kurovskému</li>
+</ul>
+</li>
+<li>
+<strong>2.</strong> vzor darovací smlouvy ve věci poskytnutí finančního daru občanům, kteří se nad rámec výkonu veřejné služby podíleli na odklízení sněhu a úklidu dle přílohy č. 2 tohoto materiálu       </li>
+</ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>STA Ječmének Marek</li>
+<li>
+<strong>1.1 Úkol: </strong>podepsat darovací smlouvy ve věci poskytnutí finančního daru občanům, kteří se nad rámec výkonu veřejné služby podíleli na odklízení sněhu a úklidu v měsících únor a březen 2010</li>
+<li>
+<strong>1.2 Termín: </strong>20.04.2010</li>
+<li>
+<strong><br>2. Určen: </strong>VED OSZ Remeš René Ing.</li>
+<li>
+<strong>2.1 Úkol: </strong>zajistit vyplacení finančního daru občanům, kteří se nad rámec výkonu veřejné služby podíleli na odklízení sněhu a úklidu v měsících únor a březen 2010</li>
+<li>
+<strong>2.2 Termín: </strong>03.05.2010</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: MUDr. Tomáš Kaštovský 
+</div>
+</div>

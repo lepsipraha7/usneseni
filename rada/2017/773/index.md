@@ -1,0 +1,18 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení realizace přednáškového cyklu a pohybově - relaxačních
+  cvičení pro veřejnost pod názvem Akademie celoživotního vzdělávání v II. pololetí
+  r. 2017
+datum_vzniku_usneseni: '2017-08-22 00:00:00'
+cislo_usneseni: 0773/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29420/export/duvodovazprava_ACV_podzim2017~238222.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29420/export/Smlouvaoprednaskovecinnosti_DCHP_verejna~238221.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29420/export/Smlouvaoprednaskovecinnosti_VCpodzim2017_verejna~238219.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29420/export/Smlouvaoprednaskovecinnosti_IS_verejna~238217.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29420/export/Smlouvaoprednaskovecinnosti_MS2017_2018_verejna~238215.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29420/export/Smlouvaopronajmutelocvicny_TJ_SokolPrahaVII_2017_2018~238213.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29420/export/export~295413.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na schválení realizace přednáškového cyklu a pohybově - relaxačních cvičení pro veřejnost, pod názvem Akademie celoživotního vzdělávání v II. pololetí r. 2017</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>realizaci přednáškového cyklu a pohybově - relaxačních cvičení pro veřejnost, pod názvem Akademie celoživotního vzdělávání v II. pololetí r. 2017</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>proplacení nákladů spojených s realizací vzdělávacích přednášek a pohybově - relaxačních cvičení pro veřejnost pod názvem Akademie celoživotního vzdělávání v II. pololetí r. 2017 v maximální výši 47 090,- Kč vč. DPH z rozpočtu ORJ OSZ - 0516</p><p><br></p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>se zněním a uzavřením Smluv o přednáškové činnosti a Smlouvy o pronájmu tělocvičny, dle přílohy č. 2 - 6 tohoto materiálu</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně zajistit realizaci vzdělávacích přednášek a pohybově - relaxačních cvičení pro veřejnost pod názvem Akademie celoživotního vzdělávání v II. pololetí r. 2017 a zajistit proplacení nákladů v maximální výši 47 090,- Kč vč. DPH z rozpočtu ORJ OSZ-0516</p></span><span class="urzUkolTermin">  Termín:&nbsp;29.5.2018</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Smlouvy o přednáškové činnosti a Smlouvu o pronájmu tělocvičny, viz příloha č. 2 - 6 tohoto materiálu, v rámci realizace vzdělávacích přednášek a pohybově - relaxačních cvičení pro veřejnost, pod názvem Akademie celoživotního vzdělávání v II. pololetí r. 2017</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.11.2017</span></li></ul></li></ol></li></ol>

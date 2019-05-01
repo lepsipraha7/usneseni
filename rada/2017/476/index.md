@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na zmocnění Ing. Hany Horské k jednání se společností PREdistribuce,
+  a.s., Svornosti 3199/19a, Praha 5 o navýšení jmenovité proudové hodnoty jističe
+  na Řezáčově náměstí 2/1261, Praha 7
+datum_vzniku_usneseni: '2017-05-23 00:00:00'
+cislo_usneseni: 0476/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28630/export/DZ_2~203790.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28630/export/PLNA_MOC_PRE_ver~203789.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28630/export/export~296035.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na zmocnění Ing. Hany Horské k jednání se společností&nbsp;PREdistribuce, a.s., Svornosti 3199/19a, Praha 5 o navýšení jmenovité proudové hodnoty jističe na Řezáčově náměstí 2/1261, Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>se zněním plné moci k jednání se společností PREdistribuce, a.s., Svornosti 3199/19a, Praha 5 o navýšení jmenovité proudové hodnoty jističe na Řezáčově náměstí 2/1261, Praha 7,pro Ing. Hanu Horskou, která je v příloze č. 2 tohoto materiálu</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>se zmocněním Ing. Hany Horské k jednání se společností PREdistribuce, a.s., Svornosti 3199/19a, Praha 5 o navýšení jmenovité proudové hodnoty jističe na Řezáčově náměstí 2/1261, Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="41">zmocňuje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Ing. Hanu Horskou k jednání se společností PREdistribuce, a.s., Svornosti 3199/19a, Praha 5 o navýšení jmenovité proudové hodnoty jističe na Řezáčově náměstí 2/1261, Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat plnou moc pro Ing. Hanu Horskou k jednání se společností PREdistribuce, a.s., Svornosti 3199/19a, Praha 5 o navýšení jmenovité proudové hodnoty jističe na Řezáčově náměstí 2/1261, Praha 7. Plná moc je v příloze č.2 tohoto materiálu.</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.5.2017</span></li></ul></li></ol></li></ol>

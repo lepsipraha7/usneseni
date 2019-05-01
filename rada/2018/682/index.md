@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Dopisy adresované Radě MČ Praha 7
+datum_vzniku_usneseni: '2018-09-11 00:00:00'
+cislo_usneseni: '0682/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30226/export/DUVODOVAZPRAVAdopis~391400.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30226/export/Dopis_19~391399.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30226/export/Dopis_20~391398.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30226/export/Odpoved_14~391397.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30226/export/export~391685.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>dopis adresovaný Radě MČ Praha 7 pod č. j. 100285/2018-19, od Mgr. Zuzany Divišové, ve věci dotazu na stav vypovězení nájemní smlouvy provozovateli objektu "Showpark" v prostorách Pražské tržnice<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>dopis adresovaný Radě MČ Praha 7 pod č. j. 102140/2018-20, od BAU-INVEST PROJECT, a.s, zastoupené statutárním ředitelem Ing. Petrem Svinkou, ve věci žádosti o vydání stanoviska MČ Praha 7 jako účastníka řízení v rámci územního řízení</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>odpověď na dopis, adresovaný Radě MČ Praha 7 pod č.j.092889/2018-14, od členů Spolku Milady Horákové 581/84 zastoupené D.Vackem, ve věci privatizace domu č. p. 851, ul. Milady Horákové 84, Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>MISTA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>vyřídit a předložit na jednání Rady MČ P7 odpověď na dopis adresovaný Radě MČ Praha 7, pod č. j. 100285/2018-19,od Mgr. Zuzany Divišové, ve věci dotazu na stav vypovězení nájemní smlouvy provozovateli objektu "Showpark" v prostorách Pražské tržnice</p></span><span class="urzUkolTermin">  Termín:&nbsp;2.10.2018</span></li></ul></li><li class="urzClass2"><span><p>RAD PhDr. Ing. arch Lenka Burgerová, Ph.D.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Předložit do 30 dnů ke schválení Radě MČ Praha 7 stanovisko MČ Praha 7 jako účastníka územního řízení</p></span><span class="urzUkolTermin">  Termín:&nbsp;9.10.2018</span></li></ul></li></ol></li></ol>

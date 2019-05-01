@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na poskytnutí individuálních dotací v oblasti kultury dle žádostí
+  podaných v měsících únor-březen 2019
+datum_vzniku_usneseni: '2019-04-08 00:00:00'
+cislo_usneseni: '0038/19-Z'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30753/export/M12DV_ID_kultura_unor_brezen_2019_Z~443695.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30753/export/Usneseni_R_153_19_ID_kultura_unor_brezen_2019~443694.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30753/export/Prilohac3_Individualnidotace_kultur_unor_brezen_2019_Z~443693.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30753/export/Zapis_3_jednani_KK_ze_dne_13_03_2019~443692.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30753/export/export~443913.pdf
+organ: zastupitelstvo
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal " id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na poskytnutí individuálních dotací v oblasti kultury dle žádostí podaných v měsících únor-březen 2019</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>poskytnutí individuální dotace v oblasti kultury přesahující 50 tis. Kč, dle žádosti podané v měsících únor-březen 2019, žadateli dle přílohy č. 3 tohoto usnesení v celkové výši 77 420 Kč, formou veřejnoprávní smlouvy, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>uzavření smlouvy o poskytnutí dotace mezi městskou částí Praha 7 a úspěšným žadatel s podporou nad 50 tis. Kč viz příloha č. 3. Smlouva s úspěšným žadatelem bude vypracována ze schváleného vzoru smlouvy o poskytnutí individuální dotace.<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu o poskytnutí dotace mezi městskou částí Praha 7 a úspěšným žadatelem s podporou nad 50 tis. Kč viz příloha č. 3</p></span><span class="urzUkolTermin">  Termín:&nbsp;12.4.2019</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit poskytnutí individuální dotace v oblasti kultury dle ustanovení článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;26.4.2019</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit evidenci poskytnutí individuální dotace dle ustanovení článku II tohoto usnesení v Centrálním registru podpor malého rozsahu ve lhůtě do 5 dnů od nabytí účinnosti smlouvy</p></span><span class="urzUkolTermin">  Termín:&nbsp;26.4.2019</span></li></ul></li></ol></li></ol>

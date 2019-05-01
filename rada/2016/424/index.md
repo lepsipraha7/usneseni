@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na schválení postupu společnosti Sedmá ubytovací s.r.o., IČO: 26418274,
+  při administraci veřejných zakázek v souvislosti s platnou metodikou MČ Praha 7
+  v této oblasti'
+datum_vzniku_usneseni: '2016-05-03 00:00:00'
+cislo_usneseni: 0424/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27623/export/DZ_VZMR7U~53235.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27623/export/02_VZMR7U~53234.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27623/export/export~299494.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh na schválení postupu společnosti Sedmá ubytovací s.r.o., IČO: 26418274, při administraci veřejných zakázek v souvislosti s platnou metodikou MČ Praha 7 v této oblasti</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>předloženou směrnici č. 4/2015, s názvem Pravidla pro administraci veřejných zakázek malého rozsahu, společnosti Sedmá ubytovací s.r.o., IČO: 26418274</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>předložené ceníky obecných prací pro rok 2016, užívané společností Sedmá ubytovací s.r.o., IČO: 26418274</p></span></li></ol></li><li class="urzClass1" id=""><span name="62">požaduje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>po&nbsp;společnosti Sedmá ubytovací s.r.o., IČO: 26418274 předkládat Radě MČ Praha 7 čtvrtletní zprávy uskutečněných zakázek,&nbsp;na náklady této společnosti, v souladu s předloženou směrnicí</p></span></li></ol></li><li id="" class="urzClass1"><span name="70">ruší</span><ol class="urzOlClass" id=""><li style="text-align: left;" id="" class="urzClass2"><span><p>povinnost společnosti Sedmá ubytovací s.r.o., IČO: 26418274, používat interní předpis MČ Praha 7 s názvem Pravidla pro zadávání veřejných zakázek, pouze pro oblast zakázek uskutečňovaných na náklady této společnosti</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit společnost Sedmá ubytovací s.r.o. s usnesením Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;6.5.2016</span></li></ul></li><li class="urzClass2"><span><p>VED OIVZ JUDr. Olga Ulrichová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>při další změně interního předpisu MČ Praha 7 s názvem Pravidla pro zadávání veřejných zakázek, upravit příslušná ustanovení ve smyslu tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.9.2016</span></li></ul></li></ol></li></ol>

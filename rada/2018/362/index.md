@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na udělení finančních darů zaměstnancům mateřských a základních
+  škol, které zřizuje MČ Praha 7, za práci pro rozvoj městské části Praha 7
+datum_vzniku_usneseni: '2018-05-11 00:00:00'
+cislo_usneseni: 0362/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29865/export/6083_1_Duvodova_zprava~353739.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29865/export/2Vzordarovacismlouvy~353738.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29865/export/export~353919.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na udělení finančních darů zaměstnancům mateřských a základních škol, které zřizuje MČ Praha 7, za práci pro rozvoj městské části Praha 7. Dar ve výši 3000 Kč na plný pracovní úvazek zaměstnance příspěvkové organizace se poměrně krátí při sníženém pracovním úvazku. Vyplaceno bude z rozpočtu ORJ 0417 odboru školství.</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na udělení finančních darů zaměstnancům mateřských a základních škol, které zřizuje MČ Praha 7, za práci pro rozvoj městské části Praha 7. Dar ve výši 3000 Kč na plný pracovní úvazek zaměstnance příspěvkové organizace se poměrně krátí při sníženém pracovním úvazku. Vyplaceno bude z rozpočtu ORJ 0417 odboru školství.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>vzor darovací smlouvy pro udělení finančních darů zaměstnancům mateřských a základních škol, které zřizuje MČ Praha 7, za práci pro rozvoj městské části Praha 7<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OŠK Ing. Dita Výborová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit administrativně a organizačně vyplacení finančních darů zaměstnancům PO<br>mateřských a základních škol městské části Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.7.2018</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat darovací smlouvy pro zaměstnace školských zařízení MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.6.2018</span></li></ul></li></ol></li></ol>

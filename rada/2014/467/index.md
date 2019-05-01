@@ -1,0 +1,45 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh ke zmocnění Rady MČ Praha 7 k operativním dispozicím s finančními
+  prostředky MČ Praha 7 ve smyslu jejich zhodnocení '
+datum_vzniku_usneseni: '2014-06-10 00:00:00'
+cislo_usneseni: 0467/14
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24914/31-14-p10001.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24914/31-14-zmc3.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh ke zmocnění Rady MČ Praha 7 k operativním dispozicím s finančními prostředky MČ Praha 7 ve smyslu jejich zhodnocení </h3></span><div class="center">
+		<strong>č. 0467/14</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 10.06.2014</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh ke zmocnění Rady MČ Praha 7 k operativním dispozicím s finančními prostředky MČ Praha 7 ve smyslu jejich zhodnocení </li></ul>
+</li>
+<li>Konstatuje,<ul>
+<li>
+<strong>1.</strong> že Rada MČ Praha 7 byla již v minulosti usnesením Zastupitelstva MČ Praha 7 ze dne 14.6.2010 č. 0168/10-Z  zmocněna k operativním dispozicím s finančními prostředky MČ Praha 7 vedenými na jejích bankovních účtech ve smyslu jejich zhodnocení </li>
+<li>
+<strong>2.</strong> že vzhledem k neustále klesajícím úrokům z vkladů u bank (viz také "Oznámení České spořitelny a.s. v příloze 1) je vhodné Radu MČ Praha 7 opětovně zmocnit k operativním dispozicím s finančními prostředky MČ Praha 7 vedenými na jejích bankovních účtech ve smyslu jejich zhodnocení </li>
+</ul>
+</li>
+<li>Schvaluje<ul><li>
+<strong>1.</strong> návrh ke zmocnění Rady MČ Praha 7 k operativním dispozicím s finančními prostředky MČ Praha 7 ve smyslu jejich zhodnocení  a to do 8.9.2014         </li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>ZAS STA Kaštovský Tomáš MUDr.</li>
+<li>
+<strong>1.1 Úkol: </strong>předložit na jednání Zastupitelstva MČ Praha 7 materiál - návrh ke zmocnění Rady MČ Praha 7 k operativním dispozicím s finančními prostředky MČ Praha 7 ve smyslu jejich zhodnocení  </li>
+<li>
+<strong>1.2 Termín: </strong>16.06.2014</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

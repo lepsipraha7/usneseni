@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na souhlas s používáním počítačového programu GINIS společností
+  Sedmá ubytovací s.r.o., v souvislosti se spravovaným nemovitým majetkem svěřeným
+  MČ Praha 7
+datum_vzniku_usneseni: '2016-08-30 00:00:00'
+cislo_usneseni: '0844/16-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27598/export/DZ_7UGINIS~98016.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27598/export/export~297979.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na souhlas s používáním počítačového programu GINIS společností Sedmá ubytovací s.r.o., v souvislosti se spravovaným nemovitým majetkem svěřeným MČ Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s používáním počítačového programu GINIS společností Sedmá ubytovací s.r.o., IČO: 26418274, nábřeží Kapitána Jaroše 1000/7, 170 00 Praha 7, v souvislosti se spravovaným nemovitým majetkem svěřeným MČ Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>se zřízením tzv. fiktivního identifikačního čísla organizace pro účely používání počítačového programu GINIS společností Sedmá ubytovací s.r.o., IČO: 26418274, nábřeží Kapitána Jaroše 1000/7, 170 00 Praha 7, v souvislosti se spravovaným nemovitým majetkem svěřeným MČ Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit  společnost Sedmá ubytovací s.r.o. s usnesením Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;2.9.2016</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>projednat se společností GORDIC finanční podmínky zřízením tzv. fiktivního identifikačního čísla organizace pro účely používání počítačového programu GINIS společností Sedmá ubytovací s.r.o., IČO: 26418274, nábřeží Kapitána Jaroše 1000/7, 170 00 Praha 7, v souvislosti se spravovaným nemovitým majetkem svěřeným MČ Praha 7, včetně případného zajištění objednávky</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.10.2016</span></li></ul></li></ol></li></ol>

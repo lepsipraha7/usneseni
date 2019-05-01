@@ -1,0 +1,38 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na zrušení dosud přijatých a nevyřešených žádostí o nájem bytu ze
+  sociálních důvodů
+datum_vzniku_usneseni: '2013-12-10 00:00:00'
+cislo_usneseni: '0975/13'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/23406/65-13-us.zast._0109-13.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/23406/65-13-z%c3%a1sady.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na zrušení dosud přijatých a nevyřešených žádostí o nájem bytu ze sociálních důvodů</h3></span><div class="center">
+		<strong>č. 0975/13</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 10.12.2013</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh na zrušení dosud přijatých a nevyřešených žádostí o nájem bytu ze sociálních důvodů</li></ul>
+</li>
+<li>Ruší<ul><li>
+<strong>1.</strong> platnost všech žádostí o nájem bytu ze sociálních důvodů přijatých od roku 2007 a dosud nevyřešených, a to ke dni 10.12.2013</li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>VED OSZBN Remeš René Ing.</li>
+<li>
+<strong>1.1 Úkol: </strong>informovat písemně všechny žadatele, kteří byli od roku 2007 zařazeni bytovou komisí Rady MČ P7 do evidence žadatelů o nájem bytu ze sociálních důvodů, a jejichž žádosti nebyly dosud vyřešeny, o zrušení jejich žádosti, a o možnosti podání nové žádosti, pokud splňují podmínky obsažené v  "Zásadách pronajímání uvolněných bytů v rámci zbylého bytového fondu sveřeného MČ P7 s platností od 1.10.2013", přijatých usnesením Zastupitelstva MČ P7 č.0109/13 dne 9.9.2013</li>
+<li>
+<strong>1.2 Termín: </strong>31.12.2013</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

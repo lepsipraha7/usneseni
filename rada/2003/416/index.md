@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření dohod o splátkách dlužného nájemného a prominutí poplatků z prodlení
+datum_vzniku_usneseni: '2003-04-15 00:00:00'
+cislo_usneseni: 0416/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření dohod o splátkách dlužného nájemného a prominutí poplatků z prodlení</h3></span><div class="center">
+		<strong>č. 0416/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 15.04.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na uzavření dohody o splátkách dlužného nájemného a prominutí poplatků z prodlení<br><br>II.	souhlasí <br><br>s prominutím poplatků z prodlení ve výši 30.000,- Kč paní Anně Klusáčkové, bytem U Městských domů 7/181, P 7. Celkem poplatky z prodlení ve výši 55.753,- Kč, zbyde k zaplacení 25.753,- Kč (1)<br><br>s uzavřením dohody o splátkách dlužného nájemného, která je přílohou č. 2 tohoto materiálu, s paní Annou Klusáčkovou, bytem U Městských domů 7/181, P7, jejíž dluh činí na nájemném 5.781,- Kč a poplatcích z prodlení 25.753,- Kč, celkem dluh ve výši 31.534,- Kč, formou 17-ti po sobě následujících splátek ve výši 1.750,- Kč a 18-té ve výši 1.781,- Kč (1)<br><br>s uzavřením dohody o splátkách dlužného nájemného, která je přílohou č. 4 tohoto materiálu, s paní Editou Plačkovou, bytem Malířská 7/230, P 7, jejíž dluh činí na nájemném 19.286,- Kč a poplatcích z prodlení 16.933,-, celkem dluh ve výši 36.219,- Kč, formou 17-ti po sobě následujících splátek ve výši 2.010,- Kč a 18-té ve výši 2.049,- Kč (2)<br><br>s uzavřením dohody o splátkách dlužného nájemného s Gabrielou Kučerovou a Janem Kučerou, bytem Ortenovo nám. 30/928, P 7, jejichž dluh činí na nájemném 211.050,- Kč a poplatcích z prodlení 295.035,- Kč, celkem dluh 506.085,- Kč, formou 50-ti splátek ve výši 10.000,- Kč a 51-ní ve výši 6.085,- Kč (3)<br><br>s uzavřením dohody o splátkách dlužného nájemného s Jarmilou Chalupníčkovou, bytem U Měšťanského pivovaru 9/35, P 7, jejíž dluh činí na nájemném 42.941,- Kč a poplatcích z prodlení 46.907,- Kč, celkem dluh činí 89.848,- Kč, formou 59-ti splátek ve výši 1.500,- Kč a 60-té ve výši 1.348,- Kč (4)<br><br><br><br>III.	nesouhlasí<br><br>s prominutím poplatků z prodlení u Petra Stehlíková, bytem Komunardů 12/431, P 7, které jsou ve výši 93.202,- Kč (5)<br><br><br>IV.	ukládá <br><br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 20.05.2003<br>Úkol:	uzavřít dohodu o splátkách dlužného nájemného, která je přílohou č. 2 tohoto materiálu, s  paní Annou Klusáčkovou, bytem U Městských domů 7/181, P7, jejíž dluh činí na nájemném 5.781,- Kč a poplatcích z prodlení 25.753,- Kč, celkem dluh ve výši 31.534,- Kč, formou 17-ti po sobě následujících splátek ve výši 1.750,- Kč a 18-té ve výši 1.781,- Kč (1)<br> <br> <br>Určen:	VED OMB Kadaňková Alena<br>Termín: 29.04.2003<br>Úkol:	informovat paní Annu Klusáčkovou ,bytem U Městských domů 7/181, P 7 a správní firmu o usnesení RMČ P 7 - prominutí poplatků z prodlení ve výši 30.000,- Kč<br> <br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 20.05.2003<br>Úkol:	uzavřít dohodu o splátkách dlužného nájemného, která je přílohou č.4 tohoto materiálu, s paní Editou Plačkovou, bytem Malířská 7/230, P 7, jejíž dluh činí na nájemném 19.286,- Kč a poplatcích z prodlení 16.933,-, celkem dluh ve výši 36.219,- Kč, formou 17-ti po sobě následujích splátek ve výši 2.010,- Kč a 18-té ve výši 2.049,- Kč (2)<br> <br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 27.05.2003<br>Úkol:	předložit na zasedání Zastupitelstva MČ P 7 návrh na uzavření splátkových dohod na dlužné nájemné formou splátek, které jsou vyšší jak 18 měsíců (Gabriela Kučerová, Jarmila Chalupníčková, )<br> <br> <br>Určen:	VED OMB Kadaňková Alena<br>Termín: 29.04.2003<br>Úkol:	informovat paní Petru Stehlíkovou, bytem Komunardů 12/431, P 7 a správní firmu o usnesení R MČ P 7<br> <br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

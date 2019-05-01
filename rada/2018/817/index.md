@@ -1,0 +1,26 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh ke zprávě o výsledcích hospodaření MČ Praha 7 za 1. pololetí 2018
+  - hlavní činnost
+datum_vzniku_usneseni: '2018-11-20 00:00:00'
+cislo_usneseni: '0817/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc1DuvodovazpravaovysledichhospodareniMC2Q2018~407376.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc2Tab1DotacezHMP2Q2018~407375.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc3Komentarktab12Q2018~407374.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc4BilanceUJIGBB112Q2018~407373.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc5Ctvrtletnirozborprijmuavydaju2Q2018~407372.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc6NIVdleORJ2Q2017a2018~407371.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc61NIVdlepolozek2Q2017a2018~407370.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc7Prehledcerpaniinvestic2Q2018~407369.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc8Komentarkinvakcich2Q2018~407368.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc9VHPO2Q2018~407367.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc10RozborhospodareniPOPCP72Q2018~407366.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc11RozborhospodareniPOPoliklinika2Q2018~407365.DOC
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc12RozboryhospodareniPOMSaZS2Q2018~407364.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc13prehleddotacipol41372Q2018~407363.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/finalc14navrhusnZMC~407362.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30362/export/export~408037.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh ke zprávě o výsledcích hospodaření MČ Praha 7 za 1. pololetí 2018 - hlavní činnost</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že výsledkem hospodaření MČ Praha 7 za 1. pololetí 2018 (dle účetního výkazu Bilance příjmů a výdajů - UJIGBB11 - příloha č. 2) je rozdíl příjmů a výdajů (schodek) ve výši 89 322,7 tis. Kč</p></span><ul class="urzUlClass"><li style="text-align: left;" id="" class="urzClass3"><span><p>příjmy k 30. 6. 2018: + 170 745,9 tis. Kč, tj. 50,8 % UR (335 838,2 tis. Kč)</p></span></li><li style="text-align: left;" id="" class="urzClass3"><span><p>výdaje k 30. 6. 2018: - 260 068,6 tis. Kč, tj. 27,9 % UR (933 017,9 tis. Kč)</p></span></li><li style="text-align: left;" id="" class="urzClass3"><span><p>rozdíl příjmů a výdajů: schodek - 89 322,7 tis. Kč</p></span></li></ul></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že předložená zpráva obsahuje výsledky hospodaření za 1. pololetí 2018 v příspěvkových organizacích zřízených MČ Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s výsledkem hospodaření MČ Praha 7 za 1. pololetí 2018 - hlavní činnost:</p></span><ul class="urzUlClass"><li style="text-align: left;" id="" class="urzClass3"><span><p>příjmy k 30. 6. 2018: + 170 745,9 tis. Kč</p></span></li><li style="text-align: left;" id="" class="urzClass3"><span><p>výdaje k 30. 6. 2018: - 260 068,6 tis. Kč</p></span></li><li style="text-align: left;" id="" class="urzClass3"><span><p>rozdíl příjmů a výdajů: schodek - 89 322,7 tis. Kč</p></span></li></ul></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s tím, aby Zastupitelstvu MČ Praha 7 byla předložena zpráva o výsledcích hospodaření MČ Praha 7 za 1. pololetí 2018 - hlavní činnost s těmito výsledky hospodaření</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s návrhem usnesení Zastupitelstva MČ Praha 7 o výsledcích hospodaření MČ Praha 7 za 1. pololetí 2018 - hlavní činnost</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>předložit zprávu o výsledcích hospodaření MČ Praha 7 za 1. pololetí 2018 - hlavní činnost na zasedání Zastupitelstva MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;10.12.2018</span></li></ul></li></ol></li></ol>

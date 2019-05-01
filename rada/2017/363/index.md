@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci pietního aktu u příležitosti významného dne Květnové
+  povstání českého lidu a státního svátku Den vítězství, dne 05.05.2017 od 09.00 h
+  u pomníku Obětem z povstání v květnu 1945 u paty mostu Barikádníků, Praha 7
+datum_vzniku_usneseni: '2017-04-18 00:00:00'
+cislo_usneseni: 0363/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28958/export/D_Kvetnovekladeni_2016~191535.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28958/export/Zapis_4_jednani_clenu_KK_ze_dne_03_04_2017~191534.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28958/export/export~296273.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na realizaci pietního aktu u příležitosti významného dne Květnové povstání českého lidu a státního svátku Den vítězství, dne 05.05.2017 od 09.00 h u pomníku Obětem z povstání v květnu 1945 u paty mostu Barikádníků, Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>realizaci pietního aktu u příležitosti významného dne Květnové povstání českého lidu a státního svátku Den vítězství, dne 05.05.2017 od 09.00 h u pomníku Obětem z povstání v květnu 1945 u paty mostu Barikádníků, Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 6 000 Kč vč. DPH, v hotovosti, Miroslavu Laštovkovi, IČO: 711 11 964, za hudební doprovod na pietním aktu, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 4 000 Kč vč. DPH, v hotovosti, spolku Klub vojenských výsadkových veteránů Praha, z.s., IČO: 266 44 231, se sídlem Čínská 1949/35, Dejvice, 160 00 Praha 6, za zajištění čestné stráže na pietním aktu, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci pietního aktu u příležitosti významného dne Květnové povstání českého lidu a státního svátku Den vítězství dle článku II tohoto<br>usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;26.5.2017</span></li></ul></li></ol></li></ol>

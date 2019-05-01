@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření Dodatku č. 2 ke Smlouvě o dílo č. 2016/OIVZ/0034 pro
+  veřejnou zakázku "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra
+  s knihovnou II. etapa včetně kapacitní kuchyně - NÁBYTEK PRO MŠ"
+datum_vzniku_usneseni: '2016-12-13 00:00:00'
+cislo_usneseni: 1285/16-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26939/export/1Duvodovazprava~146493.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26939/export/2Dodatekc2doc~146492.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26939/export/3Doplneninabytek_IIetapa_final~146491.xls
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26939/export/4Kupnismlouvac2016OIVZ034~146490.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26939/export/5Usnesenic0675~146489.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26939/export/6vypisOR~146488.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26939/export/7Dodatekc1~146487.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26939/export/8Usnesenic0940~146486.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26939/export/9Usnesenic0455~146485.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26939/export/export~297083.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na uzavření Dodatku č. 2 ke Smlouvě o dílo č. 2016/OIVZ/0034 pro veřejnou zakázku "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně - NÁBYTEK PRO MŠ"</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s uzavřením Dodatku č. 2 ke Smlouvě o dílo č. 2016/OIVZ/0034 pro veřejnou zakázku "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně - NÁBYTEK PRO MŠ" se společností MAKRA DIDAKTA s.r.o., Drahelická 162/47, Drahelice, 288 02 Nymburk, IČO: 27916758 za cenu 121 099,38 Kč bez DPH, tj. 146 530,25 Kč včetně DPH.<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>uzavření Dodatku č. 2 ke Smlouvě o dílo č. 2016/OIVZ/0034 pro veřejnou zakázku "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně - NÁBYTEK PRO MŠ" se společností MAKRA DIDAKTA s.r.o., Drahelická 162/47, Drahelice, 288 02 Nymburk, IČO: 27916758 za cenu 121 099,38 Kč bez DPH, tj. 146 530,25 Kč včetně DPH. Finanční náklady na tuto zakázku budou hrazeny z kapitoly OŠK – ORJ 0417.<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="16">pověřuje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>starostu Mgr. Jana Čižinského podpisem Dodatku č. 2 ke Smlouvě o dílo č. 2016/OIVZ/0034 pro veřejnou zakázku "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně - NÁBYTEK PRO MŠ" se společností MAKRA DIDAKTA s.r.o., Drahelická 162/47, Drahelice, 288 02 Nymburk, IČO: 27916758 za cenu 121 099,38 Kč bez DPH, tj. 146 530,25 Kč včetně DPH.<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Dodatek č. 2 ke Smlouvě o dílo č. 2016/OIVZ/0034 pro veřejnou zakázku "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně - NÁBYTEK PRO MŠ" se společností MAKRA DIDAKTA s.r.o., Drahelická 162/47, Drahelice, 288 02 Nymburk, IČO: 27916758</p></span><span class="urzUkolTermin">  Termín:&nbsp;20.12.2016</span></li></ul></li></ol></li></ol>

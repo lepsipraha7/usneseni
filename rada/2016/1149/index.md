@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci akce "Mikuláš nejen na ledě", pořádané městskou částí
+  Praha 7 ve spolupráci HC Sparta Praha, v termínu 05.12.2016 od 16 do 18 hodin v
+  Tipsport areně, Praha 7
+datum_vzniku_usneseni: '2016-11-15 00:00:00'
+cislo_usneseni: 1149/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28361/export/D_Mikulasnejennalede_V~134163.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28361/export/MikulasPraha72016_HC~134162.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28361/export/FALO_TZ2016054_MikulasPraha7~134161.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28361/export/Zapis_11_jednani_KK_ze_dne_07_11_2016~134160.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28361/export/export~297357.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na realizaci akce "Mikuláš nejen na ledě", pořádané městskou částí Praha 7 ve spolupráci HC Sparta Praha, v termínu 05.12.2016 od 16 do 18 hodin v Tipsport areně, Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>realizaci akce "Mikuláš nejen na ledě", pořádanou městskou částí Praha 7 ve spolupráci HC Sparta Praha, v termínu 05.12.2016 od 16 do 18 hodin v Tipsport areně, Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 68 970 Kč vč. DPH, formou faktury, společnosti HC Sparta Praha a.s., IČO: 618 60 875, se sídlem Za elektrárnou 419/1, 170 00 Praha 7 - Bubeneč, za technicko-organizační zajištění akce, hrazeno z rozpočtu ORJ 421 OKS - sport<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 25 000 Kč vč. DPH, v hotovosti, společnosti Tesco Stores ČR a.s., IČO: 453 08 314, se sídlem Vršovická 1527/68b, 100 00 Praha 10 - Vršovice (pobočka Letňany), za nákup občerstvení pro mikulášské balíčky, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 45 980 Kč vč. DPH, formou faktury, společnosti FALO EVENTS s.r.o., IČO: 027 63 427, se sídlem Čiklova 637/13, 128 00 Praha 2 - Nusle, za programové, produkční a technické zajištění akce Mikuláš nejen na ledě, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>finančně a organizačně zajistit realizaci akce "Mikuláš nejen na ledě" dle článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;16.12.2016</span></li></ul></li></ol></li></ol>

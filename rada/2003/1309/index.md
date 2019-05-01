@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření dohody o splátkách dlužného nájemného a prominutí poplatků z
+  prodlení - listopad 2003
+datum_vzniku_usneseni: '2003-11-18 00:00:00'
+cislo_usneseni: 1309/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření dohody o splátkách dlužného nájemného a prominutí poplatků z prodlení - listopad 2003</h3></span><div class="center">
+		<strong>č. 1309/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 18.11.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na uzavření dohody o splátkách dlužného nájemného a prominutí poplatků z prodlení - listopad 2003<br><br>II. souhlasí <br><br>s uzavřením dohody o splátkách včetně poplatků z prodlení s Obrdovou Jitkou, bytem Milady Horákové 56/387, P7, jejíž dluh činí celkem 36.677,- Kč, z toho poplatek z prodlení ve výši 18.310,- Kč, formou 17-ti po sobě následujících měsíčních splátek ve výši 2.040,- Kč a 18-té ve výši 1.997,- Kč   	                                                                                                                                             (1)<br><br>s uzavřením dohody o splátkách včetně poplatků z prodlení s Hervertová Michaela, bytem U smaltovny 20F/1335, P7, jejíž dluh činí celkem 79.244,- Kč, z toho poplatek z prodlení ve výši 35.516,- Kč, formou 17-ti po sobě následujících měsíčních splátek ve výši 4.400,- Kč a 18-té ve výši 4.444,- Kč                                                                                                                                               (5)<br><br>III. nesouhlasí<br><br>se stanovením splátkové dohody na dlužné nájemné a s prominutím poplatků z prodlení u Klepáčová Věra, Tusarova 3/1285, P7                                                                                                                     (2)<br><br>s prominutím poplatků z prodlení placení nájemného u Jiří Koňák, Malířská 8/235, P7                      (3)<br><br>s prominutím poplatků z prodlení placení nájemného u Milovan Alexič, Heřmanova 1/1414, P7       (4)<br><br><br>IV. doporučuje<br><br>vyčkat na soudní rozhodnutí u Klepáčová Věra, Tusarova 3/1285, P7                                                  (2)<br><br>paní Hervertové Michaele, U smaltovny 20F/1335, P7 požádat znovu o prominutí poplatků z prodlení po splacení celého dlužného nájemného                                                                                                 (5)<br><br><br><br>V. ukládá <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 09.12.2003<br>Úkol:	uzavřít dohodu o splátkách včetně poplatků z prodlení s Obrdovou Jitkou, bytem Milady Horákové 56/387, P7, jejíž dluh činí celkem 36.677,- Kč, z toho poplatek z prodlení ve výši 18.310,- Kč, formou 17-ti po sobě následujících měsíčních splátek ve výši 2.040,- Kč a 18-té ve výši 1.997,- Kč (1)<br> <br><br>Určen:	VED OBNP Nekolová Valerie<br>Termín: 25.11.2003<br>Úkol:	informovat paní Klepáčovou Věru, Tusarova 3/1285, P7 o usnesení RMČ P7 (2)<br> <br><br>Určen:	VED OBNP Nekolová Valerie<br>Termín: 25.11.2003<br>Úkol:	informovat pana Jiřího Koňáka, Malířská 8/235, P7 o usnesení RMČ P7 (3)<br> <br><br>Určen:	VED OBNP Nekolová Valerie<br>Termín: 25.11.2003<br>Úkol:	informovat pana Milovana Alexiče, Heřmanova 1/1415, P7 o usnesení RMČ P7 (4)<br> <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 09.12.2003<br>Úkol:	uzavřít dohodu o splátkách včetně poplatků z prodlení s Hervertová Michaela, bytem U smaltovny 20F/1335, P7, jejíž dluh činí celkem 79.244,- Kč, z toho poplatek z prodlení ve výši 35.516,- Kč, formou 17-ti po sobě následujících měsíčních splátek ve výši 4.400,- Kč a 18-té ve výši 4.444,- Kč (5)<br> <br> <br>Určen:	VED OBNP Nekolová Valerie<br>Termín: 25.11.2003<br>Úkol:	informovat paní Michaelu Hervertovou, U smaltovny 20F/1335, P7 o usnesení RMČ P7 (5)<br> <br> <br><br> <br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

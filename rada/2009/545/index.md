@@ -1,0 +1,28 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na stanovení pořadu 3. řádného zasedání Zastupitelstva MČ Praha
+  7 dne 08.06.2009
+datum_vzniku_usneseni: '2009-05-26 00:00:00'
+cislo_usneseni: 0545/09
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/18870/28-po%c5%99ad_3_zm%c4%8d_dne_8_06_09.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na stanovení pořadu 3. řádného zasedání Zastupitelstva MČ Praha 7 dne 08.06.2009</h3></span><div class="center">
+		<strong>č. 0545/09</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 26.05.2009</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh na stanovení pořadu 3. řádného zasedání Zastupitelstva MČ Praha 7      dne 08.06.2009</li></ul>
+</li>
+<li>Schvaluje<ul><li>
+<strong>1.</strong> Pořad 3. řádného zasedání Zastupitelstva MČ Praha 7 dne 08.06.2009 dle přílohy</li></ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: MUDr. Tomáš Kaštovský 
+</div>
+</div>

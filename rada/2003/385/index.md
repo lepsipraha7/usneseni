@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Metodika zodpovídání příspěvků na diskusním fóru internetových stránek
+  MČ Praha 7
+datum_vzniku_usneseni: '2003-04-08 00:00:00'
+cislo_usneseni: '0385/03'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Metodika zodpovídání příspěvků na diskusním fóru internetových stránek MČ Praha 7</h3></span><div class="center">
+		<strong>č. 0385/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 08.04.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - návrh Metodiky zodpovídání příspěvků na diskusním fóru internetových stránek MČ Praha 7<br><br><br>II.	schvaluje<br><br>Metodiku zodpovídání příspěvků na diskusním fóru internetových stránek MČ Praha 7<br><br><br>III.	ukládá <br><br> <br>Určen:	VED OIF OKT Botek Radomír<br>Termín: 15.04.2003<br>Úkol:	zpřístupnit všem vedoucím odborů Úřadu MČ Praha 7 správu diskusního fóra internetových stránek MČ Praha 7 - obecné téma s tím, že zpráva o vložení příspěvku bude přeposílána tiskové mluvčí <br> <br><br> <br>Určen:	VED OIF OKT Botek Radomír<br>Termín: 15.04.2003<br>Úkol:	zpřístupnit vedoucímu OŽP správu diskusního fóra internetových stránek MČ Praha 7 - téma „Stromovka“, „Psi ve městě“ a „Životní prostředí“ s tím, že zpráva o vložení příspěvku bude přeposílána vedoucímu OŽP a radnímu Ing. P. Hoffmannovi <br> <br> <br>Určen:	VED OIF OKT Botek Radomír<br>Termín: 15.04.2003<br>Úkol:	zpřístupnit vedoucímu OIVZ správu diskusního fóra internetových stránek MČ Praha 7 - téma „Šlechtova restaurace“ s tím, že zpráva o vložení příspěvku bude přeposílána vedoucímu OIVZ a radnímu Josefu Neubergovi<br> <br><br><br>Určen:	VED OIF OKT Botek Radomír<br>Termín: 15.04.2003<br>Úkol:	zpřístupnit vedoucímu ORZ správu diskusního fóra internetových stránek MČ Praha 7 - téma „Letenský tunel II“ s tím, že zpráva o vložení příspěvku bude přeposílána vedoucímu ORZ a zástupci starosty JUDr. Tomášovi Vavřincovi<br> <br><br> <br>Určen:	VED OIF OKT Botek Radomír<br>Termín: 15.04.2003<br>Úkol:	zpřístupnit vedoucímu odboru KS a odd. KŘ správu diskusního fóra internetových stránek MČ Praha 7 - téma „Boj proti kriminalitě“ s tím, že zpráva o vložení příspěvku bude přeposílána vedoucímu odboru KS, vedoucímu odd. KŘ a starostovi Radku Mikšíkovi <br> <br><br> <br>Určen:	VED OIF OKT Botek Radomír<br>Termín: 15.04.2003<br>Úkol:	zpřístupnit vedoucímu ODO správu diskusního fóra internetových stránek MČ Praha 7 - téma „Doprava, parkování“ s tím, že zpráva o vložení příspěvku bude přeposílána vedoucímu ODO a radnímu Ari Liebermanovi<br> <br> <br>Určen:	VED OIF OKT Botek Radomír<br>Termín: 15.04.2003<br>Úkol:	zpřístupnit vedoucímu OMB a odd. privatizace správu diskusního fóra internetových stránek MČ Praha 7 - téma „Privatizace“ s tím, že zpráva o vložení příspěvku bude přeposílána vedoucímu OMB, vedoucímu odd. privatizace a radnímu Mgr. Jiří Piskáčkovi <br> <br> <br>Určen:	VED OIF OKT Botek Radomír<br>Termín: 15.04.2003<br>Úkol:	zpřístupnit vedoucímu OVT správu diskusního fóra internetových stránek MČ Praha 7 - téma EXPO´58 s tím, že zpráva o vložení příspěvku bude přeposílána vedoucímu OVT a tajemníkovi Ing. Josefu Duškovi <br> <br> <br>Určen:	VED OIF OKT Botek Radomír<br>Termín: 15.04.2003<br>Úkol:	zpřístupnit vedoucímu OŠK správu diskusního fóra internetových stránek MČ Praha 7 - téma „Školství Prahy 7“ s tím, že zpráva o vložení příspěvku bude přeposílána vedoucímu OŠK a radnímu Ing. P. Hoffmannovi <br> <br> <br>Určen:	VED OIF OKT Botek Radomír<br>Termín: 31.08.2006<br>Úkol:	při vytvoření nového tématu zpřístupnit kompetentnímu vedoucímu správu daných stránek diskusního fóra internetových stránek MČ Praha 7 s tím, že zpráva o vložení příspěvku bude přeposílána danému vedoucímu odboru, příp. vedoucímu oddělení a kompetentnímu členovi Rady MČ Praha 7 <br> <br><br><br>Určen:	TAJ Dušek Josef<br>Termín: 15.04.2003<br>Úkol:	vydat schválenou Metodiku zodpovídání příspěvků na diskusním fóru internetových stránek MČ Praha 7 nařízením tajemníka a zveřejnit ji na serveru Úřadu MČ Praha 7<br> <br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

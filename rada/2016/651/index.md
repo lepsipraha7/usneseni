@@ -1,0 +1,11 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na souhlas s projektovým záměrem - Komunitní prostor Sedmikráska
+datum_vzniku_usneseni: '2016-06-21 00:00:00'
+cislo_usneseni: 0651/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27905/export/Duvodovazpravasedmikraska2~76656.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27905/export/export~298381.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na souhlas s projektovým záměrem - Komunitní prostor Sedmikráska</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass" id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>s projektovým záměrem&nbsp; "Komunitní prostor Sedmikráska" neziskových organizací Prostor Plus o.p.s., IČO: 265 94 633,vedená u MS v Praze, sp. zn.: O1333 a Prazelenina, z.s., IČO: 019 80 823, vedená u MS v Praze, sp. zn.: L26034, na ESF OP PPR a podporuje záměr vzniku komunitního prostoru a kavárny fungujicí jako sociální podnik dle rozpracovaného projektového záměru <br></p></span></li></ol></li><li class="urzClass1" id=""><span name="47">deklaruje,</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>že v případě podpoření projektu ze strany ESF OP PPR&nbsp; je MČ Praha 7 připravena uzavřít smlouvu o vzájemné spolupráci a nájemní smlouvu pro komunitní prostor a sociální podnikání nejméně na dobu trvání projektu a jeho udržitelnosti (7 let)</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Mgr. Ondřej Mirovský, M. EM</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>předat stanovisko MČ Praha 7 zástupci organizace Prostor Plus o.p.s</p></span><span class="urzUkolTermin">  Termín:&nbsp;22.6.2016</span></li></ul></li></ol></li></ol>

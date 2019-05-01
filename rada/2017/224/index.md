@@ -1,0 +1,35 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na řešení narušených dřevin na území Prahy 7
+datum_vzniku_usneseni: '2017-03-07 00:00:00'
+cislo_usneseni: 0224/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28916/export/01_kaceni032017~175408.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28916/export/01_kaceni032017~175407.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28916/export/02_kaceni032017~175406.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28916/export/03_kaceni032017~175405.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28916/export/04_kaceni032017~175404.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28916/export/05_kaceni032017~175403.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28916/export/06_kaceni032017~175402.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28916/export/07_kaceni032017~175401.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28916/export/07_kaceni032017~175400.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28916/export/export~296563.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li id="" class="urzClass1"><span name="1">bere na vědomí</span> 
+<ol id="" class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>návrh na řešení narušených dřevin na území Prahy 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>sdělení Odboru životního prostředí Úřadu MČ Praha 7 o nutném havarijním pokácení 1 ks dřeviny acer pseudoplatanus (javor klen) na pozemku parc. č. 603/9 v k.ú. Bubeneč (areál vodárenské věže Na Výšinách), na základě fyzické kontroly Odboru životního prostředí a zjištěného rozsáhlého poškození kmene prasklinou, které ohrožovalo zdraví osob, přičemž odstranění provedl Hasičský záchranný sbor hl.m. Prahy<br></p></span></li></ol></li>
+
+
+<li id="" class="urzClass1"><span name="50">konstatuje,</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že na 1 ks dřeviny&nbsp;acer pseudoplatanus (javor klen) na pozemku parc. č. 603/9 v k.ú. Bubeneč (areál vodárenské věže Na Výšinách), bude vypracován znalecký posudek<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že dle inventarizace ploch veřejně přístupné zeleně zpracované firmou SAFE TREES, s.r.o., IČO 26935287, Rosice u Brna, Na Štěpnici 945, ke dni 14.12.2015 a stavu v současnosti, vykazuje 1 ks dřeviny tilia tomentosa (lípa stříbrná), na pozemku parc. č. 491/1 v k.ú. Holešovice (vnitroblok U Vody), tlakovou vidlici v kosterním větvení a napadení houbou, proto bude vypracován revizní znalecký posudek (položka č. 6 pasportu - žlutě zvýrazněno)<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že dle inventarizace ploch veřejně přístupné zeleně zpracované firmou SAFE TREES, s.r.o., IČO 26935287, Rosice u Brna, Na Štěpnici 945, ke dni 14.12.2015 a stavu v současnosti, vykazuje 1 ks dřeviny acer pseudoplatanus (javor horský), na pozemku parc. č. 2416/15 v k.ú. Holešovice (oblast Vltavské), podezření na infekci kořenů, proto bude vypracován revizní znalecký posudek (položka č. 52 pasportu - žlutě zvýrazněno)<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span> 
+<ol id="" class="urzOlClass">
+
+
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>s pokácením 1 ks dřeviny&nbsp;pyrus communis&nbsp;(hrušeň obecná) na pozemku parc.č.&nbsp;666 v k.ú. Bubeneč&nbsp;(dětské hřiště U Sparty), v souladu se závěry inventarizace ploch veřejně přístupné zeleně zpracované firmou SAFE TREES, s.r.o., IČO 26935287, Rosice u Brna, Na Štěpnici 945, ke dni 14.12.2015 a stavu v současnosti (položka č. 40 pasportu - fialově zvýrazněno)<br></p></span></li>
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>s pokácením 1 ks dřeviny&nbsp;tilia cordata&nbsp;(lípa malolistá) na pozemku parc.č.&nbsp;922 v k.ú. Holešovice (dětské hřiště U Průhonu), v souladu se závěry inventarizace ploch veřejně přístupné zeleně zpracované firmou SAFE TREES, s.r.o., IČO 26935287, Rosice u Brna, Na Štěpnici 945, ke dni 14.12.2015 a stavu v současnosti (položka č. 56 pasportu - žlutě zvýrazněno)<br></p></span></li>
+
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>s pokácením 1 ks dřeviny&nbsp;acer platanoides&nbsp;(javor mléčný) na pozemku parc.č. 2316/1 v k.ú. Holešovice (park Tusarova), v souladu se závěry inventarizace ploch veřejně přístupné zeleně zpracované firmou SAFE TREES, s.r.o., IČO 26935287, Rosice u Brna, Na Štěpnici 945, ke dni 14.12.2015 a stavu v současnosti (položka č. 36 pasportu - žlutě zvýrazněno)<br></p></span></li>
+<li style="text-align: left;" id="" class="urzClass2"><span><p>s pokácením 1 ks dřeviny ailanthus altissima (pajasan žláznatý) na pozemku parc. č. 275 v k.ú. Holešovice (ulice U Papírny), v souladu se závěry inventarizace ploch veřejně přístupné zeleně zpracované firmou SAFE TREES, s.r.o., IČO 26935287, Rosice u Brna, Na Štěpnici 945, ke dni 14.12.2015 a stavu v současnosti (položka č. 25 pasportu - žlutě zvýrazněno)<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="41">zmocňuje</span> 
+<ol class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>Mrg. Roberta Koláře, vedoucího Odboru majetku Úřadu MČ Praha 7, k&nbsp;podání &nbsp;žádosti o povolení kácení podle odst. 1 § 8 a k podání oznámení o kácení dřevin podle ust. odst. 4 § 89 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, v platném znění a vyhlášky MŽP ČR 189/2013 Sb., věcně a místně příslušnému orgánu státní správy - Odboru životního prostředí Úřadu MČ P7, u dřevin řešených v tomto materiálu, včetně těch dřevin, kde bude zpracován revizní znalecký posudek a jehož závěrem bude nutné pokácení<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat a podat příslušnou žádost o povolení kácení podle odst. 1 § 8 a k podání oznámení o kácení dřevin podle ust. odst. 4 § 89 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, v platném znění a vyhlášky MŽP ČR 189/2013 Sb., věcně a místně příslušnému orgánu státní správy - Odboru životního prostředí Úřadu MČ P7, u dřevin řešených v tomto materiálu, včetně těch dřevin, kde bude zpracován revizní znalecký posudek a jehož závěrem bude nutné pokácení</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.10.2017</span></li></ul></li></ol></li></ol>

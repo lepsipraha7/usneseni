@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení navýšení neinvestičního příspěvku zřizovatele a změnu
+  mzdových limitů na rok 2018 příspěvkové organizaci Pečovatelské centrum Praha 7
+datum_vzniku_usneseni: '2018-12-11 00:00:00'
+cislo_usneseni: '0882/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30454/export/Duvodova_zprava_PC_navyseni_neinvesticniho_prispevku~416208.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30454/export/PC_Zadostonavysenineinvesticnihoprispevku~416207.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30454/export/PC_Zadostozmenumzdovychlimitu~416206.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30454/export/export~416640.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na schválení navýšení neinvestičního příspěvku zřizovatele a změnu mzdových limitů na rok 2018 příspěvkové organizaci Pečovatelské centrum Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>navýšení neinvestičního příspěvku zřizovatele na rok 2018 příspěvkové organizaci Pečovatelské centrum Praha 7 o 540 000 Kč ve složení:</p><p><br></p><p>Pečovatelská služba o 328 000 Kč na konečnou výši 15 385 000 Kč</p><p>SOC o 170 000 Kč na konečnou výši 3 752 000 Kč</p><p>Denní stacionář o 15 000 Kč na konečnou výši 765 000 Kč</p><p>Jesle o 27 000 Kč na konečnou výši 1 927 000 Kč</p><p>dle písemné žádosti organizace, která je přílohou č. 2 tohoto materiálu<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>změnu mzdových limitů na rok 2018 příspěvkové organizace Pečovatelské centrum Praha 7 na středisku Denní stacionář a SOC dle písemné žádosti (bod č. 1 a 2), která je přílohou č. 3 tohoto materiálu<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit ředitelku p.o. Pečovatelské centrum Praha 7 s usnesením ve věci schválení navýšení neinvestičního příspěvku a změny mzdových limitů na rok 2018</p></span><span class="urzUkolTermin">  Termín:&nbsp;14.12.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně zajistit proplacení neinvestičního příspěvku na rok 2018</p></span><span class="urzUkolTermin">  Termín:&nbsp;21.12.2018</span></li></ul></li></ol></li></ol>

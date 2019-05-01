@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na ukončení nájemní smlouvy na bytovou jednotku č. 939/3, Letohradská
+  7b/939, ze dne 02.04.2016, se společností Sedmá ubytovací s.r.o. a to dohodou ke
+  dni 15.12.2016 a uzavření nové nájemní smlouvy s panem Janem Šedivým
+datum_vzniku_usneseni: '2016-12-01 00:00:00'
+cislo_usneseni: 1228/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28405/export/00DZ_Sedivy939~141005.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28405/export/02_Sedivy939~141004.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28405/export/03_Sedivy939~141003.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28405/export/04_Sedivy939~141001.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28405/export/05_BJ20161201~140999.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28405/export/export~297195.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na ukončení nájemní smlouvy na bytovou jednotku č. 939/3, Letohradská 7b/939, ze dne 02.04.2016, se společností Sedmá ubytovací s.r.o. a to dohodou ke dni 15.12.2016 a uzavření nové nájemní smlouvy s panem Janem Šedivým</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s uzavřením dohody o ukončení nájemní smlouvy č. 7462-B/939/0256/16-20 na bytovou jednotku č. 939/3, Letohradská 7b/939, Praha 7, ze dne 02.04.2016, se společností Sedmá ubytovací s.r.o., IČ: 26418274, a to dohodou ke dni 15.12.2016<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s uzavřením nájemní smlouvy na dobu určitou 3 roky, nejdéle však do 31.12. 2019, za nájemné 1 969,44 Kč/měsíc/předmět nájmu (119,36 Kč/m2/měsíc), na bytovou jednotku č. 939/3, o velikosti 1+0, 16,50 m2, Letohradská 7b/939, Praha 7, s panem Janem Šedivým, a to pouze za podmínky trvání zaměstnaneckého poměru u aktuální organizace, v souladu s usnesením Bytové komise č. 026/16-BK ze dne 17.10.2016 a následně informativního sdělení Bytové komise (bod č. 8) ze dne 21.11.2016</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít novou nájemní smlouvu na dobu určitou 3 roky, nejdéle však do 31.12. 2019, za nájemné 1 969,44 Kč/měsíc/předmět nájmu (119,36 Kč/m2/měsíc), na byt dle PV č. 939/3 o velikosti 1+0, 16,50 m2, Letohradská 7b/939, Praha 7 s panem Janem Šedivým, a to pouze za podmínky trvání zaměstnaneckého poměru u aktuální organizace, v souladu s usnesením Bytové komise č. 026/16-BK ze dne 17.10.2016 a následně informativního sdělení Bytové komise (bod č. 8) ze dne 21.11.2016</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.12.2016</span></li></ul></li></ol></li></ol>

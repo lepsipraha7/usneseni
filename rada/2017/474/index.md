@@ -1,0 +1,27 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh ke schválení účetních závěrek příspěvkových organizací za rok 2016
+datum_vzniku_usneseni: '2017-05-23 00:00:00'
+cislo_usneseni: 0474/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28625/export/Duvodova_zprava_SZ_PO~203768.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28625/export/Navrh_k_financnimu_vyporadani_hospodarskych_vysledku_prispevkovych_organizaci_MC_Praha_7_za_rok_2016_vcetne_zajisteni_rozpoctoveho_opatreni_mesice_kvetna_2017_RO_412017~203767.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28625/export/Inventarizacni_zprava_2016~203766.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28625/export/PO_rozvahy_vysledkovky~203765.zip
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28625/export/export~296039.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li id="" class="urzClass1"><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>návrh ke schválení účetních závěrek příspěvkových organizací za rok 2016, včetně přílohy č. 1 - důvodové zprávy</p></span></li></ol></li>
+<li id="" class="urzClass1"><span name="6">konstatuje</span> 
+<ol id="" class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>že bylo přijato Usnesení Z MČ Praha 7 č. 0075/17-Z evidneční číslo 0619 ze dne 22.5.2017 k finančnímu vypořádání příspěvkových organizacích v oblasti školství MČ Praha 7, dále příspěvkových organizací Pečovatelské centrum Praha 7 a Sdružené ambulantní zařízení v Praze 7 za rok 2016 včetně návrhu rozdělení zlepšených hospodářských výsledků (viz příloha č. 2 - usnesení).</p></span></li>
+
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>že prověření hospodaření s majetkem bylo provedeno v rámci inventarizace majetku a závazků MČ Praha 7 za rok 2016 a Závěrečná zpráva z provedené inventarizace a jednotlivé Závěrečné zprávy o inventarizaci PO byly předány na MHMP (viz příloha č. 3)</p></span></li>
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>že byly provedeny útvarem kontroly a stížností 3 veřejnosprávní finanční kontroly na školských příspěvkových organizacích a lze konstatovat, že účetnictví nevykazuje zjevné nesprávnosti a že formálně i svou věcnou náplní odpovídá požadavkům vyhlášky MF ČR č. 410/2009 Sb., kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro některé vybrané účetní jednotky a účetní metodika stanovená MHMP je dodržována. Veřejnosprávní finanční kontrola byla provedena v roce 2016 na PO MŠ Letohradská, ZŠ Korunovační a MŠ U Uranie. <br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že součástí přezkoumání hospodaření MČ Praha 7 byla kontrola inventurních soupisů majetku a závazků k 31. 12. 2016 uskutečněná na PO ZŠ Fr. Plamínkové.</p></span></li>
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>že jako příloha ke schválení účetních závěrek jsou předložerany účetní výkazy zřízených příspěvkových organzací za rok 2016 <br></p><p><br></p><p>Fakultní MŠ při PF UK, Na Výšinách 1750;&nbsp; <br>MŠ Praha 7, Kostelní 37;&nbsp; <br>MŠ Praha 7, Letohradská 712;&nbsp; <br>MŠ Praha 7, Nad Štolou 6;&nbsp; <br>MŠ U Uranie, Na Maninách 1080;&nbsp; <br>Fakultní ZŠ PedF UK a MŠ U Studánky, Umělecká 8;&nbsp; <br>ZŠ Fr.Plamínkové Praha 7, Fr. Křížka 2;&nbsp; <br>ZŠ Praha 7, Korunovační 8; <br>ZŠ Praha 7, Strossmayerovo náměstí 990;&nbsp; <br>ZŠ T.G.M., Ortenovo náměstí 34;&nbsp; <br>ZŠ Tusarova, Tusarova 21;&nbsp; <br>Pečovatelské centrum Praha 7;&nbsp; <br>Sdružené ambulantní zařízení Praha 7, Strossmayerovo náměstí 6,</p></span></li></ol></li>
+<li id="" class="urzClass1"><span name="24">schvaluje</span> 
+<ol class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>Schvaluje podle předložených podkladů účetní závěrky zřízených příspěvkových organizací za rok 2016</p><p>Fakultní MŠ při PF UK, Na Výšinách 1750 - IČO 49624415</p><p>MŠ Praha 7, Kostelní 37 - IČO 70886253</p><p>MŠ Praha 7, Letohradská 712 - IČO 70886733</p><p>MŠ Praha 7, Nad Štolou 6 - IČO 70886261</p><p>MŠ U Uranie, Na Maninách 1080 - IČO 65993896</p><p>Fakultní ZŠ PedF UK a MŠ U Studánky, Umělecká 8 - IČO 60435216</p><p>ZŠ Fr.Plamínkové Praha 7, Fr. Křížka 2 - IČO 62930958</p><p>ZŠ Praha 7, Korunovační 8 - IČO 61389820</p><p>ZŠ Praha 7, Strossmayerovo náměstí 990 - IČO 61389838</p><p>ZŠ T.G.M., Ortenovo náměstí 34 - IČO 62931016</p><p>ZŠ Tusarova, Tusarova 21 - IČO 62930991</p><p>Pečovatelské centrum Praha 7 - IČO 70890307</p><p>Sdružené ambulantní zařízení Praha 7, Strossmayerovo náměstí 6 - IČO 44797362</p><p>(viz příloha č. 4.x.a.b.)<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OFI Ing. Kateřina Lusková</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>sestavit protokoly o schválení účetní závěrky za jednotlivé PO a předat je v rámci pololetní závěrky 2017 do Centrálního systému účetních informací státu (CSÚIS) v elektronické formě</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.6.2017</span><div class="urzUkolTermin">  Kontrolní termín:&nbsp;26.6.2017</div></li></ul></li></ol></li></ol>

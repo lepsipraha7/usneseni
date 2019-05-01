@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Přehled přechodů nájmů, společných nájmů, souhlasů s výměnami bytů a uzavření
+  nájemních smluv na byty v domech svěřených městské části Praha 7 v lednu 2003
+datum_vzniku_usneseni: '2003-01-07 00:00:00'
+cislo_usneseni: '0008/03'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Přehled přechodů nájmů, společných nájmů, souhlasů s výměnami bytů a uzavření nájemních smluv na byty v domech svěřených městské části Praha 7 v lednu 2003</h3></span><div class="center">
+		<strong>č. 0008/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 07.01.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na přehled přechodů nájmů, společných nájmů, souhlasů s výměnami bytů a uzavření nájemních smluv na byty v domech svěřených městské části Praha 7 - leden 2003<br><br>II.	souhlasí<br><br>s přechodem nájmu na byt:<br>č.16, velikosti 2+1, U Průhonu 25/1070<br>bývalý nájemce: Božena Kaftanová<br>právo nájmu přechází na: Irena Vondrášková (vnučka)                                                                    (1)<br><br>s přechodem nájmu na byt:<br>č.9, velikosti 3+1, Umělecká 2/310<br>bývalý nájemce: Vladimír Weiss<br>právo nájmu přechází na: Věra Weissová (manželka)                                                                        (2)<br><br><br><br>s výměnou bytů a uzavřením nájemní smlouvy na byt s osobou, která se nastěhuje do bytu v domě svěřeném městské části Praha 7, pro výměnu bytů mezi:<br><br>Martin Hájek                        byt č.2     1+1        Heřmanova 49/559       Praha 7                1 osoba      (3)                                            <br>                                                                                       <br>Jakub Janča                          byt č.19   3+1        Malířská 7/230              Praha 7                1 osoba      (4)     <br><br>s výměnou bytů a uzavřením nájemní smlouvy na byt s osobou, která se nastěhuje do bytu v domě svěřeném městské části Praha 7, pro výměnu bytů mezi:<br><br>Petr a Petra Mrázovi             byt č.9     3+1       U Smaltovny 20/1335     Praha 7               5 osob      (5)<br> <br>Miroslava Zítová                  byt č.2      3+1      Prokopova 1/218             Praha 3               1 osoba      (6)      <br><br>s uzavřením darovací smlouvy s Miroslavou Zítovou, bytem Prokopova 1/218 Praha 3 na dar ve výši 81.766,- Kč  do Fondu pro rozvoj bydlení<br><br>III.	ukládá <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 11.02.2003<br>Úkol:	PN - uzavřít nájemní smlouvu na dobu neurčitou na byt č.16, velikosti 2+1, U Průhonu 25/1070 P 7,  s  Irenou Vondráškovou  (1)                                 <br> <br><br> <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 11.02.2003<br>Úkol:	PN - uzavřít nájemní smlouvu na dobu neurčitou na byt č.9, velikosti 3+1, Umělecká 2/310  P 7, s Věrou Weissovou (2)<br> <br><br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 11.02.2003<br>Úkol:	SM - uzavřít nájemní smlouvu na dobu neurčitou na byt č.19, velikosti 3+1, Malířská 7/230  P 7, s Martinem Hájkem (3)<br> <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 11.02.2003<br>Úkol:	SM - uzavřít nájemní smlouvu na dobu neurčitou na byt č.2, velikosti 1+1, Heřmanova 49/559 P 7, s Jakubem Jančou  (4)<br> <br><br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 28.02.2003<br>Úkol:	SM - uzavřít nájemní smlouvu na dobu neurčitou na byt č.9,  velikosti 3+1, U Smaltovny 20/1335 P 7, s Miroslavou Zítovou  (6)<br> <br><br> <br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 15.02.2003<br>Úkol:	DS - uzavřít darovací smlouvu s Miroslavou Zítovou, bytem Prokopova 1/218 P 3 na finanční dar ve výši 81.766,- Kč do Fondu pro rozvoj bydlení<br> <br><br><br> <br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

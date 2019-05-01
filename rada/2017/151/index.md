@@ -1,0 +1,38 @@
+---
+layout: detail_usneseni
+nazev_bodu: Stanovisko MČ Praha 7 jako účastníka územního řízení stavby "Stavební
+  úpravy, přístavba a nástavba polyfunkčního domu Dukelských hrdinů" , č.p. 522, k.ú.
+  Holešovice
+datum_vzniku_usneseni: '2017-02-21 00:00:00'
+cislo_usneseni: 0151/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28851/export/p1_duvod~168962.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28851/export/c2_Navrh_pruvodniho_dopisu_StavebniupravypristavbaanastavbapolyfunkcnihodomuDukelskychhrdinu522~168961.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28851/export/c3oznameniozahajeniuzemnihorizeni~168960.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28851/export/export~296709.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li class="urzClass1" id=""><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>návrh stanoviska MČ Praha 7 jakožto účastníka územního řízení stavby "Stavební úpravy, přístavba a nástavba polyfunkčního domu Dukelských hrdinů" , č.p. 522, k.ú. Holešovice.</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="50">konstatuje,</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že MČ vystupuje také z titulu vlastníka sousední nemovitosti<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že projekt se dle platného územního plánu SÚ hl. m. Prahy nachází ve stabilizovaném území. "Stabilizované území je zastavitelné území, které je tvořeno stávající souvislou zástavbou a stabilizovanou hmotovou strukturou, v němž územní plán nepředpokládá významný rozvoj, proto zde není stanovena míra využití území a z hlediska limitu rozvoje je možné pouze zachování stávající urbanistické struktury bez možnosti další rozsáhlé stavební činnosti. Při umisťování staveb v území bez stanoveného kódu míry využití území bude v rámci územního řízení vyčíslen navrhovaný kód míry využití území pro předmětný pozemek nebo pro záměrem vymezené území. Při posuzování souladu záměru s územním plánem bude prioritou soulad se stávající mírou využití území převažující v okolí posuzované stavby, charakterem zástavby, hmotovým členěním a výškovou hladinou okolní zástavby. Navýšení stávající míry využití území ve stabilizovaných územích je podmíněno provedením úpravy územního plánu."</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že projekt se dle platného územního plánu SÚ hl. m. Prahy nachází ve funkční ploše Všeobecně obytné (OV) - Území sloužící převážně pro bydlení s možností umísťování dalších funkcí pro obsluhu obyvatel s minimálním podílem bydlení 60% a 80%.<br></p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že Městská část Praha 7 vyjádřila svůj nesouhlas se zástavbou vnitrobloku již v usnesení RMČ P7 č. 0084/15-R ze dne 27. ledna 2015 a v usnesení RMČ P7 č. 0094/16-R ze dne 2.2.2016</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že pozemek č.p. 1336, k.ú. Holešovice je v katastru nemovitostí zapsán jako zahrada s ochranou zemědělského půdního fondu</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že navržený objekt ve vnitrobloku nedodržuje požadované odstupové vzdálenosti od okolních objektů, proto&nbsp;žádá o&nbsp;udělení výjimky z vyhlášky č. 268/2009 Sb,&nbsp;která však&nbsp;není řádně zdůvodněna</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že MČ Praha 7 je účastník územního řízení dle § 85 odst. 2 zákona č.183/2006 Sb., Stavební zákon</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že záměr se nachází v památkové zóně Dejvice, Bubeneč, horní Holešovice, prohlášené vyhláškou HMP č. 10/1993 Sb., o prohlášení části území hlavního města Prahy za památkové zóny a o určení podmínek jejich ochrany</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="11">nesouhlasí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>s&nbsp;výstavbou dvoupodlažního objektu s mezonetovými ateliery ve vnitrobloku, který je umístěn na hraně pozemku, převyšuje okolní terén o 8 metrů a do východní&nbsp;poloviny vnitrobloku vystupuje třemi nadzemními podlažími,&nbsp;z&nbsp;těchto důvodů:</p></span>
+<ul class="urzUlClass">
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>není v souladu s textovou částí&nbsp;platného územního plánu SÚ hl. m. Prahy. Stavba se nachází ve stabilizovaném území, z hlediska limitu rozvoje je možné pouze zachování stávající urbanistické struktury bez možnosti další rozsáhlé stavební činnosti. V rámci územního řízení&nbsp;bude vyčíslen navrhovaný kód míry využití území pro záměrem vymezené území. Při posuzování souladu záměru s územním plánem je prioritou soulad se stávající mírou využití území převažující v okolí posuzované stavby, charakterem zástavby, hmotovým členěním a výškovou hladinou okolní zástavby. Tento výpočet není v dokumentaci doložen. Vzhledem k současnému stavu řešeného vnitrobloku, který je&nbsp;pouze&nbsp;výjimečně zastavěn jednopodlažními objekty, je stávající míra využití území překročena.</p></span></li>
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>není v souladu s § 90 odst. b) zákona č.183/2006 Sb., Stavební zákon, posuzování záměru žadatele&nbsp;"s cíli a územního plánování, zejména s charakterem území, s požadavky na ochranu architektonických a urbanistických hodnot v území". Území vnitroblokových dvorů historicky vždy sloužilo především jako společný prostor obyvatel domu k rekreačnímu a dalšímu užívání. Navržené využití i kapacita zástavby neodpovídá&nbsp;charakteru okolní zástavby, zejména tři nadzemní podlaží ve východní polovině vnitrobloku nemají v tomto území srovnatelný příklad. Takto předimenzovaná kapacita zástavby ve vnitroblocích by mohla znamenat nepříjemný precedens, který by měl devastující dopad pro území pražských památkových zón.</p></span></li></ul></li></ol></li>
+<li class="urzClass1" id=""><span name="62">požaduje</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>doložit výpočet navrhovaného kódu&nbsp;míry využití území pro záměrem&nbsp;vymezené území a jeho soulad se stávající mírou využití území&nbsp;převažující v okolí stavby</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>doložit srovnání objemů, HPP a zastavěné plochy se stávajícím stavem na pozemku</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat průvodní dopis stanoviska MČ Praha 7 jako účastníka územního řízení stavby "Stavební úpravy, přístavba a nástavba polyfunkčního domu Dukelských hrdinů", č.p. 522, k.ú. Holešovice</p></span><span class="urzUkolTermin">  Termín:&nbsp;27.2.2017</span></li></ul></li><li class="urzClass2"><span><p>VED ORZ Fialová Martina Ing. arch.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zaslat stanovisko MČ Prahy 7 jako účastníka územního řízení stavby "Stavební úpravy, přístavba a nástavba polyfunkčního domu Dukelských hrdinů", č.p. 522, k.ú. Holešovice</p></span><span class="urzUkolTermin">  Termín:&nbsp;28.2.2017</span></li></ul></li></ol></li>
+</ol>

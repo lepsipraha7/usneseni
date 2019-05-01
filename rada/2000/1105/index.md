@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Zveřejnění záměrů  na pronájem NBP - Veletržní 15, Šternberkova 17, Tovární
+  12, Praha 7
+datum_vzniku_usneseni: '2000-10-31 00:00:00'
+cislo_usneseni: 1105/00
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Zveřejnění záměrů  na pronájem NBP - Veletržní 15, Šternberkova 17, Tovární 12, Praha 7</h3></span><div class="center">
+		<strong>č. 1105/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 31.10.2000</strong><br><br>
+	</div>
+<br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na zveřejnění záměrů  na pronájem NBP - Veletržní 15, Šternberkova 17, Tovární 12, Praha 7<br><br>II.	souhlasí <br><br>se zveřejněním záměru na úřední desce ObÚ Praha 7 po dobu 30 ti dnů na pronájem NBP - garáž ve dvoře domu č.p. 197, ulice Veletržní, č.o. 15, Praha 7, nájemce  Iva Hlinková (1), na dobu neurčitou, za nájemné 500,-Kč/m2/rok, o celkové rozloze 12m2<br><br>se zveřejněním záměru na úřední desce ObÚ Praha 7 po dobu 30 ti dnů na pronájem NBP - kancelář ČČK v suterénu domu č.p. 446, ulice Šternberkova, č.o. 17, Praha 7, nájemce  ČESKÝ ČERVENÝ KŘÍŽ, úřad oblastního spolku Praha 7, zastoupený ředitelkou Ivanou Soukupovou, sídlo Janovského 29, Praha 7, IČO 00425664, na dobu neurčitou, za nájemné 190,-Kč/m2/rok, o celkové rozloze 44,72m2<br><br>se zveřejněním záměru na úřední desce ObÚ Praha 7 po dobu 30 ti dnů na pronájem NBP - ordinace praktického lékaře v 1. patře domu č.p. 1342, ulice Tovární, č.o. 12, Praha 7, nájemce  MUDr. Pavel Pick (2), na dobu neurčitou, za nájemné 1.200,-Kč/m2/rok, o celkové rozloze 36,05m2<br><br><br><br>III.	ukládá <br><br> Určen:	–––––	VED OBH Meško Martin<br>Termín: 03.11.2000<br>Úkol:	zveřejnit záměr na úřední desce ObÚ Praha 7 po dobu 30 ti dnů na pronájem NBP - garáž ve dvoře domu č.p. 197, ulice Veletržní, č.o. 15, Praha 7, nájemce  Iva Hlinková (1), na dobu neurčitou, za nájemné 500,-Kč/m2/rok, o celkové rozloze 12m2<br> <br> Určen:	–––––	VED OBH Meško Martin<br>Termín: 03.11.2000<br>Úkol:	zveřejnit záměr na úřední desce ObÚ Praha 7 po dobu 30 ti dnů na pronájem NBP - kancelář ČČK v suterénu domu č.p. 446, ulice Šternberkova, č.o. 17, Praha 7, nájemce  ČESKÝ ČERVENÝ KŘÍŽ, úřad oblastního spolku Praha 7, zastoupený ředitelkou Ivanou Soukupovou, sídlo Janovského 29, Praha 7, IČO 00425664, na dobu neurčitou, za nájemné 190,-Kč/m2/rok, o celkové rozloze 44,72m2<br>  Určen:	–––––	VED OBH Meško Martin<br>Termín: 03.11.2000<br>Úkol:	zveřejnit záměr na úřední desce ObÚ Praha 7 po dobu 30 ti dnů na pronájem NBP - ordinace praktického lékaře v 1. patře domu č.p. 1342, ulice Tovární, č.o. 12, Praha 7, nájemce  MUDr. Pavel Pick (2), na dobu neurčitou, za nájemné 1.200,-Kč/m2/rok, o celkové rozloze 36,05m2<br> <br> Určen:	–––––	ZAS STA Vayhel Luboš<br>Termín: 27.12.2000<br>Úkol:	pokud nebudou po zveřejněném záměru vzneseny připomínky  předložit na jednání OR 7 návrh na uzavření nájemní smlouvy  na pronájem NBP - garáž ve dvoře domu č.p. 197, ulice Veletržní, č.o. 15, Praha 7, nájemce  Iva Hlinková (1), na dobu neurčitou, za nájemné 500,-Kč/m2/rok, o celkové rozloze 12m2 <br> <br> Určen:	–––––	ZAS STA Vayhel Luboš<br>Termín: 27.12.2000<br>Úkol:	pokud nebudou po zveřejněném záměru vzneseny připomínky předložit na jednání OR 7 návrh na uzavření nájemní smlouvy  na pronájem NBP - kancelář ČČK v suterénu domu č.p. 446, ulice Šternberkova, č.o. 17, Praha 7, nájemce  ČESKÝ ČERVENÝ KŘÍŽ, úřad oblastního spolku Praha 7, zastoupený ředitelkou Ivanou Soukupovou, sídlo Janovského 29, Praha 7, IČO 00425664, na dobu neurčitou, za nájemné 190,-Kč/m2/rok, o celkové rozloze 44,72m2 <br> <br> Určen:	–––––	ZAS STA Vayhel Luboš<br>Termín: 27.12.2000<br>Úkol:	pokud nebudou po zveřejněném záměru vzneseny připomínky předložit na jednání OR 7 návrh na uzavření nájemní smlouvy  na pronájem NBP - ordinace praktického lékaře v 1. patře domu č.p. 1342, ulice Tovární, č.o. 12, Praha 7, nájemce  MUDr. Pavel Pick (2), na dobu neurčitou, za nájemné 1.200,-Kč/m2/rok, o celkové rozloze 36,05m2 <br>
+</div>
+</div>

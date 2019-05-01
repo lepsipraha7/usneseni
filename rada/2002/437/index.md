@@ -1,0 +1,22 @@
+---
+layout: detail_usneseni
+nazev_bodu: Výběr zhotovitele na nutné opravy spojené s rekolaudací administrativně
+  rozdělených bytů     ( ARB ) dle PD, objektu č.p. 1070, U Průhonu 25, k.ú. Holešovice,
+  Praha 7
+datum_vzniku_usneseni: '2002-05-07 00:00:00'
+cislo_usneseni: 0437/02
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Výběr zhotovitele na nutné opravy spojené s rekolaudací administrativně rozdělených bytů     ( ARB ) dle PD, objektu č.p. 1070, U Průhonu 25, k.ú. Holešovice, Praha 7</h3></span><div class="center">
+		<strong>č. 0437/02</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 07.05.2002</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na výběr zhotovitele na nutné opravy spojené s rekolaudací administrativně rozdělených bytů ( ARB ) dle PD, objektu č.p. 1070, U Průhonu 25, k.ú. Holešovice, Praha 7<br><br>II.	schvaluje <br><br>výběr zhotovitele na nutné opravy spojené s rekolaudací administrativně rozdělených bytů ( ARB ) dle PD objektu č.p. 1070, U Průhonu 25, k.ú. Holešovice, Praha 7, společnost I.Belgická, s.r.o., Belgická 2, 120 00 Praha 2, IČO : 25635794, za nabídnutou cenu 459 832,80 Kč včetně DPH<br><br>text smlouvy o dílo na nutné opravy spojené s rekolaudací administrativně rozdělených bytů ( ARB ) dle PD objektu č.p. 1070, U Průhonu 25, k.ú. Holešovice, Praha 7, se společností  I.Belgická, s.r.o., Belgická 2, 120 00 Praha 2, IČO : 25635794, za nabídnutou cenu 459 832,80 Kč včetně DPH<br><br>III.	zmocňuje <br><br>radního Štěpána Hasala k podpisu smlouvy o dílo na nutné opravy spojené s rekolaudací administrativně rozdělených bytů ( ARB ) dle PD objektu č.p. 1070, U Průhonu 25, k.ú. Holešovice, Praha 7, se společností  I.Belgická, s.r.o., Belgická 2, 120 00 Praha 2, IČO : 25635794, za nabídnutou cenu 459 832,80 Kč včetně DPH<br><br>IV.	ukládá <br><br> <br>Určen:	RADNI Hasal Štěpán<br>Termín: 15.05.2002<br>Úkol:	podepsat  smlouvu o dílo na nutné opravy spojené s rekolaudací administrativně rozdělených bytů ( ARB ) dle PD objektu č.p. obj. č.p. 1070, U Průhonu 25, k.ú. Holešovice, Praha 7, se společností  I.Belgická, s.r.o., Belgická 2, 120 00 Praha 2, IČO : 25635794, za nabídnutou cenu 459 832,80 Kč včetně DPH<br> <br><br><br><br> <br>Určen:	VED OMA Hrubý Roman<br>Termín: 11.07.2002<br>Úkol:	po provedení kolaudace a nabytí právní moci kolaudačního rozhodnutí předat kolaudační rozhodnutí OBH<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 25.07.2002<br>Úkol:	uzavřít nájemní smlouvu na dobu neurčitou na byt č.5 o velikosti 1+1, č.p.1070, s  pí. Boženou Kurkovou, po nabytí právní moci kolaudačního rozhodnutí, s doplněním ustanovení čl. 5 standardní nájemní smlouvy o bod 4 tohoto znění: „ Nabytím platnosti a účinnosti této nájemní smlouvy pozbývá platnost stávající nájemní smlouva či  rozhodnutí o výměně bytů .“<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 25.07.2002<br>Úkol:	uzavřít nájemní smlouvu na dobu neurčitou na byt č.20 o velikosti 1+1, č.p.1070, s  pí. Monikou Hamáčkovou, po nabytí právní moci kolaudačního rozhodnutí, s doplněním ustanovení čl. 5 standardní nájemní smlouvy o bod 4 tohoto znění: „ Nabytím platnosti a účinnosti této nájemní smlouvy pozbývá platnost stávající nájemní smlouva či  rozhodnutí o výměně bytů .“<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 25.07.2002<br>Úkol:	uzavřít nájemní smlouvu na dobu neurčitou na byt č.1 o velikosti 1+1, č.p.1070, s  pí. Naděždou Hanigerovou, po nabytí právní moci kolaudačního rozhodnutí, s doplněním ustanovení čl. 5 standardní nájemní smlouvy o bod 4 tohoto znění: „ Nabytím platnosti a účinnosti této nájemní smlouvy pozbývá platnost stávající nájemní smlouva či  rozhodnutí o výměně bytů .“<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 25.07.2002<br>Úkol:	uzavřít nájemní smlouvu na dobu neurčitou na byt č.1 o velikosti 1+1, č.p.1070, s  pí. Marcelou Picálkovou, po nabytí právní moci kolaudačního rozhodnutí, s doplněním ustanovení čl. 5 standardní nájemní smlouvy o bod 4 tohoto znění: „ Nabytím platnosti a účinnosti této nájemní smlouvy pozbývá platnost stávající nájemní smlouva či  rozhodnutí o výměně bytů .“<br> <br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

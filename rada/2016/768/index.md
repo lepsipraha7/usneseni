@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na revokaci části usnesení č. 0730/16-R ze dne 26.07.2016 a návrh
+  na dlouhodobé zveřejnění volného nebytového objektu Tusarova 25a/1545 do výběrového
+  řízení
+datum_vzniku_usneseni: '2016-08-05 00:00:00'
+cislo_usneseni: '0768/16-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28043/export/Duvodovazprava_Tusrova25a~89159.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28043/export/RADA_0730~89158.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28043/export/Tusarova25a_1545NOVEod0808~89157.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28043/export/export~298137.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Předložený materiál - Návrh na revokaci části usnesení č. 0730/16-R ze dne 26.07.2016 a návrh na dlouhodobé zveřejnění volného nebytového objektu Tusarova 25a/1545 do výběrového řízení</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že hodnocení obálek provede Komise pro majetek, byty a nebytové prostory stejně jako u dalších nebytových prostor</p></span></li></ol></li><li id="" class="urzClass1"><span name="21">revokuje</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>část usnesení RMČ Praha 7 0730/16-R ze dne 26.07.2016, kde mění v odst. 1, bodu II. doba nájmu na dobu určitou 3 roky</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>část usnesení RMČ Praha 7 0730/16-R ze dne 26.07.2016, kde mění v odst. 1, bodu III. termín veřejného otevírání a hodnocení doručených obálek na den 12.09.2016 od 17:00 hodin</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>část usnesení RMČ Praha 7 0730/16-R ze dne 26.07.2016, kde ruší odst. 1, bod IV. jmenování členů komise pro otevírání a hodnocení doručených obálek</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>část usnesení RMČ Praha 7 0730/16-R ze dne 26.07.2016, kde ruší odst. 1, bod V. podepsat jmenovací dekrety členům komise pro otevírání a hodnocení doručených obálek</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Zajistit změnu ve vyvěšení zveřejněného záměru volného nebytového objektu Tusarova 25a/1545, stojícím na pozemku parc.č. 2316/8 a pozemku parc.č. 2316/8, vše k.ú. Holešovice</p></span><span class="urzUkolTermin">  Termín:&nbsp;8.8.2016</span></li></ul></li></ol></li></ol>

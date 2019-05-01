@@ -1,0 +1,26 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh ke zprávě o výsledcích hospodaření MČ Praha 7 ke 3. čtvrtletí 2017
+  - hlavní činnost
+datum_vzniku_usneseni: '2017-11-21 00:00:00'
+cislo_usneseni: 1051/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc1DuvodovazpravaovysledcichhospodareniMCMC~270985.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc2PrehleddotacizrozpoctuHMPtab13Q2017~270984.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc3Komentarktab13Q2017~270983.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc4BilanceUJIGBB113Q2017~270982.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc5Ctvrtletnirozborprijmuavydaju3Q2017~270981.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc6NIVdleORJ3Q2016a2017MC~270980.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc61NIVdlepolozek3Q2016a2017MC~270979.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc7Prehledcerpaniinvestic3Q2017~270978.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc8Komentarkinvakcich3Q2017~270977.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc9VHPO3Q2017~270976.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc10RozborhospodareniPOPCP73Q2017~270975.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc11RozborhospodareniPOSAZ3Q2017~270974.DOC
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc12RozboryhospodareniPOMSaZS3Q2017~270973.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc13prehleddotacipol41373Q2017~270972.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/finalc14NavrhusnZMC~270971.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29453/export/export~294829.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh ke zprávě o výsledcích hospodaření MČ Praha 7 ke 3. čtvrtletí 2017 - hlavní činnost</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>že výsledkem hospodaření MČ Praha 7 ke 3. čtvrtletí 2017 (dle účetního výkazu Bilance příjmů a výdajů - UJIGBB11 - příloha č. 4) je rozdíl příjmů a výdajů (přebytek) ve výši 212 594,3 tis. Kč,</p></span><ol class="urzUlClass"><li style="text-align: left;" id="" class="urzClass3"><span><p>příjmy k 30. 9. 2017: + 492 365,8 tis. Kč, tj. 84,1 % UR (585 321,6 tis. Kč),</p></span></li><li style="text-align: left;" id="" class="urzClass3"><span><p>výdaje k 30. 9. 2017: - 279 771,5 tis. Kč, tj. 31,0 % UR (903 937,7 tis. Kč),</p></span></li><li style="text-align: left;" id="" class="urzClass3"><span><p>rozdíl příjmů a výdajů: přebytek + 212 594,3 tis. Kč,</p></span></li></ol></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že předložená zpráva obsahuje výsledky hospodaření ke 3. čtvrtletí v příspěvkových organizacích zřízených MČ Praha 7.</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>s výsledkem hospodaření MČ Praha 7 ke 3. čtvrtletí 2017 - hlavní činnost:</p></span><ol class="urzUlClass"><li style="text-align: left;" id="" class="urzClass3"><span><p>příjmy k 30. 9. 2017: + 492 365,8 tis. Kč</p></span></li><li style="text-align: left;" id="" class="urzClass3"><span><p>výdaje k 30. 9. 2017: - 279 771,5 tis. Kč</p></span></li><li style="text-align: left;" id="" class="urzClass3"><span><p>rozdíl příjmů a výdajů: přebytek + 212 594,3 tis. Kč,</p></span></li></ol></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s tím, aby Zastupitelstvu MČ Praha 7 byla předložena zpráva o výsledcích hospodaření MČ Praha 7 ke 3. čtvrtletí 2017 - hlavní činnost s těmito výsledky hospodaření.</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s návrhem usnesení Zastupitelstva MČ Praha 7 o výsledcích hospodaření MČ Praha 7 ke 3. čtvrtletí 2017 - hlavní činnost.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Pavel Vyhnánek, M.A.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>předložit zprávu o výsledcích hospodaření MČ Praha 7 ke 3. čtvrtletí 2017 - hlavní činnost na zasedání Zastupitelstva MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;4.12.2017</span></li></ul></li></ol></li></ol>

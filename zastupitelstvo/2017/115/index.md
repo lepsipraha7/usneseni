@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na revokaci usnesení Zastupitelstva MČ Praha 7 č. 0044/16-Z ze dne
+  14.03.2016, z důvodu legislativní změny (změna poplatníka daně z nabytí nemovitých
+  věcí), a z toho vyplývající změny textu schváleného návrhu smlouvy mezi MČ Praha
+  7 a jednotlivými vlastníky bytových jednotek domu Heřmanova 1119/9
+datum_vzniku_usneseni: '2017-06-19 00:00:00'
+cislo_usneseni: 0115/17-Z
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27324/export/01_sml1119~218267.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27324/export/02_sml1119~218266.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27324/export/03_sml1119~218265.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27324/export/04_sml1119~218264.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27324/export/export~301175.pdf
+organ: zastupitelstvo
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh na revokaci usnesení Zastupitelstva MČ Praha 7 č. 0044/16-Z ze dne 14.03.2016, z důvodu legislativní změny (změna poplatníka daně z nabytí nemovitých věcí), a z toho vyplývající změny textu schváleného návrhu smlouvy mezi MČ Praha 7 a jednotlivými vlastníky bytových jednotek domu Heřmanova 1119/9<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že důvodem neuzavření Smlouvy o koupi ideálního podílu na nemovité věci a zřízení služebnosti průchodu k nemovité věci - zastavěného pozemku parc. č. 1307, který tvoří funkčně technologický celek s domem Heřmanova 1119/9, s jednotlivými vlastníky bytových jednotek domu Heřmanova 1119/9, po jednotlivých spoluvlastnických podílech odpovídajících velikosti spoluvlastnických podílů jednotlivých vlastníků jednotek na společných částech domu, v souladu s usnesením Zastupitelstva MČ Praha 7 č. 0044/16-Z ze dne 14.03.2016, bylo úmrtí jednoho z vlastníků a následné dědické řízení, které bylo ukončeno v nedávné době</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že v mezidobí došlo k legislativní změně, konkrétně k novele zákonného opatření Senátu č. 340/2013 Sb., o dani z nabytí nemovitých věcí, kdy s účinností od 01.11.2016 je poplatníkem daně kupující</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že v souladu s bodem 2. došlo k úpravě odst. 6.1. Čl. 6 uvedené smlouvy a dle vyjádření Odboru právního je nutná revokace usnesení Zastupitelstva MČ Praha 7 č. 0044/16-Z ze dne 14.03.2016</p></span></li></ol></li><li id="" class="urzClass1"><span name="21">revokuje</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Zastupitelstva MČ Praha 7 č. 0044/16-Z ze dne 14.03.2016, kde v části příloh mění přílohu č. 12 (Návrh Smlouvy o koupi ideální podílu na nemovitosti - pozemku pod domem Heřmanova 1119/9) za novou aktuální verzi, která je přílohou č. 3 tohoto usnesení, kde došlo k úpravě odst. 6.1. Čl. 6 (daň z nabytí nemovité věci) a dále byl změněn jeden z kupujících, na základě výsledků dědického řízení<br></p></span></li></ol></li></ol>

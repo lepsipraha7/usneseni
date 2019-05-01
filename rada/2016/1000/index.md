@@ -1,0 +1,12 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na udělení plné moci Bc. Janu Mathymu k zastupování Městské části
+  Praha 7 v jednání vedeném u Policie České republiky
+datum_vzniku_usneseni: '2016-10-11 00:00:00'
+cislo_usneseni: 1000/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28240/export/20161010_KSS_duvodovazpravaneverejna~116794.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28240/export/export~297657.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na udělení plné moci Bc. Janu Mathymu k zastupování Městské části Praha 7 v jednání vedeném u Policie České republiky</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>text plné moci udělované Bc. Janu Mathymu k zastupování Městské části Praha 7 v jednání vedeném u Policie České republiky <br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>text plné moci udělované Bc. Janu Mathymu k zastupování Městské části Praha 7 v jednání vedeném u Policie České republiky<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="41">zmocňuje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Bc. Jana Mathyho k zastupování Městské části Praha 7 v jednání vedeném u Policie České republiky</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat plnou moc pro Bc. Jana Mathyho k zastupování Městské části Praha 7 v jednání vedeném u Policie České republiky</p></span><span class="urzUkolTermin">  Termín:&nbsp;12.10.2016</span></li></ul></li><li class="urzClass2"><span><p>VED OPP Mgr. Kateřina Šilhová Šafránková</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit doručení plné moci Policii České republiky</p></span><span class="urzUkolTermin">  Termín:&nbsp;14.10.2016</span></li></ul></li></ol></li></ol>

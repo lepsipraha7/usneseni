@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na udělení plné moci advokátce JUDr. Janě Kopáčkové, se sídlem
+  advokátní kanceláře Kroftova 329/1, Praha 5, k zastupování MČ Praha 7 ve věci vedené
+  Exekutorským úřadem Praha 7, JUDr. Ondřej Hanák, soudní exekutor, se sídlem: Praha
+  5, Malátova 645/18, pod sp. zn. 147 EX 470/17 a Obvodním soudem pro Prahu 7 pod
+  sp. zn. 148 EXE 2868/2017'
+datum_vzniku_usneseni: '2018-01-09 00:00:00'
+cislo_usneseni: 0007/18-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27149/export/20180104_DuvodovazpravaKopackova~313972.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27149/export/20180107_KSS_REV_MF_PM_Kopackova~313971.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27149/export/export~314528.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na udělení plné moci advokátce JUDr. Janě Kopáčkové, se sídlem advokátní kanceláře Kroftova 329/1, Praha 5, k zastupování MČ Praha 7 ve věci vedené Exekutorským úřadem Praha 7, JUDr. Ondřej Hanák, soudní exekutor, se sídlem: Praha 5, Malátova 645/18, pod sp. zn. 147 EX 470/17 a Obvodním soudem pro Prahu 7 pod sp. zn. 148 EXE 2868/2017</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na udělení plné moci advokátce JUDr. Janě Kopáčkové, se sídlem advokátní kanceláře Kroftova 329/1, Praha 5, k zastupování MČ Praha 7 ve věci vedené Exekutorským úřadem Praha 7, JUDr. Ondřej Hanák, soudní exekutor, se sídlem: Praha 5, Malátova 645/18, pod sp. zn. 147 EX 470/17 a Obvodním soudem pro Prahu 7 pod sp. zn. 148 EXE 2868/2017,&nbsp;jakož i ve všech řízeních jakkoli souvisejících a navazujících</p></span></li></ol></li><li class="urzClass1" id=""><span name="31">uděluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>plnou moc advokátce JUDr. Janě Kopáčkové, se sídlem advokátní kanceláře Kroftova 329/1, Praha 5, k zastupování MČ Praha 7 ve věci vedené Exekutorským úřadem Praha 7, JUDr. Ondřej Hanák, soudní exekutor, se sídlem: Praha 5, Malátova 645/18, pod sp. zn. 147 EX 470/17 a Obvodním soudem pro Prahu 7 pod sp. zn. 148 EXE 2868/2017, jakož i ve všech řízeních jakkoli souvisejících a navazujících</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat plnou moc</p></span><span class="urzUkolTermin">  Termín:&nbsp;10.1.2018</span><div class="urzUkolTermin">  Kontrolní termín:&nbsp;11.1.2018</div></li></ul></li><li class="urzClass2"><span><p>VED OPV Mgr. Kateřina Šilhová Šafránková</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit podpis plné moci a její předání advokátce</p></span><span class="urzUkolTermin">  Termín:&nbsp;12.1.2018</span><div class="urzUkolTermin">  Kontrolní termín:&nbsp;15.1.2018</div></li></ul></li></ol></li></ol>

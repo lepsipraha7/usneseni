@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na rozhodnutí MČ Praha 7 z titulu většinového spoluvlastníka domu
+  U Studánky 29/241, na schválení výměny podlahové krytiny nebytového prostoru, aby
+  mohl být uveden do stavu jeho řádného pronájmu, dle nabídkové ceny ve výši 173.702,-
+  Kč bez DPH, zajištěné správcem domu společností 7U s.r.o.
+datum_vzniku_usneseni: '2017-07-18 00:00:00'
+cislo_usneseni: 0651/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29323/export/01_NBP241~226353.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29323/export/02_NBP241~226352.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29323/export/export~295669.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>Návrh na rozhodnutí MČ Praha 7 z titulu většinového spoluvlastníka domu U Studánky 29/241, na schválení výměny podlahové krytiny nebytového prostoru, aby mohl být uveden do stavu jeho řádného pronájmu, dle nabídkové ceny ve výši 173.702,- Kč bez DPH, zajištěné správcem domu společností 7U s.r.o.</p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>že správce objektu U Studánky 29/241 společnost 7U s.r.o. postupně odstraňuje následky dřevokazné houby v nebytovém prostoru č. 521, přičemž jako poslední je potřeba provést výměnu podlahové krytiny, o čemž informoval i zástupce ostatních spoluvlastníků domu JUDr. Jana Pavloka, Ph.D., dne 18.05.2017, za nabídkovou cenu společnosti&nbsp;SMART SBD s.r.o., IČO: 04212223, ve výši 173.702,- Kč bez DPH, po proběhlém poptávkovém řízení, kdy zástupce ostatních spoluvlastníků doposud nijak nereagoval</p></span></li></ol></li><li class="urzClass1" id=""><span name="68">rozhoduje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>z titulu většinového spoluvlastníka, dle § 1128 a § 1129 zákona č. 89/2012 Sb, v platném znění, o schválení výměny podlahové krytiny nebytového prostoru č. 521 v domě U Studánky 29/241, za nabídkovou cenu společnosti SMART SBD s.r.o., IČO: 04212223, ve výši 173.702,- Kč bez DPH, po proběhlém poptávkovém řízení, zajištěném správcem domu společností 7U s.r.o., s úhradou z účtu podílového domu a vystavením objednávky prostřednictvím správce domu<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit JUDr. Jana Pavloka, Ph.D. a 7U s.r.o., s usnesením Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;21.7.2017</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření nájemních smluv na byty, které přerozdělila RZHMP
+datum_vzniku_usneseni: '2001-12-11 00:00:00'
+cislo_usneseni: 1343/01
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření nájemních smluv na byty, které přerozdělila RZHMP</h3></span><div class="center">
+		<strong>č. 1343/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 11.12.2001</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na uzavření nájemních smluv na byty, které přerozdělila RZHMP<br><br>II.	souhlasí <br><br>s návrhem na uzavření nájemní smlouvy  na byt 4+1, za měsíční nájemné 53,46,-Kč/m2, jež byl přerozdělen RZHMP s Jiřím a Helenou Pavlíkovými (1)<br><br>s návrhem na uzavření nájemní smlouvy na byt 4+1 za měsíční nájemné 53,46,-Kč/m2, jež byl přerozdělen RZHMP s Jiřím a Gertrudou Beránkovými  (2) - náhradník<br><br>s návrhem na uzavření nájemní smlouvy  na byt 3+1 za měsíční nájemné 53,46,-Kč/m2, jež byl přerozdělen RZHMP s Pavlem a Olgou Kejhovými (3)<br><br>s návrhem na uzavření nájemní smlouvy na byt 3+1 za měsíční nájemné 53,46,-Kč/m2, jež byl přerozdělen RZHMP s Luďkem Kailem a Jindřiškou Hamplovou (4) - náhradník<br><br>s návrhem na uzavření nájemní smlouvy na byt 2+1 za měsíční nájemné 53,46,-Kč/m2, jež byl přerozdělen RZHMP s Ditou Klatovskou (5)<br><br>s návrhem na uzavření nájemní smlouvy na byt 2+1 za měsíční nájemné 53,46,-Kč/m2, jež byl přerozdělen RZHMP s Karolínou a Ladislavem Čabelkovými (6) - náhradník<br><br>s návrhem na uzavření nájemní smlouvy na byt 1+1 za měsíční nájemné 53,46,-Kč/m2, jež byl přerozdělen RZHMP s Janou Jedličkovou (7)<br><br>s návrhem na uzavření nájemní smlouvy na byt 1+1 za měsíční nájemné 53,46,-Kč/m2, jež byl přerozdělen RZHMP s Pavlou a Pavlem Šafránkovými (8) - náhradník<br><br>s návrhem na uzavření nájemní smlouvy na byt 0+1 za měsíční nájemné 53,46,-Kč/m2, jež byl přerozdělen RZHMP s Otakarem Pechanem (9)<br><br>s návrhem na uzavření nájemní smlouvy na byt 0+1 za měsíční nájemné 53,46,-Kč/m2, jež byl přerozdělen RZHMP s Petrem Kopejtkem (10) - náhradník<br><br>s návrhem na uzavření nájemní smlouvy na byt 3+1 za  měsíční nájemné 36,64,-Kč/m2, jež byl přerozdělen RZHMP s Marií a Jiřím Poupětovými (11)<br><br>s návrhem na uzavření nájemní smlouvy na byt 3+1 za měsíční nájemné 36,64,-Kč/m2, jež byl přerozdělen RZHMP s Janou Štroblovou (12) - náhradník<br><br>s návrhem na uzavření nájemní smlouvy na byt 1+1 za měsíční nájemné 36,64,-Kč/m2, jež byl přerozdělen RZHMP s Andreou Oulehlovou (13)<br><br>s návrhem na uzavření nájemní smlouvy na byt 1+1 za měsíční nájemné 36,64,-Kč/m2, jež byl přerozdělen RZHMP s Pavlou a Pavlem Šafránkovými (14) - náhradník<br><br>s návrhem na uzavření nájemní smlouvy na byt 0+1 za měsíční nájemné 36,64,-Kč/m2, jež byl přerozdělen RZHMP s Janem Havlínem (15)<br><br>s návrhem na uzavření nájemní smlouvy na byt 0+1 za měsíční nájemné 36,64,-Kč/m2, jež byl přerozdělen RZHMP s Petrem Ducháčkem (16) <br><br>s návrhem na uzavření nájemní smlouvy  na byt 0+1 za měsíční nájemné 36,64,-Kč/m2, jež byl přerozdělen RZHMP s Helenou Šmydkovou (17)<br><br>s návrhem na uzavření nájemní smlouvy na byt 0+1 za měsíční nájemné 36,64,-Kč/m2, jež byl přerozdělen RZHMP s Vlastimilou Vtípilovou (18)<br><br>s návrhem na uzavření nájemní smlouvy na byt 0+1 za měsíční nájemné 36,64,-Kč/m2, jež byl přerozdělen RZHMP s Josefem Šťastným (19) - náhradník<br><br>s návrhem na uzavření nájemní smlouvy na byt 0+1 za měsíční nájemné 36,64,-Kč/m2, jež byl přerozdělen RZHMP s Jiřím Žákem (20) - náhradník<br><br>III.	ukládá <br><br> <br>Určen:	VED OBH Wawrečka Ronald<br>Termín: 31.12.2001<br>Úkol:	předat návrh konkrétních nájemců na byt 0+1, 1+1, 2+1, 3+1 a 4+1 včetně kompletních materiálů na MHMP - odbor bytový<br> <br><br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

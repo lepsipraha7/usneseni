@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Řešení některých žádostí projednaných při jednání bytové komise dne 27.08.2003
+datum_vzniku_usneseni: '2003-09-09 00:00:00'
+cislo_usneseni: 1018/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Řešení některých žádostí projednaných při jednání bytové komise dne 27.08.2003</h3></span><div class="center">
+		<strong>č. 1018/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 09.09.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na řešení některých žádostí projednaných při jednání bytové komise dne <br>27.08.2003<br><br>II.	nesouhlasí<br><br>se snížením neregulovaného nájemného bytu č.15, 3+1, I.kat., U Smaltovny 20F/1335, P7, nájemce Václav Hervert<br><br>III.	souhlasí <br><br>s odkladem plateb ve výši jedné poloviny neregulovaného nájemného bez služeb (6.275,-Kč měsíčně) bytu č.15, 3+1, I.kat., U Smaltovny 20F/1335, P7, nájemce Václav Hervert, na dobu do 31.12.2003 s tím, že celková výše odloženého nájemného bude doplacena v 6-ti měsíčních splátkách počínaje lednem roku 2004<br><br>s umístěním sídla společnosti VABENE - společnost s ručením omezeným v bytě č.13, Milady Horákové 96/845, P7, nájemce Zdeněk Kříž<br><br>D - s uzavřením Dohody o poskytnutí náhradního ubytování mezi MČ P7 jako ubytovatelem a Annou Růžičkovou jako ubytované v pokoji č.4, Za Papírnou 7/144, P7 do 31.10.2003  ( 1 )<br><br>D - s uzavřením Dohody o poskytnutí náhradního ubytování mezi MČ P7 jako ubytovatelem a Jaroslavem Dvořákem jako ubytovaným v Argentinské 17/1098, P7 do 31.10.2003  ( 2 )<br><br>NN - s uzavřením nájemní smlouvy na dobu neurčitou na byt č.4, 1+1, II.kat., U městských domů 5/181, P7 s Jířim Ullmanem, a to po uhrazení dlužného nájemného po bývalém nájemci ve výši 87.103,-Kč a za předpokladu provedení rekonstrukce bytu na vlastní náklady ( 3 )<br><br>DAR - s uzavřením Darovací smlouvy mezi MČ P7 a Jířím Ullmanem o poskytnutí daru Jířím Ullmanem ve výši 200.000,-Kč do fondu pro rozvoj bydlení MČ P7<br><br>IV.	ukládá <br><br>Určen:	VED OBNP Nekolová Valerie<br>Termín: 15.09.2003<br>Úkol:	seznámit písemně Václava Herverta, U Smaltovny 20F/1335, P7 a správní firmu CENTRA v.o.s. se stanoviskem Rady MČ P7 k žádosti Václava Herverta z 22.8.2003<br> <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 30.09.2003<br>Úkol:	podepsat písemný souhlas s umístěním sídla společnosti VABENE - společnost s ručením omezeným v bytě č.13, Milady Horákové 96/845, P7, nájemce Zdeněk Kříž<br> <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 26.09.2003<br>Úkol:	uzavřít Dohodu o poskytnutí náhradního ubytování mezi MČ P7 jako ubytovatelem a Annou Růžičkovou jako ubytované v pokoji č.4, Za Papírnou 7/144, do 31.10.2003 (1)<br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 26.09.2003<br>Úkol:	uzavřít Dohodu o poskytnutí náhradního ubytování mezi MČ P7 jako ubytovatelem a Jaroslavem Dvořákem jako ubytovaným v Argentinské 17/1098, P7, do 31.10.2003 (2)<br> <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 01.10.2003<br>Úkol:	NN - uzavřít nájemní smlouvu na dobu neurčitou na byt č.4, 1+1, II.kat., U městských domů 5/181, P7 s Jířim Ullmanem, a to po uhrazení dlužného nájemného po bývalém nájemci ve výši 87.103,-Kč a za předpokladu provedení rekonstrukce bytu na vlastní náklady (3)<br> <br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 01.10.2003<br>Úkol:	DAR - uzavřít Darovací smlouvu mezi MČ P7 a Jířím Ullmanem o poskytnutí daru Jířím Ullmanem ve výši 200.000,-Kč do fondu pro rozvoj bydlení MČ P7<br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

@@ -1,0 +1,46 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na změnu termínu splatnosti návratné finanční výpomoci poskytnuté
+  na základě Smlouvy o poskytnutí návratné finanční výpomoci  č. 11/OVV/2011  mezi
+  MČ Praha 7 a Kulturním centrem Vltavská, příspěvková organizace
+datum_vzniku_usneseni: '2011-11-25 00:00:00'
+cislo_usneseni: '0849/11'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/21176/55-11-smlouva_%c4%8d._11-ovv-2011.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/21176/55-11-usnesen%c3%ad_rm%c4%8d_z_26.4.2011.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/21176/55-11-usnesen%c3%ad_zm%c4%8d_z_18.4.2011.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/21176/55-11-n%c3%a1vrh_usnesen%c3%ad_zm%c4%8d.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/21176/55-11-%c5%be%c3%a1dost_o_posunut%c3%ad_term%c3%adnu_splatnosti.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/21176/55-11-smlouva_o_p%c5%afj%c4%8dce_s_kc_vltavsk%c3%a1_dodatek-n%c3%a1vrh.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na změnu termínu splatnosti návratné finanční výpomoci poskytnuté na základě Smlouvy o poskytnutí návratné finanční výpomoci  č. 11/OVV/2011  mezi MČ Praha 7 a Kulturním centrem Vltavská, příspěvková organizace</h3></span><div class="center">
+		<strong>č. 0849/11</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 25.11.2011</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh na změnu termínu splatnosti návratné finanční výpomoci poskytnuté na základě Smlouvy o poskytnutí návratné finanční výpomoci  č. 11/OVV/2011  mezi MČ Praha 7 a Kulturním centrem Vltavská, příspěvková organizace</li></ul>
+</li>
+<li>Souhlasí<ul><li>
+<strong>1.</strong> se změnou  termínu splatnosti návratné finanční výpomoci poskytnuté na základě Smlouvy o poskytnutí návratné finanční výpomoci  č. 11 /OVV/2011 mezi MČ Praha 7 a Kulturním centrem Vltavská, příspěvková organizace. Termín splatnosti návratné finanční výpomoci se mění do dne 25.03.2012.</li></ul>
+</li>
+<li>Schvaluje<ul><li>
+<strong>1.</strong> návrh Usnesení Zastupitelstva MČ Praha 7 na změnu termínu splatnosti návratné finanční výpomoci poskytnuté na základě Smlouvy o poskytnutí návratné finanční výpomoci  č. 11 /OVV/2011 mezi MČ Praha 7 a Kulturním centrem Vltavská, příspěvková organizace. </li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>RAD Koutský Jiří</li>
+<li>
+<strong>1.1 Úkol: </strong>předložit Návrh na změnu termínu splatnosti návratné finanční výpomoci poskytnuté na základě Smlouvy o poskytnutí návratné finanční výpomoci  č. 11 /OVV/2011  mezi MČ Praha 7 a Kulturním centrem Vltavská, příspěvková organizace na 5. jednání Zastupitelstva MČ Praha 7 dne 5.12.2011</li>
+<li>
+<strong>1.2 Termín: </strong>05.12.2011</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

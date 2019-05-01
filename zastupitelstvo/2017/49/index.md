@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na souhlas s podáním projektové žádosti s názvem "Revitalizace brownfieldového
+  území U Vody v Praze 7" o získání finanční podpory v rámci vyhlášené grantové výzvy
+  Nadace Proměny Karla Komárka s názvem Grantová výzva Parky 2016
+datum_vzniku_usneseni: '2017-03-20 00:00:00'
+cislo_usneseni: '0049/17-Z'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27344/export/DuvodovazpravaParkUVody~181356.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27344/export/0243~181355.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27344/export/export~301307.pdf
+organ: zastupitelstvo
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na souhlas s podáním projektové žádosti s názvem "Revitalizace brownfieldového území U Vody v Praze 7" o získání finanční podpory v rámci vyhlášené grantové výzvy Nadace Proměny Karla Komárka s názvem Grantová výzva Parky 2016</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že projektová žádost s názvem „Revitalizace brownfieldového území U Vody v Praze 7“ bude podána do Grantové výzvy Parky 2016 Nadace Proměny Karla Komárka<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že cílem projektu je kultivace zájmového území U Vody (vnitroblok a nábřeží) a jeho přeměna v park<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>podání projektové žádosti s názvem „Revitalizace brownfieldového území U Vody v Praze 7“ o podporu kultivace parku U Vody v rámci vyhlášené grantové výzvy Nadace Proměny Karla Komárka s názvem Grantová výzva Parky 2016 s maximálními celkovými výdaji projektu 20 000 000 Kč</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>poskytnutí 25% podílu z celkového nadačního příspěvku poskytnutého nadací na realizaci projektu z rozpočtu městské části Praha 7, tj. maximálně 5 000 000 Kč z maximálních celkových výdajů projektu ve výši 20 000 000 Kč</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat a podat projektovou žádost s názvem „Revitalizace brownfieldového území U Vody v Praze 7“ o poskytnutí finanční podpory v rámci vyhlášené grantové výzvy Nadace Proměny Karla Komárka s názvem Grantová výzva Parky 2016</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.3.2017</span></li></ul></li></ol></li></ol>

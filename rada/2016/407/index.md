@@ -1,0 +1,30 @@
+---
+layout: detail_usneseni
+nazev_bodu: "Návrh na oslovení společností AHOLD Czech Republic,a.s., Billa, spol.s.r.o,
+  Globus ČR,k.s., \nTesco Stores ČR, a.s, Kaufland Česká republika v.o.s.,Penny Market
+  s.r.o.,ZEMAN & ZEMAN,spol.s r.o.,ROSSMANN,spol.s r.o.,dm drogerie markt s.r.o.,
+  z důvodu nevhodné distribuce reklamních letáků"
+datum_vzniku_usneseni: '2016-04-26 00:00:00'
+cislo_usneseni: 0407/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27646/export/Letaky_Ahotd_atd~50468.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27646/export/Dopis_ahold_tesco_fin~50467.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27646/export/export~299528.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li class="urzClass1" id=""><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>předložený&nbsp; materiál - Návrh na oslovení společností AHOLD Czech Republic,a.s., Billa, spol.s.r.o, Globus ČR,k.s.,<br>Tesco Stores ČR, a.s, Kaufland Česká republika v.o.s.,Penny Market s.r.o.,ZEMAN &amp; ZEMAN,spol.s r.o.,ROSSMANN,spol.s r.o.,dm drogerie markt s.r.o., z důvodu nevhodné distribuce reklamních letáků</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="50">konstatuje,</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že při roznášení letáků s nabídkou výhodných nákupů dochází ze strany zaměstnanců distributorů letáků k jejich odkládání na prahy některých domů</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že nadměrný tisk reklamních letáků je zbytečnou zátěží pro životní prostředí</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="24">schvaluje</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>zaslání žádosti o zjednání nápravy při distribuci letáků společnostem AHOLD Czech Republic, a.s., Radlická 117, 158 00 Praha 5 - Nové Butovice; Billa, spol. s.r.o, Modletice 67, 251 01 Říčany u Prahy, Globus, ČR, k.s., Koordinace Praha, Kostelecká 822/75, 196 00 Praha 9, Tesco Stores ČR, a.s, . Vršovická 1527/68b, 110 00 Praha 10, Vršovice, Kaufland Česká republika v.o.s., Bělohorská 203, 169 00 Praha 6,</p><p>Penny Market s.r.o., Počernická 257, 250 73 Radonice, ZEMAN &amp; ZEMAN, spol. s r.o., Evropská 696/113, Vokovice, 160 00 Praha, ROSSMANN,spol.s r.o., Na Pankráci 1683/127, 140 00 Praha 4, dm drogerie markt s.r.o., Jeronýmova 1485/19, 370 01, České Budějovice - České Budějovice 6</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>text dopisu pro společnosti AHOLD Czech Republic, a.s., Radlická 117, 158 00 Praha 5 - Nové Butovice; Billa, spol. s.r.o, Modletice 67, 251 01 Říčany u Prahy, Globus, ČR, k.s., Koordinace Praha, Kostelecká 822/75, 196 00 Praha 9, Tesco Stores ČR, a.s, . Vršovická 1527/68b, 110 00 Praha 10, Vršovice, Kaufland Česká republika v.o.s., Bělohorská 203, 169 00 Praha 6,Penny Market s.r.o., Počernická 257, 250 73 Radonice, ZEMAN &amp; ZEMAN, spol. s r.o., Evropská 696/113, Vokovice, 160 00 Praha, ROSSMANN,spol.s r.o., Na Pankráci 1683/127, 140 00 Praha 4, dm drogerie markt s.r.o., Jeronýmova 1485/19, 370 01, České Budějovice - České Budějovice 6, který je v příloze č. 2 tohoto materiálu</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="41">zmocňuje</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>Mgr. Ondřeje Mirovského,M.EM zástupce starosty k podpisu dopisu určeného společnostem AHOLD Czech Republic, a.s., Radlická 117, 158 00 Praha 5 - Nové Butovice; Billa, spol. s.r.o, Modletice 67, 251 01 Říčany u Prahy, Globus, ČR, k.s., Koordinace Praha, Kostelecká 822/75, 196 00 Praha 9, Tesco Stores ČR, a.s, . Vršovická 1527/68b, 110 00 Praha 10, Vršovice, Kaufland Česká republika v.o.s., Bělohorská 203, 169 00 Praha 6,Penny Market s.r.o., Počernická 257, 250 73 Radonice, ZEMAN &amp; ZEMAN, spol. s r.o., Evropská 696/113, Vokovice, 160 00 Praha, ROSSMANN,spol.s r.o., Na Pankráci 1683/127, 140 00 Praha 4, dm drogerie markt s.r.o., Jeronýmova 1485/19, 370 01, České Budějovice - České Budějovice 6</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>úřadu MČ - ZAS STA Mgr. Ondřej Mirovský, M. EM</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat dopisy určené společnostem AHOLD Czech Republic, a.s., Radlická 117, 158 00 Praha 5 - Nové Butovice; Billa, spol. s.r.o, Modletice 67, 251 01 Říčany u Prahy, Globus, ČR, k.s., Koordinace Praha, Kostelecká 822/75, 196 00 Praha 9, Tesco Stores ČR, a.s, . Vršovická 1527/68b, 110 00 Praha 10, Vršovice, Kaufland Česká republika v.o.s., Bělohorská 203, 169 00 Praha 6,Penny Market s.r.o., Počernická 257, 250 73 Radonice, ZEMAN &amp; ZEMAN, spol. s r.o., Evropská 696/113, Vokovice, 160 00 Praha, ROSSMANN,spol.s r.o., Na Pankráci 1683/127, 140 00 Praha 4, dm drogerie markt s.r.o., Jeronýmova 1485/19, 370 01, České Budějovice - České Budějovice 6</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.4.2016</span></li></ul></li><li class="urzClass2"><span><p>úřadu MČ - STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat dopisy určené společnostem AHOLD Czech Republic, a.s., Radlická 117, 158 00 Praha 5 - Nové Butovice; Billa, spol. s.r.o, Modletice 67, 251 01 Říčany u Prahy, Globus, ČR, k.s., Koordinace Praha, Kostelecká 822/75, 196 00 Praha 9, Tesco Stores ČR, a.s, . Vršovická 1527/68b, 110 00 Praha 10, Vršovice, Kaufland Česká republika v.o.s., Bělohorská 203, 169 00 Praha 6,Penny Market s.r.o., Počernická 257, 250 73 Radonice, ZEMAN &amp; ZEMAN, spol. s r.o., Evropská 696/113, Vokovice, 160 00 Praha, ROSSMANN,spol.s r.o., Na Pankráci 1683/127, 140 00 Praha 4, dm drogerie markt s.r.o., Jeronýmova 1485/19, 370 01, České Budějovice - České Budějovice 6</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.4.2016</span></li></ul></li></ol></li>
+</ol>

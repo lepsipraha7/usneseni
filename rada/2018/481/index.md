@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení studie proveditelnosti - Smart home care na MČ Praha
+  7
+datum_vzniku_usneseni: '2018-06-15 00:00:00'
+cislo_usneseni: '0481/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30012/export/duvodova_zprava_smart_home_care~367120.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30012/export/20180323_Triangulum_chytra_domaci_pece~367119.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30012/export/export~367208.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na schválení studie proveditelnosti - Smart home care na MČ Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>se studií proveditelnosti - Smart home care na MČ Praha 7, která je přílohou č. 2 tohoto materiálu<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>předsedkyni sociálně - zdravotní komise Mgr. Marcelu Janečkovou koordinací činnosti pracovní skupiny a dalších aktivit vedoucích k implementaci konkrétních řešení na úrovni MČ Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>RAD Ing. Jakob Hurrle</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>založit pracovní skupinu se zástupci OSZ a příspěvkových organizací MČ Praha 7, jejímž cílem bude identifikovat konkrétní opatření, které se mají v návaznosti na studii proveditelnosti realizovat na MČ Praha 7 a v jejích příspěvkových organizacích</p></span><span class="urzUkolTermin">  Termín:&nbsp;26.6.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>vybrat na základě výstupů pracovní skupiny vhodné opatření pro MČ Praha 7 a připravit akční plán pro implementaci konkrétních opatření pro MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.9.2018</span></li></ul></li></ol></li></ol>

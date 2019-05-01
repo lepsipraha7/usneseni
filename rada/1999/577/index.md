@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Řešení žádostí projednaných při jednání majetkové komise dne 2.8.1999
+datum_vzniku_usneseni: '1999-08-17 00:00:00'
+cislo_usneseni: 0577/99
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Řešení žádostí projednaných při jednání majetkové komise dne 2.8.1999</h3></span><div class="center">
+		<strong>č. 0577/99</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 17.08.1999</strong><br><br>
+	</div>
+<br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - k řešení žádostí projednaných při jednání majetkové komise dne 2.8.1999<br><br>záměr MHMP ke změně vlastníka garáží ve Varhulíkově ulici a pronájmu pozemku pod stavbou<br><br>II.	nesouhlasí<br><br>s umístěním reklamního neonového poutače firmy LetAm na dům č. p. 384  Milady Horákové 83<br><br>III.	souhlasí <br><br>s tiskovou opravou v bodě II. usnesení OR P-7 č. 0542/99-OR v textu :<br>- s přiznáním slevy nájemcům bytů v domě Veverkova 23 z důvodu snížení kvality bydlení při výstavbě půdního bytu....<br>na nový text :<br>- s přiznáním slevy nájemcům bytů v domě Veverkova 29 z důvodu snížení kvality bydlení při výstavbě půdního bytu ....<br><br>s provedením stavebních úprav pouze  ve stávajícím bytě nájemce Ing. Jiřího Nulíčka , zastoupeného BD Žižkov , v domě č.p. 360 Kostelní 8<br><br>s provedením opravy elektroinstalace v NP K+B , Alena Kletečková, dům č.p. 389 Milady Horákové 44 , na vlastní náklady nájemce bez kompenzace vložených finančních prostředků<br><br>s přiznáním slevy z nájmu nájemcům v domě  č.p. 1392 Františka Křížka 23 po dobu výstavby  v souvislosti s probíhající stavbou půdního bytu    ve výši :<br>35 % u posledního obytného podlaží a dalších přímo postižených bytů<br>20 % u ostatních bytů<br><br>s přiznáním slevy z nájmu nájemcům Ing. Pavlovi Mariničovi a René Marečkovi , dům  č.p. 1138 U Průhonu 28 ve výši 35 % z nájmu od doby oznámení reklamačních závad nájemci do doby odstranění závad dodavatelem s tím, že ušlá část nájmu bude jako škoda uplatňována na dodavateli stavby<br><br>s dočasnou stavbou autobazaru a venkovní přípojky  kabelu elektrického rozvodu  v ulici U Papírny 1 stavebníkem paní Markétou Profeldovou<br><br>IV.	ukládá <br><br> Určen:	vedoucí odboru	VED OMA Hrubý Roman<br>Termín: 13.08.1999<br>Úkol:	seznámit firmu LetAm s výsledkem projednání žádosti  o umístění reklamního poutače na domě Milady Horákové 83 <br> <br> Určen:	vedoucí odboru	VED OMA Hrubý Roman<br>Termín: 13.08.1999<br>Úkol:	seznámit MHMP s výsledkem projednání žádosti  o stanovisko ke změně vlastníka garáží ve Varhulíkově ulici a pronájmu pozemku <br> <br> Určen:	vedoucí odboru	VED OMA Hrubý Roman<br>Termín: 13.08.1999<br>Úkol:	písemně seznámit družstvo BD Žižkov a  nájemce pana Ing. Jiřího Nulíčka s výsledkem projednání žádosti o souhlas se stavebními úpravami v bytě , Kostelní 8<br> <br> Určen:	vedoucí odboru	VED OMA Hrubý Roman<br>Termín: 13.08.1999<br>Úkol:	písemně seznámit nájemce NP Milady Horákové 44 - K+B paní Alenu Kletečkovou se stanoviskem projednání žádosti o souhlas s opravou elektroinstalace s kompenzací vložených finančních prostředků<br> <br> Určen:	vedoucí odboru	VED OMA Hrubý Roman<br>Termín: 13.08.1999<br>Úkol:	písmeně seznámit správní firmu CENTRA, v.o.s. a nájemce bytů domu Františka Křížka 23 s výsledkem projednání žádosti o přiznání slevy z nájmu<br> <br> Určen:	vedoucí odboru	VED OMA Hrubý Roman<br>Termín: 13.08.1999<br>Úkol:	písemně seznámit správní firmu EXA, s.r.o. a nájemce pana Ing. Pavla Mariniče a pana René Marečka s výsledkem projednání žádosti o přiznání slevy z nájmu<br> <br> Určen:	vedoucí odboru	VED OMA Hrubý Roman<br>Termín: 13.08.1999<br>Úkol:	písemně seznámit Ing. arch. B. Pdpěru, zastupujícího stavebníka paní Markétu Profeldovou s výsledkem projednání žádosti o souhlas s dočasnou stavbou autobazaru a venkovní přípojkou kabelu el. rozvodu v ulici U Papírny 1<br>
+</div>
+</div>

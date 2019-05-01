@@ -1,0 +1,66 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na zřízení Komise rozvoje urbanismu, architektury a veřejného prostoru
+  Rady MČ Praha 7, stanovení počtu členů, jmenování členů a tajemníka komise Rady
+  MČ Praha 7
+datum_vzniku_usneseni: '2014-12-16 00:00:00'
+cislo_usneseni: '0974/14'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24407/59-14-n%c3%a1vrh_na_z%c5%99%c3%adzen%c3%ad_komise_rozvoje.docx
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na zřízení Komise rozvoje urbanismu, architektury a veřejného prostoru Rady MČ Praha 7, stanovení počtu členů, jmenování členů a tajemníka komise Rady MČ Praha 7</h3></span><div class="center">
+		<strong>č. 0974/14</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 16.12.2014</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh na zřízení Komise rozvoje urbanismu, architektury a veřejného prostoru Rady MČ Praha 7, stanovení počtu členů, jmenování členů a tajemníka komise Rady MČ Praha 7</li></ul>
+</li>
+<li>Zřizuje<ul><li>
+<strong>1.</strong> Komisi rozvoje urbanismu, architektury a veřejného prostoru Rady MČ Praha 7</li></ul>
+</li>
+<li>Stanovuje<ul><li>
+<strong>1.</strong> počet členů Komise rozvoje urbanismu, architektury a veřejného prostoru  MČ Praha 7 na 9 členů </li></ul>
+</li>
+<li>Jmenuje<ul><li>
+<strong>1.</strong> členy a tajemníka Komise rozvoje urbanismu, architektury a veřejného prostoru Rady MČ Praha 7 takto:<ul>
+<li>
+<strong>1.1</strong> předseda - PhDr. Richard Biegel, Ph.D.</li>
+<li>
+<strong>1.2</strong> místopředseda - PhDr. Ing.arch. Lenka Burgerová, Ph.D. </li>
+<li>
+<strong>1.3</strong> člen - Ing. arch. Tomáš Cach</li>
+<li>
+<strong>1.4</strong> člen - Ing. arch. Tomáš Drdácký </li>
+<li>
+<strong>1.5</strong> člen - Ing. arch. Ivan Lejčar </li>
+<li>
+<strong>1.6</strong> člen - Ing. arch. MgA. Osamu Okamura </li>
+<li>
+<strong>1.7</strong> člen - Prof. Emil Přikryl</li>
+<li>
+<strong>1.8</strong> člen - MgA. Žofie Raimanová </li>
+<li>
+<strong>1.9</strong> člen - MgA. Ing.arch. Michal Šiška</li>
+<li>
+<strong>1.10</strong> tajemník - Ing. arch. Jitka Šindelářová </li>
+</ul>
+</li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>TAJ Dušek Josef Ing.</li>
+<li>
+<strong>1.1 Úkol: </strong>rozeslat jmenovací dekrety nově zvoleným členům a tajemníkovi Komise rozvoje urbanismu, architektury a veřejného prostoru Rady MČ Praha 7</li>
+<li>
+<strong>1.2 Termín: </strong>31.12.2014</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Mgr. Jan Čižinský<br>zástupce starosty Městské části Praha 7: Mgr. Ondřej Mirovský M.EM 
+</div>
+</div>

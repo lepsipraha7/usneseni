@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na podpis Veřejnoprávní smlouvy o poskytnutí dotace r. 2018 hl.
+  m. Prahou pro příspěvkovou organizaci Pečovatelské centrum Praha 7, Heřmanova 1,
+  IČ 70890307, schválené Zastupitelstvem hl. m. Prahy usnesením č. 33/48 ze dne 25.1.2018
+datum_vzniku_usneseni: '2018-02-20 00:00:00'
+cislo_usneseni: 0132/18-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27206/export/duvodovazprava_dotace_PCP7_2018~327313.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27206/export/VerejnopravnismlouvaMHMP_2018~327312.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27206/export/UsneseniZastupitelstvaHMPc3348~327311.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27206/export/PravidlagrantovehorizeniHMPprorok2018~327310.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27206/export/export~328377.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na podpis Veřejnoprávní smlouvy o poskytnutí dotace r. 2018 hl. m. Prahou pro příspěvkovou organizaci Pečovatelské centrum Praha 7, Heřmanova 1, IČ 70890307, schválené Zastupitelstvem hl. m. Prahy usnesením č. 33/48 ze dne 25.1.2018</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>znění Veřejnoprávní smlouvy DOT/04/03/006813/2018 (příloha č. 2) o poskytnutí grantu formou dotace hl. m. Praha ve výši 3.030.000,- Kč v r. 2018, který je určen pro příspěvkovou organizaci Pečovatelské centrum Praha 7, Heřmanova 1, Praha 7, IČ 70890307</p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>že příspěvková organizace Pečovatelské centrum Praha 7, Heřmanova 1, Praha 7, IČ 70890307 obdržela grant ve výši 3.030.000,- Kč, který je kryt finančními prostředky z rozpočtu hl. m. Prahy a byl schválen Zastupitelstvem hl. m. Prahy usnesením č. 33/48 ze dne 25.1.2018 (příloha č. 3). Příspěvková organizace grant přijímá a zavazuje se ho využít v souladu s "Pravidly grantového řízení hl. m. Prahy pro rok 2018 v oblasti sociálních služeb", které byly schváleny usnesením Rady hl. m. Prahy č. 2180 ze dne 5.9.2017 a v souladu s obecně závaznými předpisy (příloha č. 4). Finanční objem je určen pro Pečovatelskou službu, Denní stacionář a Odlehčovací službu.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Veřejnoprávní smlouvu DOT/04/03/006813/2018 o poskytnutí grantu formou dotace ve výši 3.030.000,- Kč hl. m. Praha příspěvkové organizaci Pečovatelské centrum Praha 7, Heřmanova 1, Praha 7, IČ 70890307</p></span><span class="urzUkolTermin">  Termín:&nbsp;23.2.2018</span></li></ul></li></ol></li></ol>

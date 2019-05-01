@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na podání ústavní stížnosti proti rozsudku Nejvyššího soudu ČR ze
+  dne 24. 4. 2018, č. j. 22 Cdo 4843/2017- 443 a udělení zvláštní plné moci JUDr.
+  Janě Kopáčkové, advokátce, k podání ústavní stížnost a zastupování městské části
+  Praha 7 před Ústavním soudem.
+datum_vzniku_usneseni: '2018-08-07 00:00:00'
+cislo_usneseni: 0614/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30151/export/20180807_REV_c_1__Duvodova_zprava_verejna~381762.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30151/export/export~382159.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh textu ústavní stížnosti proti rozsudku Nejvyššího soudu ČR ze dne 24. 4. 2018, č. j. 22 Cdo 4843/2017- 443 a textu plné moci JUDr. Janě Kopáčkové, advokátce, k podání ústavní stížnost a zastupování městské části Praha 7 před Ústavním soudem.<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na podání ústavní stížnosti proti rozsudku Nejvyššího soudu ČR ze dne 24. 4. 2018, č. j. 22 Cdo 4843/2017- 443 a udělení zvláštní plné moci JUDr. Janě Kopáčkové, advokátce, k podání ústavní stížnost a zastupování městské části Praha 7 před Ústavním soudem.</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>s textem ústavní stížnosti proti rozsudku Nejvyššího soudu ČR ze dne 24. 4. 2018, č. j. 22 Cdo 4843/2017- 443.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>s podáním ústavní stížnosti proti rozsudku Nejvyššího soudu ČR ze dne 24. 4. 2018, č. j. 22 Cdo 4843/2017- 443.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>se zmocněním JUDr. Jany Kopáčkové k podání ústavní stížnosti a zastupování městské části Praha 7 před Ústavním soudem ve věci ústavní stížnosti proti rozsudku Nejvyššího soudu ČR ze dne 24. 4. 2018, č. j. 22 Cdo 4843/2017- 443.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat plnou moc JUDr. Janě Kopáčkové, advokátce, k podání ústavní stížnosti a zastupování městské části Praha 7.</p></span><span class="urzUkolTermin">  Termín:&nbsp;7.8.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OPV Mgr. Kateřina Šilhová Šafránková</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Předat pokyny k podání ústavní stížnosti JUDr. Janě Kopáčkové, advokátce</p></span><span class="urzUkolTermin">  Termín:&nbsp;9.8.2018</span></li></ul></li></ol></li></ol>

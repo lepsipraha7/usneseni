@@ -1,0 +1,23 @@
+---
+layout: detail_usneseni
+nazev_bodu: Výběr dodavatele na opravu většího rozsahu střešního pláště, teras, lodžií,
+  balkónů, a fasády v obytném bloku č.p. 481, 462, Milady Horákové 24, 22, č.p. 461,
+  460a, 460b, Fr. Křížka 11,13, 15, č.p. 457, 456, 455, Heřmanova 41, 43, 45, k.ú.
+  Holešovice,
+datum_vzniku_usneseni: '1999-10-05 00:00:00'
+cislo_usneseni: 0710/99
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Výběr dodavatele na opravu většího rozsahu střešního pláště, teras, lodžií, balkónů, a fasády v obytném bloku č.p. 481, 462, Milady Horákové 24, 22, č.p. 461, 460a, 460b, Fr. Křížka 11,13, 15, č.p. 457, 456, 455, Heřmanova 41, 43, 45, k.ú. Holešovice,</h3></span><div class="center">
+		<strong>č. 0710/99</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 05.10.1999</strong><br><br>
+	</div>
+<br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na výběr dodavatele na opravu většího rozsahu střešního pláště, teras, lodžií, balkónů, a fasády v obytném bloku č.p. 481, 462, Milady Horákové 24, 22, č.p. 461, 460a, 460b, Fr. Křížka 11,13, 15, č.p. 457, 456, 455, Heřmanova 41, 43, 45, k.ú. Holešovice, Praha 7, v souladu se zákonem č. 199/1994 Sb., v platném znění, § 49<br><br>II.	schvaluje <br><br>předloženou zprávu komise pro posouzení a hodnocení nabídek, jmenovanou usnesením OR P - 7  č. 0563/99-OR ze dne 10.08.1999 na výběr dodavatele na opravu většího rozsahu střešního pláště, teras, lodžií, balkónů, a fasády v obytném bloku č.p. 481, 462, Milady Horákové 24, 22, č.p. 461, 460a, 460b, Fr. Křížka 11,13, 15, č.p. 457, 456, 455, Heřmanova 41, 43, 45, k.ú. Holešovice, Praha 7, v souladu se zákonem č. 199/1994 Sb., v platném znění, § 49<br><br>výběr dodavatele na opravu většího rozsahu střešního pláště, teras, lodžií, balkónů, a fasády v obytném bloku č.p. 481, 462, Milady Horákové 24, 22, č.p. 461, 460a, 460b, Fr. Křížka 11,13, 15, č.p. 457, 456, 455, Heřmanova 41, 43, 45, k.ú. Holešovice, Praha 7, v souladu se zákonem č. 199/1994 Sb., v platném znění, § 49, společnost PST INTERIER spol. s r.o., Praha 2, Nad Petruskou 3, IČO : 62912186, za nabídnutou cenu 14 426 057,- Kč včetně DPH<br><br>text smlouvy o dílo na opravu většího rozsahu střešního pláště, teras, lodžií, balkónů, a fasády v obytném bloku č.p. 481, 462, Milady Horákové 24, 22, č.p. 461, 460a, 460b, Fr. Křížka 11,13, 15, č.p. 457, 456, 455, Heřmanova 41, 43, 45, k.ú. Holešovice, Praha 7, v souladu se zákonem č. 199/1994 Sb., v platném znění, § 49, společnost PST INTERIER spol. s r.o., Praha 2, Nad Petruskou 3, IČO : 62912186, za nabídnutou cenu 14 426 057,- Kč včetně DPH<br> <br>III.	zmocňuje <br><br>radního Štěpána Hasala k podpisu smlouvy o dílo na opravu většího rozsahu střešního pláště, teras, lodžií, balkónů, a fasády v obytném bloku č.p. 481, 462, Milady Horákové 24, 22, č.p. 461, 460a, 460b, Fr. Křížka 11,13, 15, č.p. 457, 456, 455, Heřmanova 41, 43, 45, k.ú. Holešovice, Praha 7, v souladu se zákonem č. 199/1994 Sb., v platném znění, § 49, společnost PST INTERIER spol. s r.o., Praha 2, Nad Petruskou 3, IČO : 62912186, za nabídnutou cenu 14 426 057,- Kč včetně DPH<br><br><br>IV.	ukládá <br><br> Určen:	     	RADNI Hasal Štěpán<br>Termín: 11.10.1999<br>Úkol:	podepsat smlouvu o dílo na opravu většího rozsahu střešního pláště, teras, lodžií, balkónů, a fasády v obytném bloku č.p. 481, 462, Milady Horákové 24, 22, č.p. 461, 460a, 460b, Fr. Křížka 11,13, 15, č.p. 457, 456, 455, Heřmanova 41, 43, 45, k.ú. Holešovice, Praha 7, v souladu se zákonem č. 199/1994 Sb., v platném znění, § 49, společnost PST INTERIER spol. s r.o., Praha 2, Nad Petruskou 3, IČO : 62912186, za nabídnutou cenu 14 426 057,- Kč včetně DPH<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 18.10.1999<br>Úkol:	zaslat evidenční list veřejné zakázky - výzvy na opravu většího rozsahu střešního pláště, teras, lodžií, balkónů, a fasády v obytném bloku č.p. 481, 462, Milady Horákové 24, 22, č.p. 461, 460a, 460b, Fr. Křížka 11,13, 15, č.p. 457, 456, 455, Heřmanova 41, 43, 45, k.ú. Holešovice, Praha 7 na úřad dohledu<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 11.10.1999<br>Úkol:	informovat písemně účastníky o výsledku veřejné zakázky - výzvy na opravu většího rozsahu střešního pláště, teras, lodžií, balkónů, a fasády v obytném bloku č.p. 481, 462, Milady Horákové 24, 22, č.p. 461, 460a, 460b, Fr. Křížka 11,13, 15, č.p. 457, 456, 455, Heřmanova 41, 43, 45, k.ú. Holešovice, Praha 7 <br>
+</div>
+</div>

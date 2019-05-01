@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Poskytnutí finančního daru romskému občanskému sdružení ČAČO DROM
+datum_vzniku_usneseni: '2001-10-30 00:00:00'
+cislo_usneseni: 1148/01
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Poskytnutí finančního daru romskému občanskému sdružení ČAČO DROM</h3></span><div class="center">
+		<strong>č. 1148/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 30.10.2001</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na poskytnutí finančního daru romskému občanskému sdružení ČAČO DROM<br><br>II.  schvaluje <br><br>poskytnutí finančního daru romskému občanskému sdružení ČAČO DROM, a to ve výši celkových nákladů 24.611,- Kč; finanční prostředky budou uvolněny z FRR<br><br>III. ukládá <br><br> <br>Určen:	Kroka Pavel<br>Termín: 07.11.2001<br>Úkol:	zajistit podepsání smlouvy romským o. s. ČAČO DROM <br> <br> <br>Určen:	STA Dub Tomáš<br>Termín: 16.11.2001<br>Úkol:	podepsat darovací smlouvu s romským o. s. ČAČO DROM na převod 24.611,- Kč z FRR <br> <br> <br>Určen:	VED OFI Stachová Jaroslava<br>Termín: 23.11.2001<br>Úkol:	uvolnit částku 24.611,- Kč z FRR pro o. s. ČAČO DROM  <br> <br><br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

@@ -1,0 +1,46 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení výběru zhotovitele a podpisu Smlouvy o dílo č. 2016/OIVZ/013
+  k veřejné zakázce "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra
+  s knihovnou II. etapa včetně kapacitní kuchyně", k.ú. Holešovice, Praha 7
+datum_vzniku_usneseni: '2016-04-19 00:00:00'
+cislo_usneseni: '0388/16-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27616/export/1Duvodovazprava~47433.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27616/export/2Usnesenic0138~47432.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27616/export/3Usnesenic0245~47431.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27616/export/4Usnesenic0334~47430.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27616/export/5Pisemnazpravazadavatele~47429.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27616/export/6NavrhSmlouvyodilo~47428.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27616/export/7Rekapitulaceocenenehosoupisupraci~47427.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27616/export/8Harmonogrampraci~47426.xls
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27616/export/9PlnamocPrilohac5smlouvyodilo~47425.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27616/export/13UdajezregistruplatcuDPH~47421.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27616/export/14VypiszORzedne1242016~47420.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27616/export/export~299570.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li class="urzClass1" id=""><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">Návrh na schválení výběru zhotovitele a podpisu Smlouvy o dílo č. 2016/OIVZ/013 k veřejné zakázce "<strong>Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně</strong>", k.ú. Holešovice, Praha 7</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="50">konstatuje,</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">že z důvodu žádosti o přidělení dotací byla Výzva, zadávací dokumentace včetně příloh a projektová dokumentace k VZ "<strong>Výstavba MŠ – Ortenovo náměstí – Přestavba ze</strong></p><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;"><strong>vzdělávacího centra s knihovnou II.etapa včetně kapacitní kuchyně</strong>" zaslána ke konzultaci na Magistrát hl.m. Prahy. Připomínky MHMP k zadávací dokumentaci byly OIVZ zapracovány do zadávacích podmínek a návrhu Smlouvy o dílo č. 2016/OIVZ/013,</p><p>připomínky týkající se projektové dokumentace byly zapracovány do PD generálním projektantem – společností OMEGA project s.r.o., IČO: 28377664.</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="26">souhlasí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">s výběrem zhotovitele a podpisem Smlouvy o dílo č. 2016/OIVZ/013 k veřejné zakázce "<strong>Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně</strong>", k.ú. Holešovice, Praha 7, se společností EMV s.r.o., Vlnitá 890/70, 147 00 Praha 4, IČO: 48038792</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">s Písemnou zprávou zadavatele vypracovanou dle § 85 zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="24">schvaluje</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">text Smlouvy o dílo č. 2016/OIVZ/013 k veřejné zakázce "<strong>Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně</strong>", k.ú. Holešovice, Praha 7, se společností EMV s.r.o., Vlnitá 890/70, 147 00 Praha 4, IČO: 48038792, za nabídkovou cenu 8 300 000,- Kč bez DPH</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">podpis Smlouvy o dílo č. 2016/OIVZ/013 k veřejné zakázce "<strong>Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně</strong>", k.ú. Holešovice, Praha 7, se společností EMV s.r.o., Vlnitá 890/70, 147 00 Praha 4, IČO: 48038792, za nabídkovou cenu 8 300 000,- Kč bez DPH, t.j. 10 043 000,- Kč vč. DPH. Hrazeno OŠK - ORJ 0417.</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">podpis Písemné zprávy zadavatele vypracované dle § 85 zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="16">pověřuje</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>starostu městské části Praha 7 Mgr. Jana Čižinského k podpisu:</p></span>
+<ul class="urzUlClass">
+<li class="urzClass3" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">Smlouvy o dílo č. 2016/OIVZ/013 k veřejné zakázce "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně", k.ú. Holešovice, Praha 7, se společností EMV s.r.o., Vlnitá 890/70, 147 00 Praha 4, IČO: 48038792, za nabídkovou cenu 8 300 000,- Kč bez DPH</p></span></li>
+<li class="urzClass3" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">Plné moci ke Smlouvě o dílo č. 2016/OIVZ/013 k veřejné zakázce "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně", k.ú. Holešovice, Praha 7 pro společnost EMV s.r.o., Vlnitá 890/70, 147 00 Praha 4, IČO: 48038792</p></span></li>
+<li class="urzClass3" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">Písemné zprávy zadavatele vypracované dle § 85 zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů</p></span></li></ul></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Smlouvu o dílo č. 2016/OIVZ/013 k veřejné zakázce "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně", k.ú. Holešovice, Praha 7, se společností EMV s.r.o., Vlnitá 890/70, 147 00 Praha 4, IČO: 48038792, za nabídkovou cenu 8 300 000,- Kč bez DPH</p></span><span class="urzUkolTermin">  Termín:&nbsp;27.4.2016</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Plnou moc ke Smlouvě o dílo č. 2016/OIVZ/013 k veřejné zakázce "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně", k.ú. Holešovice, Praha 7 pro společnost EMV s.r.o., Vlnitá 890/70, 147 00 Praha 4, IČO: 48038792</p></span><span class="urzUkolTermin">  Termín:&nbsp;27.4.2016</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Písemnou zprávu zadavatele vypracované dle § 85 zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů</p></span><span class="urzUkolTermin">  Termín:&nbsp;19.4.2016</span></li></ul></li><li class="urzClass2"><span><p>VED OIVZ JUDr. Olga Ulrichová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zveřejnit podepsanou Smlouvu o dílo č. 2016/OIVZ/013 k veřejné zakázce "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně", k.ú. Holešovice, Praha 7, se společností EMV s.r.o., Vlnitá 890/70, 147 00 Praha 4, IČO: 48038792, za nabídkovou cenu 8 300 000,- Kč bez DPH</p></span><span class="urzUkolTermin">  Termín:&nbsp;4.5.2016</span></li></ul></li><li class="urzClass2"><span><p>VED OIVZ JUDr. Olga Ulrichová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zveřejnit podepsanou Písemnou zprávu zadavatele vypracované dle § 85 zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů</p></span><span class="urzUkolTermin">  Termín:&nbsp;19.4.2016</span></li></ul></li></ol></li>
+</ol>

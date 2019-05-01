@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření nájemních smluv na byty, které přerozdělila RHMP
+datum_vzniku_usneseni: '2001-03-13 00:00:00'
+cislo_usneseni: 0265/01
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření nájemních smluv na byty, které přerozdělila RHMP</h3></span><div class="center">
+		<strong>č. 0265/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 13.03.2001</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na uzavření nájemních smluv na byty, které přerozdělila RHMP<br><br>II.	souhlasí <br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 4+1, který byl přerozdělen RHMP s Evou a Jiřím Staňkovými (1)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 4+1, který byl přerozdělen RHMP s Markétou a Liborem Divišovými - náhradník (2)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 3+1, který byl přerozdělen RHMP s Denisou a Michalem Domínovými (3)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 3+1, který byl přerozdělen RHMP s Evou a Davidem Zadražilovými (4)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 3+1, který byl přerozdělen RHMP s Helenou a Jiřím Mužíkovými - náhradník (5)<br><br>s  návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 2+1, který byl přerozdělen RHMP s Jiřím a Gabrielou Procházkovými (6)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 2+1, který byl přerozdělen RHMP s Renatou Pavelkovou (7)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 2+1, který byl přerozdělen RHMP s Markétou a Milanem Mikšovských (8)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 2+1, který byl přerozdělen RHMP s Františkem  Juřinou a Hanou Švecovou (9)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 2+1, který byl přerozdělen RHMP s Karolinou a Lubošem Eretovými - náhradník (10)<br><br> s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 2+1, který byl přerozdělen RHMP s Petrou a Jaroslavem Vaníčkovými  - náhradník (11)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 1+1, který  byl přerozdělen RHMP s Viktorií  Piskačovou (12)<br><br> s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 1+1, který byl přerozdělen RHMP s Josefem Šináglem (13)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 1+1, který byl přerozdělen RHMP s Renatou a Tomášem Fárovými (14)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 1+1, který byl přerozdělen RHMP s Richardem a Hanou Vejvodovými  - náhradník (15)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 1+1, který byl přerozdělen RHMP s Andreou  Procházkovou - náhradník (16)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 0+1, který byl přerozdělen RHMP s Davidem Vytvarem (17)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné regulované na byt 0+1, který byl přerozdělen RHMP s Zdeňkem Štěpánkem - náhradník (18)<br><br>s návrhem na uzavření nájemní smlouvy  za nájemné 45,-Kč/m2/měsíc na byt 1+1, který byl přerozdělen RHMP s Janou Ulrichovou (19)<br><br>s návrhem na uzavření nájemní smlouvy za nájemné 50,-Kč/m2/měsíc na byt 1+1, který byl přerozdělen RHMP s Petrem a Silvií Benešovými (20)<br><br>s návrhem na uzavření nájemní smlouvy  (za nájemné 45,-Kč/m2/měsíc, 50,-Kč/m2/měsíc) na byt 1+1, který byl přerozdělen RHMP s Danielem a Janou Vacínkovými - náhradník (21)<br><br>III.	ukládá <br><br> Určen:	–––––	VED OBH Kněžourek Jan<br>Termín: 23.03.2001<br>Úkol:	předat návrh konkrétních nájemců na byt 4+1, 3+1, 2+1, 1+1 a 0+1 včetně kompletních materiálů na MHMP - odbor bytový<br> <br><br> <br>
+</div>
+</div>

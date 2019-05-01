@@ -1,0 +1,37 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na souhlas s  prodejem dvou zastaralých vozidel Pečovatelského centra
+  Praha 7 a informace o výběrovém řízení na nákup nového vozidla
+datum_vzniku_usneseni: '2005-11-15 00:00:00'
+cislo_usneseni: 1351/05
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/9024/60-p%c5%99%c3%adloha-usn_1001-r-05.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na souhlas s  prodejem dvou zastaralých vozidel Pečovatelského centra Praha 7 a informace o výběrovém řízení na nákup nového vozidla</h3></span><div class="center">
+		<strong>č. 1351/05</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 15.11.2005</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> návrh na souhlas s  prodejem dvou zastaralých vozidel Pečovatelského centra Praha 7 a informace o výběrovém řízení na nákup nového vozidla</li></ul>
+</li>
+<li>Souhlasí<ul><li>
+<strong>1.</strong> s prodejem zastaralých vozidel FIAT Scudo, AKM 18-17 a FIAT Scudo, AKT 10-22, které byly využívány pro potřeby PC P7</li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>VED OSZ Pilnáčková Miloslava Ing.</li>
+<li>
+<strong>1.1 Úkol: </strong>seznámit vedení PC P7 s usnesením R MČ P7 na souhlas s prodejem zastaralých vozidel FIAT Scudo, AKM 18-17 a FIAT Scudo, AKT 10-22 </li>
+<li>
+<strong>1.2 Termín: </strong>16.11.2005</li>
+</ul>
+</li>
+</ol>starostka Městské části Praha 7: PhDr. Ivana Kučerová<br>zástupce starostky Městské části Praha 7: JUDr. Tomáš Vavřinec 
+</div>
+</div>

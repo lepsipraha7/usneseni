@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na revokaci usnesení Zastupitelstva MČ Praha 7 č. 0004/19-Z ze dne
+  28.01.2019 na poskytnutí programových dotací v rámci dotačního řízení MČ Praha 7
+  v oblastech bezpečnost a protidrogová prevence, kultura, sociální a zdravotní, sport,
+  školství, životní prostředí a péče o veřejný prostor pro rok 2019
+datum_vzniku_usneseni: '2019-04-08 00:00:00'
+cislo_usneseni: 0037/19-Z
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30752/export/M3DV_Poskytnuti_programovych_dotaci_MC_Praha_7_2019_revokace_Jakubal_Z~443683.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30752/export/Priloha_c2_Poskytnuti_programovych_dotaci_MC_Praha_7_2019_revokace~443682.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30752/export/Usneseni_R_0175_19_26_03_2019_Poskytnuti_programovych_dotaci_MC_Praha_7_2019_revokace_Jakubal~443681.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30752/export/Usneseni_Z_0004_19_PoskytnutiobecnychprogramovychdotaciMCPraha7_2019~443680.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30752/export/export~443911.pdf
+organ: zastupitelstvo
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na revokaci usnesení Zastupitelstva MČ Praha 7 č. 0004/19-Z ze dne 28.01.2019 na poskytnutí programových dotací v rámci dotačního řízení MČ Praha 7 v oblastech bezpečnost a protidrogová prevence, kultura, sociální a zdravotní, sport, školství, životní prostředí a péče o veřejný prostor pro rok 2019</p></span></li></ol></li><li class="urzClass1" id=""><span name="21">revokuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>usnesení Zastupitelstva MČ Praha 7 č. 0004/19-Z ze dne 28.01.2019 na poskytnutí programových dotací v rámci dotačního řízení MČ Praha 7 v oblastech bezpečnost a protidrogová prevence, kultura, sociální a zdravotní, sport, školství, životní prostředí a péče o veřejný prostor pro rok 2019 takto: <br></p></span><ol class="urzUlClass" id=""><li class="urzClass3" id="" style="text-align: left;"><span><p>v článcích II a III odst. 1 se mění výše celkového objemu finančních prostředků poskytnutých formou programových dotací z částky 4 730 000 Kč na 4 709 000 Kč</p></span></li><li class="urzClass3" id="" style="text-align: left;"><span><p>v příloze č. 2 se ruší podpora a vyřazuje žádost v oblasti kultury č. 2019-PDK-068 žadatele Jan Jakubal, a to z důvodu nesplnění formálních náležitostí dle Pravidel městské části Praha 7 pro poskytování dotace, konkrétně neoprávněný žadatel – fyzická osoba nepodnikající s trvalým bydlištěm mimo Prahu 7</p></span></li></ol></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED KST PaedDr. Michaela Strnadová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit zveřejnění revokovaného usnesení na úřední desce ÚMČ Praha 7 a internetových stránkách MČ Praha 7 a informovat neúspěšného žadatele</p></span><span class="urzUkolTermin">  Termín:&nbsp;12.4.2019</span></li></ul></li></ol></li></ol>

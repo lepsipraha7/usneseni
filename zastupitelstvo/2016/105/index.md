@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na řešení žádosti občana MČ Praha 7 na uzavření splátkového kalendáře
+  doručené MČ Praha 7 a prominutí dluhu
+datum_vzniku_usneseni: '2016-06-13 00:00:00'
+cislo_usneseni: 0105/16-Z
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27417/export/Duvodova_zprava_RMC_final_verejna~73159.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27417/export/Zadost_verejna~73157.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27417/export/Smlouvaonajmu_verejna~73155.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27417/export/Prehledplateb_verejna~73151.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27417/export/Usneseni_RMC_0568_160531~73150.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27417/export/export~301617.pdf
+organ: zastupitelstvo
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na řešení žádosti občana MČ Praha 7 na uzavření splátkového kalendáře doručené MČ Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass" id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>s uzavřením Uznání dluhu a Smlouvy o zaplacení uznaného dluhu ve splátkách č. 007/16 s žadatelkou na celkovou dlužnou částku ve výši 231.868,- Kč, a to formou 115 po sobě následujících měsíčních splátek ve výši 2.000 Kč a 116. splátky ve výši 1.868,- Kč&nbsp;</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>s prominutím dluhu žadatelky ve výši 251.795,35 Kč.</p></span></li></ol></li><li class="urzClass1" id=""><span name="41">zmocňuje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>Ing. Kamila Vavřince Mareše, zástupce starosty k podpisu&nbsp;Uznání dluhu a Smlouvy o zaplacení uznaného dluhu ve splátkách č. 007/16 s žadatelkou na celkovou dlužnou částku ve výši 231.868,- Kč, a to formou 115 po sobě následujících měsíčních splátek ve výši 2.000 Kč a 116. splátky ve výši 1.868,- Kč.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Uzavřít a podepsat Uznání dluhu a Smlouvy o zaplacení uznaného dluhu ve splátkách č. 007/16 s žadatelkou na celkovou dlužnou částku ve výši 231.868,- Kč, a to formou 115 po sobě následujících měsíčních splátek ve výši 2.000 Kč a 116. splátky ve výši 1.868,- Kč.</p></span><span class="urzUkolTermin">  Termín:&nbsp;17.6.2016</span></li></ul></li><li class="urzClass2"><span><p>VED OPP Mgr. Kateřina Šilhová Šafránková</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat žadatelku o usnesení Z MČ P7</p></span><span class="urzUkolTermin">  Termín:&nbsp;20.6.2016</span></li></ul></li></ol></li></ol>

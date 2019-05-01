@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na podání dvou žádostí MČ Praha 7 k získání investiční dotace z
+  rozpočtu hl. m. Prahy pro MČ HMP v kap. 10 rezerva na rok 2018
+datum_vzniku_usneseni: '2018-02-20 00:00:00'
+cislo_usneseni: 0141/18-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27211/export/Duvodova_zprava~327432.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27211/export/Kopie21letohradska1puvodni_PV~327431.xls
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27211/export/KopieKopie20dukelskych_hrdinu_PV~327430.xls
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27211/export/Pruvodni_dopis2~327429.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27211/export/export~328467.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na podání dvou žádostí MČ Praha 7 k získání investiční dotace z rozpočtu hl. m. Prahy pro MČ HMP v kap. 10 rezerva na rok 2018</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>podání dvou žádostí MČ Praha 7 k získání investiční dotace rozpočtu hl. m. Prahy takto:</p></span><ol class="urzUlClass"><li style="text-align: left;" id="" class="urzClass3"><span><p>ZŠ Letohradská - rozšíření kapacity (příloha č. 2)</p></span></li><li style="text-align: left;" id="" class="urzClass3"><span><p>Revitalizace lékařského domu Dukelských hrdinů 1/342 (příloha č. 3)</p></span></li></ol></li><li style="text-align: left;" id="" class="urzClass2"><span><p>zaslání průvodního dopisu na MHMP (příloha č. 4)<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Podepsat žádosti o investiční dotace z rezervy rozpočtu hl. m. Prahy pro MČ Praha 7 na rok 2018 a průvodní dopis na MHMP (přílohy č. 2, 3 a 4)</p></span><span class="urzUkolTermin">  Termín:&nbsp;1.3.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OFI Ing. Kateřina Lusková</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Zajistit zaslání podepsaných žádostí o investiční dotace z rozpočtu hl. m. Prahy z rezervy pro MČ Praha 7 na rok 2018 a průvodního dopisu (přílohy č. 2, 3 a 4) datovou schránkou či v listinné podobě na MHMP paní Ing. Zdeně Javornické, zástupkyni ředitelky MHMP pro Sekci finanční a správy majetku</p></span><span class="urzUkolTermin">  Termín:&nbsp;1.3.2018</span></li></ul></li></ol></li></ol>

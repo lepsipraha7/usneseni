@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Poskytnutí "dopředné dotace" v objemu 500 000 Kč z neinvestičního příspěvku
+  zřizovatele r. 2018 pro příspěvkovou organizaci Poliklinika Prahy 7, za měsíc květen
+  - červen 2018, v měsíci dubnu 2018
+datum_vzniku_usneseni: '2018-03-27 00:00:00'
+cislo_usneseni: 0236/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29730/export/Duvodovazprava_PoliklinikaP7_doprednadotace0506~338346.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29730/export/PoliklinikaP7_zadostDD0506~338345.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29730/export/ZduvodnenipredplatebprispevkuodzrizovatelenaIIQ2018~338344.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29730/export/export~338841.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>poskytnutí "dopředné dotace" v objemu 500 000 Kč z neinvestičního příspěvku zřizovatele r. 2018 pro příspěvkovou organizaci Poliklinika Prahy 7, za měsíc květen - červen 2018, v měsíci dubnu 2018</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>písemnou žádost příspěvkové organizace Poliklinika Prahy 7 o poskytnutí dopředné dotace na měsíc květen - červen 2018, v měsíci dubnu 2018, ve výši 500 000 Kč z důvodu nedostatku finančních prostředků organizace, k úhradě provozních závazků (příloha č. 2 a 3 tohoto materiálu)</p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>že objem 500 000 Kč představuje dvouměsíční limit (květen - červen) čerpání neinvestičního příspěvku zřizovatele r. 2018 pro příspěvkovou organizaci Poliklinika Prahy 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>poskytnutí objemu 500 000 Kč z neinvestičního příspěvku zřizovatele pro příspěvkovou organizaci Poliklinika Prahy 7 na období květen - červen 2018 formou dopředné dotace, vyplacené v měsíci dubnu 2018</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit poskytnutí objemu 500 000 Kč z neinvestičního příspěvku zřizovatele pro Polikliniku Prahy 7, na období květen - červen 2018, formou "dopředné dotace"</p></span><span class="urzUkolTermin">  Termín:&nbsp;5.4.2018</span></li></ul></li></ol></li></ol>

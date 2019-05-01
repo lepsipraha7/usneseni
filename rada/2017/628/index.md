@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na uzavření smlouvy o výpůjčce mezi MČ Praha 7 a PO Základní škola
+  Praha 7, Strossmayerovo náměstí 4, IČO: 613 89 838, se sídlem Strossmayerovo náměstí
+  990/4, 170 00 Praha 7 v rámci spolupráce při realizaci Zájmových kurzů MČ Praha
+  7 ve školním roce 2017/2018'
+datum_vzniku_usneseni: '2017-07-11 00:00:00'
+cislo_usneseni: '0628/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28590/export/M36_DV_Vypujcka_majetek_Stross_zajmovekurzy_2017_2018~224352.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28590/export/S_Vypujcka_ZSStross_majetek_zajmovekurzy_2017_2018~224351.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28590/export/S_Smlouva_o_spolupraci_ZS_Stross_Zajmove_kurzy_MC_Praha_7_zesystemu_R_AN~224350.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28590/export/RS_Stross_zajmovekurzy_spoluprace_2017_2018~224349.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28590/export/export~295715.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na uzavření smlouvy o výpůjčce mezi MČ Praha 7 a PO Základní škola Praha 7, Strossmayerovo náměstí 4, IČO: 613 89 838, se sídlem Strossmayerovo náměstí 990/4, 170 00 Praha 7 v rámci spolupráce při realizaci Zájmových kurzů MČ Praha 7 ve školním roce 2017/2018</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>uzavření smlouvy o výpůjčce mezi MČ Praha 7 a PO Základní škola Praha 7, Strossmayerovo náměstí 4, IČO: 613 89 838, se sídlem Strossmayerovo náměstí 990/4, 170 00 Praha 7 v rámci spolupráce při realizaci Zájmových kurzů MČ Praha 7 ve školním roce 2017/2018 viz příloha č. 2<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>text smlouvy o výpůjčce mezi MČ Praha 7 a PO Základní škola Praha 7, Strossmayerovo náměstí 4, IČO: 613 89 838, se sídlem Strossmayerovo náměstí 990/4, 170 00 Praha 7 v rámci spolupráce při realizaci Zájmových kurzů MČ Praha 7 ve školním roce 2017/2018 viz příloha č. 2<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="41">zmocňuje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Bc. Lukáše Fátora, DiS., vedoucího Odboru kultury a sportu, k fyzickému předání předmětného majetku a podpisu předávacího protokolu, viz příloha č. 2</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu o výpůjčce mezi MČ Praha 7 a PO Základní škola Praha 7, Strossmayerovo náměstí 4, IČO: 613 89 838 viz příloha č. 2</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.7.2017</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně zajistit výpůjčku majetku dle článků II a III tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.8.2017</span></li></ul></li></ol></li></ol>

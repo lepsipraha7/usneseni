@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření Rámcové smlouvy o provádění exekucí na základě zákona
+  č. 120/2001 Sb., exekuční řád, uzavírané s exekutorem Exekutorského úřadu Praha
+  5, JUDr. Ondřejem Hanákem, Ph.D., soudním exekutorem
+datum_vzniku_usneseni: '2017-05-23 00:00:00'
+cislo_usneseni: 0477/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29038/export/20170522_KSS_REV_Duvodovazprava_EXEramcovasmlouva~203800.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29038/export/20170522_JCH_REV_RamcovasmlouvaPraha7~203799.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29038/export/export~296033.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na uzavření Rámcové smlouvy o provádění exekucí na základě zákona č. 120/2001 Sb., exekuční řád,uzavírané s exekutorem Exekutorského úřadu Praha 5, JUDr. Ondřejem Hanákem, Ph.D., soudním exekutorem, IČ:43914624, sídlem: Malátova 645/18, 150 00, Praha 5<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>podmínky Rámcové smlouvy o provádění exekucí na základě zákona č. 120/2001 Sb., exekuční řád,uzavírané s exekutorem Exekutorského úřadu Praha 5, JUDr. Ondřejem Hanákem, Ph.D., soudním exekutorem, IČ:43914624, sídlem: Malátova 645/18, 150 00, Praha 5</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s uzavřením Rámcové smlouvy o provádění exekucí na základě zákona č. 120/2001 Sb., exekuční řád,uzavírané s exekutorem Exekutorského úřadu Praha 5, JUDr. Ondřejem Hanákem, Ph.D., soudním exekutorem, IČ:43914624, sídlem: Malátova 645/18, 150 00, Praha 5</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Rámcovou smlouvu o provádění exekucí na základě zákona č. 120/2001., exekuční řád,uzavírané s exekutorem Exekutorského úřadu Praha 5, JUDr. Ondřejem Hanákem, Ph.D., soudním exekutorem, IČ:43914624, sídlem: Malátova 645/18, 150 00, Praha 5</p></span><span class="urzUkolTermin">  Termín:&nbsp;23.6.2017</span></li></ul></li></ol></li></ol>

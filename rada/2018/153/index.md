@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na souhlas se zveřejněním dokumentu s názvem Strategický rámec MAP
+  do roku 2023 a přílohy Investiční a další priority Strategického rámce MAP do roku
+  2023 v rámci projektu "Místní akční plány rozvoje vzdělávání – správní obvod Praha
+  7", reg. č. CZ.02.3.68/0.0/0.0/15_005/0000718
+datum_vzniku_usneseni: '2018-02-27 00:00:00'
+cislo_usneseni: 0153/18-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27078/export/Duvodova_zprava1~329466.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27078/export/Strategicky_ramec_MAP_druha_aktualizace_02_2018~329465.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27078/export/Strategicky_ramec_MAP_pril_investice_druha_aktualizace_02_2018~329464.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27078/export/export~329856.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na souhlas se zveřejněním dokumentu s názvem Strategický rámec MAP do roku 2023 a přílohy Investiční a další priority Strategického rámce MAP do roku 2023 v rámci projektu "Místní akční plány rozvoje vzdělávání – správní obvod Praha 7", reg. č. CZ.02.3.68/0.0/0.0/15_005/0000718</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>se zveřejněním dokumentu s názvem Strategický rámec MAP do roku 2023 a přílohy Investiční a další priority Strategického rámce MAP do roku 2023 v rámci projektu "Místní akční plány rozvoje vzdělávání – správní obvod Praha 7", reg. č. CZ.02.3.68/0.0/0.0/15_005/0000718</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat přílohu Investiční a další priority Strategického rámce MAP do roku 2023 v rámci projektu "Místní akční plány rozvoje vzdělávání - správní obvod Praha 7", reg. č. CZ.02.3.68/0.0/0.0/15_005/0000718</p></span><span class="urzUkolTermin">  Termín:&nbsp;28.2.2018</span><div class="urzUkolTermin">  Kontrolní termín:&nbsp;2.3.2018</div></li></ul></li><li class="urzClass2"><span><p>VED KST PaedDr. Michaela Strnadová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit zveřejnění dokumentu s názvem Strategický rámec MAP do roku 2023 a podepsané přílohy Investiční a další priority Strategického rámce MAP do roku 2023 na webových stránkách MČ Praha 7, www.praha7.cz, v sekci "MAP - Místní akční plány rozvoje vzdělávání - správní obvod Praha 7"</p></span><span class="urzUkolTermin">  Termín:&nbsp;5.3.2018</span><div class="urzUkolTermin">  Kontrolní termín:&nbsp;9.3.2018</div></li></ul></li></ol></li></ol>

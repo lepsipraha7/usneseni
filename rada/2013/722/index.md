@@ -1,0 +1,56 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na souhlas s novým vkladem Prohlášení vlastníka budovy č.p. 424
+  Antonínská 8, k.ú. Holešovice, vypracovaného v souladu se zákonem č. 72/1994 Sb.
+  v platném znění, do katastru nemovitostí
+datum_vzniku_usneseni: '2013-09-17 00:00:00'
+cislo_usneseni: 0722/13
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/23659/50-13-priloha_1_01352013.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/23659/50-13-priloha_2_721994.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/23659/50-13-priloha_3_pr1ant8.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/23659/50-13-priloha_4_pr2ant8.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/23659/50-13-priloha_5_0693r13.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na souhlas s novým vkladem Prohlášení vlastníka budovy č.p. 424 Antonínská 8, k.ú. Holešovice, vypracovaného v souladu se zákonem č. 72/1994 Sb. v platném znění, do katastru nemovitostí</h3></span><div class="center">
+		<strong>č. 0722/13</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 17.09.2013</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> návrh na souhlas s novým vkladem Prohlášení vlastníka budovy č.p. 424 Antonínská 8, k.ú. Holešovice, vypracovaného v souladu se zákonem č. 72/1994 Sb. v platném znění, do katastru nemovitostí</li></ul>
+</li>
+<li>Souhlasí<ul>
+<li>
+<strong>1.</strong> s textem Prohlášení vlastníka budovy č.p. 424 Antonínská 8, k.ú. Holešovice, vypracovaného společností G S G spol. s r.o., IČ 44794711, se sídlem Tiskařská 10, 100 00  Praha 10, ke dni 28.06.2013, v souladu se zákonem č. 72/1994 Sb. v platném znění</li>
+<li>
+<strong>2.</strong> s vkladem Prohlášení vlastníka budovy č.p. 424 Antonínská 8, k.ú. Holešovice, vypracovaného společností G S G spol. s r.o., IČ 44794711, se sídlem Tiskařská 10, 100 00  Praha 10, ke dni 28.06.2013, v souladu se zákonem č. 72/1994 Sb. v platném znění, do katastru nemovitostí - Katastrální úřad pro hlavní město Prahu, Katastrální pracoviště Praha</li>
+</ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>STA Ječmének Marek</li>
+<li>
+<strong>1.1 Úkol: </strong>podepsat Prohlášení vlastníka budovy č.p. 424 Antonínská 8, k.ú. Holešovice, vypracovaného společností G S G spol. s r.o., IČ 44794711, se sídlem Tiskařská 10, 100 00  Praha 10, ke dni 28.06.2013, v souladu se zákonem č. 72/1994 Sb. v platném znění</li>
+<li>
+<strong>1.2 Termín: </strong>28.10.2013</li>
+<li>
+<strong>1.3 Úkol: </strong>podepsat návrh  na vklad Prohlášení vlastníka budovy č.p. 424 Antonínská 8, k.ú. Holešovice, vypracovaného společností G S G spol. s r.o., IČ 44794711, se sídlem Tiskařská 10, 100 00  Praha 10, ke dni 28.06.2013, v souladu se zákonem č. 72/1994 Sb. v platném znění, do katastru nemovitostí - Katastrální úřad pro hlavní město Prahu, Katastrální pracoviště Praha</li>
+<li>
+<strong>1.4 Termín: </strong>28.10.2013</li>
+<li>
+<strong><br>2. Určen: </strong>VED OMA Kolář Robert Bc.</li>
+<li>
+<strong>2.1 Úkol: </strong>zajistit vložení Prohlášení vlastníka budovy č.p. 424 Antonínská 8, k.ú. Holešovice, vypracovaného společností G S G spol. s r.o., IČ 44794711, se sídlem Tiskařská 10, 100 00  Praha 10, ke dni 28.06.2013, v souladu se zákonem č. 72/1994 Sb. v platném znění, do katastru nemovitostí - Katastrální úřad pro hlavní město Prahu, Katastrální pracoviště Praha</li>
+<li>
+<strong>2.2 Termín: </strong>31.10.2013</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

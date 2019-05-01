@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci přednáškového cyklu pro veřejnost pod názvem Akademie
+  celoživotního vzdělávání v I. pololetí r. 2019
+datum_vzniku_usneseni: '2019-02-12 00:00:00'
+cislo_usneseni: '0083/19-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30619/export/duvodovazprava_ACV_jaro2019~430195.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30619/export/Smlouvaoprednaskovecinnosti_Machalek2019_verejna~430194.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30619/export/export~430628.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na realizaci přednáškového cyklu pro veřejnost pod názvem Akademie celoživotního vzdělávání v I. pololetí r. 2019</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>realizaci přednáškového cyklu pro veřejnost pod názvem Akademie celoživotního vzdělávání v I. pololetí r. 2019</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>proplacení nákladů spojených s realizací vzdělávacích přednášek pro veřejnost pod názvem Akademie celoživotního vzdělávání v I. pololetí r. 2019, v maximální výši 30 000,- Kč vč. DPH z rozpočtu ORJ OSZ - 0516</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>se zněním a uzavřením Smlouvy o přednáškové činnosti, dle přílohy č. 2 tohoto materiálu</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně zajistit realizaci vzdělávacích přednášek pro veřejnost pod názvem Akademie celoživotního vzdělávání v I. pololetí r. 2019 a zajistit proplacení nákladů v maximální výši 30 000,- Kč vč. DPH z rozpočtu ORJ OSZ-0516</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.5.2019</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Smlouvu o přednáškové činnosti, viz příloha č. 2 tohoto materiálu, v rámci realizace vzdělávacích přednášek pro veřejnost, pod názvem Akademie celoživotního vzdělávání v I. pololetí r. 2019</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.4.2019</span></li></ul></li></ol></li></ol>

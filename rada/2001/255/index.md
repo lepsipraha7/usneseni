@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Realizace usnesení Z MČ P7 ze dne 26.02.2001
+datum_vzniku_usneseni: '2001-02-27 00:00:00'
+cislo_usneseni: 0255/01
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Realizace usnesení Z MČ P7 ze dne 26.02.2001</h3></span><div class="center">
+		<strong>č. 0255/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 27.02.2001</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> usnesení Z MČ P7 ze dne 26.2.2001<br><br>II.	ukládá <br><br> Určen:	–––––	TAJ Dušek Josef<br>Termín: 15.03.2001<br>Úkol:	zajistit vydání nových Pravidel postupu při prodeji bytových domů a bytových jednotek ve vlastnictví hl. m. Prahy, svěřených MČ Praha 7 včetně zákona o prodeji bytů č. 72/1994 v platném znění a jejich distribuci Městské části Praha 7    (0022/01-Z)<br>  Určen:	–––––	RADNI Hasal Štěpán<br>Termín: 31.10.2001<br>Úkol:	předložit Z MČ P7 odhad výnosů z prodeje bytových domů a bytových jednotek a návrh na jejich využití podle části III. „Pravidel postupu při prodeji bytových domů a bytových jednotek ve vlastnictví hl. m. Prahy, svěřených MČ Praha 7“   (0022/01-Z)<br>  Určen:	–––––	STA Dub Tomáš<br>Termín: 28.02.2001<br>Úkol:	realizovat přijaté usnesení na výběr projektů pro poskytnutí grantů MČ Praha 7 v oblasti sportu, kultury, životního prostředí, zdravotnictví, protidrogové prevence, bezpečnosti, sociální a školství pro rok 2001   (0024/01-Z)<br>  Určen:	–––––	ZAS STA Kučerová Ivana<br>Termín: 28.02.2001<br>Úkol:	realizovat přijaté usnesení na výběr projektů pro poskytnutí grantů MČ Praha 7 v oblasti sportu, kultury, životního prostředí, zdravotnictví, protidrogové prevence, bezpečnosti, sociální a školství pro rok 2001   (0024/01-Z)<br>  Určen:	–––––	RADNI Charvátová Zdeňka<br>Termín: 28.02.2001<br>Úkol:	realizovat přijaté usnesení na výběr projektů pro poskytnutí grantů MČ Praha 7 v oblasti sportu, kultury, životního prostředí, zdravotnictví, protidrogové prevence, bezpečnosti, sociální a školství pro rok 2001   (0024/01-Z)<br> <br><br><br> Určen:	–––––	RADNI Lieberman Ari<br>Termín: 28.02.2001<br>Úkol:	realizovat přijaté usnesení na výběr projektů pro poskytnutí grantů MČ Praha 7 v oblasti sportu, kultury, životního prostředí, zdravotnictví, protidrogové prevence, bezpečnosti, sociální a školství pro rok 2001   (0024/01-Z)<br>  Určen:	–––––	RADNI Hasal Štěpán<br>Termín: 28.02.2001<br>Úkol:	realizovat přijaté usnesení na výběr projektů pro poskytnutí grantů MČ Praha 7 v oblasti sportu, kultury, životního prostředí, zdravotnictví, protidrogové prevence, bezpečnosti, sociální a školství pro rok 2001   (0024/01-Z)<br>  Určen:	–––––	RADNI Hasal Štěpán<br>Termín: 15.04.2001<br>Úkol:	realizovat záměr prodeje id. 1/2 nemovitosti č.p. 889, Na Výšinách 14 a id. 1/2 parc. č. 613 a 614, k.ú. Bubeneč, firmě Stepp consult s.r.o., se sídlem Nad Obcí II/52, Praha 4, IČO: 25141767, vzešlé z veřejné soutěže na prodej spoluvlastnických podílů v majetku  (0025/01-Z)<br>  Určen:	–––––	ZAS STA Vayhel Luboš<br>Termín: 05.04.2001<br>Úkol:	vyřídit otevřený dopis, adresovaný Z MČ P7 č.j. 13/Z/01 Mgr. Jitky Paříkové, Dobrovského 26, Praha 7   (0029/01-Z)<br> <br> Určen:	–––––	ZAS STA Kučerová Ivana<br>Termín: 02.04.2001<br>Úkol:	vyřídit dopis, adresovaný Z MČ P7 č.j. 14/Z/01 Mgr. Pavly Baxové, předsedkyně Občanského sdružení Rytmus, Hálkova 4, Praha 2 ve věci žádosti o přidělení většího finančního objemu grantu   (0029/01-Z)<br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> <br><br>              PhDr. Ivana Kučerová                                                                       Ing. Tomáš Dub<br>                zástupkyně starosty                                                                                 starosta<br>               městské části Praha 7                                                                     městské části Praha 7<br>
+</div>
+</div>

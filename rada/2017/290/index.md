@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření nájemní smlouvy s organizací Pečovatelské centrum Praha
+  7, příspěvková organizace, na objekt Kamenická 46/622, Praha 7
+datum_vzniku_usneseni: '2017-03-28 00:00:00'
+cislo_usneseni: '0290/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29215/export/01_NSPCP7622~184943.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29215/export/02_NSPCP7622~184942.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29215/export/export~296425.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh na uzavření nájemní smlouvy s organizací Pečovatelské centrum Praha 7, příspěvková organizace, na objekt Kamenická 46/622, Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že v současné době jsou s&nbsp;organizací Pečovatelské centrum Praha 7, příspěvková organizace, uzavřeny celkem 2 nájemní smlouvy na objekt Kamenická 46/622, kde tato organizace dlouhodobě provozuje sociálně odlehčovací centrum, tudíž je vhodné sjednocení do jedné smlouvy<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s textem a uzavřením nájemní smlouvy na dobu neurčitou, na pronájem celého bytového domu na adrese Kamenická 46/622, Praha 7, s organizací Pečovatelské centrum Praha 7, příspěvková organizace, IČ: 70890307, Heřmanova 1/1415, Praha 7, za nájemné 16.666,- Kč/měsíc/předmět nájmu<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít nájemní smlouvu na dobu neurčitou, na pronájem celého bytového domu na adrese Kamenická 46/622, Praha 7, s organizací Pečovatelské centrum Praha 7, příspěvková organizace, IČ: 70890307, Heřmanova 1/1415, Praha 7, za nájemné 16.666,- Kč/měsíc/předmět nájmu</p></span><span class="urzUkolTermin">  Termín:&nbsp;28.4.2017</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na úpravu platového výměru pro ředitelku příspěvkové organizace
+  Fakultní mateřské školy při Pedagogické fakultě Univerzity Karlovy, Praha 7, Na
+  Výšinách 3
+datum_vzniku_usneseni: '2017-10-10 00:00:00'
+cislo_usneseni: '0914/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29563/export/1Duvodovazprava~255944.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29563/export/export~295113.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na úpravu platového výměru pro ředitelku příspěvkové organizace Fakultní mateřské školy při Pedagogické fakultě Univerzity Karlovy, Praha 7, Na Výšinách 3 v souladu s ustanovením zákona č. 262/2006 S., zákoník práce ve znění pozdějších předpisů a s nařízením vlády č. 564/2006 Sb., o platových poměrech zaměstnanců ve veřejných službách a správě v platném znění</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>úpravu platového výměru pro ředitelku příspěvkové organizace Fakultní mateřské školy při Pedagogické fakultě Univerzity Karlovy, Praha 7, Na Výšinách 3, Mgr. Michaele Eklové na základě odpracovaných let a to změnou platového stupně v platové třídě. Ostatní náležitosti platového výměru jsou beze změny<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>účinnost platového výměru pro Mgr. Michaelu Eklovou ředitelku příspěvkové organizace Fakultní mateřské školy při Pedagogické fakultě Univerzity Karlovy, Praha 7, Na Výšinách 3 od 1.10.2017<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>Ing. Ditu Výborovou vedoucí odboru školství k podpisu upraveného platového výměru pro Mgr. Michaelu Eklovou, ředitelku příspěvkové organizace Fakultní mateřské školy při Pedagogické fakultě Univerzity Karlovy, Praha 7, Na Výšinách 3<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OŠK Ing. Dita Výborová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat ředitelku Mgr. Michaelu Eklovou o změně platového výměru a zároveň jí předat nový platový výměr</p></span><span class="urzUkolTermin">  Termín:&nbsp;25.10.2017</span></li></ul></li></ol></li></ol>

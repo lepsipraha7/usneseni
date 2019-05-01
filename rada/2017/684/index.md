@@ -1,0 +1,22 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na uzavření dodatku č. 2 k nájemní smlouvě ze dne 26.07.2010, na
+  pronájem nebytové jednotky č. 696/101 v domě Dukelských hrdinů 43/696, s nájemcem
+  1. holešovická restaurační s.r.o., IČO: 63996464, kterým se povoluje provedení úprav
+  předmětu nájmu nad rámec běžné údržby'
+datum_vzniku_usneseni: '2017-07-25 00:00:00'
+cislo_usneseni: '0684/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29353/export/01_DOD2_1Holesovicka~228917.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29353/export/02_DOD2_1Holesovicka~228916.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29353/export/03_DOD2_1Holesovicka~228915.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29353/export/04_DOD2_1Holesovicka~228914.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29353/export/05_DOD2_1Holesovicka~228913.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29353/export/06_DOD2_1Holesovicka~228912.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29353/export/07_DOD2_1Holesovicka~228911.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29353/export/08_DOD2_1Holesovicka~228910.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29353/export/09_DOD2_1Holesovicka~228909.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29353/export/export~295601.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh na uzavření dodatku č. 2 k nájemní smlouvě ze dne 26.07.2010, na pronájem nebytové jednotky č. 696/101 v domě Dukelských hrdinů 43/696, s nájemcem 1. holešovická restaurační s.r.o., IČO: 63996464, kterým se povoluje provedení úprav předmětu nájmu nad rámec běžné údržby</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že uzavření dodatku č. 2 k nájemní smlouvě ze dne 26.07.2010, na pronájem nebytové jednotky č. 696/101 v domě Dukelských hrdinů 43/696, s nájemcem 1. holešovická restaurační s.r.o., IČO: 63996464, stávající doba nájmu do 16.06.2025, stávající nájemné 103.179,- Kč/měsíc/předmět nájmu (2 584,33 Kč/m2/rok), kterým se povoluje provedení úprav předmětu nájmu nad rámec běžné údržby, nedochází k podstatným změnám původní nájemní smlouvy (nájemce, doba nájmu, cena nájmu apod.), tudíž není nutné zvěřejnění záměru dle odst. 1) § 36 zákona č. 131/2000 Sb., v platném znění</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s textem a uzavřením dodatku č. 2 k nájemní smlouvě ze dne 26.07.2010, na pronájem nebytové jednotky č. 696/101, provozovna (restaurace a klub se zázemím), o rozloze 479,1 m2, v domě Dukelských hrdinů 43/696, s nájemcem 1. holešovická restaurační s.r.o., IČO: 63996464, Voskovcova 1130/26, Praha 5, stávající doba nájmu do 16.06.2025, stávající nájemné 103.179,- Kč/měsíc/předmět nájmu (2 584,33 Kč/m2/rok), kterým se povoluje provedení úprav předmětu nájmu nad rámec běžné údržby, na základě usnesení Komise pro majetek, bytové a nebytové prostory č. 203/17-KMBN ze dne 13.02.2017<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dodatek č. 2 k nájemní smlouvě ze dne 26.07.2010, na pronájem nebytové jednotky č. 696/101, provozovna (restaurace a klub se zázemím), o rozloze 479,1 m2, v domě Dukelských hrdinů 43/696, s nájemcem 1. holešovická restaurační s.r.o., IČO: 63996464, Voskovcova 1130/26, Praha 5, stávající doba nájmu do 16.06.2025, stávající nájemné 103.179,- Kč/měsíc/předmět nájmu (2 584,33 Kč/m2/rok), kterým se povoluje provedení úprav předmětu nájmu nad rámec běžné údržby</p></span><span class="urzUkolTermin">  Termín:&nbsp;4.8.2017</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Podání návrhů na nařízení exekuce na základě pravomocných soudních rozhodnutí
+datum_vzniku_usneseni: '2002-02-19 00:00:00'
+cislo_usneseni: 0140/02
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Podání návrhů na nařízení exekuce na základě pravomocných soudních rozhodnutí</h3></span><div class="center">
+		<strong>č. 0140/02</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 19.02.2002</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na podání návrhů na nařízení exekuce na základě pravomocných soudních rozhodnutí<br><br><br>II.	souhlasí<br><br>s podáním návrhů na nařízení exekuce na základě pravomocných soudních rozhodnutí proti povinným uvedeným v příloze č.1, která je součástí tohoto materiálu<br><br><br>III.	ukládá <br><br> <br><br> <br>Určen:	VED OP Lužová Jana<br>Termín: průběžně<br>Úkol:	zajistit podání návrhů na nařízení exekuce na základě pravomocných soudních rozhodnutí proti povinným uvedeným v příloze č.1, která je součástí tohoto materiálu<br> <br><br> <br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Alžbětě Bagárové<br> <br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Josefu Čadkovi<br> <br><br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Věře Faixové<br> <br><br><br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti společnosti GIS<br> <br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Jaroslavu Gubičovi a Zuzaně Gubičové<br> <br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Evě Hamáčkové<br> <br><br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Ladislavu Haurovi<br> <br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Petru Havelkovi<br> <br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Zdeňku Lukášovi<br> <br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Pavlu Mašínovi<br> <br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti společnosti Metasoft s.r.o.<br> <br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Daniele Petrlové<br> <br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti J. Rybníčkovi a K. Rybníčkové<br> <br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Petru Šatoplechovi<br> <br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Michalu Štěpánkovi<br> <br><br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Lubomíru Švecovi<br> <br><br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrhy na nařízení exekuce proti Karlu Valdhausovi<br> <br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 31.03.2002<br>Úkol:	podepsat návrh na nařízení exekuce proti Janu Vítovi<br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	Ing. Tomáš Dub starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

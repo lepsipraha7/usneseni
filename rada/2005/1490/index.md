@@ -1,0 +1,40 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na pověření JUDr.Martina Nováka k podpisování žalob včetně přivolení
+  výpovědi z nájmu bytů a k zastupování MČ Praha 7 před soudy
+datum_vzniku_usneseni: '2005-12-06 00:00:00'
+cislo_usneseni: 1490/05
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na pověření JUDr.Martina Nováka k podpisování žalob včetně přivolení výpovědi z nájmu bytů a k zastupování MČ Praha 7 před soudy</h3></span><div class="center">
+		<strong>č. 1490/05</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 06.12.2005</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> předložený materiál  - Návrh na pověření JUDr. Martina Nováka k podpisování žalob pro pohledávky včetně přivolení výpovědi z nájmu bytů a k zastupování MČ Praha 7 před soudy</li></ul>
+</li>
+<li>Souhlasí<ul><li>
+<strong>1.</strong> s pověřením JUDr.Martina Nováka k podpisování žalob pro pohledávky včetně přivolení výpovědi z nájmu bytů a k zastupování MČ Praha 7 před soudy</li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>STA Kučerová Ivana PhDr.</li>
+<li>
+<strong>1.1 Úkol: </strong>podepsat plnou moc pro JUDr.Martina Nováka, advokáta, k zastupování MČ Praha 7 ve věci podávání žalob na pohledávky za nájemné a služby ve výši 22.872,-Kč proti Jaroslavě Staňkové, bytem Šmeralova 27/197 P 7(1)</li>
+<li>
+<strong>1.2 Termín: </strong>31.12.2005</li>
+<li>
+<strong>1.3 Úkol: </strong>podepsat plnou moc pro JUDr.Martina Nováka, advokáta, k zastupování MČ Praha 7 ve věci přivolení soudu k výpovědi z nájmu bytu č.4, Šmeralova 27/197 P 7 proti Jaroslavě Staňkové (1) </li>
+<li>
+<strong>1.4 Termín: </strong>31.12.2005</li>
+</ul>
+</li>
+</ol>starostka Městské části Praha 7: PhDr. Ivana Kučerová<br>zástupce starostky Městské části Praha 7: JUDr. Tomáš Vavřinec <hr>
+<br>Přílohy: Neveřejné</div>
+</div>

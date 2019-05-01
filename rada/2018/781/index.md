@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na zmocnění jednatele společnosti CreoPlan s.r.o. (IČO: 05209072)
+  Marka Mergla k jednání jménem MČ Praha 7 v souvislosti s uvažovanou stavbou „Umístění
+  pítek, park Tusarova ulice a Řezáčovo náměstí'''''
+datum_vzniku_usneseni: '2018-10-30 00:00:00'
+cislo_usneseni: '0781/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30325/export/DUVODOVAZPRAVA~402483.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30325/export/export~402638.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na zmocnění jednatele společnosti CreoPlan s.r.o. (IČO: 05209072) Marka Mergla k jednání jménem MČ Praha 7 v souvislosti s uvažovanou stavbou „Umístění pítek, park Tusarova ulice a Řezáčovo náměstí''</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na zmocnění jednatele společnosti CreoPlan s.r.o. (IČO: 05209072) Marka Mergla k jednání jménem MČ Praha 7 v souvislosti s uvažovanou stavbou „Umístění pítek, park Tusarova ulice a Řezáčovo náměstí''</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>znění plné moci k jednání jednatele společnosti CreoPlan s.r.o. (IČO: 05209072) Marka Mergla jménem MČ Praha 7 v souvislosti s uvažovanou stavbou „Umístění pítek, park Tusarova ulice a Řezáčovo náměstí''</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OVP Mgr. Knitl Jiří</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Připravit k podpisu plnou moc pro jednatele společnosti CreoPlan s.r.o. (IČO: 05209072) Marka Mergla k jednání jménem MČ Praha 7 v souvislosti s uvažovanou stavbou „Umístění pítek, park Tusarova ulice a Řezáčovo náměstí''</p></span><span class="urzUkolTermin">  Termín:&nbsp;16.11.2018</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Podepsat plnou moc zmocňující jednatele společnosti CreoPlan s.r.o. (IČO: 05209072) Marka Mergla k jednání jménem MČ Praha 7 v souvislosti s uvažovanou stavbou „Umístění pítek, park Tusarova ulice a Řezáčovo náměstí''</p></span><span class="urzUkolTermin">  Termín:&nbsp;16.11.2018</span></li></ul></li></ol></li></ol>

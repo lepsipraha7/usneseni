@@ -1,0 +1,19 @@
+---
+layout: detail_usneseni
+nazev_bodu: Zpráva o výsledcích hospodaření MČ Praha 7 za 1.-3.čtvrtletí 2000
+datum_vzniku_usneseni: '2000-11-14 00:00:00'
+cislo_usneseni: 1164/00
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Zpráva o výsledcích hospodaření MČ Praha 7 za 1.-3.čtvrtletí 2000</h3></span><div class="center">
+		<strong>č. 1164/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 14.11.2000</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh ke zprávě o výsledcích hospodaření MČ Praha 7 za 1.-3.čtvrtletí 2000 - hlavní činnost		<br><br>II.	konstatuje,<br><br>že výsledkem hospodaření MČ P/7 za 1.-3.čtvrtletí 2000 (dle účetního výkazu FIN RO 2-12 M) je rozdíl příjmů a výdajů (přebytek) ve výši					 	24   934,8 tis.Kč<br><br>příjmy k 30.9.2000				         +	195 993,5 tis.Kč<br>výdaje k 30.9.2000				          -	171 058,7 tis.Kč<br>přebytek					         +  24  934,8 tis.Kč<br><br>- celkové příjmy byly plněny částkou 195 993,5 tis.Kč <br>tj. 81,0 % SR (242 012,5 tis.Kč) a 74,1 % UR (264 527,9 tis.Kč)<br><br>- celkové výdaje byly realizovány v objemu  171 058,7 tis.Kč<br>tj. 66,7 % SR (256 507,5 tis.Kč) a 59,1 % UR (289 241,1 tis.Kč)<br><br>- saldo příjmů a výdajů, v SR vyjádřeno objemem - 14 495,0 tis.Kč,  v UR k 30.9.2000 vyjádřeno objemem  - 24 713,2 tis.Kč, představuje ve skutečnosti +  24 934,8 tis.Kč<br><br>III.	souhlasí <br><br>- aby ZMČ P/7 byla předložena zpráva o výsledcích hospodaření MČ P/7 za l.-3. čtvrtletí 2000 - hlavní činnost s těmito výsledky hospodaření:<br><br>příjmy k 30.9.2000				         +	195 993,5 tis.Kč<br>výdaje k 30.9.2000				          -	171 058,7 tis.Kč<br>přebytek					         +  24  934,8 tis.Kč<br><br>- aby ZMČ P/7 byl předložen návrh na provedení přesunu finančních prostředků z FRIM do Fondu rezervního u PO ZŠ Letohradská, a to ve výši 150,0 tis.Kč na dokrytí neinvestičních potřeb organizace<br><br><br><br><br>IV.	schvaluje <br><br>návrh usnesení ke zprávě o výsledcích hospodaření MČ Praha 7 za l.-3.čtvrtletí 2000 pro ZMČ P/7 na zasedání 4.12.2000, včetně návrhu na provedení přesunu finančních prostředků z FRIM do Fondu rezervního, a to ve výši 150,0 tis.Kč u PO ZŠ Letohradská na dokrytí neinvest. potřeb organizace<br><br>V.	ukládá <br><br> Určen:	–––––	RADNI Charvátová Zdeňka<br>Termín: 04.12.2000<br>Úkol:	předložit zprávu o výsledcích hospodaření MČ P/7 za 1.-3.čtvrtletí 2000 včetně návrhu na provedení přesunu finančních prostředků z   FRIM do Fondu rezervního, a to ve výši 150,0 tis.Kč u PO ZŠ Letohradská na dokrytí neinvest. potřeb organizace na jednání ZMČ dne 4.12.2000<br> <br> Určen:	–––––	RADNI Charvátová Zdeňka<br>Termín: 31.12.2000<br>Úkol:	prostřednictvím vedoucích ORJ v oblasti svěřených kompetencí zajistit odstranění nedostatků, které vyplynuly z hodnocení výsledků hospodaření za 1.-3.čtvrtletí 2000 a z rozborového jednání PO (OKD, Hobulet), vč. zajištění odstranění ztrát u PO<br>  Určen:	–––––	ZAS STA Kučerová Ivana<br>Termín: 31.12.2000<br>Úkol:	prostřednictvím vedoucích ORJ v oblasti svěřených kompetencí zajistit odstranění nedostatků, které vyplynuly z hodnocení výsledků hospodaření za 1.-3.čtvrtletí 2000 a z rozborového jednání  RO (OÚSS) a PO (SAZ, MŠ, ZŠ ), vč. zajištění odstranění ztrát u PO<br>  Určen:	–––––	ZAS STA Vayhel Luboš<br>Termín: 31.12.2000<br>Úkol:	prostřednictvím vedoucích ORJ v oblasti svěřených kompetencí zajistit odstranění nedostatků, které vyplynuly z hodnocení výsledků hospodaření za 1.-3.čtvrtletí 2000<br> <br> Určen:	–––––	RADNI Hasal Štěpán<br>Termín: 31.12.2000<br>Úkol:	prostřednictvím vedoucích ORJ v oblasti svěřených kompetencí zajistit odstranění nedostatků, které vyplynuly z hodnocení výsledků hospodaření za 1.-3.čtvrtletí 2000<br> <br><br><br><br><br><br> </div>
+</div>

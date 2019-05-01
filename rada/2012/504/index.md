@@ -1,0 +1,48 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na jmenování nového člena komise pro konkurzní řízení na obsazení
+  funkce ředitele/ky na  PO MŠ Praha 7, Nad Štolou 6. '
+datum_vzniku_usneseni: '2012-07-18 00:00:00'
+cislo_usneseni: 0504/12
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/22686/37-12-usnesen%c3%ad_498.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/22686/37-12-usnesen%c3%ad_502.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/22686/37-12-vyhl%c3%a1%c5%a1ka_54.2005.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/22686/37-12-aktualizovan%c3%bd_harmonogram_na_konkurzn%c3%ad_%c5%99%c3%adzen%c3%ad_m%c5%a1_nad_%c5%a1tolou_ii._2012.xls
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na jmenování nového člena komise pro konkurzní řízení na obsazení funkce ředitele/ky na  PO MŠ Praha 7, Nad Štolou 6. </h3></span><div class="center">
+		<strong>č. 0504/12</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 18.07.2012</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh na jmenování nového člena komise pro konkurzní řízení na obsazení funkce ředitele/ky na  PO MŠ Praha 7, Nad Štolou 6 </li></ul>
+</li>
+<li>Odvolává<ul><li>
+<strong>1.</strong> člena konkurzní komise, zástupce za oblast státní sp. a školství, ÚMČ Praha 7 , pana Mgr. Filipa Kuchaře, který byl usnesením Rady MČ P-7 č. 0498/12-R ze dne 26.06.2012 jmenován  pro konkurzní řízení na obsazení funkce ředitele/ky na  PO MŠ Praha 7, Nad Štolou 6</li></ul>
+</li>
+<li>Souhlasí<ul><li>
+<strong>1.</strong> se jmenováním zástupce za oblast státní sp. a školství, ÚMČ Praha 7 , pana Ing. Josefa Duška za člena komise pro konkurzní řízení na obsazení funkce ředitele/ky na  PO MŠ Praha 7, Nad Štolou 6     </li></ul>
+</li>
+<li>Jmenuje<ul><li>
+<strong>1.</strong> za člena komise pro konkurzní řízení na obsazení funkce ředitele/ky na  PO MŠ Praha 7, Nad Štolou 6:<ul><li>
+<strong>1.1</strong> Ing. Josefa Duška ( za oblast státní sp. a školství, ÚMČ Praha 7 )</li></ul>
+</li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>TAJ Dušek Josef Ing.</li>
+<li>
+<strong>1.1 Úkol: </strong>vystavit jmenovací dekret dle tohoto usnesení novému členu konkurzní komise.</li>
+<li>
+<strong>1.2 Termín: </strong>18.07.2012</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

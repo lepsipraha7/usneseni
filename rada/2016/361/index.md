@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na vyhlášení soutěže - záměru - pronájmu volné bytové jednotky č.
+  230/23 v domě Malířská 7/230 za nejvyšší nabídnuté nájemné, minimálně však za 142,-
+  Kč/m²/měsíc (17.160,70 Kč/měsíc/předmět nájmu)
+datum_vzniku_usneseni: '2016-04-12 00:00:00'
+cislo_usneseni: 0361/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27555/export/DZ_BJ23023~44298.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27555/export/02_BJ23023~44297.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27555/export/03_BJ23023~44296.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27555/export/04_BJ23023~44295.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27555/export/05_BJ23023~44294.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27555/export/06_BJ23023~44293.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27555/export/07_BJ23023~44292.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27555/export/08_BJ23023~44291.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27555/export/export~299624.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh na vyhlášení soutěže - záměru - pronájmu volné bytové jednotky č. 230/23 v domě Malířská 7/230 za nejvyšší nabídnuté nájemné, minimálně však za 142,- Kč/m²/měsíc (17.160,70 Kč/měsíc/předmět nájmu)</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s textem a vyhlášením záměru pronájmu volné bytové jednotky č. 230/23, o velikosti 122,3 m² (plocha pro výpočet nájmu 120,85 m²), dispozičně 3+1, v 6.NP domu Malířská 7/230, Praha 7 - Bubeneč,&nbsp;za nejvyšší nabídnuté nájemné, minimálně však za 142,- Kč/m²/měsíc (17.160,70 Kč/měsíc/předmět nájmu), se zveřejněním na úřední desce Ú MČ P7, portálech www.bezrealitky.cz, www.hyperinzerce.cz, www.bazos.cz, www.sreality.cz a FCB MČ P7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s tím, aby otevírání, posouzení a hodnocení došlých nabídek k vyhlášenému záměru provedla příslušná komise, zpravidla Komise pro majetek, bytové a nebytové prostory</p></span></li></ol></li><li id="" class="urzClass1"><span name="77">stanovuje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>termín otevírání, posouzení a hodnocení došlých nabídek k vyhlášenému záměru na den 30.05.2016 v 17:00 hodin, kancelář č. 225, Úřad MČ Praha 7, nábř. Kpt. Jaroše 1000, Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zveřejnit záměr pronájmu volné bytové jednotky č. 230/23, o velikosti 122,3 m² (plocha pro výpočet nájmu 120,85 m²), dispozičně 3+1, v 6.NP domu Malířská 7/230, Praha 7 - Bubeneč, za nejvyšší nabídnuté nájemné, minimálně však za 142,- Kč/m²/měsíc (17.160,70 Kč/měsíc/předmět nájmu), na úřední desce Ú MČ P7, portálech www.bezrealitky.cz, www.hyperinzerce.cz, www.bazos.cz, www.sreality.cz a FCB MČ P7</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.4.2016</span></li></ul></li><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat členy Komise pro majetek, bytové a nebytové prostory <br>o termínu otevírání, posouzení a hodnocení došlých nabídek ke zde vyhlášeným záměrům</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.4.2016</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,12 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci Jarního koncertu MČ Praha 7 v kostele sv. Antonína,
+  Praha 7 v roce 2019
+datum_vzniku_usneseni: '2019-02-26 00:00:00'
+cislo_usneseni: '0109/19-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30636/export/M8DV_JarnikoncertMCPraha7~433072.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30636/export/export~433577.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal " id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na realizaci Jarního koncertu MČ Praha 7 v kostele sv. Antonína, Praha 7 v roce 2019</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>realizaci Jarního koncertu MČ Praha 7, konaného dne 30.04.2019 od 19.30 h v kostele sv. Antonína na Strossmayerově nám., Praha 7<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů v max. 45 000 Kč vč. DPH, formou faktury, spolku Piccolo coro &amp; Piccola orchestra, z.s., IČO: 684 04 689, se sídlem pplk. Sochora 28, 170 00 Praha 7, za produkční a umělecké zajištění koncertu, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů v max. výši 3 000 Kč vč. DPH, formou faktury, církevní právnické osobě Římskokatolická farnost u kostela sv. Antonína Praha - Holešovice, IČO: 496 25 870, se sídlem Dukelských hrdinů 616/54, 170 00 Praha 7, za provozní náklady s akcí spojené, hrazeno z rozpočtu OKS ORJ 621 - kultura<br></p><p><br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci Jarního koncertu MČ Praha 7 dle ustanovení článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;24.5.2019</span></li></ul></li></ol></li></ol>

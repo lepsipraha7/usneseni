@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Realizace usnesení 5. zasedání Zastupitelstva MČ Praha 7 dne 17.12. 2001
+datum_vzniku_usneseni: '2001-12-27 00:00:00'
+cislo_usneseni: 1406/01
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Realizace usnesení 5. zasedání Zastupitelstva MČ Praha 7 dne 17.12. 2001</h3></span><div class="center">
+		<strong>č. 1406/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 27.12.2001</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>usnesení  5. zasedání Zastupitelstva MČ Praha 7 ze dne 17.12. 2001<br><br>II.	ukládá <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 31.12.2001<br>Úkol:	uzavřít dohodu o splátkách formou 66 měsíčních splátek ve výši 500,- Kč a 67. splátky ve výši 705,- Kč s Ludmilou Bártlovou, jejíž dluh činí celkem 33.705,- Kč (1)<br> <br><br> <br>Určen:	VED OFI Stachová Jaroslava<br>Termín: 21.12.2001<br>Úkol:	potvrdit PO SAZ úpravu objemu prostředků na platy a počtu pracovníků v PO SAZ v P/7 pro r. 2001<br> <br><br> <br>Určen:	VED OFI Stachová Jaroslava<br>Termín: 21.12.2001<br>Úkol:	potvrdit PO Vydavatelství Hobulet úpravu objemu prostředků na platy a počtu pracovníků v PO Vydavatelství Hobulet pro r. 2001<br> <br><br> <br>Určen:	VED OŠK Cerman Miroslav<br>Termín: 15.01.2001<br>Úkol:	projednat s p. Dudou podmínky dodržení nájemní smlouvy NP Čechova 29 pro MŠ Čechova<br> <br><br> <br>Určen:	VED OMA Hrubý Roman<br>Termín: 30.12.2001<br>Úkol:	před podpisem kupní smlouvy na dům Bubenská 7 č.p. 412, parc. č. 2299 k.ú. Holešovice Praha 7 dořešit finanční vyrovnání mezi MČ Praha 7 a družstvem Vltava 7 se sídlem Praha 7 Holešovice, Bubenská 412/7, IČO: 26459779 za zhodnocení bytové jednotky ve výši 80.000,- Kč<br> <br><br><br><br><br> <br>Určen:	VED OFI Stachová Jaroslava<br>Termín: 30.04.2002<br>Úkol:	realizovat záměr na poskytnutí finančního příspěvku v minimální výši 220.000,- Kč na opravu fasád objektu č.p. 673, ul. Kamenická 5, Praha 7, Holešovice v rámci Programu regenerace MPR a MPZ ČR dle usnesení vlády č. 209/92 na rok 2002<br> <br><br> <br>Určen:	VED OMA Hrubý Roman<br>Termín: 31.03.2002<br>Úkol:	realizovat záměr odprodeje pozemku parc. č. 1974/2 o výměře 27m2 ležícího pod soukromou garáží<br> <br><br> <br>Určen:	TAJ Dušek Josef<br>Termín: 21.12.2001<br>Úkol:	zaslat p. Oldřichu Teringerovi jmenovací dekret na základě tohoto usnesení Z MČ P7<br> <br><br> <br>Určen:	TAJ Dušek Josef<br>Termín: 11.01.2002<br>Úkol:	realizovat přijaté usnesení ve věci stanovení měsíční odměny za výkon funkce neuvolněnému členovi Zastupitelstva MČ Praha 7 Ing. Miroslavu Zámkovi CSc.<br> <br><br> <br>Určen:	TAJ Dušek Josef<br>Termín: 11.01.2002<br>Úkol:	realizovat přijaté usnesení ve věci stanovení další odměny neuvolněným členům Zastupitelstva MČ Praha 7<br> <br><br> <br>Určen:	RADNI Charvátová Zdeňka<br>Termín: 28.01.2002<br>Úkol:	předložit informaci o smlouvě o spolupráci s BC Sparta Praha a smlouvě na byt pro sportovce Zastupitelstvu MČ Praha 7<br> <br><br> <br>Určen:	RADNI Hasal Štěpán<br>Termín: 20.12.2001<br>Úkol:	seznámit občany Prahy 7 s odpovědí na jejich petici o zachování prodejny Ovoce-zelenina v Tusarově ulici<br> <br><br> <br>Určen:	RADNI Hasal Štěpán<br>Termín: 28.01.2002<br>Úkol:	předložit Zastupitelstvu MČ Praha 7 informaci k dopisům adresovaným Zastupitelstvu MČ Praha 7:  č.j. 64/Z/01 jako petici nájemníků domu Letohradská 557/44 Praha 7, č.j. 69/Z/01 nájemníků domu Schnirchova 186/25, Praha 7 ve věci privatizace domu Schnirchova 186/25 Praha 7 170 00<br> <br><br> <br><br><br><br><br><br><br><br><br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 28.01.2002<br>Úkol:	předložit Zastupitelstvu MČ Praha 7 informaci k dopisům adresovaným Zastupitelstvu MČ Praha 7: č.j. 63/Z/01 nájemníků domu č.p. 35/429 v Tusarově ulici Praha 7 170 00 ve věci odvolání proti zamítnutí žádosti o ponechání bytu č. 16 rodině Petra Slavíka<br> <br><br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení a podpis Smlouvy č. DOH/29/02/003403/2017 o finančním
+  vyrovnání prostředků získaných z provozování Zóny placeného stání na území městské
+  části Praha 7
+datum_vzniku_usneseni: '2017-11-14 00:00:00'
+cislo_usneseni: 1030/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28670/export/Duvodovazprava~268431.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28670/export/SmlouvaofinancnimvyrovnanizeZPS2017~268430.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28670/export/materialyRadyMHMP~268429.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28670/export/export~294873.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na schválení a podpis Smlouvy č. DOH/29/02/003403/2017 o finančním vyrovnání prostředků získaných z provozování Zóny placeného stání na území městské části Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>s textem Smlouvy č. DOH/29/02/003403/2017 o finančním vyrovnání prostředků získaných z provozování Zóny placeného stání na území městské části Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>text Smlouvy č. DOH/29/02/003403/2017 o finančním vyrovnání prostředků získaných z provozování Zóny placeného stání na území městské části Praha 7</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>podpis Smlouvy č. DOH/29/02/003403/2017 o finančním vyrovnání prostředků získaných z provozování Zóny placeného stání na území městské části Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>starostu Mgr. Jana Čižinského k podpisu Smlouvy č. DOH/29/02/003403/2017 o finančním vyrovnání prostředků získaných z provozování Zóny placeného stání na území městské části Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Smlouvu č. DOH/29/02/003403/2017 o finančním vyrovnání prostředků získaných z provozování Zóny placeného stání na území městské části Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.11.2017</span></li></ul></li></ol></li></ol>

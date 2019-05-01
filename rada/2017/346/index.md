@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření darovací smlouvy mezi MČ Praha 7 a společností REALITNÍ
+  FOND PRAHA a.s., IČO 03071740, zastoupené Ing. Janem Bürgermeisterem
+datum_vzniku_usneseni: '2017-04-11 00:00:00'
+cislo_usneseni: 0346/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29253/export/c1_Duvodovazpava~189285.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29253/export/c1_Duvodovazpava~189284.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29253/export/smlouva~189283.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29253/export/export~296307.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>předložený materiál - Návrh na uzavření darovací smlouvy mezi MČ Praha 7 a společností REALITNÍ FOND PRAHA a.s., IČO 03071740, investorem záměru „Nástavba o jedno podlaží a přístavba výtahu domu č. p. 901, k. ú. Bubeneč, Na Výšinách 6, Praha 7“, zastoupené Ing. Janem Bürgermeisterem, kterou bude Městské části Praha 7 poskytnut finanční dar ve výši 238.500 korun pro účely rozvoje a rozšíření školských zařízení na jejím území</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>s textem a obsahem darovací smlouvy mezi MČ Praha 7 a společností REALITNÍ FOND PRAHA a.s., IČO 03071740, zastoupené Ing. Janem Bürgermeisterem, která je přílohou tohoto usnesení - viz. příloha č. 2 - Smlouva</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>uzavření&nbsp;darovací smlouvy mezi MČ Praha 7 a společností REALITNÍ FOND PRAHA a.s., IČO 03071740, zastoupené Ing. Janem Bürgermeisterem, která je přílohou tohoto usnesení - viz. příloha č. 2 - Smlouva</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat darovací smlouvu mezi MČ Praha 7 a investorem záměru „Nástavba o jedno podlaží a přístavba výtahu domu č. p. 901, k. ú. Bubeneč, Na Výšinách 6, Praha 7“</p></span><span class="urzUkolTermin">  Termín:&nbsp;18.4.2017</span></li></ul></li><li class="urzClass2"><span><p>VED ORZ Fialová Martina Ing. arch.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>odeslat darovací smlouvu mezi a MČ Praha 7 investorem záměru „Nástavba o jedno podlaží a přístavba výtahu domu č. p. 901, k. ú. Bubeneč, Na Výšinách 6, Praha 7“</p></span><span class="urzUkolTermin">  Termín:&nbsp;21.4.2017</span></li></ul></li></ol></li></ol>

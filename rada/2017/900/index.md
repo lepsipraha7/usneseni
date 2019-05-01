@@ -1,0 +1,19 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení výběru poskytovatele a podpisu Rámcové dohody č. 2017/OIVZ/054
+  k veřejné zakázce malého rozsahu "Vánoční výzdoba a osvětlení pro MČ Praha7"
+datum_vzniku_usneseni: '2017-10-03 00:00:00'
+cislo_usneseni: '0900/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29576/export/1Duvodovazprava~253623.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29576/export/Prilohac2Navrhramcovedohoda_fin~253621.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29576/export/Prilohac5Specifikaceplneni_fin~253620.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29576/export/Prilohac6VyjadrenikvanocnimdekorumnaVO2017~253619.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29576/export/export~295141.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: justify;" id="" class="urzClass2"><span><p style="text-align: justify;" data-mce-style="text-align: justify;">návrh na schválení výběru poskytovatele a podpisu&nbsp;Rámcové dohody č. 2017/OIVZ/054 k veřejné zakázce malého rozsahu <!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:TargetScreenSize>800x600</o:TargetScreenSize>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><strong>"Vánoční výzdoba a osvětlení pro MČ Praha 7"</strong></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: justify;" id="" class="urzClass2"><span><p style="text-align: justify;" data-mce-style="text-align: justify;">text&nbsp;Rámcové dohody č. 2017/OIVZ/054 k veřejné zakázce malého rozsahu <strong>"Vánoční výzdoba a osvětlení pro MČ Praha 7</strong>", se společností BON JOUR ILLUMINATION s.r.o., Fráni Šrámka 18, 150 00 Praha 5, IČO: 25683853<br></p></span></li><li style="text-align: justify;" id="" class="urzClass2"><span><p style="text-align: justify;" data-mce-style="text-align: justify;">podpis&nbsp;Rámcové dohody č. 2017/OIVZ/054 k veřejné zakázce malého rozsahu <strong>"Vánoční výzdoba a osvětlení pro MČ Praha 7</strong>", se společností BON JOUR ILLUMINATION s.r.o., Fráni Šrámka 18, 150 00 Praha 5, IČO: 25683853, za nabídkovou cenu 240 000,- Kč bez DPH, tj. 290 400,- Kč včetně DPH / rok a Smlouva bude uzavírána na 4 roky . Hrazeno ORJ 621 - OKS - kultura.</p></span></li></ol></li><li id="" class="urzClass1"><span name="16">pověřuje</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>starostu městské části Praha 7 Mgr. Jana Čižinského k podpisu:</p></span></li><li style="text-align: justify;" id="" class="urzClass2"><span><p style="text-align: justify;" data-mce-style="text-align: justify;">Rámcové dohody&nbsp;č. 2017/OIVZ/054 k veřejné zakázce malého rozsahu "<strong>Vánoční výzdoba a osvětlení pro MČ Praha 7</strong>", se společností BON JOUR ILLUMINATION s.r.o., Fráni Šrámka 18, 150 00 Praha 5, IČO: 25683853, za nabídkovou cenu 240 000,- Kč bez DPH.<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Příkazní smlouvu č. 2017/OIVZ/054 k veřejné zakázce malého rozsahu "Vánoční výzdoba a osvětlení pro MČ Praha 7", se společností BON JOUR ILLUMINATION s.r.o., Fráni Šrámka 18, 150 00 Praha 5, IČO: 25683853, za nabídkovou cenu 240 000,- Kč bez DPH</p></span><span class="urzUkolTermin">  Termín:&nbsp;10.10.2017</span></li></ul></li></ol></li></ol>

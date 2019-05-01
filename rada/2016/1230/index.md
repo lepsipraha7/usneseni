@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na udělení slevy 200,- Kč měsíčně panu Indrákovi, uživateli garáže
+  č. 481/105 (dle PV) na adrese Milady Horákové 481/24, Praha 7 za užívání příslušného
+  prostoru z důvodu povinnosti hradit 200,- Kč měsíčně za průjezd
+datum_vzniku_usneseni: '2016-12-01 00:00:00'
+cislo_usneseni: 1230/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28407/export/Duvodova_zprava2606~141029.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28407/export/export~297191.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na udělení slevy 200,- Kč měsíčně panu Indrákovi, uživateli garáže č. 481/105 (dle PV) na adrese Milady Horákové 481/24, Praha 7 za užívání příslušného prostoru z důvodu povinnosti hradit 200,- Kč měsíčně za průjezd</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že pan Indrák a ani pan Fojtík (namítající proti záměru zveřejněnému od 27.09.2016 do 11.10.2016, jehož námitku vypořádala Rada usnesením č. 1051/16-R ze dne 25.10.2016) nebyli seznámeni s povinností hradit 200,- Kč měsíčně za průjezd přes dvůr společnosti Sedmá ubytovací s.r.o.</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že výsledné měsíční nájemné 2941,- Kč je stále vyšší než stanovené znaleckým posudkem č. 4251-56-2016 ze dne 28.07.2016</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>slevu 200,- Kč měsíčně panu Indrákovi, uživately garáže č. 481/105 (dle PV) na adrese Milady Horákové 481/24, Praha 7 za úžívání příslušného prostoru</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Seznámit pana Indráka a správní firmu s usnesením Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.12.2016</span></li></ul></li><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>vždy zajistit zveřejnění povinnosti hradit za užívání čipu a průjezd přes pozemek Sedmé ubytovací s.r.o. u předmětů nájmů, kterého se to týká</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.12.2016</span></li></ul></li></ol></li></ol>

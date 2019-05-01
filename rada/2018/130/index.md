@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na realizaci projektu "Příběhy našich sousedů" v Praze 7 v roce
+  2018 společností POST BELLUM, o.p.s., IČO: 265 48 526'
+datum_vzniku_usneseni: '2018-02-20 00:00:00'
+cislo_usneseni: 0130/18-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27139/export/M8DV_PostBellum_2018~327266.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27139/export/S_Post_Bellum_2018_NV~327265.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27139/export/Kopie04prilohac4RozpocetPribehynasichsouseduPraha7~327263.xls
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27139/export/05prilohac5vypiszrejstrikuPostBellumops~327262.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27139/export/export~328577.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na realizaci projektu "Příběhy našich sousedů" v Praze 7 v roce 2018 společností POST BELLUM, o.p.s., IČO: 265 48 526</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>realizaci projektu "Příběhy našich sousedů" společností POST BELLUM, o.p.s., IČO: 265 48 526 v Praze 7 v období leden–říjen 2018</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v maximální výši 177 480 Kč včetně DPH, formou faktury, společnosti POST BELLUM o.p.s., IČO: 265 48 526, se sídlem Štěpánská 704/61, 110 00 Praha 1, za realizaci projektu "Příběhy našich sousedů", hrazeno z rozpočtu OKS ORJ 621 - kultura. Podrobný rozpočet je přílohou č. 3 tohoto materiálu.</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>text smlouvy o zajištění projektu "Příběhy našich sousedů" mezi městskou částí Praha 7 a společností POST BELLUM, o.p.s., IČO: 265 48 526 viz příloha č. 2<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>uzavření smlouvy o zajištění projektu "Příběhy našich sousedů" mezi městskou částí Praha 7 a společností POST BELLUM, o.p.s., IČO: 265 48 526 viz příloha č. 2<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu o zajištění projektu "Příběhy našich sousedů" mezi městskou částí Praha 7 a společností POST BELLUM, o.p.s., IČO: 265 48 526 viz příloha č. 2</p></span><span class="urzUkolTermin">  Termín:&nbsp;28.2.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>finančně a organizačně zajistit realizaci projektu "Příběhy našich sousedů" dle článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;2.11.2018</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření smlouvy o realizaci projektu "Praha 7 bezpečně online
+  2018"
+datum_vzniku_usneseni: '2018-10-23 00:00:00'
+cislo_usneseni: 0757/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30300/export/duvodovazpravazverejnit~400789.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30300/export/SmlKyberkriminalita_EF20181018~400788.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30300/export/projektpriloha~400787.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30300/export/vypis859282~400786.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30300/export/Navrh_na_podani_zadosti_MC_Praha_7_o_dotace_na_projekty_Praha_7_Bezpecne_online_2018_Bezpecne_prazdniny_2018_a_Uz_si_rozumime_2018_v_ramci_Mestskeho_programu_prevence_kriminality_na_rok_2018_v_hl_m_Praze~400785.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30300/export/export~401705.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>Návrh na uzavření smlouvy o realizaci projektu "Praha 7 bezpečně online 2018" mezi MČ Praha 7 a Národním centrem bezpečnějšího internetu, Prvního pluku 347/12a, 186 00&nbsp; Praha 8, IČO: 750 98 679<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>text smlouvy o realizaci projektu "Praha 7 bezpečně online 2018" mezi MČ Praha 7 a Národním centrem bezpečnějšího internetu, Prvního pluku 347/12a, 186 00 Praha 8, IČO: 750 98 679</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>uzavření smlouvy o realizaci projektu "Praha 7 bezpečně online 2018" mezi MČ Praha 7 a Národním centrem bezpečnějšího internetu, Prvního pluku 347/12a, 186 00 Praha 8, IČO: 750 98 679</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>proplacení faktur v max. výši 109.800 Kč v č. DPH z rozpočtu prevence kriminality z kapitoly 0701, KST OCM, z toho 70.000 Kč na základě grantu z Městského programu prevence kriminality na rok 2018</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu o realizaci projektu "Praha 7 bezpečně online 2018" mezi MČ Praha 7 a Národním centrem bezpečnějšího internetu, Prvního pluku 347/12a, 186 00  Praha 8, IČO: 750 98 679</p></span><span class="urzUkolTermin">  Termín:&nbsp;2.11.2018</span></li></ul></li><li class="urzClass2"><span><p>VED KST PaedDr. Michaela Strnadová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>finančně a organizačně zajistit realizaci projektu "Praha 7 bezpečně online 2018" na základě smlouvy mezi MČ Praha 7 a Národním centrem bezpečnějšího internetu, Prvního pluku 347/12a, 186 00  Praha 8, IČO: 750 98 679</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.12.2018</span></li></ul></li></ol></li></ol>

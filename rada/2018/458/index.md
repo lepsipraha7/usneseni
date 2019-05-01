@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na předchozí souhlas zřizovatele s uzavřením Smlouvy o financování
+  projektu Operačního programu Praha – pól růstu ČR CZ.07.4.67/0.0/0.0/16_036/0000519
+  pod názvem "Modernizace odborných učeben ZŠ Stross" mezi PO ZŠ Strossmayerovo nám.
+  990/4, 170 00 Praha 7 a Hlavním městem Prahou, Mariánské nám. 2, 110 01 Praha 1.
+datum_vzniku_usneseni: '2018-06-12 00:00:00'
+cislo_usneseni: '0458/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29996/export/1_Duvodova_zprava~365306.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29996/export/ZadostosouhlasspodpisemsmlouvyoFinancovaniprojektuModernizaceodbornychucebenZSStross~365305.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29996/export/SMLOUVAOFINANCOVANIPROJEKTU~365304.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29996/export/ZMCspoluucastnaprojektu~365303.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29996/export/export~366281.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na předchozí souhlas zřizovatele s uzavřením Smlouvy o financování projektu Operačního programu Praha – pól růstu ČR CZ.07.4.67/0.0/0.0/16_036/0000519 pod názvem "Modernizace odborných učeben ZŠ Stross" mezi PO ZŠ Strossmayerovo nám. 990/4, 170 00 Praha 7, IČO 61389838 a Hlavním městem Prahou, Mariánské nám. 2, 110 01 Praha 1, IČO 00064581.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>10% spoluúčast zřizovatele PO ve výši 245 762,70 Kč z celkově způsobilých výdajů projektu OP PPR v částce 2 457 627 Kč. Spoluúčast zřizovatele ve výši max. 250 tis. Kč byla schválena ZMČ dne 20.3.2017 pod číslem usnesení 0050/17-Z.<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>s účastí Základní školy Praha 7, Strossmayerovo nám. 990/4, 170 00 Praha 7 v projektu Operačního programu Praha – pól růstu ČR č. CZ.07.4.67/0.0/0.0/16_036/0000519 pod názvem "Modernizace odborných učeben ZŠ Stross".<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>s uzavřením Smlouvy o financování projektu Operačního programu Praha – pól růstu ČR CZ.07.4.67/0.0/0.0/16_036/0000519 pod názvem "Modernizace odborných učeben ZŠ Stross" mezi PO ZŠ Strossmayerovo nám. 990/4, 170 00 Praha 7, IČO&nbsp;61389838 a Hlavním městem Prahou, Mariánské nám. 2, 110 01 Praha 1, IČO 00064581. Spoluúčast zřizovatele ve výši max. 250 tis. Kč byla schválena ZMČ dne 20.3.2017 pod číslem usnesení 0050/17-Z.<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OŠK Ing. Dita Výborová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat ředitele školy o kladném stanovisku RMČ k uzavření smlouvy o financování projektu Operačního programu - Praha pól růstu ČR.</p></span><span class="urzUkolTermin">  Termín:&nbsp;29.6.2018</span></li></ul></li></ol></li></ol>

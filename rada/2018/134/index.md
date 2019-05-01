@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na zplnomocnění Nely Slabé k zastupování Městské části Praha 7 ve
+  věci získání územního souhlasu k akci "Úpravy oplocení na pozemcích č. parc. 2316/5
+  a 6, k.ú. Holešovice, ul. Tusarova, Praha 7
+datum_vzniku_usneseni: '2018-02-20 00:00:00'
+cislo_usneseni: 0134/18-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27208/export/Duvodova_zprava_Tusarova~327335.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27208/export/PLNA__MOC_NS_Tusarova_ZVEREJNIT2~327334.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27208/export/export~328398.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na zplnomocnění Nely Slabé k zastupování&nbsp;Městské části Praha 7 ve věci získání územního souhlasu k akci "Úpravy oplocení na pozemcích č. parc. 2316/5 a 6, k.ú. Holešovice, ul. Tusarova, Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>zplnomocnění Nely Slabé k zastupování&nbsp;Městské části Praha 7 ve věci získání územního souhlasu k akci "Úpravy oplocení na pozemcích č. parc. 2316/5 a 6, k.ú. Holešovice, ul. Tusarova, Praha 7</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>znění plné moci pro Nelu Slabou&nbsp;k zastupování Městské části Praha 7 ve věci získání územního souhlasu k akci "Úpravy oplocení na pozemcích č. parc. 2316/5 a 6, k.ú. Holešovice, ul. Tusarova, Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>místostarostu Mgr. Ondřeje Mirovského, M. EM k podepsání&nbsp;plné moci pro Nelu Slabou k zastupování Městské části Praha 7 ve věci získání územního souhlasu k akci "Úpravy oplocení na pozemcích č. parc. 2316/5 a 6, k.ú. Holešovice, ul. Tusarova, Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Mgr. Ondřej Mirovský, M. EM</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat plnou moc pro Nelu Slabou k zastupování Městské části Praha 7 ve věci získání územního souhlasu k akci "Úpravy oplocení na pozemcích č. parc. 2316/5 a 6, k.ú. Holešovice, ul. Tusarova, Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.3.2018</span></li></ul></li></ol></li></ol>

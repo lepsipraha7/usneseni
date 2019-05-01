@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Souhlas s vymáháním dlužného nájemného u dlužníků uvedených v příloze
+  č.1,  podání žalob na přivolení k výpovědi z nájmu bytů a podpisu plných mocí pro
+  AK JUDr. Miroslava Černého
+datum_vzniku_usneseni: '2000-08-08 00:00:00'
+cislo_usneseni: '0768/00'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Souhlas s vymáháním dlužného nájemného u dlužníků uvedených v příloze č.1,  podání žalob na přivolení k výpovědi z nájmu bytů a podpisu plných mocí pro AK JUDr. Miroslava Černého</h3></span><div class="center">
+		<strong>č. 0768/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 08.08.2000</strong><br><br>
+	</div>     <br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na souhlas s vymáháním dlužného nájemného u dlužníků uvedených <br>v příloze č.1,  podání žalob na přivolení k výpovědi z nájmu bytů<br><br>II.	souhlasí <br><br>s  vymáháním dlužného nájemného a podáním žalob na přivolení k výpovědi z nájmu bytu dle přílohy č.1, v domě Bubenská 39/1376 svěřeném městské části Praha 7<br><br>s  vymáháním dlužného nájemného a podáním žalob na přivolení k výpovědi z nájmu bytů dle přílohy č.1, v domě Veletržní 67/824 P 7 ve spoluvlastnictví m.č. Praha 7 a APROKS s.r.o.<br><br>III.	ukládá <br><br><br> Určen:	     	VED OBH Meško Martin<br>Termín: 31.08.2000<br>Úkol:	předat potřebné doklady pro podání žaloby na vymáhání dlužného nájemného a přivolení k výpovědi z nájmu bytu v domě Bubenská 39/1376 svěřeném městské části Praha 7  ved OP  <br>  Určen:	     	VED OP  Hájniková Danka<br>Termín: 10.10.2000<br>Úkol:	zajistit podání žaloby na vymáhání dlužného nájemného a přivolení k výpovědi z nájmu bytu v domě Bubenská 39/1376 svěřeném městské části Praha 7  <br> <br> Určen:	     	STA Dub Tomáš<br>Termín: 10.10.2000<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu  na přivolení k výpovědi z nájmu bytu u Evy Štolbové, Bubenská 39/1376, Praha 7(1)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 10.10.2000<br>Úkol:	podepsat plnou moc pro JUDr. Miroslava Černého k podání žaloby a zastupování u soudu ve věci vymáhání dlužného nájemného a záloh na služby poskytované společně s nájmem bytu č.11, u Věry Houdkové, Veletržní 67/824, Praha   7 (2)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 10.10.2000<br>Úkol:	podepsat plnou moc pro JUDr. Miroslava Černého k podání žaloby a zastupování u soudu ve věci přivolení k výpovědi z nájmu bytu č.11, z důvodu neplacení u Věry Houdkové, Veletržní 67/824, Praha   7 (3)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 10.10.2000<br>Úkol:	podepsat plnou moc pro JUDr. Miroslava Černého k podání žaloby a zastupování u soudu ve věci vymáhání dlužného nájemného a záloh na služby poskytované společně s nájmem bytu č.1, u Jarmily Štekerové, Veletržní 67/824, Praha   7 (4)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 10.10.2000<br>Úkol:	podepsat plnou moc pro JUDr. Miroslava Černého k podání žaloby a zastupování u soudu ve věci přivolení k výpovědi z nájmu bytu č.1, z důvodu neplacení u Jarmily Štekerové, Veletržní 67/824, Praha   7 (5)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 10.10.2000<br>Úkol:	podepsat plnou moc pro JUDr. Miroslava Černého k podání žaloby a zastupování u soudu ve věci vymáhání dlužného nájemného a záloh na služby poskytované společně s nájmem bytu č.18, u Yvony Bukolské, Veletržní 67/824, Praha   7 (6)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 10.10.2000<br>Úkol:	podepsat plnou moc pro JUDr. Miroslava Černého k podání žaloby a zastupování u soudu ve věci přivolení k výpovědi z nájmu bytu č.18, z důvodu neplacení u Yvony Bukolské, Veletržní 67/824, Praha   7 (7)<br>  </div>
+</div>

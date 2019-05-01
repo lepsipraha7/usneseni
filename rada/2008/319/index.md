@@ -1,0 +1,36 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení prodloužení platnosti digitálních podpisů používaných
+  pracovnicemi OSZ v platebním styku s ČNB
+datum_vzniku_usneseni: '2008-03-18 00:00:00'
+cislo_usneseni: '0319/08'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na schválení prodloužení platnosti digitálních podpisů používaných pracovnicemi OSZ v platebním styku s ČNB</h3></span><div class="center">
+		<strong>č. 0319/08</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 18.03.2008</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> návrh na schválení prodloužení platnosti digitálních podpisů používaných pracovnicemi OSZ v platebním styku s ČNB</li></ul>
+</li>
+<li>Schvaluje<ul><li>
+<strong>1.</strong> prodloužení platnosti digitálních podpisů používaných pracovnicemi OSZ v platebním styku s ČNB při výplatě dávek státní sociální podpory</li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>STA Ječmének Marek</li>
+<li>
+<strong>1.1 Úkol: </strong>podepsat formulář ČNB - Podpisové vzory klienta pro digitální podpisy</li>
+<li>
+<strong>1.2 Termín: </strong>21.03.2008</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: MUDr. Tomáš Kaštovský <hr>
+<br>Přílohy: Neveřejné</div>
+</div>

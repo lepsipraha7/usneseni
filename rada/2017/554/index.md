@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na poskytnutí individuální dotace v oblasti sociální, dle žádosti
+  podané 1.června 2017
+datum_vzniku_usneseni: '2017-06-13 00:00:00'
+cislo_usneseni: 0554/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29195/export/duvodovazprava_individualnidotace_ADOS~214845.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29195/export/Tabulka_individualnidotace_0617~214844.xls
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29195/export/Smlouvaoposkytnutiindividualnidotace_do50tisKc~214843.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29195/export/Zadostoposkytnutiindividualnidotace_Otevrenesrdce~214842.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29195/export/export~295869.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na poskytnutí individuální dotace v oblasti sociální, dle žádosti podané 1.června 2017</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>poskytnutí individuální dotace v oblasti sociální spol. Otevřené srdce, o.p.s., dle přílohy č. 2 tohoto usnesení, v celkové výši 20.024,- Kč, hrazeno z rozpočtu ORJ 0516</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>záměr zajistit internetové připojení pro obyvatele sociálních bytů a azylového domu v objektu Za Papírnou 144/7, Praha 7, viz příloha č. 4 tohoto materiálu<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>text vzorové Smlouvy o poskytnutí dotace (viz příloha č. 3), která bude uzavřena mezi Městskou částí Praha 7 a spol. Otevřené srdce, o.p.s.</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>uzavření Smlouvy o poskytnutí dotace mezi Městskou částí Praha 7 a spol. Otevřené srdce, o.p.s.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Smlouvu o poskytnutí dotace se spol. Otevřené srdce, o.p.s.</p></span><span class="urzUkolTermin">  Termín:&nbsp;16.6.2017</span></li></ul></li><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit poskytnutí dotace v oblasti sociální podle přílohy č. 2 tohoto materiálu</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.6.2017</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření nájemních smluv na byty, doporučené bytovou komisí v květnu a
+  červnu 2002
+datum_vzniku_usneseni: '2002-06-11 00:00:00'
+cislo_usneseni: '0592/02'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření nájemních smluv na byty, doporučené bytovou komisí v květnu a červnu 2002</h3></span><div class="center">
+		<strong>č. 0592/02</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 11.06.2002</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - návrh na uzavření nájemních smluv na byty, které doporučila bytová komise  v květnu a červnu 2002<br><br>II.	souhlasí <br><br>s uzavřením nájemní smlouvy na dobu určitou 2 roky s následným prodloužením na byt č.24, 1+kk, I.kat., Milady Horákové 23/400, P7 s Petrou a Jiřím Ryšavými					(1)<br><br>s uzavřením nájemní smlouvy na dobu určitou 2 roky s následným prodloužením na byt č.8, 2+1, I.kat., Milady Horákové 56/387, P7 s Antonínem Kadlecem						(2)<br><br>s uzavřením nájemní smlouvy na dobu určitou 2 roky s následným prodloužením na byt č.17, 1+1, II.kat., Osadní 2/1474, P7 s Pavlínou Čížkovou 							(3)<br><br>s uzavřením nájemní smlouvy na dobu neurčitou na byt č.3, 1+0 ,IV.kat., U Studánky 10/537, P7 s <br>Jiřím Jaklem 												(4)<br><br>s ukončením nájemní smlouvy na byt č. 5.2, 1+0,IV. kat.,Šmeralova 204/14, P7			(5)<br><br>s uzavřením nájemní smlouvy na dobu určitou do 31.3. 2003 na byt  č.50 , 1+0, I.kat., Antonínská 8/424, P7 s Mgr. Miroslavem Pavlíkem 								(6)					<br>s uzavřením nájemní smlouvy na dobu určitou do 31.3. 2003 na byt č.44 , 1+0, I.kat., Antonínská 8/424, P7 s Petrem Klimentem	 								(7)<br><br>s uzavřením nájemní smlouvy na dobu určitou do 31.3. 2003 na byt č.33 , 1+kk., I.kat., Antonínská 8/424, P7 s Mgr. Janou Lužovou									(8)<br><br><br><br><br><br><br><br><br>III.	ukládá <br><br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 12.07.2002<br>Úkol:	NN - uzavřít nájemní smlouvu na dobu určitou 2 roky s následným prodloužením na byt č.24, 1+kk, I.kat., Milady Horákové 23/400, P7 s Petrou a Jiřím Ryšavými(1)<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 12.07.2002<br>Úkol:	NN uzavřít nájemní smlouvu na dobu určitou 2 roky s následným prodloužením na byt č.8, 2+1, I.kat., Milady Horákové 56/387, P7 s Antonínem Kadlecem(2)<br> <br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 12.07.2002<br>Úkol:	NN - uzavřít nájemní smlouvu na dobu určitou 2 roky s následným prodloužením na byt č.17, 1+1, II.kat., Osadní 2/1474, P7 s Pavlínou Čížkovou (3)<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 28.07.2002<br>Úkol:	ARB - uzavřít nájemní smlouvu na dobu neurčitou na byt č.3, 1+0 ,IV.kat., U Studánky 10/537, P7 s Jiřím Jaklem (4)<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 28.07.2002<br>Úkol:	ARB - podepsat dohodu o ukončení nájemní smlouvy na byt č. 5.2, 1+0, IV. kat.,Šmeralova 204/14, P7(5)<br> <br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 28.07.2002<br>Úkol:	NN - s uzavřením nájemní smlouvy na dobu určitou do 31.3. 2003 na byt č.50 , 1+0, .kat.,Antonínská 8/424, P7 s Mgr. Miroslavem Pavlíkem (6)<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 28.07.2002<br>Úkol:	NN - s uzavřením nájemní smlouvy na dobu určitou do 31.3. 2003 na byt č.44 , 1+0, I.kat.,Antonínská 8/424, P7 s Petrem Klimentem (7)<br> <br><br><br><br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 28.07.2002<br>Úkol:	NN - s uzavřením nájemní smlouvy na dobu určitou do 31.3. 2003 na byt č.33 , 1+kk., I.kat.,Antonínská 8/424, P7 s Mgr. Janou Lužovou (8)<br> <br><br> <br>Určen:	VED OBH Wawrečka Ronald<br>Termín: 28.07.2002<br>Úkol:	ARB - převzít do evidence volných bytů byt č. 5.2, 1+0, IV. kat.,Šmeralova 204/14, P7(9) <br> <br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

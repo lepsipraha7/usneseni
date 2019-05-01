@@ -1,0 +1,22 @@
+---
+layout: detail_usneseni
+nazev_bodu: Postup, opatření a zásad v rámci minimalizace sítě základních škol na
+  Praze 7
+datum_vzniku_usneseni: '2004-02-03 00:00:00'
+cislo_usneseni: 0106/04
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Postup, opatření a zásad v rámci minimalizace sítě základních škol na Praze 7</h3></span><div class="center">
+		<strong>č. 0106/04</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 03.02.2004</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7 <br>po projednání <br><br><br>I. bere na vědomí <br><br>předložený materiál - Návrh postupu, opatření a zásad v rámci minimalizace sítě základních škol na Praze 7 <br><br>II. schvaluje <br><br>zásady minimalizace sítě ZŠ v Praze 7, které spočívají v: <br><br>a) Vyloučení jakékoli okamžité formy rušení škol, respektive uvolňování školních budov pro komerční účely. <br><br>b) Rozvržení nepříznivých dopadů, resp. tíže břemene minimalizačních opatření na všechny základní školy MČ P7 s tím, že nezbytné disproporce v problémech, které musí jednotlivé školy překonat, budou zohledněny při přerozdělování dosažených efektů a to v souvislosti s hodnotícími kritérii škol a přechodem některých kompetencí z MHMP na odbory školství městských částí. <br><br>c) Zabránění, nebo alespoň výrazné omezení přesunů žáků uprostřed jejich školní docházky a odlivu žáků do jiných škol v průběhu či po ukončení prvního stupně vzdělávacího cyklu. <br><br>d) V souvislosti s celospolečenskými změnami, vyplývajícími zejména ze vstupu ČR do EU, zvýšení úrovně jazykového vzdělávání ve všech základních školách. <br><br>e) Respektování možnosti zachování specializovaných tříd v ZŠ Letohradská při současných počtech dětí se specifickými poruchami učení a zohlednění trendu integrovat co možná nejvíce dětí do běžných tříd, samozřejmě na základě odborných posudků pedagogicko-psychologických poraden. <br><br>f) Při ekonomickém využívání uvolňovaných prostor ve školách zachování využití budov pro školské účely s tím, že upřednostňovány budou střední školy a odborná učiliště tak, aby byla doplněna vzdělávací nabídka pro absolventy základních škol, kteří nebudou pokračovat ve studiu na výběrových školách nebo gymnáziích. <br><br>g) Při nabídce uvolňovaných prostor důsledné respektování polohy školy tak, aby platila zásada, že případné instituce pro frekventanty vyšších věkových kategorií budou umísťovány v lokalitách z hlediska přístupnosti a dopravní bezpečnosti méně vhodných k využití pro mladší žáky. <br><br>h) Projednání veškerých opatření s Komisí Rady MČ P7 pro výchovu a vzdělávání, Radami škol, zástupci rodičů a pedagogů dotčených škol. <br><br>i) Ve spolupráci s vedením škol podpora programů protidrogové prevence a sociálně patologických jevů. Výsledky dosažené součinností mezi vedením školy a metodičkami protidrogové prevence zařadit mezi hodnotící kritéria práce vedení škol. <br><br>III. souhlasí <br><br>a) s postupem a opatřeními v rámci minimalizace sítě základních škol na Praze 7 <br>b) se zápisem dětí do 1. postupného ročníku v ZŠ Letohradská (1 třída); v ZŠ Korunovační, ZŠ Strossmayerovo nám., ZŠ TGM Ortenovo nám., ZŠ Tusarova a v FZŠ Umělecká (2 třídy) <br><br>IV. ukládá <br><br>Určen: VED OŠK Voženílek Břetislav PhDr. <br>Termín: 15.02.2004 <br>Úkol: V dohodě s řediteli základních škol předat výsledky zápisu dětí do 1. postupného ročníku odboru školství MHMP <br><br>Určen: VED OŠK Voženílek Břetislav PhDr. <br>Termín: 30.03.2004 <br>Úkol: Provést analýzu koncepcí rozvoje ZŠ, kterou předloží ředitelé ZŠ, a výsledek předložit Radě MČ Praha 7 <br><br>Určen: VED OŠK Voženílek Břetislav PhDr. <br>Termín: 06.02.2004 <br>Úkol: Předat Usnesení Rady MČ Praha 7 č. 0106/04 z 3.2.2004 ředitelům základních škol <br><br>Určen: RADNI Hoffmann Petr Ing. <br>Termín: 06.02.2004 <br>Úkol: Projednat s MHMP zachování pracoviště Pedagogicko-psychologické poradny U Smaltovny 1434/32 na Praze 7, zachování SOU, U Uranie 14, Praha 7 <br><br><br><br>PhDr. Ivana Kučerová starostka Městské části Praha 7 JUDr. Tomáš Vavřinec zástupce starosty Městské části Praha 7 <br><br><br><hr>
+<br><br><p>příloha č. 1 - neveřejná<br></p>
+</div>
+</div>

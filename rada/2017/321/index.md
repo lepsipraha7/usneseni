@@ -1,0 +1,12 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na souhlas s podáním projektové žádosti o získání účelové neinvestiční
+  dotace na realizaci projektu v oblasti místní Agendy 21
+datum_vzniku_usneseni: '2017-04-04 00:00:00'
+cislo_usneseni: 0321/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29234/export/Duvodova_zprava~187056.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29234/export/export~296357.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na souhlas s podáním projektové žádosti o získání účelové neinvestiční dotace na realizaci projektu v oblasti místní Agendy 21</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že projektová žádost bude podána na Magistrát hl. m. Prahy na odbor zdravotnictví, sociální péče a prevence</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že projektová žádost bude zaměřena na podporu zdraví a zdravého životního stylu v městské části Praha 7<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s předložením projektové žádosti na MHMP na podporu zdraví a zdravého životního stylu s maximálními výdaji projektu 250 000 Kč</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s poskytnutím 10% podílu způsobilých výdajů projektu z rozpočtu městské části Praha 7, tj. max. 25 000 Kč z částky 250 000 Kč</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat a podat projektovou žádost o získání účelové neinvestiční dotace na MHMP, odbor zdravotnictví, sociální péče a prevence</p></span><span class="urzUkolTermin">  Termín:&nbsp;7.4.2017</span></li></ul></li></ol></li></ol>

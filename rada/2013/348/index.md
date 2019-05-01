@@ -1,0 +1,50 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení zadávací dokumentace k vyhlášení veřejné zakázky "Interiérové
+  opravy a úpravy nebytového prostoru - jednotky č. 429/101, umístěné v domě Tusarova
+  429/35", Praha 7
+datum_vzniku_usneseni: '2013-04-30 00:00:00'
+cislo_usneseni: '0348/13'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24033/23-13-vyzva_praha7_tusarova_knihovna.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24033/23-13-zaddok_praha7_tusarova_knihovna.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24033/23-13-p1__kryci_praha7_tusarova_knihovna.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24033/23-13-p2_reference_praha7_tusarova_knihovna.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24033/23-13-p3_sod_praha7_tusarova_knihovna.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24033/23-13-p4_povinna_cenova_praha7_tusarova_knihovna.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24033/23-13-p5_subd_praha7_tusarova_knihovna.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na schválení zadávací dokumentace k vyhlášení veřejné zakázky "Interiérové opravy a úpravy nebytového prostoru - jednotky č. 429/101, umístěné v domě Tusarova 429/35", Praha 7</h3></span><div class="center">
+		<strong>č. 0348/13</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 30.04.2013</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> návrh na schválení zadávací dokumentace k vyhlášení veřejné zakázky "Interiérové opravy a úpravy nebytového prostoru - jednotky č. 429/101, umístěné v domě Tusarova 429/35", Praha 7 </li></ul>
+</li>
+<li>Konstatuje,<ul><li>
+<strong>1.</strong> že zadávací dokumentaci včetně příloh zpracovala společnost STAVEBNÍ PORADNA, spol. s r.o., Průběžná 48, 370 04 České Budějovice, IČ 62508822, která na základě uzavřené Mandátní smlouvy č. 2012/OIVZ/041 ze dne 19.10.2012, zajistí kompletní poradenskou činnost při zadávání a průběhu veřejné zakázky  "Interiérové opravy a úpravy nebytového prostoru - jednotky č. 429/101, umístěné v domě Tusarova 429/35", Praha 7</li></ul>
+</li>
+<li>Souhlasí<ul><li>
+<strong>1.</strong> s návrhem zadávací dokumentace k vyhlášení veřejné zakázky "Interiérové opravy a úpravy nebytového prostoru - jednotky č. 429/101, umístěné v domě Tusarova 429/35", Praha 7</li></ul>
+</li>
+<li>Schvaluje<ul><li>
+<strong>1.</strong> zadávací dokumentaci k vyhlášení veřejné zakázky "Interiérové opravy a úpravy nebytového prostoru - jednotky č. 429/101, umístěné v domě Tusarova 429/35", Praha 7  </li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>VED OIVZ Maková Taťjana</li>
+<li>
+<strong>1.1 Úkol: </strong>předat schválenou zadávací dokumentaci společnosti STAVEBNÍ PORADNA, spol. s r.o., Průběžná 48, 370 04 České Budějovice, IČ 62508822, k zajištění dalšího postupu v zadávacím řízení veřejné zakázky "Interiérové opravy a úpravy nebytového prostoru - jednotky č. 429/101, umístěné v domě Tusarova 429/35", Praha 7 </li>
+<li>
+<strong>1.2 Termín: </strong>30.04.2013</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

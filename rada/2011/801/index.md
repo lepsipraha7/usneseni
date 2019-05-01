@@ -1,0 +1,62 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na zrušení zadávacího řízení na veřejnou zakázku "Reko objektu
+  PO MŠ Kostelní vč. zajištění zvýšení kapacity pro předškolní vzdělávání", k.ú. Holešovice,
+  Praha 7     '
+datum_vzniku_usneseni: '2011-11-08 00:00:00'
+cislo_usneseni: '0801/11'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/21224/51-11-usnesen%c3%ad_%c4%8d.0681.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na zrušení zadávacího řízení na veřejnou zakázku "Reko objektu PO MŠ Kostelní vč. zajištění zvýšení kapacity pro předškolní vzdělávání", k.ú. Holešovice, Praha 7     </h3></span><div class="center">
+		<strong>č. 0801/11</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 08.11.2011</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh na zrušení zadávacího řízení na veřejnou zakázku "Reko objektu PO  MŠ Kostelní vč. zajištění zvýšení kapacity pro předškolní vzdělávání"  k.ú. Holešovice, Praha 7     </li></ul>
+</li>
+<li>Souhlasí<ul><li>
+<strong>1.</strong> s návrhem stanoviska zadavatele k podané námitce a se zrušením zadávacího řízení na veřejnou zakázku "Reko objektu PO MŠ Kostelní vč. zajištění zvýšení kapacity pro předškolní vzdělávání", k.ú. Holešovice, Praha 7     </li></ul>
+</li>
+<li>Schvaluje<ul><li>
+<strong>1.</strong> text stanoviska zadavatele k podané námitce , která nebyla podána v souladu s ustanovením § 110 odst. 7 zákona č.137/2006 Sb. o veřejných zakázkách</li></ul>
+</li>
+<li>Ruší<ul>
+<li>
+<strong>1.</strong> zadávací řízení na veřejnou zakázku "Reko objektu PO MŠ Kostelní vč. zajištění zvýšení kapacity pro předškolní vzdělávání", k.ú. Holešovice, Praha 7, na základě rozhodnutí zadavatele dle § 84 odst. 2 pís.e zákona č. 137/2006 Sb. o veřejných zakázkách v platném znění, z důvodu hodných zvláštního zřetele    </li>
+<li>
+<strong>2.</strong> usnesení č. 0681/11-R na schválení kvalifikační a zadávací dokumentace k vyhlášení veřejné zakázky "Reko objektu PO MŠ Kostelní vč. zajištění zvýšení kapacity pro předškolní vzdělávání", k.ú. Holešovice, Praha 7 </li>
+</ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>STA Ječmének Marek</li>
+<li>
+<strong>1.1 Úkol: </strong>podepsat stanovisko zadavatele k námitce společnosti PJV spol. s r.o. k Oznámení o zakázce na veřejnou zakázku "Reko objektu PO MŠ Kostelní vč. zajištění zvýšení kapacity pro předškolní vzdělávání", k.ú. Holešovice, Praha 7, s tím že zadavatel podanou námitku v souladu s ustanovením § 110 odst.7 zákona č. 137/2006 Sb. o veřejných zakázkách odmítá</li>
+<li>
+<strong>1.2 Termín: </strong>09.11.2011</li>
+<li>
+<strong><br>2. Určen: </strong>VED OIVZ Maková Taťjana</li>
+<li>
+<strong>2.1 Úkol: </strong>zaslat stanovisko zadavatele k námitce k veřejné zakázce "Reko objektu  PO MŠ Kostelní vč. zajištění zvýšení kapacity pro předškolní vzdělávání" společnosti PJV spol. s r.o. </li>
+<li>
+<strong>2.2 Termín: </strong>09.11.2011</li>
+<li>
+<strong>2.3 Úkol: </strong>zaslat usnesení na zrušení zadávacího řízení na veřejnou zakázku "Reko objektu PO MŠ Kostelní vč. zajištění zvýšení kapacity pro předškolní vzdělávání", zástupci zadavatele STAVEBNÍ PORADNĚ, spol. s r.o.,   IČ: 62508822, k zajištění dalšího postupu ve věci zrušení zadávacího řízení  (informovat  uchazeče, zveřejnění v Informačním systému veřejných zakázek)</li>
+<li>
+<strong>2.4 Termín: </strong>11.11.2011</li>
+<li>
+<strong>2.5 Úkol: </strong>zajistit zveřejnění - zrušení zadávacího řízení na veřejnou zakázku "Reko objektu PO MŠ Kostelní vč. zajištění zvýšení kapacity pro předškolní vzdělávání", k.ú.Holešovice, Praha 7, na internetových stránkách MČ P 7 a na Úřední desce MČ P 7</li>
+<li>
+<strong>2.6 Termín: </strong>11.11.2011</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

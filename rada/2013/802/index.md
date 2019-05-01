@@ -1,0 +1,53 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na vyjádření  MČ Praha 7 k záměru "Rekonstrukce objektů Sportovní
+  haly v areálu Výstaviště, Praha 7 - Holešovice "  v rámci zákona č. 100/2001 Sb.,
+  o posuzování vlivů na životní prostředí, v platném znění
+datum_vzniku_usneseni: '2013-10-15 00:00:00'
+cislo_usneseni: '0802/13'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/23579/55-13-sportovn%c3%ad_hala_eia.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/23579/55-13-z%c3%a1pis_ze__7_jedn%c3%a1n%c3%ad.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/23579/55-13-sportovn%c3%ad_hala_z%c3%a1m%c4%9br.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na vyjádření  MČ Praha 7 k záměru "Rekonstrukce objektů Sportovní haly v areálu Výstaviště, Praha 7 - Holešovice "  v rámci zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí, v platném znění</h3></span><div class="center">
+		<strong>č. 0802/13</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 15.10.2013</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> předložený materiál - Návrh na vyjádření  MČ Praha 7 k záměru "Rekonstrukce objektů Sportovní haly v areálu Výstaviště, Praha 7 - Holešovice "  v rámci zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí, v platném znění</li></ul>
+</li>
+<li>Konstatuje,<ul>
+<li>
+<strong>1.</strong> že ani ve fázi realizace ani ve fázi provozu  záměru "Rekonstrukce objektů Sportovní haly v areálu Výstaviště, Praha 7 - Holešovice " nedojde k významnému negativnímu ovlivnění životního prostředí   </li>
+<li>
+<strong>2.</strong> že ani ve fázi realizace ani ve fázi provozu  záměru "Rekonstrukce objektů Sportovní haly v areálu Výstaviště, Praha 7 - Holešovice " nedojde k významnému negativnímu ovlivnění veřejného zdraví        </li>
+</ul>
+</li>
+<li>Nepožaduje<ul><li>
+<strong>1.</strong> aby záměr "Rekonstrukce objektů Sportovní haly v areálu Výstaviště, Praha 7 - Holešovice" byl  nadále posuzován  v rámci zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí  v platném znění  </li></ul>
+</li>
+<li>Souhlasí<ul><li>
+<strong>1.</strong> s vyjádřením MČ P7 k  záměru  "Rekonstrukce objektů Sportovní haly v areálu Výstaviště, Praha 7 - Holešovice" v rámci zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí tak, jak je uvedeno v příloze č. 3 tohoto materiálu   </li></ul>
+</li>
+<li>Zmocňuje<ul><li>
+<strong>1.</strong> Josefa Neuberga - zástupce starosty MČ P7 k  podepsání vyjádření MČ P7 k  záměru  "Rekonstrukce objektů Sportovní haly v areálu Výstaviště, Praha 7 - Holešovice" v rámci zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí tak, jak je uvedeno v příloze č. 3 tohoto materiálu </li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>ZAS STA Neuberg Josef</li>
+<li>
+<strong>1.1 Úkol: </strong>podepsat vyjádření MČ P7 k  záměru  "Rekonstrukce objektů Sportovní haly v areálu Výstaviště, Praha 7 - Holešovice" v rámci zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí tak, jak je uvedeno v příloze č. 3 tohoto materiálu</li>
+<li>
+<strong>1.2 Termín: </strong>20.10.2013</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

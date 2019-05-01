@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na jednorázové ponechání 70 % (namísto smluvních 45 %) vybraného
+  nájemného a to pouze za měsíc červenec 2018 (realizováno v srpnu 2018), z nemovitostí
+  spravovaných společností 7U s.r.o., na bankovním účtu dle příkazní smlouvy ze dne
+  11.07.2016, ve znění pozdějších dodatků, z důvodu nízkého stavu financí
+datum_vzniku_usneseni: '2018-08-21 00:00:00'
+cislo_usneseni: 0637/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30187/export/01_7Uodvod0718~385151.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30187/export/export~385660.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na jednorázové ponechání 70 % (namísto smluvních 45 %) vybraného nájemného a to pouze za měsíc červenec 2018 (realizováno v srpnu 2018), z nemovitostí spravovaných společností 7U s.r.o., na bankovním účtu dle příkazní smlouvy ze dne 11.07.2016, ve znění pozdějších dodatků, z důvodu nízkého stavu financí</p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass decimal " id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>že měsíční výnos z nájemného za měsíc červenec 2018, v nemovitostech spravovaných společností 7U s.r.o., činí 7.998.936,49 Kč, přičemž dle příkazní smlouvy ze dne 11.07.2016, ve znění pozdějších dodatků, má být 45 % z této částky tj. 3.599.521,42 Kč ponecháno na účtu MČ Praha 7, se kterým tato společnost hospodaří, kdy nyní bude jednorázově na tomto účtu ponecháno 70 % tj. 5.599.255,54 Kč, tudíž v tomto materiálu uvedený rozdíl 25 % činí 1.999.734,- Kč</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass" id=""><li style="text-align: left;" id="" class="urzClass2"><span><p>s jednorázovým ponecháním 70 % (namísto smluvních 45 %) vybraného nájemného&nbsp;za měsíc červenec 2018 (realizováno v srpnu 2018) z nemovitostí spravovaných společností 7U s.r.o., na bankovním účtu dle příkazní smlouvy ze dne 11.07.2016, ve znění pozdějších dodatků, z důvodu nízkého stavu financí, na základě žádosti této společnosti ze dne 15.08.2018<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit správní firmu 7U s.r.o. s usnesením Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;24.8.2018</span></li></ul></li></ol></li></ol>

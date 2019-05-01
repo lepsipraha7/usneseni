@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření nájemních smluv na byty, které byly doporučeny bytovou komisí
+  - červen 2001
+datum_vzniku_usneseni: '2001-06-12 00:00:00'
+cislo_usneseni: 0652/01
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření nájemních smluv na byty, které byly doporučeny bytovou komisí - červen 2001</h3></span><div class="center">
+		<strong>č. 0652/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 12.06.2001</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na uzavření nájemních smluv na byty, které byly doporučeny bytovou komisí - červen 2001<br><br>II.	souhlasí <br><br>NN - s uzavřením nájemní smlouvy na dobu určitou 2 roky s následným prodloužením  na byt 1+1, I.kat., Malířská 13/403, P7 s Jitkou Lebedovou (1)<br><br>NN - s uzavřením nájemní smlouvy na dobu neurčitou na byt 1+1, II.kat., Milady Horákové 9/1280 s Adolfem a Lidmilou Fuchsovými (2)<br><br>III.	ukládá <br><br> Určen:	–––––	ZAS STA Vayhel Luboš<br>Termín: 31.08.2001<br>Úkol:	uzavřít nájemní smlouvu na dobu určitou 2 roky s následným prodloužením na byt 1+1, I.kat., Malířská 13/403, P7 s Jitkou Lebedovou  (1)<br>  Určen:	–––––	ZAS STA Vayhel Luboš<br>Termín: 31.08.2001<br>Úkol:	NN - uzavřít nájemní smlouvu na dobu neurčitou na byt 1+1, II.kat., Milady Horákové 9/1280, P7 s Adolfem a Lidmilou Fuchsovými (2)<br> <br><br> 	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

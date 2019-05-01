@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Realizace usnesení ze 3. zasedání Zastupitelstva MČ Praha 7 ze dne 25.08.2003
+datum_vzniku_usneseni: '2003-09-02 00:00:00'
+cislo_usneseni: 1016/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Realizace usnesení ze 3. zasedání Zastupitelstva MČ Praha 7 ze dne 25.08.2003</h3></span><div class="center">
+		<strong>č. 1016/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 02.09.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>usnesení ze 3. zasedání Zastupitelstva MČ Praha 7 ze dne 25.08.2003<br><br>II.	ukládá <br> <br>Určen:	TAJ Dušek Josef<br>Termín: 05.09.2003<br>Úkol:	(0074/03-Z) zaslat panu Ing. Robertu Buchnerovi jmenovací dekret<br><br> <br>Určen:	ZAS STA Hasal Štěpán<br>Termín: 10.12.2003<br>Úkol:	(0078/03-Z) realizovat záměr odprodeje pozemku parc. č. 1974/3 o výměře 28 m2, k. ú. Holešovice, ležícího pod soukromou garáží<br> <br> <br>Určen:	ZAS STA Hasal Štěpán<br>Termín: 31.12.2003<br>Úkol:	(0078/03-Z) informovat ostatní legální vlastníky garáží stojících na přilehlých pozemcích o možnosti jejich odkoupení<br> <br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: průběžně<br>Úkol:	(0079/03-Z) předkládat čtvrtletně Z MČ P/7 zprávu hospodářské činnosti o výsledcích hospodaření m.č. Praha 7 - úsek zdaňované činnosti<br><br><br>Určen:	TAJ Dušek Josef<br>Termín: 16.09.2003<br>Úkol:	(0085/03-Z) prostřednictvím vedoucích odvětvově příslušných odborů potvrdit úpravu výše prostředků na platy, rozpisu ostatních plateb za provedenou práci a počtu pracovníků pro r. 2003 PO Pečovatelské centrum P/7 a úpravu počtu pracovníků v přepočtených osobách pro r. 2003 PO SAZ v P/7 <br> <br>Určen:	STA Mikšík Radek<br>Termín: 30.09.2003<br>Úkol:	(0086/03-Z) uzavřít smlouvy o poskytnutí příspěvku s žadateli uvedenými v seznamech č. 1 a 2 žadatelů <br> <br><br>Určen:		ZAS STA Hasal Štěpán<br>Termín: 31.10.2003<br>Úkol:	(0086/03-Z) zajistit použití obdržených finančních prostředků z povodňového fondu hl.m. Prahy na opravy bytových domů ve vlastnictví hl.m. Prahy svěřených MČ Praha 7 podle seznamu č. 3 (příloha č. 4) <br> <br> <br>Určen:	ZAS STA Hasal Štěpán<br>Termín: průběžně<br>Úkol:	(0086/03-Z) při úhradě dokladů předkládaných příjemcem příspěvku zajistit provádění důsledné kontroly a dodržování „Zásad pro financování programů z prostředků státního rozpočtu, fondů EU, fondů NATO a úvěrů se státní zárukou“ vydanými MF <br> <br> <br>Určen:	STA Mikšík Radek<br>Termín: 05.09.2003<br>Úkol:	(0088/03-Z) podepsat dodatek č. 2 ke Zřizovací listině příspěvkové organizace Pečovatelské centrum Praha 7<br> <br> <br>Určen:	STA Mikšík Radek<br>Termín: 25.09.2003<br>Úkol:	(0089/03-Z) realizovat poskytnutí příspěvku ve výši 6 000,- Kč na úhradu provozních nákladů za klienty z Prahy 7 ze Sociálního fondu<br> <br> <br>Určen:	RADNI Hoffmann Petr Ing.<br>Termín: 08.09.2003<br>Úkol:	(0094/03-Z) vyřídit dopis, adresovaný Z MČ P7 čj. ZMČ-D-82/03 od Unie rodičů a přátel dětí při MŠ U Uranie, U Uranie 16, 170 00  Praha ý ve věcfi konkursu na místo ředitelky MŠ U Uranie 16 v Praze 7<br> <br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 08.09.2003<br>Úkol:	(0094/03-Z) vyřídit dopis, adresovaný Z MČ P7 čj. ZMČ-D-87/03 za představenstvo - Miroslava Charvátová, Nad Královskou oborou 269/17, Praha 7 ve věci privatizace domu 269/17 v ulici Nad Královskou oborou  <br> <br> <br>Určen:	ZAS STA Kučerová Ivana<br>Termín: 08.09.2003<br>Úkol:	(0094/03-Z) vyřídit dopis, adresovaný Z MČ P7 čj. ZMČ-D-89/03 od ak.arch. Petra Kováře, předsedy SPBDKO ve věci prosby o pomoc a podporu žádosti<br> <br><br>Určen:	RADNI Hoffmann Petr Ing.<br>Termín: 08.09.2003<br>Úkol:	(0094/03-Z) vyřídit dopis Rady školy ZŠ Letohradská ze dne 25.8.2003<br> <br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

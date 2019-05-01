@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na realizaci akcí pro seniory z Prahy 7 ve spolupráci spol. Prague
+  International Marathon, spol. s r.o., IČO: 636 73 738 v I. pololetí roku 2017'
+datum_vzniku_usneseni: '2017-02-14 00:00:00'
+cislo_usneseni: 0115/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28823/export/M4DV_PIM_Seniori_I_2017~166214.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28823/export/Aktivityproseniory_2017_PIM_program_kalkulace_R~166213.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28823/export/Zapis_1_jednani_SK_12_01_2017_bezpriloh~166212.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28823/export/export~296781.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na realizaci akcí pro seniory z Prahy 7 ve spolupráci spol. Prague International Marathon, spol. s r.o., IČO: 636 73 738 v I. pololetí roku 2017</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že akce jsou určeny pro seniory mající trvalé bydliště v Praze 7, a jsou pro seniory zdarma</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>realizaci akcí pro seniory z Prahy 7 ve spolupráci spol. Prague International Marathon, spol. s r.o., IČO: 636 73 738 v I. pololetí roku 2017 v rozsahu viz příloha č. 2<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradů nákladů ve výši 32 800 Kč vč. DPH, formou faktury, společnosti Prague International Marathon, spol. s r.o., IČO: 636 73 738, se sídlem Františka Křížka 461/11, 170 00 Praha 7, za technicko-organizační a programové zajištění, hrazeno z rozpočtu OKS ORJ 421 - sport</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci akcí pro seniory z Prahy 7 ve spolupráci spol. Prague International Marathon, spol. s r.o., IČO: 636 73 738 dle článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.6.2017</span></li></ul></li></ol></li></ol>

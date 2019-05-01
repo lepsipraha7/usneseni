@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na revokaci části usnesení Zastupitelstva MČ Praha 7 č. 0067/16-Z
+  ze dne 18.04.2016 a č. 0047/16-Z ze dne 14.03.2016, ve věci převodu penzionu Supraphon,
+  včetně souvisejících pozemků, spočívající ve sjednocení výčtu pozemků v souladu
+  s aktuální evidencí katastru nemovitostí
+datum_vzniku_usneseni: '2016-05-16 00:00:00'
+cislo_usneseni: '0084/16-Z'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26866/export/DZ_rev0067z~59775.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26866/export/02_rev0067z~59774.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26866/export/03_rev0067z~59773.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26866/export/04_rev0067z~59772.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26866/export/export~61723.pdf
+organ: zastupitelstvo
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na revokaci části usnesení Zastupitelstva MČ Praha 7 č. 0067/16-Z ze dne 18.04.2016 a č. 0047/16-Z ze dne 14.03.2016, ve věci převodu penzionu Supraphon, včetně souvisejících pozemků, spočívající ve sjednocení výčtu pozemků v souladu s aktuální evidencí katastru nemovitostí</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že k souboru nemovitých věcí spojených s tzv. penzionem Supraphon (Velká Úpa 148) přináleží celkem 18 pozemků, přičemž jejich rozsah a číslování byly v minulosti měněny z rozhodnutí místně příslušného katastrálního úřadu (nikoliv na základě úplatných převodů)</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že v usnesení Zastupitelstva MČ Praha 7 č. 0067/16-Z ze dne 18.04.2016 a č. 0047/16-Z ze dne 14.03.2016, nejsou uvedeny pozemky parc. č. 1089/11, 1123/5 a 1123/6, vše k.ú. Velká Úpa II., namísto toho jsou zde uvedeny již zaniklé pozemky ve zjednodušené evidenci, přičemž ve smlouvě o převodu, aukční vyhlášce, znaleckém posudku a dalších dokumentech je uváděno aktuální číslování pozemků</p></span></li></ol></li><li id="" class="urzClass1"><span name="21">revokuje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>usnesení Zastupitelstva MČ Praha 7 č. 0067/16-Z ze dne 18.04.2016 a č. 0047/16-Z ze dne 14.03.2016, kde v celém textu usnesení nahrazuje část věty: ,,pozemky ve zjednodušené evidenci - parcely původ Pozemkový katastr (PK): parc. č. 907, o výměře 190 m2, a parc. č. 908, o výměře 372 m2" větou: ,,parc. č. 1089/11, o výměře 190 m2, ostatní plocha, parc. č. 1123/5, o výměře 369 m2, ostatní plocha, parc. č. 1123/6, o výměře 76 m2, ostatní plocha"<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit SVM MHMP s usnesením Zastupitelstva MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;20.5.2016</span></li></ul></li></ol></li></ol>

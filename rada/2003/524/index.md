@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření SOU-nájemních smluv na čtyři byty (nové půdní vestavby) v domě
+  Veverkova 29/1170, P7 na základě výsledků výběrového řízení
+datum_vzniku_usneseni: '2003-05-13 00:00:00'
+cislo_usneseni: 0524/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření SOU-nájemních smluv na čtyři byty (nové půdní vestavby) v domě Veverkova 29/1170, P7 na základě výsledků výběrového řízení</h3></span><div class="center">
+		<strong>č. 0524/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 13.05.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na uzavření SOU-nájemních smluv na čtyři byty (nové půdní vestavby) v domě Veverkova 29/1170, P7 na základě výběrového řízení<br><br>II.  souhlasí<br><br>SOU - s uzavřením nájemní smlouvy na dobu určitou do 30.6.2008 s možností prodloužení na byt č.13, 2+1, I.kat., Veverkova 29/1170, P7 za neregulované nájemné 9.750,-Kč měsíčně a úhrady za vybavení a služby s Ondřejem Pokorným, vítězem výběrového řízení na tento byt, a to dle vzorové nájemní smlouvy v příloze č.6 tohoto materiálu (1)<br><br>SOU - s uzavřením nájemní smlouvy na dobu určitou do 30.6.2008 s možností prodloužení na byt č.14, 2+1, I.kat., Veverkova 29/1170, P7 za neregulované nájemné 15.600,-Kč měsíčně a úhrady za vybavení a služby s Petrou Rosickou, vítězkou výběrového řízení na tento byt, a to dle vzorové nájemní smlouvy v příloze č.6 tohoto materiálu  (2)<br><br>SOU - s uzavřením nájemní smlouvy na dobu určitou do 30.6.2008 s možností prodloužení na byt č. 15, 2+1, I.kat., Veverkova 29/1170, P7 za neregulované nájemné 8.550,-Kč měsíčně a úhrady za vybavení a služby s Romanem Dostálem, vítězem výběrového řízení na tento byt, a to dle vzorové nájemní smlouvy v příloze č.6 tohoto materiálu  (3)<br><br>SOU - s uzavřením nájemní smlouvy na dobu určitou do 30.6.2008 s možností prodloužení na byt č. 16, 1+1, I.kat., Veverkova 29/1170, P7 za neregulované nájemné 7.555,-Kč měsíčně a úhrady za vybavení a služby s Evou Paráskovou, vítězkou výběrového řízení na tento byt, a Vladimírem Paráskem, manželem, a to dle vzorové nájemní smlouvy v příloze č.6 tohoto materiálu  (4)<br><br><br>III.	ukládá<br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 30.06.2003<br>Úkol:	SOU - uzavřít nájemní smlouvu na dobu určitou 5-ti let s možností prodloužení na byt č.13, 2+1, I.kat., Veverkova 29/1170, P7 za neregulované nájemné 9.750,-Kč měsíčně a úhrady za vybavení a služby s Ondřejem Pokorným, vítězem výběrového řízení na tento byt, a to dle vzorové nájemní smlouvy v příloze č.6 tohoto materiálu<br> <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 30.06.2003<br>Úkol:	SOU - uzavřít nájemní smlouvu na dobu určitou 5-ti let s možností prodloužení na byt č.14, 2+1, I.kat., Veverkova 29/1170, P7 za neregulované nájemné 15.600,-Kč měsíčně a úhrady za vybavení a služby s Petrou Rosickou, vítězkou výběrového řízení na tento byt, a to dle vzorové nájemní smlouvy v příloze č.6 tohoto materiálu<br> <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 30.06.2003<br>Úkol:	SOU - uzavřít nájemní smlouvu na dobu určitou 5-ti let s možností prodloužení na byt č.15, 2+1, I.kat., Veverkova 29/1170, P7 za neregulované nájemné 8.550,-Kč měsíčně a úhrady za vybavení a služby s Romanem Dostálem, vítězem výběrového řízení na tento byt, a to dle vzorové nájemní smlouvy v příloze č.6 tohoto materiálu<br> <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 30.06.2003<br>Úkol:	SOU - uzavřít nájemní smlouvu na dobu určitou 5-ti do 30.6.2008 s možností prodloužení na byt č.16, 1+1, I.kat., Veverkova 29/1170, P7 za neregulované nájemné 7.555,-Kč měsíčně a úhrady za vybavení a služby s Evou Paráskovou, vítězkou výběrového řízení na tento byt, a Vladimírem Paráskem, manželem, a to dle vzorové nájemní smlouvy v příloze č.6 tohoto materiálu<br> <br><br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

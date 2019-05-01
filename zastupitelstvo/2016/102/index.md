@@ -1,0 +1,19 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na revokaci usnesení Zastupitelstva MČ Praha 7 č. 0025/16-Z ze dne
+  15.02.2016 ve věci odejmutí svěřené správy Šlechtovy restaurace a návrh na uzavření
+  memoranda o vzájemné spolupráci při rekonstrukci a dalším provozu Šlechtovy restaurace
+datum_vzniku_usneseni: '2016-06-13 00:00:00'
+cislo_usneseni: 0102/16-Z
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27420/export/00_SlechtRestauraceOdsvereni~73059.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27420/export/02_SlechtRestauraceOdsvereni~73058.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27420/export/03_SlechtRestauraceOdsvereni~73057.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27420/export/04_SlechtRestauraceOdsvereni~73056.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27420/export/05_SlechtRestauraceOdsvereni~73055.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27420/export/MemorandumSlechtovka_final_TH~73054.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27420/export/07_SlechtRestauraceOdsvereni~73053.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27420/export/export~301625.pdf
+organ: zastupitelstvo
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na revokaci usnesení Zastupitelstva MČ Praha 7 č. 0025/16-Z ze dne 15.02.2016 ve věci odejmutí svěřené správy Šlechtovy restaurace a návrh na uzavření memoranda o vzájemné spolupráci při rekonstrukci a dalším provozu Šlechtovy restaurace</p></span></li></ol></li><li id="" class="urzClass1"><span name="21">revokuje</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>usnesení Zastupitelstva MČ Praha 7 č. 0025/16-Z ze dne 15.02.2016, kdy se v názvu usnesení a v čl. I. bod 2 ruší slovo "podmíněného", dále v čl. II. bod 1 a v čl. V. bod 1. se ruší text "pouze za podmínky dodržení níže uvedených podmínek prostřednictvím uzavření smlouvy, přičemž MČ Praha 7 upozorňuje, že tento souhlas nabývá platnosti a účinnosti až po smluvním zajištění mezi MČ Praha 7 a HMP" a dále se ruší celý článek III. usnesení</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>uzavření memoranda o vzájemné spolupráci při rekonstrukci a dalším provozu Šlechtovy restaurace mezi MČ Praha 7 a Hlavním městem Praha<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s text memoranda o vzájemné spolupráci při rekonstrukci a dalším provozu Šlechtovy restaurace mezi MČ Praha 7 a Hlavním městem Praha</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit příslušný odbor MHMP s usnesením Zastupitelstva MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;17.6.2016</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat memorandum o vzájemné spolupráci při rekonstrukci a dalším provozu Šlechtovy restaurace s Hlavním městem Praha</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.7.2016</span></li></ul></li></ol></li></ol>

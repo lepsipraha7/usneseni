@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Vyhlášení obchodní veřejné soutěže - provádění úklidu chodníku včetně
+  přilehlého pásu komunikace v rozsahu 311.000 m2; sběr psích exkr., vývoz speciálních
+  košů na psí exkr., úklid psího záchodku a úklid černých skládek - doplňkové služby   '
+datum_vzniku_usneseni: '2000-02-29 00:00:00'
+cislo_usneseni: 0172/00
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Vyhlášení obchodní veřejné soutěže - provádění úklidu chodníku včetně přilehlého pásu komunikace v rozsahu 311.000 m2; sběr psích exkr., vývoz speciálních košů na psí exkr., úklid psího záchodku a úklid černých skládek - doplňkové služby   </h3></span><div class="center">
+		<strong>č. 0172/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 29.02.2000</strong><br><br>
+	</div>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na vyhlášení obchodní veřejné soutěže - provádění úklidu chodníků včetně přilehlého pásu komunikace v rozsahu 311.000 m2 na území městské části Praha 7; mechanizovaný sběr psích exkrementů, vývoz speciálních košů na psí exkrementy, úklid psího záchodku a úklid černých skládek - jako doplňkové služby<br><br>II.	souhlasí <br><br>s  textem návrhu na vyhlášení obchodní veřejné soutěže - provádění úklidu chodníků včetně přilehlého pásu komunikace v rozsahu 311.000 m2 na území městské eásti Praha 7; mechanizovaný sběr psích exkrementu, vývoz speciálních košů na psí exkrementy, úklid psího záchodku a úklid černých skládek - jako doplňkové služby<br><br>III.	jmenuje<br><br>členy a jejich náhradníky do komise pro posouzení a hodnocení nabídek podaných na  obchodní veřejnou soutiž - provádění úklidu chodníků včetně přilehlého pásu komunikace v rozsahu 311.000 m2 na území městské části Praha 7, mechanizovaný sběr psích exkrementu, vývoz speciálních košu na psí exkrementy, úklid psího záchodku a úklid černých skládek - jako doplňkové služby. Jmenovitě členové:<br><br>1. Jiří Mach - předseda KŽP<br>2. Ari Liberman - člen OR<br>3. Radek Mikšík - člen OR<br>4. Mgr. Luboš Vayhel - zástupce starosty<br>5. Miloslava Vitásková - vedoucí ODO<br>6. Mgr. Danka Hájniková - vedoucí OP<br>7. Ing. Hana Horská - vedoucí OŽP<br>8. Bc. Martin Pecánek - zástupce vedoucího OŽP<br><br><br>Náhradníci:<br>1. PhDr. Ivana Kučerová - zástupce starosty<br>2. Ing. Muller - člen KŽP<br>3. Eva Mašková - zástupce ved. ODO<br>4. Mgr. Petr Plášil - zástupce ved. OP<br>5. Ing. Alena Bínová - ODO (OŽP)<br>6. Ing. Helena Hnilicová - OŽP<br><br>IV.	ukládá <br><br> Určen:	     	VED KT Potužáková Lucie<br>Termín: 03.03.2000<br>Úkol:	zajistit uveřejnění veřejné obchodní soutěže - provádění úklidu chodníků včetně přilehlého pásu komunikace v rozsahu 311.000 m2 na území městské části Praha 7, mechanizovaný sběr psích exkrementů, vývoz speciálních košů na psí exkrementy, úklid psího záchodku  a úklid černých skládek - jako doplňkové služby v Obchodním věstníku<br> <br> Určen:	     	TAJ Dušek Josef<br>Termín: 15.03.2000<br>Úkol:	zajistit předání jmenovacích dekretů jmenovaným členům a náhradníkům komise pro otevírání, posouzení a hodnocení nabídek na veřejnou obchodní soutěž - provádění úklidu chodníků včetně přilehlého pásu komunikace v rozsahu 311.000 m2 na území městské části Praha 7; mechanizovaný  sběr psích exkrementů, vývoz speciálních košů na psí exkrementy, úklid psího záchodku  a úklid černých skládek - jako doplňkové služby Členové jmenovitě:<br><br>1. Jiří Mach - předseda KŽP<br>2. Ari Lieberman - člen OR<br>3. Radek Mikšík - člen OR<br>4. Mgr. Luboš Vayhel - zástupce starosty<br>5. Miloslava Vitásková - vedoucí ODO<br>6. Mgr. Danka Hájniková - vedoucí OP<br>7. Ing. Hana Horská - vedoucí OŽP<br>8. Bc. Martin Pecánek - zástupce vedoucího OŽP                                                                            <br><br>Náhradníci:<br>1. PhDr. Ivana Kučerová - zástupce starosty<br>2. Ing. Muller - člen KŽP<br>3. Eva Mašková - zástupce ved. ODO<br>4. Mgr. Petr Plášil - zástupce ved. OP<br>5. Ing. Alena Bínová - ODO (OŽP)<br>6. Ing. Helena Hnilicová - OŽP<br> <br><br>
+</div>
+</div>

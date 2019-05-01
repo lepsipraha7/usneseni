@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Řešení některých žádostí projednaných při jednání bytové komise dne 07.04.
+  a 05.05.2003
+datum_vzniku_usneseni: '2003-05-20 00:00:00'
+cislo_usneseni: '0558/03'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Řešení některých žádostí projednaných při jednání bytové komise dne 07.04. a 05.05.2003</h3></span><div class="center">
+		<strong>č. 0558/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 20.05.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na řešení žádostí projednaných při jednání bytové komise dne 7.4.2003<br><br><br><br>II.	souhlasí <br><br>s umístěním sídla advokátní kanceláře JUDr. Petra Vlacha v bytě č.13, Kostelní 36/36, P7, nájemce JUDr. Petr Vlach<br><br>s úpravami společného prostoru sušárny domu Osadní 41/46 a jeho rekolaudací na byt s využitím již vypracovaného projektu, a to na vlastní náklady žadatelky Azity Haidarové bytem Osadní 41/46, P7<br><br>se zprostředkovanou výměnou bytu č.34, Osadní 41/46, P7, nájemce Azita Haidarová, za rekolaudovaný byt ze společného prostoru sušárny domu Osadní 41/46, P7 za podmínky, že Azita Haidarová nejpozději do tří měsíců od vydání stavebního povolení na její jméno ukončí nájemní smlouvu na byt č.34, Osadní 41/46<br><br>s přisloučením části střešní terasy (mimo část umožňující přístup na střechu) domu Osadní 41/46, P7 k rekolaudovanému bytu ze společného prostoru sušárny domu Osadní 41/46, P7 paní Azitou Haidarovou za podmínky, že paní Haidarová provede na vlastní náklady opravu celé terasy<br><br>s vyjmutím sklepa nájemce bytu č.5, Malířská 7/230, P7 paní Jiřiny Nejedlé z nájmu bytu ze zdravotních důvodů<br><br>s podnájmem bytu č.20, Poupětova 20/13, P7 ,nájemce Michal Krzyžanek, pro Martu Repaskou trvale bytem Svazácká 17, Ostrava-Zábřeh, a to na dobu od 30.6.2003 do 31.12.2003<br><br>NN - s uzavřením nové nájemní smlouvy na dobu neurčitou na byt č.4, 1+1, II.kat, U Městských domů 5/181, P7 s Obvodním ředitelstvím Policie ČR zastoupeným JUDr. Janem Navrátilem - ředitelem, za účelem podnájmu policistům<br><br>NN - s uzavřením nové nájemní smlouvy na dobu neurčitou na byt č.28, 1+1, II.kat., Osadní 2/1474, P7 s Obvodním ředitelstvím Policie ČR zastoupeným JUDr. Janem Navrátilem - ředitelem, za účelem podnájmu policistům <br><br><br><br>III.	nesouhlasí<br><br>se zařazením Anny Třískové do pořadníku žadatelů o nájem obecního bytu ze sociálně-zdravotních důvodů s nájmem regulovaným<br><br><br>IV.	ukládá <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 15.06.2003<br>Úkol:	podepsat písemný souhlas s umístěním sídla advokátní kanceláře JUDr. Petra Vlacha v bytě č.13, Kostelní 36/36, P7, nájemce JUDr. Petr Vlach a zaslat ho JUDr. Vlachovi<br> <br><br><br> <br>Určen:	VED OMB Kadaňková Alena<br>Termín: 15.06.2003<br>Úkol:	seznámit paní Azitu Haidarovou, Osadní 41/46, P7 se stanoviskem R MČ P7 <br> <br><br><br> <br>Určen:	VED OMB Kadaňková Alena<br>Termín: 15.06.2003<br>Úkol:	seznámit paní Jiřinu Nejedlou a správní firmu CENTRA v.o.s. se stanoviskem R MČ P7<br> <br><br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 15.06.2003<br>Úkol:	podepsat písemný souhlas s podnájmem bytu č.20, Poupětova 20/13, P7, nájemce Michal Krzyžanek, pro Martu Repaskou na dobu od 30.6. do 31.12.2003<br> <br><br><br> <br>Určen:	VED OMB Kadaňková Alena<br>Termín: 15.06.2003<br>Úkol:	seznámit paní Annu Třískovou, Koněvova 142, P3 se stanoviskem R MČ P7<br> <br><br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 20.06.2003<br>Úkol:	NN - uzavřít novou nájemní smlouvu na dobu neurčitou na byt č.4, 1+1, II.kat, U Městských domů 5/181, P7 s Obvodním ředitelstvím Policie ČR zastoupeným JUDr. Janem Navrátilem - ředitelem, za účelem podnájmu policistům<br> <br><br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 20.06.2003<br>Úkol:	NN - uzavřít novou nájemní smlouvu na dobu neurčitou na byt č.28, 1+1, II.kat., Osadní 2/1474, P7 s Obvodním ředitelstvím Policie ČR zastoupeným JUDr. Janem Navrátilem - ředitelem, za účelem podnájmu policistům <br> <br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

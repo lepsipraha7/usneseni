@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Řešení žádostí projednaných při jednání majetkové komise dne 13.12.1999
+datum_vzniku_usneseni: '1999-12-21 00:00:00'
+cislo_usneseni: '0961/99'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Řešení žádostí projednaných při jednání majetkové komise dne 13.12.1999</h3></span><div class="center">
+		<strong>č. 0961/99</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 21.12.1999</strong><br><br>
+	</div>
+<br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál k řešení žádostí projednaných při jednání majetkové komise dne 13.12.1999<br><br>II.	nesouhlasí<br><br>s prodejem pozemku č. parc 1334 , k. ú. Holešovice  (Dukelských hrdinů  26) společnosti LA TRINITE, s.r.o s tím, že k jednání o prodeji pozemku se bude možné vrátit po kolaudaci stavby<br><br>III.	souhlasí <br><br>s přiznáním slevy ve výši 20% z nájemného od 1.1.2000 nájemci paní Vlastě Bernáškové , bytem Pplk. Sochora 3 z důvodu nevyhovujícího denního osvětlení bytu<br><br>s provedením udržovacích prací v NP Dukelských hrdinů 25, na vlastní náklady nájemce Michelských pekáren , a.s.<br><br>se změnou užívání NP Ortenovo nám. 37 ( po firmě MAGNA, s.r.o. ) na služebnu Městské policie a s provedením udržovacích prací na vlastní náklady nájemce<br><br>s vybudováním 2. dveřních otvorů a s provedením udržovacích prací v NP Janovského 24 na vlastní náklady nájemce SANANIM, o.s.<br><br>s provedením udržovacích prací , opravou elektroinstalace , vybudováním etážového topení  v souladu se žádostí ze dne 16.11.1999 v NP Dukelských hrdinů 40 - nájemce AUTOVAVŘINEC<br><br>se změnou dispozice bytu a s provedením stavebních prací s tím spojených a  s provedením plynového etážového topení v bytě nájemce p. Jana Suchánka , Osadní 39 , na vlastní náklady nájemce<br><br>se změnou dispozice bytu a s provedením stavebních prací s tím spojených v bytě nájemce p. Martina Karáska, U Smaltovny 20 , na vlastní náklady nájemce<br><br>s opravou plynovodní přípojky vedoucí objektem č.p. 1062 a pod pozemkem č. parc. 1002, k.ú. Holešovice pro dvorní objekt GŘ Vězeňské služby Na Maninách 24<br><br>s připojením účastnické zásuvky na společnou televizní anténu provozovnou SAZKA v domě Dělnická 49 na vlastní náklady nájemce<br><br>IV.	ukládá <br><br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 23.12.1999<br>Úkol:	seznámit OVT a nájemce p. Bernáškovou , bytem Pplk. Sochora 3, s přiznáním slevy z nájmu<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 23.12.1999<br>Úkol:	seznámit Michelské pekárny , a.s. s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 23.12.1999<br>Úkol:	seznámit společnost LA TRINITE , s.r.o. s výsledkem projednání žádosti  <br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 23.12.1999<br>Úkol:	seznámit firmu INKOS v zastoupení Městské policie s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 23.12.1999<br>Úkol:	seznámit sdružení SANANIM s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 23.12.1999<br>Úkol:	seznámir firmu AUTOVAVŘINEC s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 23.12.1999<br>Úkol:	seznámit nájemce p. Jana Suchánka, bytem Osadní 39,  s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 23.12.1999<br>Úkol:	seznámit nájemce p. Martina Karáska, bytem U Smaltovny 20, s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 23.12.1999<br>Úkol:	seznámit GŘ Vězeňské služby s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 23.12.1999<br>Úkol:	seznámit provozovnu SAZKA - TJ Dělnická 49 s výsledkem projednání žádosti<br>
+</div>
+</div>

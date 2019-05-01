@@ -1,0 +1,22 @@
+---
+layout: detail_usneseni
+nazev_bodu: Schválení stanoviska MČ Praha 7 k návrhu Nařízení hl. m. Prahy, kterým
+  se mění vyhláška hl. m. Prahy č. 27/1998 Sb. hl. m. Prahy, kterou se vydává tržní
+  řád, ve znění pozdějších předpisů
+datum_vzniku_usneseni: '2002-07-23 00:00:00'
+cislo_usneseni: 0766/02
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Schválení stanoviska MČ Praha 7 k návrhu Nařízení hl. m. Prahy, kterým se mění vyhláška hl. m. Prahy č. 27/1998 Sb. hl. m. Prahy, kterou se vydává tržní řád, ve znění pozdějších předpisů</h3></span><div class="center">
+		<strong>č. 0766/02</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 23.07.2002</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na schválení stanoviska MČ Praha 7 k návrhu Nařízení hl. m. Prahy, kterým se mění vyhláška hl. m. Prahy č. 27/1998 Sb. hl. m. Prahy, kterou se vydává tržní řád, ve znění pozdějších předpisů<br><br>II.	konstatuje,<br><br>že k návrhu Nařízení hl. m. Prahy, kterým se mění vyhláška hl. m. Prahy č. 27/1998 Sb. hl. m. Prahy, kterou se vydává tržní řád, ve znění pozdějších předpisů má následující připomínky:<br><br>Navrhujeme v příloze č. 1 (Seznam tržnic, tržišť....) :<br><br>na str. 2 - TRŽNICE u adresy místa Holešovická tržnice, Bubenské nábřeží 306, parc. č. 1188, 1189, 1190, ve sloupci 7 „Druh prodávaného zboží nebo poskytované služby (druh zboží)“ tabulky doplnit: „sluneční brýle, stravovací služby včetně podávání alkoholických nápojů“<br><br>na str. 2 - TRŽNICE u adresy místa Výstaviště - areál, ve sloupci 7 „Druh prodávaného zboží nebo poskytované služby (druh zboží)“ tabulky doplnit: „sluneční brýle, stravovací služby včetně podávání alkoholických nápojů“<br><br>na str. 53 - PŘEDSUNUTÁ PRODEJNÍ MÍSTA  vypustit předsunuté prodejní místo Milady Horákové  č. 70, NON STOP - Letná<br><br>na str. 56 - PŘEDSUNUTÁ PRODEJNÍ MÍSTA u adresy místa Ortenovo náměstí, u č. 33/931, prodej v ulici Osadní, potraviny VRBAS, ve sloupci 7 „Druh prodávaného zboží nebo poskytované služby (druh zboží)“ tabulky doplnit: „balené potraviny“<br><br><br><br><br><br>na str. 26 - TRŽNÍ MÍSTA u adresy místa Nádraží Holešovice, st. metra C, sever, směr ul. Partyzánská, nezasahuje do přístupové a výstupní cesty metra, ve sloupci 7 „Druh prodávaného zboží <br>nebo poskytované služby (druh zboží)“ tabulky doplnit: „stravovací služby včetně podávání alkoholických nápojů“<br><br>na str. 27 - TRŽNÍ MÍSTA u adresy místa Ostrov Štvanice, areál koupaliště, ve sloupci 7 „Druh prodávaného zboží nebo poskytované služby (druh zboží)“ tabulky doplnit: „stravovací služby včetně podávání alkoholických nápojů“<br>	<br>na str. 27 - TRŽNÍ MÍSTA u adresy místa Plocha před Výstavištěm, parc. č. 1862/4, k. ú. Holešovice, ve sloupci 7 „Druh prodávaného zboží nebo poskytované služby (druh zboží)“ tabulky doplnit: „stravovací služby včetně podávání alkoholických nápojů“<br><br>na str. 27 - TRŽNÍ MÍSTA u adresy místa Plynární, pozemek ČD, parc. č. 2415/1, k. ú. Holešovice ve sloupci 7 „Druh prodávaného zboží nebo poskytované služby (druh zboží)“ tabulky doplnit: „stravovací služby včetně podávání alkoholických nápojů“<br><br>na str. 27 - TRŽNÍ MÍSTA u adresy místa Stromovka, parc. č. 1829, k. ú. Bubeneč, ve sloupci 7 „Druh prodávaného zboží nebo poskytované služby (druh zboží)“ tabulky doplnit: „stravovací služby včetně podávání alkoholických nápojů“<br><br>na str. 27 - TRŽNÍ MÍSTA u adresy místa Šlechtova restaurace, zahrada, parc. č. 1796, k. ú. Bubeneč, ve sloupci 7 „Druh prodávaného zboží nebo poskytované služby (druh zboží)“ tabulky doplnit: „stravovací služby včetně podávání alkoholických nápojů“<br><br>na str. 27 - TRŽNÍ MÍSTA u adresy místa U Výstaviště, pozemek Českých drah, parc. č. 2416/22, k. ú. Holešovice, ve sloupci 7 „Druh prodávaného zboží nebo poskytované služby (druh zboží)“ tabulky doplnit: „stravovací služby včetně podávání alkoholických nápojů“<br><br><br>III.	ukládá <br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 25.07.2002<br>Úkol:	informovat orgány hlavního města Prahy o stanovisku MČ Praha 7 k návrhu Nařízení hl. m. Prahy, kterým se mění vyhláška hl. m. Prahy č. 27/1998 Sb. hl. m. Prahy, kterou se vydává tržní řád, ve znění pozdějších předpisů<br> <br><br><br><br><br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

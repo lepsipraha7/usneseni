@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh ke zprávě o výsledcích hospodaření MČ Praha 7 za 1. - 3. čtvrtletí
+  2018 v rámci hospodářské činnosti - úseku zdaňované činnosti
+datum_vzniku_usneseni: '2018-12-10 00:00:00'
+cislo_usneseni: '0119/18-Z'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30435/export/01_duvodovazprava~415364.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30435/export/rozborovazpravaVHC7Usro13ctvrtleti2018~415363.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30435/export/vykazziskuaztratyVHC13ctvrtleti2018~415362.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30435/export/vykazziskuaztraty7U13ctvrtleti2018~415361.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30435/export/usneseniRadyMCP7~415360.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30435/export/export~415699.pdf
+organ: zastupitelstvo
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh ke zprávě o výsledcích hospodaření MČ Praha 7 za&nbsp;1. - 3. čtvrtletí roku 2018 v rámci hospodářské činnosti - úseku zdaňované činnosti</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>rozborovou zprávu za&nbsp;1. - 3. čtvrtletí 2018 zpracovanou správní firmou 7U s.r.o.</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že dosažený výsledek hospodaření MČ Praha 7 za&nbsp;1. - 3. čtvrtletí roku 2018 v rámci hospodářské činnosti - úseku zdaňované činnosti - vykazuje zisk ve výši 39 601 160,58 Kč<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že skutečné příjmy na účtu 182 za&nbsp;1. - 3. čtvrtletí roku 2018 činily 203 455,61 Kč a výdaje 10 709,50 Kč</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že skutečné příjmy na účtu 9021 za&nbsp;1. - 3. čtvrtletí roku 2018 činily 80 945 146,85 Kč a výdaje 78 190 610,18 Kč</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že skutečné příjmy na účtu 3699929369 za&nbsp;1. - 3. čtvrtletí roku 2018 činily 7 672 352,48 Kč a výdaje 11 012 657,00 Kč</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že skutečné příjmy na účtech 140011, 220011 (spravovaný 7U s.r.o.) za&nbsp;1. - 3. čtvrtletí roku 2018 činily 85 095 500,85 Kč a výdaje 86 410 241,77 Kč</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>rozborovou zprávu o výsledcích hospodaření MČ Praha 7 za&nbsp;1. - 3. čtvrtletí roku 2018 v rámci hospodářské činnosti - úseku zdaňované činnosti</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh usnesení Zastupitelstva MČ Praha 7</p></span></li></ol></li></ol>

@@ -1,0 +1,22 @@
+---
+layout: detail_usneseni
+nazev_bodu: Schválení připomínek k návrhu vyhlášky hl. m. Prahy, kterou se mění a
+  doplňuje vyhláška HMP č. 27/1998 Sb. HMP, kterou se vydává tržní řád, ve znění vyhlášky
+  č. 41/1998 Sb. HMP, vyhlášky č. 3/1999 Sb. HMP, vyhlášky č. 11/1999 Sb. HMP a vyhlášky
+  č. 20/1
+datum_vzniku_usneseni: '2000-06-13 00:00:00'
+cislo_usneseni: '0538/00'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Schválení připomínek k návrhu vyhlášky hl. m. Prahy, kterou se mění a doplňuje vyhláška HMP č. 27/1998 Sb. HMP, kterou se vydává tržní řád, ve znění vyhlášky č. 41/1998 Sb. HMP, vyhlášky č. 3/1999 Sb. HMP, vyhlášky č. 11/1999 Sb. HMP a vyhlášky č. 20/1</h3></span><div class="center">
+		<strong>č. 0538/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 13.06.2000</strong><br><br>
+	</div>     <br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na schválení připomínek k návrhu vyhlášky hl. m. Prahy, kterou se mění a doplňuje vyhláška HMP è. 27/1998 Sb. HMP, kterou se vydává tržní řád, ve znění vyhlášky č. 41/1998 Sb. HMP, vyhlášky č. 3/1999 Sb. HMP, vyhlášky č. 11/1999 Sb. HMP a vyhlášky č. 20/1999 Sb. HMP  a vyhlášky č. 11/2000 Sb. HMP<br><br><br>II.	konstatuje,<br><br>že k návrhu vyhlášky hl. m. Prahy, kterou se mění a doplňuje vyhláška HMP č. 27/1998 Sb. HMP, kterou se vydává tržní řád, ve znění pozdějších předpisů má následující připomínky:<br>V příloze k vyhlášce HMP, kterou se vydává tržní řád doporučuje v části:<br><br> TRŽNICE:<br>Holešovická tržnice, Bubenské nábřeží 306 - upravit uvedenou plochu ve sloupci č. 4, 800 m2, <br>která neodpovídá skutečnosti (výměra tržnice: zastavěná plocha-č.parc. 1188 = 102199 m2,<br>zahrada-č.parc. 1189 = 386 m2, zahrada-č.parc. 1190 = 472 m2)	<br>	<br> TRŽIŠTĚ<br>Holešovice-metro, sever, na ploše Českých drah - vypustit<br><br> TRŽNÍ MÍSTA<br>- Nádraží Holešovice, trasa metra C, vestibul sever - 1 TM, 3 m2 - sloučit s adresou <br>Nádraží Holešovice, trasa metra C, vestibul sever - 1 TM, 2 m2<br>- Plocha před Výstavištěm, parc.č. 1862/4 - 4 TM snížit na 3, Vltavská, st. metra-uliční úroveň  <br>- 3 prodejní místa snížit na 2<br><br>-vypustit následující příležitostný prodej:<br>	Bubenské nábř. u č. 306<br>	Dělnická před NS DELVITA<br>	Dukelských hrdinů u č. 41/695<br>	Janovského u č. 10<br>	Jateční u č. 1434, roh Stupkova<br>	Kamenická u č. 24<br>	Komunardů u č. 13<br>	Komunardů u č. 18<br>	Komunardů u č. 35<br>	Milady Horákové u č. 77<br>	Strossmayerovo nám. u č. 10<br>	Tusarova u č. 1472, betonová plocha za pavilonem OZ<br>	V Háji u č. 18<br>	Veverkova u č. 16<br>	U Výstaviště, na přístupové komunikaci<br>	Ostrov Štvanice, přístupová komunikace k centrálnímu tenisovému dvorci<br><br>- doplnit  - určení sortimentu u tržních míst<br>Dukelských hrdinů u č. 33 - tisk, časopisy, tabákové výrobky<br>Komunardů u č. 20 - ovoce, zelenina<br>Komunardů, u zdi pivovaru - ovoce, zelenina, květiny	<br>Milady Horákové, výklenek u č. 6 - ovoce, zelenina<br>Nádraží Holešovice, metro, jih před vstupem z metra u ul. Plynární, mimo vstupy do metra - ovoce, zelenina - suché plody - květiny - sezónní zboží - tisk, tabákové výrobky - občerstvení - grilovaná kuřata - Fortuna.   <br>Nádraží Holešovice-jih (MHD), st. metra-uliční úroveň (u autobus.zastávek) - květiny<br>Plocha před Výstavištěm, parc. č. 1862/4 - sortiment odpovídá druhu zboží stanovený pro vymezenou centrální část města.	<br>Plynární, pozemek ČD, parc.č. 2415/1 -                     	dtto<br>Stromovka, parc.č. 1829 -				     	dtto	<br>Šlechtova restaurace, zahrada, parc.č.1796 - 	     	dtto<br>U Výstaviště, pozemek ČD, parc.č. 2416/22 -             	dtto<br>Vltavská, metro, před výstupem z metra, u st. MHD, mimo vstupy do metra - dtto<br><br> MÍSTA PRO NABÍDKU ZBOŽÍ<br>- doplnit <br>Františka Křížka u č. 8  - prodejna ovoce a zeleniny<br>Milady Horákové u č. 26  - prodejna BéBé Dětský svět<br>Korunovační u č. 16 - prodejna S. Siedle  Sohne<br>Dobrovského 1 - prodejna ovoce a zeleniny<br><br>- doplnit   do přílohy  ( č.3) k důvodové zprávě předsunutá prodejní místa, vzhledem k tomu, že v návrhu nového znění tržního řádu zůstává v Čl.1 bod (6), ale v návrhu úpravy přílohy (č.3) tyto místa chybí.<br><br>- vyhlášku  doplnit v rámci Městské části Praha 7 o trasu pro pojízdný prodej v lokalitě Letenské pláně, Letenských sadů, Stromovky<br>
+</div>
+</div>

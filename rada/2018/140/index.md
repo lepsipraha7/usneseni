@@ -1,0 +1,12 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení Písemné zprávy zadavatele na veřejnou zakázku „ Nová
+  radnice pro Prahu 7– Vyhrazená změna závazku"
+datum_vzniku_usneseni: '2018-02-20 00:00:00'
+cislo_usneseni: 0140/18-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27130/export/1Duvodovazprava~327420.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27130/export/export~328458.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>povinnost vypracovat Písemnou zprávu zadavatele,&nbsp; dle § 217 zákona č.134/2016 Sb., o zadávání veřejných zakázek na veřejnou zakázku zadávanou v jednacím řízení bez uveřejnění s názvem "Nová radnice pro Prahu 7– Vyhrazená změna závazku", <br></p><p><br></p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>s Písemnou zprávou zadavatele, vypracovanou dle § 217 zákona č.134/2016 Sb., o zadávání veřejných zakázek, <br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol id="" class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>podpis Písemné zprávy zadavatele, vypracované dle § 217 zákona č.134/2016 Sb., o zadávání veřejných zakázek. Písemná zpráva je přílohou č. 3 tohoto materiálu.</p></span></li></ol></li><li id="" class="urzClass1"><span name="16">pověřuje</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>starostu městské části Praha 7 Mgr. Jana Čižinského podepsat&nbsp;</p><p>Písemnou zprávu zadavatele k veřejné zakázce "Nová radnice pro Prahu 7– Vyhrazená změna závazku", vypracované dle § 217 zákona č.134/2016 Sb., o zadávání veřejných zakázek.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Písemnou zprávu zadavatele k veřejné zakázce "Nová radnice pro Prahu 7 – Vyhrazená změna závazku", vypracované dle § 217 zákona č.134/2016 Sb., o zadávání veřejných zakázek.</p></span><span class="urzUkolTermin">  Termín:&nbsp;23.2.2018</span><div class="urzUkolTermin">  Kontrolní termín:&nbsp;23.2.2018</div></li></ul></li></ol></li></ol>

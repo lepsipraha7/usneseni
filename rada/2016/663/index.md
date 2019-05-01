@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření dohody o narovnání ve věci úhrady nákladů spojených
+  s opravami, nad rámec běžné údržby, v bytové jednotce č. 1493/6, U Průhonu 1493/11,
+  bývalému nájemci předmětné jednotky panu Tomáši Valouškovi
+datum_vzniku_usneseni: '2016-06-28 00:00:00'
+cislo_usneseni: 0663/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27924/export/DZ_Pruhon11oknaZhodnoc~78751.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27924/export/02_Pruhon11oknaZhodnoc~78750.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27924/export/03_Pruhon11oknaZhodnoc~78749.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27924/export/05_Pruhon11oknaZhodnoc~78746.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27924/export/export~298355.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh na uzavření dohody o narovnání ve věci úhrady nákladů spojených s opravami, nad rámec běžné údržby, v bytové jednotce č. 1493/6, U Průhonu 1493/11, bývalému nájemci předmětné jednotky panu Tomáši Valouškovi</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s uzavřením dohody o narovnání ve věci úhrady nákladů spojených s opravami,&nbsp;nad rámec běžné údržby, v bytové jednotce č. 1493/6 (dle původní evidence byt č. 15), v domě U Průhonu 1493/11, které spočívají ve výměně tří kusů oken, bývalému nájemci předmětné jednotky panu Tomáši Valouškovi, bytem U Průhonu 1493/11, 170 00 Praha 7 a s následnou úhradou nákladů ve výši 24 390 Kč, v souladu se znaleckým posudkem č. 1561-111/2015, zpracovaným Ing. Lucií Cihelkovou, Lamačova 914/35, 152 00 Praha 5, s úhradou z účtu zdaňované činnosti 9021<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s textem dohody o narovnání ve věci úhrady nákladů spojených s opravami,&nbsp;nad rámec běžné údržby, v bytové jednotce č. 1493/6 (dle původní evidence byt č. 15), v domě U Průhonu 1493/11, bývalému nájemci předmětné jednotky panu Tomáši Valouškovi, bytem U Průhonu 1493/11, 170 00 Praha 7<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dohodu o narovnání ve věci úhrady nákladů spojených s opravami, nad rámec běžné údržby, v bytové jednotce č. 1493/6 (dle původní evidence byt č. 15), v domě U Průhonu 1493/11, které spočívají ve výměně tří kusů oken, s bývalým nájemcem předmětné jednotky panem Tomášem Valouškem, bytem U Průhonu 1493/11, 170 00 Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.7.2017</span></li></ul></li></ol></li></ol>

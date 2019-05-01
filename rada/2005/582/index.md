@@ -1,0 +1,37 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh stanoviska MČ P-7 k projektové dokumentaci k územnímu a stavebnímu
+  řízení ve věci umístění základnové stanice telefonní sítě firmy Oscar Mobil a.s.
+  na obytném domě v ul. U Průhonu 1238/44, 170 00 Praha 7
+datum_vzniku_usneseni: '2005-06-07 00:00:00'
+cislo_usneseni: '0582/05'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh stanoviska MČ P-7 k projektové dokumentaci k územnímu a stavebnímu řízení ve věci umístění základnové stanice telefonní sítě firmy Oscar Mobil a.s. na obytném domě v ul. U Průhonu 1238/44, 170 00 Praha 7</h3></span><div class="center">
+		<strong>č. 0582/05</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 07.06.2005</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh stanoviska MČ P-7 k projektové dokumentaci k územnímu a stavebnímu řízení ve věci umístění základnové stanice telefonní sítě firmy Oscar Mobil a.s. na obytném domě v ul. U Průhonu 1238/44, 170 00 Praha 7</li></ul>
+</li>
+<li>Konstatuje<ul><li>
+<strong>1.</strong> MČ P-7 souhlasí s projektovou dokumentací ve věci umístění základnové stanice telefonní sítě firmy Oscar Mobil a.s. na obytném domě v ul. U průhonu 1238/44, 170 00 Praha 7 </li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>ZAS STA Vavřinec Tomáš JUDr.</li>
+<li>
+<strong>1.1 Úkol: </strong>zajistit zaslání stanoviska MČ P-7 k žádosti o vyjádření ve věci umístění základnové stanice telefonní sítě firmy Oscar Mobil a.s. na obytném domě v ul. U Průhonu 1238/44, 170 00 Praha 7, na adresu: Ing. Naďa Melegová, projekt manager, Com Plus HK, spol. s r. o., Pálenská 650, 500 04 Hradec Králové</li>
+<li>
+<strong>1.2 Termín: </strong>10.06.2005</li>
+</ul>
+</li>
+</ol>starostka Městské části Praha 7: PhDr. Ivana Kučerová<br>zástupce starostky Městské části Praha 7: JUDr. Tomáš Vavřinec <hr>
+<br>Bez příloh</div>
+</div>

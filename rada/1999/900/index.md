@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření nájemních smluv na NBP po ukončených výběrových řízeních
+datum_vzniku_usneseni: '1999-11-30 00:00:00'
+cislo_usneseni: '0900/99'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření nájemních smluv na NBP po ukončených výběrových řízeních</h3></span><div class="center">
+		<strong>č. 0900/99</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 30.11.1999</strong><br><br>
+	</div>
+<br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na uzavření nájemních smluv na NBP po ukončených výběrových řízeních<br><br>II.	souhlasí <br><br>s uzavřením nájemní smlouvy na NBP vinárna a sklad - v suterénu a přízemí domu Dukelských hrdinů 27/470, o rozloze 83,24 m2, s nájemcem Kodyr, s. r. o., sídlo: Belgická 33, Praha 2, IČO: 25 09 86 32, na dobu neurčitou, za nájemné 3.480,- Kč/ m2/rok<br><br>s uzavřením nájemní smlouvy na NBP garážový box č. 12 o rozloze 18 m2, v přízemí domu Veletržní 39/1396, Praha 7, s nájemcem Pavel Weis (1), na dobu neurčitou za nájemné 1.140,- Kč/ m2/rok<br><br>s uzavřením nájemní smlouvy na NBP dílna a sklad nářadí o rozloze 59 m2, v přízemí domu U Průhonu 28/1138, Praha 7, s nájemcem Josef Suja, místo podnikání: Komunardů 35, Praha 7, IČO: 15 444007, na dobu neurčitou za nájemné 350,- Kč/m2/rok<br><br>s uzavřením nájemní smlouvy na NBP dílna o rozloze 167,1 m2, ve dvoře domu Umělecká 5/1005, Praha 7, s nájemcem Daniel Smrž, místo podnikání: Františka Křížka 16, Praha 7, IČO: 64 76 73 96, na dobu neurčitou, za nájemné  145,- Kč/m2/rok     <br><br>s uzavřením nájemní smlouvy na NBP informační kancelář pro mládež - U Letenského sadu 7/215, s nájemcem Sdružení mládeže Free Time, sídlo: Veletržní 42, Praha 7, IČO: 45 24 72 42. na dobu neurčitou, za nájemné 100,- Kč/ m2/rok<br><br>s uzavřením nájemní smlouvy na NBP kancelář o rozloze 18 m2, v přízemí domu Milady Horákové 9/1280, Praha 7, s nájemcem Eva Vrabčáková, sídlo: Hašplířská 564, Kutná Hora, IČO: 63 84 22 46, na dobu neurčitou za nájemné 800,- Kč/ m2/rok<br><br><br><br><br><br><br><br><br>III.	ukládá <br><br> Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 28.02.2000<br>Úkol:	uzavřít po vypořádání závazků s předchozím nájemcem nájemní smlouvu na NBP vinárna a sklad - v suterénu a přízemí domu Dukelských hrdinů 27/470, o rozloze 83,24 m2, s nájemcem Kodyr, s. r. o., sídlo: Belgická 33, Praha 2, IČO: 25 09 86 32, na dobu neurčitou, za nájemné 3.480,- Kč/ m2/rok<br>   Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 10.01.2000<br>Úkol:	uzavřít nájemní smlouvu na NBP garážový box č. 12 o rozloze 18 m2, v přízemí domu Veletržní 39/1396, Praha 7, s nájemcem Pavel Weis (1), na dobu neurčitou za nájemné 1.140,- Kč/ m2/rok<br>  Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 10.01.2000<br>Úkol:	uzavřít nájemní smlouvuna NBP dílna a sklad nářadí o rozloze 59 m2, v přízemí domu U Průhonu 28/1138, Praha 7, s nájemcem Josef Suja, místo podnikání: Komunardů 35, Praha 7, IČO: 15 444007, na dobu neurčitou za nájemné 350,- Kč/m2/rok<br>  Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 10.01.2000<br>Úkol:	uzavřít nájemní smlouvu na NBP dílna o rozloze 167,1 m2, ve dvoře domu Umělecká 5/1005, Praha 7, s nájemcem Daniel Smrž, místo podnikání: Františka Křížka 16, Praha 7, IČO: 64 76 73 96, na dobu neurčitou, za nájemné  145,- Kč/m2/rok     <br> <br><br> Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 10.01.2000<br>Úkol:	uzavřít nájemní smlouvu na NBP informační kancelář pro mládež - U Letenského sadu 7/215, s nájemcem Sdružení mládeže Free Time, sídlo: Veletržní 42, Praha 7, IČO: 45 24 72 42. na dobu neurčitou, za nájemné 100,- Kč/ m2/rok<br>  Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 10.01.2000<br>Úkol:	uzavřít nájemní smlouvu na NBP kancelář o rozloze 18 m2, v přízemí domu Milady Horákové 9/1280, Praha 7, s nájemcem Eva Vrabčáková, sídlo: Hašplířská 564, Kutná Hora, IČO: 63 84 22 46, na dobu neurčitou za nájemné 800,- Kč/ m2/rok<br>
+</div>
+</div>

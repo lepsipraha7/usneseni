@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Zveřejnění záměru a následné uzavření NS na NBP- garáže, M. Horákové 86,
+  P-7
+datum_vzniku_usneseni: '1999-06-22 00:00:00'
+cislo_usneseni: '0448/99'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Zveřejnění záměru a následné uzavření NS na NBP- garáže, M. Horákové 86, P-7</h3></span><div class="center">
+		<strong>č. 0448/99</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 22.06.1999</strong><br><br>
+	</div>
+<br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na zveřejnění záměru a následné uzavření NS na NBP- garáže, M. Horákové 86, P-7<br><br>II.	souhlasí <br><br>se zveřejněním záměru po dobu 30 dnů na úřední desce ObÚ P - 7 a následným uzavřením nájemní smlouvy na pronájem NBP garáž o rozloze 21,9 m2, v přízemí domu č. p. 850, ulice Milady Horákové, č. o.: 86, Praha 7, s nájemcem Soňa Navrátilová (1),  na dobu  neurčitou, pro parkování vozu SPZ: AEY: 99 - 46, za nájemné 500,- Kč/ m2/rok<br><br>se zveřejněním záměru po dobu 30 dnů na úřední desce ObÚ P - 7 a následným uzavřením nájemní smlouvy na pronájem NBP garáž o rozloze 16 m2, v přízemí domu č. p. 850, ulice Milady Horákové, č. o.: 86, Praha 7, s nájemcem Milan Dědek (2), , na dobu neurčitou, pro parkování vozu SPZ: AHY: 54 - 70, za nájemné 500,- Kč/ m2/rok<br><br>se zveřejněním záměru po dobu 30 dnů na úřední desce ObÚ P - 7 a následným uzavřením nájemní smlouvy na pronájem NBP garáž o rozloze 15,2 m2, v přízemí domu č. p. 850, ulice Milady Horákové, č. o.: 86, Praha 7, s nájemcem Pavel Mitrovský (3), , na dobu neurčitou, pro parkování vozu SPZ: AHK: 25 - 12, za nájemné 500,- Kč/ m2/rok<br><br><br>III.	ukládá <br><br> Určen:	vedoucí OBH	VED OBH Lojínová Eva<br>Termín: 29.06.1999<br>Úkol:	zveřejnit záměr po dobu 30 dnů na úřední desce ObÚ, na pronájem NBP garáž o rozloze 21,9 m2, v přízemí domu č. p. 850, ulice Milady Horákové, č. o.: 86, Praha 7, s nájemcem Soňa Navrátilová (1), na dobu  neurčitou, pro parkování vozu SPZ: AEY: 99 - 46, za nájemné 500,- Kč/ m2/rok <br> <br><br><br><br><br><br> Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 27.08.1999<br>Úkol:	uzavřít nájemní smlouvu po zveřejnění záměru, pokud nebudou vzneseny připomínky, na pronájem NBP garáž o rozloze 21,9 m2, v přízemí domu č. p. 850, ulice Milady Horákové, č. o.: 86, Praha 7, s nájemcem Soňa Navrátilová (1), na dobu  neurčitou, pro parkování vozu SPZ: AEY: 99 - 46, za nájemné 500,- Kč/ m2/rok <br>  Určen:	vedoucí OBH	VED OBH Lojínová Eva<br>Termín: 29.06.1999<br>Úkol:	zveřejnit záměr po dobu 30 dnů na úřední desce ObÚ, na pronájem NBP garáž o rozloze 16 m2, v přízemí domu č. p. 850, ulice Milady Horákové, č. o.: 86, Praha 7, s nájemcem Milan Dědek (2), na dobu neurčitou, pro parkování vozu SPZ: AHY: 54 - 70, za nájemné 500,- Kč/ m2/rok  <br>  Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 27.08.1999<br>Úkol:	uzavřít nájemní smlouvu po zveřejnění záměru, pokud nebudou vzneseny připomínky, na pronájem NBP garáž o rozloze 16 m2, v přízemí domu č. p. 850, ulice Milady Horákové, č. o.: 86, Praha 7, s nájemcem Milan Dědek (2), na dobu neurčitou, pro parkování vozu SPZ: AHY: 54 - 70, za nájemné 500,- Kč/ m2/rok <br>  Určen:	vedoucí OBH	VED OBH Lojínová Eva<br>Termín: 29.06.1999<br>Úkol:	zveřejnit záměr po dobu 30 dnů na úřední desce ObÚ, na pronájem NBP garáž o rozloze 15,2 m2, v přízemí domu č. p. 850, ulice Milady Horákové, č. o.: 86, Praha 7, s nájemcem Pavel Mitrovský (3), na dobu neurčitou, pro parkování vozu SPZ: AHK: 25 - 12, za nájemné 500,- Kč/ m2/rok<br>  Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 27.08.1999<br>Úkol:	uzavřít nájemní smlouvu po zveřejnění záměru, pokud nebudou vzneseny připomínky, na pronájem NBP garáž o rozloze 15,2 m2, v přízemí domu č. p. 850, ulice Milady Horákové, č. o.: 86, Praha 7, s nájemcem Pavel Mitrovský (3), na dobu neurčitou, pro parkování vozu SPZ: AHK: 25 - 12, za nájemné 500,- Kč/ m2/rok<br>
+</div>
+</div>

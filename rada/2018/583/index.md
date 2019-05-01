@@ -1,0 +1,12 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na řešení žádostí v oblasti nájmů bytů svěřených MČ Praha 7
+datum_vzniku_usneseni: '2018-07-24 00:00:00'
+cislo_usneseni: '0583/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30128/export/01_BJ20180724~378504.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30128/export/c2Zapis_5_BK~378503.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30128/export/export~379053.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>Návrh na řešení žádostí v oblasti nájmů bytů svěřených MČ Praha 7</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>odstoupení nájemce bytové jednotky č. 194/9 v domě Argentinská 194/12, Praha 7, služební byt, pana Marka Batyi, od nájemní smlouvu č. 7652-B/194/0842/17-64 ze dne 9.10.2017, formou oznámení nájemce ze dne 02.07.2018 a předáním bytu správní firmě, z důvodu ukončení zaměstnaneckého poměru (podloženo stanoviskem Odboru právního ze dne 16.07.2018)</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal " id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>s uzavřením dodatku č. 1 k nájemní smlouvě č. 7492-B/448/0657/16-43, ze dne 03.08.2016, na bytovou jednotku č. 448/14, na adrese Ortenovo náměstí 448/9, Praha 7, s paní Veronikou Romanovou, kterým se mění doba trvání nájmu na dobu určitou do 31.08.2020, v souladu s usnesením Bytové komise č. 311/18-BK ze dne 20.06.2018, s podmínkou podpisu dodatku k nájemní smlouvě ze strany nájemce nejpozději do 6 týdnů od usnesení Rady MČ Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>MISTA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dodatek č. 1 k nájemní smlouvě č. 7492-B/448/0657/16-43, ze dne 03.08.2016, na bytovou jednotku č.448/14, na adrese Ortenovo náměstí 448/9, Praha 7, s paní Veronikou Romanovou, kterým se mění doba trvání nájmu na dobu určitou do 31.08.2020, s podmínkou podpisu dodatku k nájemní smlouvě ze strany nájemce nejpozději do 6 týdnů od usnesení Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;23.8.2018</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,18 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na uzavření Dodatku č. 1 k veřejnoprávní smlouvě DOT/04/03/006813/2018
+  mezi MČ Praha 7 a HMP o poskytnutí dotace hl. m. Prahou pro příspěvkovou organizaci
+  Pečovatelské centrum Praha 7, Heřmanova 1, IČO: 708 90 307'
+datum_vzniku_usneseni: '2018-09-25 00:00:00'
+cislo_usneseni: 0706/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30251/export/duvodovazprava_dotacePCP72018_MHMP2~395028.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30251/export/Usneseni_Zastupitelstva_HMP_c_3348~395027.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30251/export/VerejnopravnismlouvaDOT_04_03_006813_2018~395026.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30251/export/Usneseni_Zastupitelstva_HMP__PDF_eBookUsneseni_c39_235_verze_11_VEREJNE~395025.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30251/export/MHMP_PC_dotace_Dodatekc1~395024.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30251/export/Usneseni_Rady_HMP__PDF_eBookUsneseni_c1490_verze_11_VEREJNE_Pravidla~395023.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30251/export/export~395390.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na uzavření Dodatku č. 1 k veřejnoprávní smlouvě DOT/04/03/006813/2018 mezi MČ Praha 7 a HMP o poskytnutí dotace hl. m. Prahou pro příspěvkovou organizaci Pečovatelské centrum Praha 7, Heřmanova 1, IČO: 708 90 307</p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass decimal " id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>že Zastupitelstvo hl. m. Prahy usnesením č. 33/48 ze dne 25.1.2018 (příloha č. 2) schválilo příspěvkové organizaci Pečovatelské centrum Praha 7, Heřmanova 1, Praha 7, IČ 70890307 první část grantu ve výši 3.030.000,- Kč na poskytování sociálních služeb. Příspěvková organizace finanční prostředky přijala a zavázala se je využít v souladu s "Pravidly grantového řízení hl. m. Prahy pro rok 2018 v oblasti sociálních služeb" a v souladu s obecně závaznými předpisy. Veřejnoprávní smlouva DOT/04/03/006813/2018 byla podepsána mezi hl.m. Praha a MČ P7 v únoru resp. v březnu 2018 (příloha č. 3).</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že Zastupitelstvo hl. m. Prahy usnesením, č. 39/235 ze dne 6.9.2018 (příloha č. 4) schválilo navýšení grantu na sociální služby pro příspěvkovou organizaci Pečovatelské centrum Praha 7, Heřmanova 1, Praha 7, IČ 70890307 o 458.000,- Kč na celkový roční objem 3.488.000,- Kč. Příspěvková organizace finanční prostředky přijímá a zavazuje se je využít v souladu s "Pravidly grantového řízení hl. m. Prahy pro rok 2018 v oblasti sociálních služeb" (příloha č. 6) a v souladu s obecně závaznými předpisy. Finanční objem je určen pro Pečovatelskou a Odlehčovací službu.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Dodatek č. 1 k veřejnoprávní smlouvě DOT/04/03/006813/2018 o poskytnutí grantu formou dotace v celkové výši 3.488.000,- Kč hl. m. Praha příspěvkové organizaci Pečovatelské centrum Praha 7, Heřmanova 1, Praha 7, IČ 70890307 (příloha č. 5)</p></span><span class="urzUkolTermin">  Termín:&nbsp;5.10.2018</span></li></ul></li></ol></li></ol>

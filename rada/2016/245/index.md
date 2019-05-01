@@ -1,0 +1,32 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na jmenování členů a náhradníků komise pro otevírání obálek a členů
+  a náhradníků hodnotící komise na veřejnou zakázku "Výstavba MŠ – Ortenovo náměstí
+  – Přestavba ze vzdělávacího centra s knihovnou II.etapa včetně kapacitní kuchyně",
+  Praha 7
+datum_vzniku_usneseni: '2016-03-15 00:00:00'
+cislo_usneseni: 0245/16-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26988/export/1Duvodovazprava~32320.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26988/export/export~299870.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li class="urzClass1" id=""><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">Návrh na jmenování členů a náhradníků komise pro otevírání obálek a členů a náhradníků hodnotící komise na veřejnou zakázku "<strong>Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II.etapa včetně kapacitní kuchyně</strong>", Praha 7</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="50">konstatuje,</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">že veřejná zakázka <strong>„Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně</strong>“ je zadávána v rámci projektu Navýšení kapacity předškolního vzdělávání při MŠ U Uranie, registrační číslo: CZ.07.4.67/0.0/0.0/15_004/0000092 financovaného z Operačního programu Praha – pól růstu ČR.</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">že potřebné doklady k veřejné zakázce <strong>"Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně"</strong> požadované zákonem č. 137/2006 Sb., o veřejných zakázkách, v platném znění, tj. zejména protokoly z jednání komisí, rozhodnutí zadavatele o výběru nejvhodnější nabídky a písemnou zprávu zadavatele dle § 85 odst. 4 ZVZ, a všechna právní jednání zadavatele související se zadávacím řízením zajistí Odbor investic a veřejných zakázek MČ P7</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="26">souhlasí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">se jmenováním členů a náhradníků komise pro otevírání obálek na veřejnou zakázku "<strong>Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně</strong>", ve složení:</p></span>
+<ul class="urzUlClass">
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>člen č. 1 -&nbsp; JUDr. Olga Ulrichová, vedoucí OIVZ</p><p>člen č. 2 -&nbsp; Mgr. Ludmila Knížková, vedoucí OŠK</p><p>člen č.&nbsp;3 -&nbsp; Mgr. Robert Kolář, vedoucí OMA</p><p>člen č. 4 -&nbsp; Mgr. Lucie Sýkorová, koordinátorka pro oblast evropských fondů a&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vnějšího financování</p></span></li>
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>náhradník č. 1 -&nbsp; Mgr. Petr Volšík, odbor personálněprávní</p><p>náhradník č. 2 -&nbsp; Mgr. Zdeňka Jiroušková, zástupce vedoucí OŠK</p><p>náhradník č. 3 -&nbsp; Josef Bohuňovský, zástupce vedoucího OMA</p><p>náhradník č. 4 -&nbsp; Bc. Eva Krejcarová, referent&nbsp;OIVZ&nbsp;</p></span></li></ul></li>
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">se jmenováním členů a náhradníků hodnotící komise na veřejnou zakázku <strong>"Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně"</strong>, ve složení:</p></span>
+<ul class="urzUlClass">
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>člen č. 1 - JUDr. Olga Ulrichová, vedoucí OIVZ</p><p>člen č. 2 - Mgr. Ludmila Knížková, vedoucí OŠK</p><p>člen č. 3 - Mgr. Robert Kolář, vedoucí OMA</p><p>člen č. 4 -&nbsp;Ing. arch. Tereza Marková, referent ORZ</p><p>člen č. 5 - Ing. Jan Škopek, projektant OMEGA project s.r.o.</p><p>člen č. 6 - Jan Svoboda, člen Zastupitelstva MČ P7</p><p>&nbsp;</p></span></li>
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>náhradník č. 1 - Mgr. Petr Volšík, odbor personálně právní&nbsp;</p><p>náhradník č. 2 - Mgr. Zdeňka Jiroušková, zástupce vedoucí OŠK</p><p>náhradník č. 3 - Josef Bohuňovský, zástupce vedoucího OMA</p><p>náhradník č. 4 - Ing.arch. Martina Fialová, referent ORZ</p><p>náhradník č. 5 - Ing. Ctibor Zgraja, projektant OMEGA project s.r.o.</p><p>náhradník č. 6 - František Vosecký, radní MČ P7</p></span></li></ul></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OIVZ JUDr. Olga Ulrichová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat jmenované členy a náhradníky komise pro otevírání obálek na veřejnou zakázku "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně" o jejich jmenování a o termínu jednání komise pro otevírání obálek v souladu se zákonem č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů. Termín konání komise pro otevírání obálek je stanoven na 16.3.2016 ve 13:15 hodin.</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.3.2016</span></li></ul></li><li class="urzClass2"><span><p>VED OIVZ JUDr. Olga Ulrichová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat jmenované členy a náhradníky hodnotící komise na veřejnou zakázku "Výstavba MŠ – Ortenovo náměstí – Přestavba ze vzdělávacího centra s knihovnou II. etapa včetně kapacitní kuchyně" o jejich jmenování a o termínu jednání hodnotící komise v souladu se zákonem č. 137/2006 Sb., o veřejných zakázkách, ve znění pozdějších předpisů.</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.3.2016</span></li></ul></li></ol></li>
+</ol>

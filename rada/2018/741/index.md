@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci VI. ročníku fotbalového turnaje "Pražský pohár IZS",
+  pořádaného HZS hl. m. Prahy - HS03 Holešovice za podpory MČ Praha 7, dne 23.11.2018
+  ve sportovní hale areálu Jedenáctka Chodov, Praha 11
+datum_vzniku_usneseni: '2018-10-16 00:00:00'
+cislo_usneseni: 0741/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30289/export/M28DV_PoharIZS_2018~398878.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30289/export/Zapis_9_jednani_SK_03_09_2018~398877.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30289/export/export~399380.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na realizaci VI. ročníku fotbalového turnaje "Pražský pohár IZS", pořádaného HZS hl. m. Prahy - HS03 Holešovice za podpory MČ Praha 7, dne 23.11.2018 ve sportovní hale areálu Jedenáctka Chodov, Praha 11<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>realizaci VI. ročníku fotbalového turnaje "Pražský pohár IZS", pořádaného HZS hl. m. Prahy - HS03 Holešovice za podpory MČ Praha 7, dne 23.11.2018 ve sportovní hale areálu Jedenáctka Chodov, Praha 11<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů, v max. výši 10 350 Kč vč. DPH, formou faktury, společnosti Jihoměstská majetková a.s.,IČO: 281 99 081, se sídlem Ocelíkova 672/1, 149 00 Praha 4, za pronájem sportovní haly, hrazeno z rozpočtu ORJ 421 OKS - sport</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů, v max. výši 15 000 Kč vč. DPH, formou faktury, FO Tomáš Praščák, IČO: 764 82 642, za občerstvení, hrazeno z rozpočtu ORJ 421 OKS - sport</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů, v celkové max. výši 18 000 Kč vč. DPH, formou faktur, za ceny pro účastníky, hrazeno z rozpočtu ORJ 421 OKS - sport<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>finančně zajistit realizaci fotbalového turnaje "Pražský pohár IZS" dle článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;14.12.2018</span></li></ul></li></ol></li></ol>

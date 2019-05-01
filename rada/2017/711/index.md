@@ -1,0 +1,18 @@
+---
+layout: detail_usneseni
+nazev_bodu: Pořízení nového projektoru pro kino BIO OKO, Františka Křížka 460/15,
+  Praha 7
+datum_vzniku_usneseni: '2017-08-01 00:00:00'
+cislo_usneseni: 0711/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29374/export/1Duvodovazprava~231426.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29374/export/2FWzadostonovyprojektor~231425.msg
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29374/export/3Kupnismlouva_AlteiBioOko_30_7_2017~231424.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29374/export/4Prilohac1Smlouvynabidka~231423.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29374/export/5Prilohac2SmlouvyTechnickeparamtery~231422.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29374/export/6SpolehlivostplatceDPH~231421.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29374/export/7SONY_Overeniprodejnicenyzarizeniprokina~231420.msg
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29374/export/export~295545.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na schválení přímého přidělení veřejné zakázky dodavateli a podpis Smlouvy o dílo č. 2017/OIVZ/052 na veřejnou zakázku malého rozsahu "Pořízení nového projektoru pro kino BIO OKO - havarijní stav" a to z důvodu nefunkčnosti - havarijního stavu promítacího zařízení.</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>text Smlouvy o dílo č. 2017/OIVZ/052 na veřejnou zakázku malého rozsahu "Pořízení nového projektoru pro kino BIO OKO - havarijní stav" se společností ALTEI spol. s r.o., IČO: 25637274, za nabídkovou cenu 780.000,-Kč bez DPH,</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>podpis Smlouvy o dílo č. 2017/OIVZ/052na veřejnou zakázku malého rozsahu&nbsp;"Pořízení nového projektoru pro kino BIO OKO - havarijní stav" se společností ALTEI spol. s r.o., IČO: 25637274, za nabídkovou cenu 780.000,-Kč bez DPH. Tato cena neobsahuje náklady na servisní služby. Akce bude hrazena z ORJ OMA 0809.<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>starostu MČ Praha 7 Mgr. Jana Čižinského k podpisu: <br></p></span><ul class="urzUlClass" id=""><li class="urzClass3" id="" style="text-align: left;"><span><p>Smlouvy o dílo č. 2017/OIVZ/052 na veřejnou zakázku malého rozsahu "Pořízení nového projektoru pro kino BIO OKO - havarijní stav" se společností ALTEI spol. s r.o., IČO: 25637274, za nabídkovou cenu 780.000,-Kč bez DPH. <br></p></span></li></ul></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Smlouvu o dílo 2017/OIVZ/052 na veřejnou zakázku malého rozsahu "Pořízení nového projektoru pro kino BIO OKO - havarijní stav" se společností ALTEI spol. s r.o., IČO: 25637274, za nabídkovou cenu 780.000,-Kč bez DPH.</p></span><span class="urzUkolTermin">  Termín:&nbsp;11.8.2017</span><div class="urzUkolTermin">  Kontrolní termín:&nbsp;11.8.2017</div></li></ul></li></ol></li></ol>

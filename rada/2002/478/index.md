@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Zveřejnění záměrů a následné uzavření nájemních smluv na NBP - U Průhonu
+  11, Jankovcova 45, Praha 7
+datum_vzniku_usneseni: '2002-05-21 00:00:00'
+cislo_usneseni: '0478/02'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Zveřejnění záměrů a následné uzavření nájemních smluv na NBP - U Průhonu 11, Jankovcova 45, Praha 7</h3></span><div class="center">
+		<strong>č. 0478/02</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 21.05.2002</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na zveřejnění záměrů a následné uzavření nájemních smluv na NBP - U Průhonu 11, Jankovcova 45, Praha 7<br><br>II.	souhlasí <br><br>se zveřejněním záměru po dobu 15- ti dnů na úřední desce na pronájem NBP - sklenářství v  přízemí domu č.p. 1493, ulice U Průhonu,  č.o. 11, Praha 7, nájemce Marcela Hrubošová, místo podnikání Plynární 4, Praha 7, IČO 68864060, na dobu neurčitou, za nájemné 1.300,-Kč/m2/rok, o celkové rozloze 56m2<br><br>s uzavřením NS po zveřejněném záměru, ke kterému nebyly vzneseny žádné připomínky na pronájem NBP - sklenářství v  přízemí domu č.p. 1493, ulice U Průhonu,  č.o. 11, Praha 7, nájemce Marcela Hrubošová, místo podnikání Plynární 4, Praha 7, IČO 68864060, na dobu neurčitou, za nájemné 1.300,-Kč/m2/rok, o celkové rozloze 56m2<br><br>se zveřejněním záměru po dobu 15- ti dnů na úřední desce na pronájem NBP - pracovna v  5. patře domu č.p. 864, ulice Jankovcova, č.o. 45, Praha 7, nájemce Jakub Friedl (1), na dobu neurčitou, za nájemné 800,-Kč/m2/rok, o celkové rozloze 26m2<br><br>s ukončením NS uzavřené dne 08.10.1993 včetně dodatku č.1 ze dne 30.04.1994 na NBP - pracovna v 5. patře domu č.p. 864, ulice Jankovcova, č.o. 45, Praha 7, nájemce Alena Dostálová (2), o rozloze 26m2 dohodou ke dni 30.06.2002<br><br>s uzavřením NS po zveřejněném záměru, ke kterému nebyly vzneseny žádné připomínky na pronájem NBP - pracovna v  5. patře domu č.p. 864, ulice Jankovcova, č.o. 45, Praha 7, nájemce Jakub Friedl (1), na dobu neurčitou, za nájemné 800,-Kč/m2/rok, o celkové rozloze 26m2<br><br>III.	ukládá <br><br> <br>Určen:	VED OBH Wawrečka Ronald<br>Termín: 31.05.2002<br>Úkol:	zveřejnit záměr po dobu 15- ti dnů na úřední desce na pronájem NBP - sklenářství v  přízemí domu č.p. 1493, ulice U Průhonu,  č.o. 11, Praha 7, nájemce Marcela Hrubošová, místo podnikání Plynární 4, Praha 7, IČO 68864060, na dobu neurčitou, za nájemné 1.300,-Kč/m2/rok, o celkové rozloze 56m2 <br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 30.06.2002<br>Úkol:	podepsat NS po zveřejněném záměru, pokud k němu nebudou vzneseny žádné připomínky na pronájem NBP - sklenářství v  přízemí domu č.p. 1493, ulice U Průhonu,  č.o. 11, Praha 7, nájemce Marcela Hrubošová, místo podnikání Plynární 4, Praha 7, IČO 68864060, na dobu neurčitou, za nájemné 1.300,-Kč/m2/rok, o celkové rozloze 56m2 <br> <br><br> <br>Určen:	VED OBH Wawrečka Ronald<br>Termín: 31.05.2002<br>Úkol:	zveřejnit záměr po dobu 15- ti dnů na úřední desce na pronájem NBP - pracovna v  5. patře domu č.p. 864, ulice Jankovcova, č.o. 45, Praha 7, nájemce Jakub Friedl (1), na dobu neurčitou, za nájemné 800,-Kč/m2/rok, o celkové rozloze 26m2<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 30.06.2002<br>Úkol:	podepsat dohodu o ukončení NS uzavřené dne 08.10.1993 včetně dodatku č.1 ze dne 30.04.1994 na NBP - pracovna v 5. patře domu č.p. 864, ulice Jankovcova, č.o. 45, Praha 7, nájemce Alena Dostálová (2), o rozloze 26m2 dohodou ke dni 30.06.2002<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 30.06.2002<br>Úkol:	podepsat NS po zveřejněném záměru, pokud k němu nebudou vzneseny žádné připomínky na pronájem NBP - pracovna v  5. patře domu č.p. 864, ulice Jankovcova, č.o. 45, Praha 7, nájemce Jakub Friedl (1), na dobu neurčitou, za nájemné 800,-Kč/m2/rok, o celkové rozloze 26m2<br> <br> <br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	Ing. Tomáš Dub starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

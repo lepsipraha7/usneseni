@@ -1,0 +1,22 @@
+---
+layout: detail_usneseni
+nazev_bodu: Stanovisko Městské části Praha 7 k návrhu obecně závazné vyhlášky, kterou
+  se mění obecně závazná vyhláška hlavního města Prahy č. 55/2000 sb. hl. m. Prahy,
+  kterou se vydává Statut hlavního města Prahy
+datum_vzniku_usneseni: '2003-06-03 00:00:00'
+cislo_usneseni: 0647/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Stanovisko Městské části Praha 7 k návrhu obecně závazné vyhlášky, kterou se mění obecně závazná vyhláška hlavního města Prahy č. 55/2000 sb. hl. m. Prahy, kterou se vydává Statut hlavního města Prahy</h3></span><div class="center">
+		<strong>č. 0647/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 03.06.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na stanovisko Městské části Praha 7 k návrhu obecně závazné vyhlášky, kterou se mění obecně závazná vyhláška hlavního města Prahy č. 55/2000 sb. hl. m. Prahy, kterou se vydává Statut hlavního města Prahy, ve znění pozdějších předpisů - přináší změny právních předpisů upravujících výkon přenesené působnosti správních úřadů na úsecích obrany, IZS, krizového řízení, ochrany obyvatelstva, hospodářských opatření pro krizové stavy a prevence závažných havárií<br><br>II.	konstatuje, <br><br>že k návrhu obecně závazné vyhlášky, kterou se mění obecně závazná vyhláška hlavního města Prahy <br>č. 55/2000 sb. hl. m. Prahy, kterou se vydává Statut hlavního města Prahy, ve znění pozdějších předpisů - přináší změny právních předpisů upravujících výkon přenesené působnosti správních úřadů na úsecích obrany, IZS, krizového řízení, ochrany obyvatelstva, hospodářských opatření pro krizové stavy a prevence závažných havárií má připomínky k formálnímu zpracování:<br><br>1.     K bodu 6 (položka 40)<br> <br>         Tato položka se v předloze vyskytuje dvakrát (bod 6 a 7), bod 7 vypustit. <br> <br>2.     K bodu 16 (položka 91)<br><br>V tomto bodě se do přílohy č.3 části A vkládá za položku č.90 nová položka č.91, ale už  není popsán  způsob přeznačení dosavadních položek. (Dosavadní položky č.91 až 117 se označují jako položky .92 až 118.)    <br>  <br>3.      K bodu 27 <br><br>Tento bod je špatně označen,měl by mít číslo 26, který v předloze chybí. V tomto bodě <br>se v příloze   č.4 v části A, ruší položky č.210 až 212 a dosavadní položky č.213 až 377 se přeznačují. V předloze jsou ale označeny špatně (č. 210 až 373). Správně by mělo být: označují se jako položky č.210 až 374.<br> <br> <br> <br>4.       K bodu 28   <br> <br>       V tomto bodě jsou položky opět špatně přeznačeny. V příloze č.4 v části A se ruší položka  č.219.    Dosavadní položky č.220 až 373 se označují jako položky č.220(!!!) až 372. Správně má být: označují se jako položky č.219 až 372.  <br>  <br>5.       K bodu 31 (položka 279)   <br> <br>       Doporučuji upřesnit znění:„činit si výpisy, opisy popřípadě kopie„. Vložením slov „pouze jednotlivé kopie„, nebo „pouze samostatné kopie„ se předejde zbytečnému zneužívání této služby veřejností.<br>   <br>6.       K bodu 32 <br><br>       V tomto bodě se v příloze č.4 v části A, ruší položky č. 279 až 284. Dosavadní položky mají opět přiřazena špatná čísla (279 až 380). Správně má být: Dosavadní položky č. 285 až 385 se označují jako položky č.279 až 379.<br>   <br>7.    K bodu 33 (položka 356 a 357)<br> <br>        Připomínka se znovu týká špatného přeznačení položek.V příloze č.4 se v části A za položku č.355 vkládají nové položky č.356 a 357. Dosavadní položky č.356 až 385 se označují jako položky č. 358 až 383(!!!) Správně má být: položky č. 358 až 387.<br> <br>  8.  K bodu 34 (položky 358 až 360)<br><br>       Opět se jedná o špatné přečíslování položek. V příloze č.4 se v části A za položku č.357 vkládají nové položky č.358 až 360. Dosavadní položky jsou pak přeznačeny takto: č.356(!!!) až 385 <br>se označují jako položky č.361 až 386(!!!). Správně má být: Dosavadní položky č. 358 až 385 <br>se označují jako položky č.361 až 388.<br> <br><br> <br>III.	ukládá <br><br>Určen:	STA Mikšík Radek<br>Termín: 11.06.2003<br>Úkol:	zaslat stanovisko Městské části k návrhu obecně závazné vyhlášky odboru krizového řízení MHMP<br> <br><br><br> 	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

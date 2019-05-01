@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Zpráva o výsledcích hospodaření MČ Praha 7 za 1. čtvrtletí 2001 - hlavní
+  činnost
+datum_vzniku_usneseni: '2001-05-22 00:00:00'
+cislo_usneseni: 0531/01
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Zpráva o výsledcích hospodaření MČ Praha 7 za 1. čtvrtletí 2001 - hlavní činnost</h3></span><div class="center">
+		<strong>č. 0531/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 22.05.2001</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh ke zprávě o výsledcích hospodaření MČ Praha 7 za 1.čtvrtletí 2001 - hlavní činnost<br><br>II.	konstatuje, že<br><br>- výsledkem hospodaření MČ P/7 za 1. čtvrtletí 2001 (dle účetního výkazu FIN 2-12 M)  je    rozdíl příjmů a výdajů (přebytek) ve výši 						         	+    7 046,1 tis.Kč<br><br>příjmy k 31.3. 2001	+             56 164,1 tis.Kč<br>výdaje k 31.3. 2001	-              49 118,0 tis.Kč<br>přebytek	+               7 046,1 tis.Kč<br><br>- celkové příjmy byly plněny  částkou   56 164,1 tis. Kč   tj.  23,9  %  SR  (235 185,4 tis.Kč)<br><br>- celkové výdaje byly realizovány v objemu 49 118,0 tis.Kč tj.18,5 % SR (265 481,4 tis.Kč)<br><br>- saldo příjmů a výdajů, v SR vyjádřeno objemem - 30 296,0 tis.Kč, představuje ve skutečnosti  <br>  + 7 046,1 tis.Kč<br><br>- část dotačního vztahu - 28,5 % podíl na skutečně vybrané DPFO na území MČ Praha 7 - je nižší oproti realizovaným zálohám o 7 037,0 tis.Kč, tzn. že dle informací z MHMP je MČ touto částkou přefinancovaná<br><br>-  v případě prohlubování výkyvu na tomto úseku přerozdělované daně bude nutno přistoupit k hledání alternativních zdrojů financování event. k regulačním opatřením ve výdajové části rozpočtu<br><br>- vzhledem k termínu strojního zpracování schváleného rozpočtu na rok 2001 a na základě metodiky MHMP budou úpravy rozpočtu promítnuty ve 2. čtvrtletí 2001<br><br>- u některých PO (viz důvodová zpráva) došlo k porušení bodu 15 „Pravidel pro zjištění hospodářského výsledku PO, zřízených MČ P7 a jeho rozdělení na r.2001“, který upravuje použití fondů organizace nad 20,0 tis.Kč, a to až po rozhodnutí R MČ.<br><br>III.	souhlasí ,<br><br>aby Z MČ byla předložena zpráva o výsledcích hospodaření MČ P/7 za 1.čtvrtletí 2001 - hlavní činnost s těmito výsledky hospodaření:<br><br>příjmy k 31.3. 2001	+             56 164,1 tis.Kč<br>výdaje k 31.3. 2001	-              49 118,0 tis.Kč<br>přebytek	+               7 046,1 tis.Kč<br><br>IV.	schvaluje <br><br>návrh usnesení ke zprávě o výsledcích hospodaření MČ P/7 za 1.čtvrtletí 2001 - hlavní  činnost  pro <br>Z MČ P/7 na zasedání dne 25.6.2001<br><br>IV.	ukládá <br><br> Určen:	radní	RADNI Charvátová Zdeňka<br>Termín: 25.06.2001<br>Úkol:	předložit zprávu o výsledcích hospodaření MČ P/7 za 1.čtvrtletí 2001 - hlavní činnost na zasedání Z MČ P/7<br> <br> Určen:	–––––	VED OMA Hrubý Roman<br>Termín: 30.06.2001<br>Úkol:	zajistit  (ve spolupráci s OFI) odstranění nedostatků zjištěných u Fondu pro rozvoj bydlení na území MČ Prahy 7, a to ve smyslu závěrů důvodové zprávy <br> <br> Určen:	–––––	VED OŠK Cerman Miroslav<br>Termín: 30.06.2001<br>Úkol:	zajistit odstranění dílčích nedostatků zjištěných u PO v oblasti školství, a to dle doporučení OFI, obsažených v důvodové zprávě<br> <br> <br> Určen:	–––––	VED OKS Kheil Bohumil<br>Termín: 26.06.2001<br>Úkol:	předložit R MČ návrh na dodatečné schválení použití investičního fondu KD Vltavská a zajistit průběžné dodržování „Pravidel ...“ v souladu s usnesením Z MČ č.0004/01-Z, z 29.01.2001<br> <br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Určen:	–––––	VED OZS Pilnáčková Miloslava<br>Termín: 26.06.2001<br>Úkol:	předložit R MČ návrh na dodatečné schválení použití investičního fondu SAZ Praha 7 a zajistit průběžné dodržování „Pravidel ...“ v souladu s usnesením Z MČ č.0004/01-Z, z 29.01.2001<br> <br><br><br> 	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

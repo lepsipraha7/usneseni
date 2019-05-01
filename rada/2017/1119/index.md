@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení uzavření dodatku č. 1 k Rámcové smlouvě č. 2016/OIVZ/060
+  na VZMR s názvem „PROJEKTOVÁ DOKUMENTACE - ZAKLÁDÁNÍ NOVÝCH ULIČNÍCH STROMOŘADÍ"
+datum_vzniku_usneseni: '2017-12-05 00:00:00'
+cislo_usneseni: 1119/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29706/export/1Duvodovazprava~305626.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29706/export/3Ramcova_smlouvaStavajici~305624.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29706/export/4Dodatekc1NAVRH~305623.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29706/export/6RESVypis~305622.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29706/export/7Spolehlivyplatce~305621.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29706/export/5Prilohac1Prehledrozpracovanostiprojektu~305620.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29706/export/export~306414.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh dodatku č. 1 k Rámcové smlouvě č. 2016/OIVZ/060 na VZMR s názvem „PROJEKTOVÁ DOKUMENTACE - ZAKLÁDÁNÍ NOVÝCH ULIČNÍCH STROMOŘADÍ" za účelem řešení změn závazků ze smlouvy ve smyslu § 222 ZZVZ , tedy prodloužení termínu poskytování služeb o 2 měsíce oproti Rámcové smlouvě.<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>text dodatku č. 1&nbsp;k Rámcové smlouvě č. 2016/OIVZ/060 na VZMR s názvem „PROJEKTOVÁ DOKUMENTACE - ZAKLÁDÁNÍ NOVÝCH ULIČNÍCH STROMOŘADÍ", kterým se&nbsp;nepodstatným způsobem mění termín poskytování služeb:</p><p>&nbsp; <br></p></span><ol class="urzUlClass" id=""><li class="urzClass3" id="" style="text-align: left;"><span><p>dodatekem č. 1 dochází k prodloužení lhůty pro poskytování služeb&nbsp; o 2 měsíce oproti termínu uvedenému v Rámcové smlouvě a to v důsledku nevydání některých závazných stanovisek DOSS v obvyklém termínu.</p></span></li></ol></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>zástupce starosty pana Mgr. Ondřeje Mirovského M.EM, podepsat návrh dodatku č. 1&nbsp;k Rámcové smlouvě č. 2016/OIVZ/060 na VZMR s názvem „PROJEKTOVÁ DOKUMENTACE - ZAKLÁDÁNÍ NOVÝCH ULIČNÍCH STROMOŘADÍ" uzavřené s panem Doc. Ing. Matoušem Jebavým, Ph.D., IČO : 49649574.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Mgr. Ondřej Mirovský, M. EM</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat návrh dodatku č. 1 k Rámcové smlouvě č. 2016/OIVZ/060 na VZMR s názvem „PROJEKTOVÁ DOKUMENTACE - ZAKLÁDÁNÍ NOVÝCH ULIČNÍCH STROMOŘADÍ" uzavřené s panem Doc. Ing. Matoušem Jebavým, Ph.D., IČO : 49649574.</p></span><span class="urzUkolTermin">  Termín:&nbsp;6.12.2017</span><div class="urzUkolTermin">  Kontrolní termín:&nbsp;6.12.2017</div></li></ul></li></ol></li></ol>

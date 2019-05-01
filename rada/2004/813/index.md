@@ -1,0 +1,215 @@
+---
+layout: detail_usneseni
+nazev_bodu: Souhlas s podáním žalob u bytů na vymáhání dlužného nájemného s přivolením
+  k výpovědi z nájmu bytu, bezdůvodné obohacení a vyklizení bytu
+datum_vzniku_usneseni: '2004-08-03 00:00:00'
+cislo_usneseni: '0813/04'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Souhlas s podáním žalob u bytů na vymáhání dlužného nájemného s přivolením k výpovědi z nájmu bytu, bezdůvodné obohacení a vyklizení bytu</h3></span><div class="center">
+		<strong>č. 0813/04</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 03.08.2004</strong><br><br>
+	</div>
+<div class="Section1">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><p></p></span></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"><span style="FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'"><p></p></span></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Rada MČ Praha 7<p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">po projednání<p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"> <p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"> <p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"><span style="FONT-FAMILY: 'Courier New'; mso-bidi-font-family: 'Times New Roman'">I.<span style="mso-tab-count: 1">   </span>bere na vědomí</span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"> <p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section2">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; TEXT-ALIGN: justify">předložený materiál - Návrh na souhlas s podáním žalob u bytů na vymáhání dlužného nájemného s přivolením k výpovědi z nájmu bytu, bezdůvodné obohacení a vyklizení<p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"> <p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"> <p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"><span style="FONT-FAMILY: 'Courier New'; mso-bidi-font-family: 'Times New Roman'">II.<span style="mso-tab-count: 1">  </span>souhlasí <p></p></span></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"><span style="FONT-FAMILY: 'Courier New'; mso-bidi-font-family: 'Times New Roman'"> <p></p></span></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; TEXT-ALIGN: justify">s podáním žalob u bytů na vymáhání dlužného nájemného s přivolením k výpovědi z nájmu bytu, bezdůvodné obohacení a vyklizení, v domech svěřených městské části Praha 7, u osob uvedených v seznamu<p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"><span style="FONT-FAMILY: 'Courier New'; mso-bidi-font-family: 'Times New Roman'"> <p></p></span></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"><span style="FONT-FAMILY: 'Courier New'; mso-bidi-font-family: 'Times New Roman'"> <p></p></span></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"><span style="FONT-FAMILY: 'Courier New'; mso-bidi-font-family: 'Times New Roman'">III.<span style="mso-tab-count: 1"> </span>ukládá <p></p></span></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"><span style="FONT-FAMILY: 'Courier New'; mso-bidi-font-family: 'Times New Roman'"> <p></p></span></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section4">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce2"><a name="funkce2"></a>     </span><span style="mso-bookmark: funkce2"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa2"><a name="eadresa2"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa2"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin2"><a name="termin2"></a>06.09.2004</span><span style="mso-bookmark: termin2"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol2"><a name="ukol2"></a>zajistit podání žalob u bytů na vymáhání dlužného nájemného s přivolením k výpovědi z nájmu bytu, bezdůvodné obohacení a vyklizení dle přílohy<span style="mso-spacerun: yes">  </span>č.1 </span><span style="mso-bookmark: ukol2"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section5">
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"></span> </div>
+<br><div class="Section6">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce3"><a name="funkce3"></a>     </span><span style="mso-bookmark: funkce3"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa3"><a name="eadresa3"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa3"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin3"><a name="termin3"></a>30.08.2004</span><span style="mso-bookmark: termin3"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol3"><a name="ukol3"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání u Blažek Michal, Jankovcova 47/862, Praha 7 (1)</span><span style="mso-bookmark: ukol3"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section7">
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"></span> </div>
+<br><div class="Section8">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce56"><a name="funkce56"></a>     </span><span style="mso-bookmark: funkce56"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa56"><a name="eadresa56"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa56"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin56"><a name="termin56"></a>30.08.2004</span><span style="mso-bookmark: termin56"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol56"><a name="ukol56"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby u Vránová Zdeňka, U průhonu 11/1493, Praha 7 (2) </span><span style="mso-bookmark: ukol56"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section9">
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"></span> </div>
+<br><div class="Section10">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce57"><a name="funkce57"></a>     </span><span style="mso-bookmark: funkce57"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa57"><a name="eadresa57"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa57"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin57"><a name="termin57"></a>30.08.2004</span><span style="mso-bookmark: termin57"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol57"><a name="ukol57"></a>podepsat žalobu na vyklizení a bezdůvodné obohacení v aktuální výši ke dni podání žaloby u Eflerová Marcela, Argentinská 12/194, Praha 7 (3) </span><span style="mso-bookmark: ukol57"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section11">
+<br><div class="Section12"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"></span>
+</div>
+<br><div class="Section13">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce59"><a name="funkce59"></a>     </span><span style="mso-bookmark: funkce59"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa59"><a name="eadresa59"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa59"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin59"><a name="termin59"></a>30.08.2004</span><span style="mso-bookmark: termin59"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol59"><a name="ukol59"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby s u Bouda Václav, Přístavní 43/1244, na pokoj Za papírnou 7/144, Praha 7 (5) </span><span style="mso-bookmark: ukol59"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section14">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"> </p>
+</div>
+<br><div class="Section15">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce60"><a name="funkce60"></a>     </span><span style="mso-bookmark: funkce60"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa60"><a name="eadresa60"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa60"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin60"><a name="termin60"></a>30.08.2004</span><span style="mso-bookmark: termin60"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol60"><a name="ukol60"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby s přivolením k výpovědi z nájmu bytu u Bezák Vítězslav, Antonínská 8/424, Praha 7 (6) </span><span style="mso-bookmark: ukol60"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section16"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section17">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce61"><a name="funkce61"></a>     </span><span style="mso-bookmark: funkce61"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa61"><a name="eadresa61"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa61"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin61"><a name="termin61"></a>30.08.2004</span><span style="mso-bookmark: termin61"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol61"><a name="ukol61"></a>podepsat žalobu na vymáhání dlužného nájemného a bezdůvodného obohacení v aktuální výši ke dni podání žaloby u Ferková Regina, U městských domů 5, na pokoj Za papírnou 7/144, Praha 7 (7)</span><span style="mso-bookmark: ukol61"></span><p></p></p>
+</div>
+<br><div class="Section18"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section19">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce62"><a name="funkce62"></a>     </span><span style="mso-bookmark: funkce62"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa62"><a name="eadresa62"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa62"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin62"><a name="termin62"></a>30.08.2004</span><span style="mso-bookmark: termin62"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol62"><a name="ukol62"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby u Koželoužek Jan, Františka Křížka 18/525, Praha 7, trvale bytem Havelská 19/525, Praha 1 (8)</span><span style="mso-bookmark: ukol62"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section20"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section21">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce63"><a name="funkce63"></a>     </span><span style="mso-bookmark: funkce63"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa63"><a name="eadresa63"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa63"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin63"><a name="termin63"></a>30.08.2004</span><span style="mso-bookmark: termin63"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol63"><a name="ukol63"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby s přivolením k výpovědi z nájmu bytu u Klusáčková Anna a Klusáček Vlastimil, U městských domů 7/1553, Praha 7 (9)</span><span style="mso-bookmark: ukol63"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section22">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm"> <p></p></p>
+</div>
+<br><div class="Section23">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce66"><a name="funkce66"></a>     </span><span style="mso-bookmark: funkce66"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa66"><a name="eadresa66"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa66"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin66"><a name="termin66"></a>30.08.2004</span><span style="mso-bookmark: termin66"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol66"><a name="ukol66"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby s přivolením k výpovědi z nájmu bytu u Stránská Eva a Stránský Miroslav, Komunardů 10/430, Praha 7 (10)</span><span style="mso-bookmark: ukol66"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section24"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"></span><br><div class="Section25">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce67"><a name="funkce67"></a>     </span><span style="mso-bookmark: funkce67"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa67"><a name="eadresa67"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa67"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin67"><a name="termin67"></a>30.08.2004</span><span style="mso-bookmark: termin67"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol67"><a name="ukol67"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby s přivolením k výpovědi z nájmu bytu u Kupilík Karel, Kostelní 26/364, Praha 7 (11)</span><span style="mso-bookmark: ukol67"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section26"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section27">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce68"><a name="funkce68"></a>     </span><span style="mso-bookmark: funkce68"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa68"><a name="eadresa68"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa68"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin68"><a name="termin68"></a>30.08.2004</span><span style="mso-bookmark: termin68"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol68"><a name="ukol68"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby s přivolením k výpovědi z nájmu bytu u<span style="mso-spacerun: yes">  </span>Věra Volšičková a Jiří Volšička, Veverkova 16/1407, Praha 7 (12)</span><span style="mso-bookmark: ukol68"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section28"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section29">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce69"><a name="funkce69"></a>     </span><span style="mso-bookmark: funkce69"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa69"><a name="eadresa69"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa69"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin69"><a name="termin69"></a>30.08.2004</span><span style="mso-bookmark: termin69"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol69"><a name="ukol69"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby s přivolením k výpovědi z nájmu bytu u Malý František , U průhonu 11/1493, Praha 7 (13)</span><span style="mso-bookmark: ukol69"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section30"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section31">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce70"><a name="funkce70"></a>     </span><span style="mso-bookmark: funkce70"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa70"><a name="eadresa70"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa70"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin70"><a name="termin70"></a>30.08.2004</span><span style="mso-bookmark: termin70"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol70"><a name="ukol70"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby s přivolením k výpovědi z nájmu bytu u Magdalena Servusová a Michal Servus, U průhonu 30/1137, Praha 7 (14)</span><span style="mso-bookmark: ukol70"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section32"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section33">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce71"><a name="funkce71"></a>     </span><span style="mso-bookmark: funkce71"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa71"><a name="eadresa71"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa71"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin71"><a name="termin71"></a>30.08.2004</span><span style="mso-bookmark: termin71"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol71"><a name="ukol71"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby s přivolením k výpovědi z nájmu bytu u Jan Pavlík, Jankovcova 47/862, Praha 7 (15)</span><span style="mso-bookmark: ukol71"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section34"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section35">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce72"><a name="funkce72"></a>     </span><span style="mso-bookmark: funkce72"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa72"><a name="eadresa72"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa72"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin72"><a name="termin72"></a>30.08.2004</span><span style="mso-bookmark: termin72"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol72"><a name="ukol72"></a>podepsat žalobu na dluh u Jaroslav Bureš, V háji 32/1068, Praha 7 (16)</span><span style="mso-bookmark: ukol72"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section36"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section37">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce73"><a name="funkce73"></a>     </span><span style="mso-bookmark: funkce73"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa73"><a name="eadresa73"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa73"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin73"><a name="termin73"></a>30.08.2004</span><span style="mso-bookmark: termin73"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol73"><a name="ukol73"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby u Blanka Pohorská a Radek Pohorský, Korunovační 2/310, Praha 7 (17)</span><span style="mso-bookmark: ukol73"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section38"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section39">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce74"><a name="funkce74"></a>     </span><span style="mso-bookmark: funkce74"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa74"><a name="eadresa74"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa74"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin74"><a name="termin74"></a>30.08.2004</span><span style="mso-bookmark: termin74"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol74"><a name="ukol74"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby s přivolením k výpovědi z nájmu bytu u Simona Zajícová, Argentinská 12/194, Praha 7 (18)</span><span style="mso-bookmark: ukol74"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section40"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section41">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce75"><a name="funkce75"></a>     </span><span style="mso-bookmark: funkce75"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa75"><a name="eadresa75"></a>VED OP Pěničková Hana</span><span style="mso-bookmark: eadresa75"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin75"><a name="termin75"></a>30.08.2004</span><span style="mso-bookmark: termin75"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol75"><a name="ukol75"></a>podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby s přivolením k výpovědi z nájmu bytu u Hejduková Světluše, Argentinská 12/194, Praha 7 (19)</span><span style="mso-bookmark: ukol75"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section42">
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"></span> </div>
+<br><div class="Section43">
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; tab-stops: 2.0cm">Určen:<span style="mso-tab-count: 1">         </span><span style="mso-bookmark: funkce76"><a name="funkce76"></a>     </span><span style="mso-bookmark: funkce76"></span><span style="mso-tab-count: 1">      </span><span style="mso-bookmark: eadresa76"><a name="eadresa76"></a>VED OS Vodičková Daniela</span><span style="mso-bookmark: eadresa76"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 3pt 0cm; TEXT-ALIGN: right; tab-stops: 2.0cm" align="right">Termín: <span style="mso-bookmark: termin76"><a name="termin76"></a>20.08.2004</span><span style="mso-bookmark: termin76"></span><p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 2cm; TEXT-INDENT: -2cm; tab-stops: 2.0cm">Úkol:<span style="mso-tab-count: 1">           </span><span style="mso-bookmark: ukol76"><a name="ukol76"></a>prověřit sociální situaci paní Aleny Šantlové, bytem U letenského sadu 7/133 s ohledem na záměr podání žaloby na vymáhání dlužného nájemného a o výsledku informovat R MČ P7</span><span style="mso-bookmark: ukol76"></span><p></p></p>
+</div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><div class="Section44"></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: CS; mso-fareast-language: CS; mso-bidi-language: AR-SA"><br style="PAGE-BREAK-BEFORE: auto; mso-break-type: section-break" clear="all"></span><br><table style="BORDER-COLLAPSE: collapse; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt; mso-table-layout-alt: fixed" cellspacing="0" cellpadding="0" border="0">
+<br><tbody>
+<br><tr>
+<br><td style="BORDER-RIGHT: #d4d0c8; PADDING-RIGHT: 3.5pt; BORDER-TOP: #d4d0c8; PADDING-LEFT: 3.5pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: #d4d0c8; WIDTH: 258.6pt; PADDING-TOP: 0cm; BORDER-BOTTOM: #d4d0c8; BACKGROUND-COLOR: transparent" valign="top" width="345">
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"> <p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"><a name="BOT_89"></a><a name="BOT_90"></a><a name="BOT_91"></a> <p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"> <p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"> <p></p></p>
+</td>
+<br><td style="BORDER-RIGHT: #d4d0c8; PADDING-RIGHT: 3.5pt; BORDER-TOP: #d4d0c8; PADDING-LEFT: 3.5pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: #d4d0c8; WIDTH: 258.6pt; PADDING-TOP: 0cm; BORDER-BOTTOM: #d4d0c8; BACKGROUND-COLOR: transparent" valign="top" width="345">
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"> <p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"> <p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"> <p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"> <p></p></p>
+</td>
+</tr>
+<br><tr>
+<br><td style="BORDER-RIGHT: #d4d0c8; PADDING-RIGHT: 3.5pt; BORDER-TOP: #d4d0c8; PADDING-LEFT: 3.5pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: #d4d0c8; WIDTH: 258.6pt; PADDING-TOP: 0cm; BORDER-BOTTOM: #d4d0c8; BACKGROUND-COLOR: transparent" valign="top" width="345">
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center">PhDr. Ivana Kučerová <p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center">starostka<p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center">Městské části Praha 7<p></p></p>
+</td>
+<br><td style="BORDER-RIGHT: #d4d0c8; PADDING-RIGHT: 3.5pt; BORDER-TOP: #d4d0c8; PADDING-LEFT: 3.5pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: #d4d0c8; WIDTH: 258.6pt; PADDING-TOP: 0cm; BORDER-BOTTOM: #d4d0c8; BACKGROUND-COLOR: transparent" valign="top" width="345">
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"><span style="mso-spacerun: yes"> </span>JUDr. Tomáš Vavřinec <p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center">zástupce starosty<p></p></p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center">Městské části Praha 7<p></p></p>
+</td>
+</tr>
+<br><tr>
+<br><td style="BORDER-RIGHT: #d4d0c8; PADDING-RIGHT: 3.5pt; BORDER-TOP: #d4d0c8; PADDING-LEFT: 3.5pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: #d4d0c8; WIDTH: 258.6pt; PADDING-TOP: 0cm; BORDER-BOTTOM: #d4d0c8; BACKGROUND-COLOR: transparent" valign="top" width="345">
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"> <p></p></p>
+</td>
+<br><td style="BORDER-RIGHT: #d4d0c8; PADDING-RIGHT: 3.5pt; BORDER-TOP: #d4d0c8; PADDING-LEFT: 3.5pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: #d4d0c8; WIDTH: 258.6pt; PADDING-TOP: 0cm; BORDER-BOTTOM: #d4d0c8; BACKGROUND-COLOR: transparent" valign="top" width="345">
+<br><p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"> <p></p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"><br></p>
+<hr>
+<br><br><p>př. č. 1 - neveřejné</p>
+<br><p class="MsoNormal" style="MARGIN: 0cm 14.1pt 0pt 0cm; TEXT-ALIGN: center; tab-stops: 2.0cm" align="center"> <p></p></p>
+</div>
+</div>

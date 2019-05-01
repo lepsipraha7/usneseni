@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci vernisáže a výstavy obrazů a fotografií pod názvem
+  "Projekt Kulturně komunitního centra Art na Letné", konané dne 13.09.2017 od 17.30
+  h v Galerii na úřadě, nábř. Kpt. Jaroše 1000, 170 00 Praha 7
+datum_vzniku_usneseni: '2017-09-05 00:00:00'
+cislo_usneseni: '0816/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29634/export/M42_DV_Vernisaz_13_09_2017_AtelierLetna~244625.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29634/export/S52_ZBORIL_KRIZKOVA_GNU_13_09_2017_V~244624.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29634/export/export~295319.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na realizaci vernisáže a výstavy obrazů a fotografií pod názvem "Projekt Kulturně komunitního centra Art na Letné", konané dne 13.09.2017 od 17.30 h v Galerii na úřadě, nábř. Kpt. Jaroše 1000, 170 00 Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>realizaci vernisáže a výstavy obrazů a fotografií pod názvem "Projekt Kulturně komunitního centra Art na Letné", konané dne 13.09.2017 od 17.30 h v Galerii na úřadě, nábř. Kpt. Jaroše 1000, 170 00 Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>text a uzavření smlouvy o umělecké produkci mezi městskou částí Praha 7 a Jiřím Zbořilem viz příloha č. 2</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů ve výši 5 000 Kč vč. DPH, v hotovosti, Jiřímu Zbořilovi, za produkci - umělecký výkon, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 1 500 vč. DPH, v hotovosti, spojených s realizací vernisáže za občerstvení, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu o umělecké produkci mezi městskou částí Praha 7 a Jiřím Zbořilem viz příloha č.2</p></span><span class="urzUkolTermin">  Termín:&nbsp;13.9.2017</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci vernisáže a výstavy obrazů a fotografií pod názvem "Projekt Kulturně komunitního centra Art na Letné" dle článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;13.9.2017</span></li></ul></li></ol></li></ol>

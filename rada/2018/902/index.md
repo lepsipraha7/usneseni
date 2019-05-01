@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci jazykových kurzů MČ Praha 7 pro seniory z Prahy 7 v
+  roce 2019 v Přístavu 7, Jankovcova 8b, Praha 7
+datum_vzniku_usneseni: '2018-12-18 00:00:00'
+cislo_usneseni: '0902/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30474/export/M50DV_Jazykove_kurzy_seniori_2019~418639.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30474/export/M50_Jazykove_kurzy_seniori_2019_priloha_harmonogram~418638.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30474/export/export~419222.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na realizaci jazykových kurzů MČ Praha 7 pro seniory z Prahy 7 v roce 2019 v Přístavu 7, Jankovcova 8b, Praha 7<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>že jazykových kurzů MČ Praha 7 pro seniory z Prahy 7 se mohou účastnit pouze senioři s trvalým bydlištěm v Praze 7</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že jazykové kurzy MČ Praha 7 jsou pro seniory z Prahy 7 zdarma</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>realizaci jazykových kurzů MČ Praha 7 pro seniory Prahy 7, v termínu 01.02. - 06.12.2019&nbsp;v Přístavu 7, Jankovcova 8b, Praha 7 v rozsahu viz příloha č. 2</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů v max. výši 102 760 Kč vč. DPH, formou faktur, společnosti Elpida o. p. s., IČO: 279 48 706, se sídlem Na Strži 40, 140 00 Praha 4, za realizaci jazykových kurzů MČ Praha 7 pro seniory z Prahy 7 v roce 2019, hrazeno z rozpočtu OKS ORJ 621 – kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit realizaci jazykových kurzů dle článku III tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;13.12.2019</span></li></ul></li></ol></li></ol>

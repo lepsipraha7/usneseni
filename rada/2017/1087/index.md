@@ -1,0 +1,25 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na revokaci usnesení Rady MČ Praha 7 č. 1066/17-R ze dne 24.11.2017,
+  ve věci zřízení bezúplatného práva stavby na pozemcích parc. č. 303, 304, 305, vše
+  k.ú. Holešovice, pro Českobratrskou církev evangelickou
+datum_vzniku_usneseni: '2017-12-01 00:00:00'
+cislo_usneseni: 1087/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/01_pravoRajska_2017~302487.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/02I_pravoRajska_2017~302486.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/02II_pravoRajska_2017~302485.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/03_pravoRajska_2017~302484.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/04_pravoRajska_2017~302483.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/05_pravoRajska_2017~302482.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/06_pravoRajska_2017~302481.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/07_pravoRajska_2017~302480.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/08_pravoRajska_2017~302479.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/09_pravoRajska_2017~302478.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/10_pravoRajska_2017~302477.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/11_pravoRajska_2017~302476.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/12_pravoRajska_2017~302475.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29711/export/export~302946.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na revokaci usnesení Rady MČ Praha 7 č. 1066/17-R ze dne 24.11.2017, ve věci zřízení bezúplatného práva stavby na pozemcích parc. č. 303, 304, 305, vše k.ú. Holešovice, pro Českobratrskou církev evangelickou</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>že revokace usnesení Rady MČ Praha 7 č. 1066/17-R ze dne 24.11.2017, včetně změn ve smlouvě, vychází z projednání materiálu návrhu usnesení Zastupitelstva MČ Praha 7 č.e. 0849, Komisí pro majetek, bytové a nebytové prostory dne 27.11.2017 a navazujících usnesení č. 316/17-KMBN a č. 317/17-KMBN, po předchozím odložení projednání materiálu touto komisí dne 13.11.2017</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že návrh usnesení Zastupitelstva MČ Praha 7 č.e. 0849 byl projednán Finančním výborem Zastupitelstva MČ Praha 7 dne 27.11.2017, který svým usnesením vzal předložený materiál na vědomí a doporučil jej Zastupitelstvu MČ Praha 7 ke schválení, přičemž návrh změn smlouvy nemůže negativně neovlivnit finanční vztahy mezi MČ Praha 7 a stavebníkem (Českobratrská církev evangelická)</p></span></li></ol></li><li id="" class="urzClass1"><span name="21">revokuje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>usnesení Rady MČ Praha 7 č. 1066/17-R ze dne 24.11.2017, kde ruší veškeré původní přílohy a nahrazuje přílohami uvedenými v tomto usnesení, dle tohoto pořadí, včetně analogické revokace návrhu usnesení Zastupitelstva MČ Praha 7, včetně doplnění konstatací uvedených v tomto usnesení<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>předložit Zastupitelstvu MČ Praha 7 návrh na zřízení bezúplatného práva stavby na pozemcích parc. č. 303, 304, 305, vše k.ú. Holešovice, pro Českobratrskou církev evangelickou, v upravené verzi dle této revokace</p></span><span class="urzUkolTermin">  Termín:&nbsp;4.12.2017</span></li></ul></li><li class="urzClass2"><span><p>VED KST PaedDr. Michaela Strnadová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>rozeslat členům Zastupitelstva a zajistit zveřejnění na webu MČ Praha 7 upraveného návrhu materiálu na zřízení bezúplatného práva stavby na pozemcích parc. č. 303, 304, 305, vše k.ú. Holešovice, pro Českobratrskou církev evangelickou, dle této revokace</p></span><span class="urzUkolTermin">  Termín:&nbsp;1.12.2017</span></li></ul></li></ol></li></ol>

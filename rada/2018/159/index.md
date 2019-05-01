@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na poskytnutí individuálních dotací v oblasti sportu dle žádostí
+  podaných v měsíci únor 2018
+datum_vzniku_usneseni: '2018-02-27 00:00:00'
+cislo_usneseni: '0159/18-R'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27082/export/M8DV_ID_sport_unor_2018~329548.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27082/export/Priloha_c_2_Individualnidotace_sport_unor_2018~329547.xls
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27082/export/VzorovasmlouvaIDdo50tisKc~329546.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27082/export/Zapis_2_jednani_SK_19_02_2018~329545.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27082/export/export~329917.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na poskytnutí individuálních dotací v oblasti sportu dle žádostí podaných v měsíci únor 2018</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>poskytnutí individuálních dotací v oblasti sportu nepřesahujících 50 tis. Kč, dle žádostí podaných v měsíci únor 2018, žadatelům dle přílohy č. 2 tohoto usnesení v celkové výši 45 000 Kč, formou veřejnoprávní smlouvy, hrazeno z rozpočtu ORJ 421 OKS - kultura</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>uzavření smluv o poskytnutí dotace mezi městskou částí Praha 7 a úspěšnými žadateli s podporou do 50 tis. Kč viz příloha č. 2</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvy o poskytnutí dotace mezi městskou částí Praha 7 a úspěšnými žadateli s podporou do 50 tis. Kč viz příloha č. 2</p></span><span class="urzUkolTermin">  Termín:&nbsp;9.3.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit poskytnutí individuálních dotací v oblasti sportu nepřesahujících 50 tis. Kč, dle žádostí podaných v měsíci únor 2018, žadatelům dle přílohy č. 2 tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;23.3.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit evidenci poskytnutí dotací dle článku II tohoto usnesení v Centrálním registru podpor malého rozsahu ve lhůtě do 5 dnů od podpisu jednotlivých smluv</p></span><span class="urzUkolTermin">  Termín:&nbsp;23.3.2018</span></li></ul></li></ol></li></ol>

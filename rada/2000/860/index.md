@@ -1,0 +1,19 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Souhlas s vymáháním dlužného nájemného u dlužníků uvedených v příloze
+  č.1, s podáním žalob na přivolení k výpovědi z nájmu bytů '
+datum_vzniku_usneseni: '2000-09-05 00:00:00'
+cislo_usneseni: '0860/00'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Souhlas s vymáháním dlužného nájemného u dlužníků uvedených v příloze č.1, s podáním žalob na přivolení k výpovědi z nájmu bytů </h3></span><div class="center">
+		<strong>č. 0860/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 05.09.2000</strong><br><br>
+	</div>     <br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na souhlas s vymáháním dlužného nájemného u dlužníků uvedených v příloze č.1, která je nedílnou součástí tohoto materiálu, s podáním žalob na přivolení k výpovědi z nájmu bytů v domech svěřených městské části Praha 7<br><br>II.	souhlasí <br><br>s vymáháním dlužného nájemného u dlužníků uvedených v příloze č.1, která je nedílnou součástí tohoto materiálu, s podáním žalob na přivolení k výpovědi z nájmu bytů v domech svěřených městské části Praha 7<br><br><br>III.	ukládá <br><br> Určen:	     	VED OBH Meško Martin<br>Termín: 30.09.2000<br>Úkol:	předat potřebné doklady pro vymáhání dlužného nájemného a  podání žalob na přivolení k výpovědi z nájmu bytů vedoucí OP dle přílohy č.1<br> <br> Určen:	     	VED OP Hájniková Danka<br>Termín: průběžně<br>Úkol:	zajistit podání žaloby na přivolení k výpovědi z nájmu bytů a vymáhání dlužného nájemného dle přílohy 1 a podkladů předaných OBH na OP<br> <br> Určen:	     	STA Dub Tomáš<br>Termín: 31.10.2000<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u Margity Rybínové, Kamenická 39/303, Praha 7 (1)<br> <br> Určen:	     	STA Dub Tomáš<br>Termín: 31.10.2000<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u Jany Pavlíkové, Kamenická 39/303, Praha 7 (2)<br> <br> Určen:	     	STA Dub Tomáš<br>Termín: 31.10.2000<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u Anny Sýkorové, Kamenická 50/653, Praha 7 (3)<br> <br> Určen:	     	STA Dub Tomáš<br>Termín: 31.10.2000<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u  Oldřicha Mazúreka, Veverkova 12/1409, Praha 7(4)<br> <br> Určen:	     	STA Dub Tomáš<br>Termín: 31.10.2000<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u Naděždy a Daniela Barbasových, Pplk.Sochora 3/436, Praha 7 (5)<br> <br> Určen:	     	STA Dub Tomáš<br>Termín: 31.10.2000<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u Jana Machálka, Milady Horákové 86/850, Praha 7 (6)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 31.10.2000<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u Aleše a Jiřiny Růžičkových, Veverkova 23/765, Praha 7 (7)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 31.10.2000<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u Ilony a Guillaume Blaise, Antonínská 4/442, Praha 7 (8)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 31.10.2000<br>Úkol:	podepsat žalobu na  přivolení k výpovědi z nájmu bytu u  Jaroslava Hochmala, Jana Zajíce 27/167, Praha 7 (9)<br> <br> </div>
+</div>

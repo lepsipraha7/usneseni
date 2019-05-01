@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Dopisy, adresované Radě MČ Praha 7
+datum_vzniku_usneseni: '2017-07-11 00:00:00'
+cislo_usneseni: 0644/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29318/export/DUVODOVA_ZPRAVA4~224585.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29318/export/dopis~224584.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29318/export/dopis3~224582.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29318/export/export~295683.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>dopis, adresovaný Radě MČ Praha 7 pod č. j. MČ P7 038618/2017-33 od nájemníků obytného domu č. p. 1493, k.ú. Holešovice, U Průhonu 11, Praha 7, ve věci stavební úpravy a nástavby obytného domu č.p. 1493, k.ú. Holešovice, U Průhonu 11, Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>dopis, adresovaný Radě MČ Praha 7 pod č. j. MČ P7 038725/2017-34 od Mgr. R. N., ve věci vyjádření k odvolání Advokátní kanceláře KF Legal, s.r.o. proti rozhodnutí Ú MČ P7 č.j. MČ P7 011503/2017-7 ze dne 1.června 2017, č.j. MČ P7 011503/2017-9<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>vyřídit a předložit na jednání Rady MČ Praha 7 odpověď na dopis, adresovaný Radě MČ Praha 7 pod č. j. MČ P7 038618/2017-33 od nájemníků obytného domu č. p. 1493, k.ú. Holešovice, U Průhonu 11, Praha 7, ve věci stavební úpravy a nástavby obytného domu č.p. 1493, k.ú. Holešovice, U Průhonu 11, Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.8.2017</span></li></ul></li><li class="urzClass2"><span><p>TAJ Mgr. Špok Radomír</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>vyřídit a předložit na jednání Rady MČ P7 odpověď na dopis, adresovaný Radě MČ Praha 7 pod č. j. MČ P7 038725/2017-34 od Mgr. R. N., ve věci vyjádření k odvolání Advokátní kanceláře KF Legal, s.r.o. proti rozhodnutí Ú MČ P7 č.j. MČ P7 011503/2017-7 ze dne 1.června 2017, č.j. MČ P7 011503/2017-9</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.8.2017</span></li></ul></li></ol></li></ol>

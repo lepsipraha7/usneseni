@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření dohod o splátkách dlužného nájemného - srpen 1999
+datum_vzniku_usneseni: '1999-08-24 00:00:00'
+cislo_usneseni: 0601/99
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření dohod o splátkách dlužného nájemného - srpen 1999</h3></span><div class="center">
+		<strong>č. 0601/99</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 24.08.1999</strong><br><br>
+	</div>
+<br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na uzavření dohod o splátkách dlužného nájemného - srpen 1999<br><br>II.	souhlasí <br><br>s uzavřením „dohody o splátkách“ formou 12-ti po sobě následujících splátek ve výši 3.387,- Kč s Alešem Karáskem, Umělecká 2/310 P 7, jehož dluh činí celkem 40.644,-Kč, z toho dluh na nájmu 32.232,- Kč a poplatek z prodlení  8.412,- Kč. (1)<br><br>s uzavřením „dohody o splátkách“ formou 5-ti po sobě následujících splátek ve výši 2.500,- Kč a 6. splátky ve výši 1.087,- Kč  s Marií Táboříkovou, U Smaltovny 22A/1334 P 7, jejíž dluh činí celkem 13.587,-Kč, z toho dluh na nájmu 12.168,- Kč a poplatek z prodlení 1.419,-Kč (2)<br><br>s uzavřením „dohody o splátkách“ formou 5-ti po sobě následujících splátek ve výši 2.500,-Kč a 6.  splátky ve výši 1.675,- Kč s Jaroslavem Uškrtem, Milady Horákové 9/1280 P 7, jehož dluh činí celkem 14.175,- Kč, z toho dluh na nájmu 8.763,- Kč a poplatek z prodlení 5.412,- Kč. (3)<br><br>s uzavřením „dohody o splátkách“ formou dvou splátek ve výši 2.819,-Kč s Hanou Šmerhovou, Schnirchova 33/1082 P 7, jejíž dluh činí celkem 5.638,-Kč, z toho dluh na nájmu 4.329,-Kč a poplatek z prodlení 1.309,-Kč. (4)<br>                                         <br>s uzavřením „dohody o splátkách“ formou 10-ti po sobě následujících splátek ve výši 2.500,- Kč a 11. splátky ve výši 2.428,-Kč s Vlastou Bernáškovou, Pplk. Sochora 3/436 P 7, jejíž dluh činí celkem 27.428,-Kč, z toho dluh na nájmu 17.326.-Kč a poplatek z prodlení 10.102,-Kč. (5)<br><br>s uzavřením „dohody o splátkách“ formou sedmi po sobě následujících splátek ve výši 2.500,- Kč a 8.splátky ve výši 610,-Kč s Tomášem Suchomelem, Na Ovčinách 4/970 P 7, jehož dluh činí celkem 18.110,-Kč, z toho dluh na nájmu 12.851.-Kč a poplatek z prodlení 5.259,-Kč. (6)<br><br><br><br><br><br><br><br><br><br>III.	ukládá <br><br> Určen:	zást.starosty	ZAS STA Vayhel Luboš<br>Termín: 07.09.1999<br>Úkol:	uzavřít dohodu o splátkách s Alešem Karáskem, Umělecká 2/310 P 7, formou 12-ti po sobě následujících splátek  3.387,- Kč (1)<br> <br> Určen:	zást.starosty	ZAS STA Vayhel Luboš<br>Termín: 07.09.1999<br>Úkol:	uzavřít dohodu o splátkách s   Marií Táboříkovou, U Smaltovny 22A/1334 P 7, formou 5-ti po sobě následujících splátek  ve výši 2.500,- Kč a 6. splátky ve výši 1.087,-Kč(2)<br> <br> Určen:	zást.starosty	ZAS STA Vayhel Luboš<br>Termín: 07.09.1999<br>Úkol:	uzavřít dohodu o splátkách s Jaroslavem Uškrtem, Milady Horákové 9/1280 P 7, formou 5-ti po sobě následujících splátek ve výši 2.500,- Kč a 6. splátky ve výši 1.675,-Kč  (3)<br> <br> Určen:	zást.starosty	ZAS STA Vayhel Luboš<br>Termín: 07.09.1999<br>Úkol:	uzavřít dohodu o splátkách s Hanou Šmerhovou, Schnirchova 33/1082 P 7, formou dvou splátek ve výši 2.819,-Kč (4)<br> <br> Určen:	zást.starosty	ZAS STA Vayhel Luboš<br>Termín: 07.09.1999<br>Úkol:	uzavřít dohodu o splátkách s  Vlastou Bernáškovou, Pplk. Sochora 3/436 P 7, formou 10-ti po sobě následujících splátek ve výši 2.500,- Kč a 11. splátky ve výši 2.428,- Kč (5)<br> <br> Určen:	zást.starosty	ZAS STA Vayhel Luboš<br>Termín: 07.09.1999<br>Úkol:	uzavřít dohodu o splátkách s  Tomášem Suchomelem, Na Ovčinách 4/970 P 7, formou sedmi  po sobě následujících splátek ve výši 2.500,- Kč a 8.splátky ve výši 610,- Kč (6)<br>
+</div>
+</div>

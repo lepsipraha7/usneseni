@@ -1,0 +1,19 @@
+---
+layout: detail_usneseni
+nazev_bodu: Řešení žádostí projednaných při jednání majetkové komise dne 28.8.2000
+datum_vzniku_usneseni: '2000-09-05 00:00:00'
+cislo_usneseni: '0873/00'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Řešení žádostí projednaných při jednání majetkové komise dne 28.8.2000</h3></span><div class="center">
+		<strong>č. 0873/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 05.09.2000</strong><br><br>
+	</div>     <br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na řešení žádostí projednaných při jednání majetkové komise dne 8.8.2000<br><br><br>II.	nesouhlasí<br><br>s umístěním přípojkové skříně SP 5 do fasády domu Na Ovčinách 2/440 z důvodu narušení ozdobného provedení soklu<br><br>s rekonstrukcí TS v domech Kamenická 1/365 a Letohradská  3/369 investorem PRE a.s. do doby vyřešení majetkoprávních vztahů  formou nájemní smlouvy či zapsáním věcného břemene ze zákona <br>( dle podlahové plochy NP )<br><br>III.	souhlasí <br><br>s instalací 1 ks plynového topidla WAW při splnění podmínky odkouření do komínového průduchu <br>v bytě nájemce paní Veroniky Koblihové, bytem Jana Zajíce 27/ 215, na vlastní náklady<br><br>se změnou dispozice bytu a s instalací plynového etážového topení v bytě nájemce pana Tomáše Bárty,  bytem V Háji 35/ 1243 , na vlastní náklady<br><br>s provedením drobných stavebních úprav dle žádosti v bytě nájemců pana Bedřicha a paní Lenky Hájkových , bytem Schnirchova 17/1448 , na vlastní náklady<br><br>s umístěním nových přípojkových skříní SP 5 investorem PRE a.s. do prostoru stávajících skříní domů Na Ovčinách 2/440 a 4/970<br><br>s PD pro územní řízení na rekonstrukci VN, NN - VII. etapa - domy Veletržní 51/842 , Heřmanova 32/1313<br><br>se záměrem rekonstrukce přeložky trolejového vedení s výměnou kotevních závěsů na domy Dukelských hrdinů 33/691 , Dukelských hrdinů  25/469 , s umístěním nového kotevního závěsu <br>na domě Dukelských hrdinů 27/470 , s podmínkou předložení PD před podáním žádosti o stavební povolení<br><br>s úplatným převodem pozemku č. parc. 275, k.ú. Hol. v majetku HMP  , za účelem sloučení <br>s pozemkem č. parc. 276, spolumajitelce nemovitosti U Papírny 13/489 paní Boženě Štorkové<br><br>se záměrem využití nemovitosti Tusarova 44/331 formou pronájmu nebo prodeje nemovitosti jako celku<br><br>s vyhověním žádosti Spolku přátel Šlechtovy restaurace na konání benefiční akce dne 6.9.2000 <br>v objektu býv. Šlechtovy restaurace <br><br>IV.	ukládá <br><br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 11.09.2000<br>Úkol:	seznámit nájemce paní Veroniku Koblihovou , bytem Jana Zajíce 27 , s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 11.09.2000<br>Úkol:	seznámit nájemce pana Tomáše Bártu , bytem V Háji 35 , s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 11.09.2000<br>Úkol:	seznámit nájemce pana Bedřicha a Lenku Hájkových , bytem Schnirchova 17 , s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 11.09.2000<br>Úkol:	seznámit proj. kancelář Ing. Pavel Hrubý  s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 11.09.2000<br>Úkol:	seznámit proj. kancelář  Medunová a syn  s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 11.09.2000<br>Úkol:	seznámit firmu PREmont s.r.o. s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 11.09.2000<br>Úkol:	seznámit proj. kancelář Ing. Švehlová Kateřina s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 11.09.2000<br>Úkol:	seznámit MHMP s výsledkem projednání žádosti<br> <br>
+</div>
+</div>

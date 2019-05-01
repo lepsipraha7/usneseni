@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci vernisáže a výstavy obrazů a fotografií umělce Petra
+  Novotného „Čtyři zahraniční výstavy“, konané dne 10.01.2018 od 17.30 h v Galerii
+  na úřadě, nábř. Kpt. Jaroše 1000, 170 00 Praha 7
+datum_vzniku_usneseni: '2018-01-02 00:00:00'
+cislo_usneseni: 0001/18-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27145/export/Duvodova_zprava_vernisaz_Novotny_2017~312414.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27145/export/S__umelecky_vykon_Novotny1verejna~312413.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27145/export/export~312640.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na realizaci vernisáže a výstavy obrazů a fotografií umělce Petra Novotného „Čtyři zahraniční výstavy“, konané dne 10.01.2018 od 17.30 h v Galerii na úřadě, nábř. Kpt. Jaroše 1000, 170 00 Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>realizaci vernisáže a výstavy obrazů a fotografií umělce Petra Novotného „Čtyři zahraniční výstavy“, konané dne 10.01.2018 od 17.30 h v Galerii na úřadě, nábř. Kpt. Jaroše 1000, 170 00 Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>text a uzavření smlouvy o uměleckém výkonu mezi městskou částí Praha 7 a Petrem Novotným viz příloha č. 2</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů ve výši 3 000 Kč vč. DPH, v hotovosti, Petru Novotnému, za produkci - umělecký výkon, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 1 500 vč. DPH, v hotovosti, spojených s realizací vernisáže za občerstvení, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu o uměleckém výkonu mezi městskou částí Praha 7 a Petrem Novotným viz příloha č.2</p></span><span class="urzUkolTermin">  Termín:&nbsp;5.1.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci vernisáže a výstavy obrazů a fotografií umělce Petra Novotného „Čtyři zahraniční výstavy“, dle článku II tohoto<br>usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;10.1.2018</span></li></ul></li></ol></li></ol>

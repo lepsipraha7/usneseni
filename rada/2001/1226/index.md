@@ -1,0 +1,22 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Schválení stanoviska MČ Praha 7 k návrhu obecně závazné vyhlášky HMP,
+  kerou se mění vyhláška č. 10/2000 Sb. HMP, kterou se stanoví poplatek za sběr, třídění,
+  využívání a zneškodňování komunálního odpadu a způsob jeho výběru... '
+datum_vzniku_usneseni: '2001-11-14 00:00:00'
+cislo_usneseni: 1226/01
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Schválení stanoviska MČ Praha 7 k návrhu obecně závazné vyhlášky HMP, kerou se mění vyhláška č. 10/2000 Sb. HMP, kterou se stanoví poplatek za sběr, třídění, využívání a zneškodňování komunálního odpadu a způsob jeho výběru... </h3></span><div class="center">
+		<strong>č. 1226/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 14.11.2001</strong><br><br>
+	</div>
+<br>...(vyhláška o poplatku za odpad), ve znění vyhlášky č. 49/2000 Sb. HMP<br><br><br><br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na schválení stanoviska MČ Praha 7 k návrhu obecně závazné vyhlášky HMP, kterou se mění vyhláška č. 10/2000 Sb. HMP, kterou se stanoví poplatek za sběr, třídění, využívání a zneškodňování komunálního odpadu a způsob jeho výběru (vyhláška o poplatku za odpad), ve znění vyhlášky č. 49/2000 Sb. HMP<br><br>II. konstatuje,<br><br>že k návrhu obecně závazné vyhlášky HMP, kterou se mění vyhláška č. 10/2000 Sb. HMP, kterou se stanoví poplatek za sběr, třídění, využívání a zneškodňování komunálního odpadu a způsob jeho výběru (vyhláška o poplatku za odpad), ve znění vyhlášky č. 49/2000 Sb. HMP nemá připomínky.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>III.	ukládá <br><br> <br>Určen:	STA Dub Tomáš<br>Termín: 16.11.2001<br>Úkol:	informovat příslušné orgány HMP o stanovisku MČ Praha 7 k návrhu obecně závazné vyhlášky HMP, kerou se mění vyhláška č. 10/2000 Sb. HMP, kterou se stanoví poplatek za sběr, třídění, využívání a zneškodňování komunálního odpadu a způsob jeho výběru (vyhláška o poplatku za odpad), ve znění vyhlášky č. 49/2000 Sb. HMP<br> <br><br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

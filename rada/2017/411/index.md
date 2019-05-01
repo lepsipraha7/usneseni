@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na ocenění složek IZS hl. m. Prahy s působností na území MČ Praha
+  7 za výkon služby v roce 2016
+datum_vzniku_usneseni: '2017-05-09 00:00:00'
+cislo_usneseni: 0411/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28988/export/M21DV_OceneniIZS_2017~198120.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28988/export/Ocenenislozek_IZS_poradi_vyhlaseni_2017~198119.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28988/export/export~296173.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na ocenění složek IZS hl. m. Prahy s působností na území MČ Praha 7 za výkon služby v roce 2016</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>ocenění členů složek IZS hl. m. Prahy za výkon služby v roce 2016 viz příloha č. 2</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>realizaci slavnostního aktu u příležitosti ocenění složek IZS hl. m. Prahy s působností na území MČ Praha 7 za výkon služby v roce 2016, v termínu&nbsp;17. 5. 2017 od 10.00 hod. v Letenském zámečku, Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši&nbsp;38 776 vč. DPH, formou faktury, společnosti NONET s.r.o. , IČO: 148 90 194, se sídlem Letenské sady 341, 170 00 Praha 7, za občerstvení, hrazeno z rozpočtu ORJ 911 KST<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 600 Kč vč. DPH, formou faktury, společnosti TYGR U STROMOVKY s.r.o., IČO: 279 00 991, Čechova 221/33, 170 00 Praha 7 - Bubeneč, za tiskové služby, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit ocenění složek IZS hl. m. Prahy dle článku II. tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.5.2017</span></li></ul></li><li class="urzClass2"><span><p>VED KST PaedDr. Michaela Strnadová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>finančně zajistit ocenění složek IZS hl. m. Prahy dle článku II odst. 3 tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;9.6.2017</span></li></ul></li></ol></li></ol>

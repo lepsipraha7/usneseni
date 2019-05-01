@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení pracovních skupin pro tvorbu akčního plánu na rok 2020,
+  který vychází z Implementační části Strategického plánu rozvoje MČ Praha 7 v letech
+  2016 - 2022
+datum_vzniku_usneseni: '2019-03-05 00:00:00'
+cislo_usneseni: '0129/19-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30669/export/Duvodovazprava~434902.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30669/export/Prilohac2pracovniskupinyakcniplan2020~434901.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30669/export/export~435221.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na schválení pracovních skupin pro tvorbu akčního plánu na rok 2020, který vychází z Implementační části Strategického plánu rozvoje</p><p>MČ Praha 7 v letech 2016 - 2022</p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>že komplexní úprava rozdělení oblastí a cílů uvedených v příloze č. 2 byla projednána v rámci strategické porady Rady MČ Praha 7 dne 22.2.2019 a bude předložena ke schválení Radě MČ Praha 7 v rámci aktualizace Návrhové části Strategického plánu rozvoje MČ Praha 7 v letech 2016 – 2022 do 31.8.2019<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>složení pracovních skupin pro tvorbu akčního plánu na rok 2020, který vychází z Implementační části Strategického plánu rozvoje MČ Praha 7 v letech 2016 - 2022 viz příloha č. 2<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>RAD Knitl Jiří, Mgr.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>předložit Radě MČ Praha 7 komplexní úpravy Návrhové části Strategického plánu rozvoje MČ Praha 7 v letech 2016 – 2022 týkající se rozdělení oblastí a cílů</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.8.2019</span></li></ul></li><li class="urzClass2"><span><p>Kříž Václav</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>koordinovat přípravy akčního plánu pro rok 2020 prostřednictvím schválených pracovních skupin</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.12.2019</span></li></ul></li></ol></li></ol>

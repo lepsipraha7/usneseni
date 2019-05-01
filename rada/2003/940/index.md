@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Řešení žádostí projednaných při jednání majetkové komise dne 30.7.2003
+datum_vzniku_usneseni: '2003-08-12 00:00:00'
+cislo_usneseni: '0940/03'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Řešení žádostí projednaných při jednání majetkové komise dne 30.7.2003</h3></span><div class="center">
+		<strong>č. 0940/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 12.08.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál na řešení žádostí projednaných při jednání majetkové komise dne 30.7.2003<br><br>II.	nesouhlasí<br><br>s vybudováním nového balkónu při dvorní fasádě domu Ovenecká 20/518 nájemcem panem Ing. Ivanem Peterkou z důvodu probíhající záruky na provedenou opravu obvodového pláště<br><br>III.	souhlasí <br><br>s instalací mříží  na vlastní náklady  na okna v přízemním bytě nájemce pana Marka Lerche, bytem Jankovcova 47/862 s tím, že vzhled bude shodný s již nainstalovanými mřížemi v okolních domech<br><br>s vybudováním koupelny v prostoru stávající spíže, s vybudováním plynového etážového topení, opravou rozvodů ve stávajících trasách , změnou dispozice bytu , na vlastní náklady nájemce pana Antonína Baudyše j.r. , bytem U Studánky 29/241<br><br>s provedením výměny plynového sporáku za elektrický a s tím souvisejícími úpravami, na vlastní náklady nájemce pana Tomáše Keltnera, bytem Letohradská 7c/940<br><br>s vybudováním plynového etážového topení v bytě na vlastní náklady nájemce paní Veroniky Kamzíkové, bytem Tusarova 9/1267<br><br>s provedením změny v užívání na byt 2+kk s přísl. a s tím spojenými stavebními úpravami  na vlastní náklady nájemce pana Michala Řezáčka , bytem Na Maninách 38/1237 zast. Ing. arch. Horovou<br><br>s provedením stavebních úprav  spojených s vybudováním koupelny na vlastní náklady nájemce paní Marie Pexové, bytem Ovenecká 20/518<br><br>se změnou dispozice bytu a s tím souvisejícími stavebními úpravami, vybudováním plynového etážového topení na vlastní náklady nájemce paní Alice Velkové a pana Luboše Velka, oba bytem Schnirchova 15/1447<br><br>s umístěním fototermického systému Megasun ST 160 ŠK na střeše nemovitosti ZŠ Korunovační 8, pro potřeby školní výuky<br><br><br><br>IV.	ukládá <br> <br> <br>Určen:	VED OMA Špiclová Jaroslava<br>Termín: 20.08.2003<br>Úkol:	seznámit pana Ing. Ivana Peterku, Ovenecká 20, se stanoviskem R<br> <br><br> <br>Určen:	VED OMA Špiclová Jaroslava<br>Termín: 20.08.2003<br>Úkol:	seznámit pana Marka Lerche, Jankovcova 47, se stanoviskem R<br> <br><br> <br>Určen:	VED OMA Špiclová Jaroslava<br>Termín: 20.08.2003<br>Úkol:	seznámit pana Antonína Baudyše j.r., U Studánky 29 ,se stanoviskem R<br> <br><br> <br>Určen:	VED OMA Špiclová Jaroslava<br>Termín: 20.08.2003<br>Úkol:	seznámit pana Tomáše Keltnera , Letohradská 7, se stanoviskem R<br> <br><br> <br>Určen:	VED OMA Špiclová Jaroslava<br>Termín: 20.08.2003<br>Úkol:	seznámit paní Marii Pexovou, Ovenecká 20, se stanoviskem R<br> <br><br> <br>UUrčen:	VED OMA Špiclová Jaroslava<br>Termín: 20.08.2003<br>Úkol:	seznámit pana Michala Řezáčka, Na Maninách 38, se stanoviskem R<br> <br><br> <br>Určen:	VED OMA Špiclová Jaroslava<br>Termín: 20.08.2003<br>Úkol:	seznámit paní Veroniku Kamzíkovou , Tusarova 9, se stanoviskem R<br> <br><br> <br>Určen:	VED OMA Špiclová Jaroslava<br>Termín: 20.08.2003<br>Úkol:	seznámit paní Alici Velkovou a pana Luboše Velka, Schnirchova 15, se stanoviskem R<br> <br><br> <br>Určen:	VED OMA Špiclová Jaroslava<br>Termín: 20.08.2003<br>Úkol:	seznámit ředitele školy Korunovační 8 se stanoviskem R<br> <br><br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na předchozí souhlas pro PO MŠ Praha 7, Letohradská 1a/712 a MŠ
+  U Průhonu 17a/139 na uzavření smlouvy o dílo na opravu podlahovém krytiny v MŠ Letohradská
+datum_vzniku_usneseni: '2017-05-23 00:00:00'
+cislo_usneseni: '0469/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29031/export/Duvodovazprava~203683.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29031/export/zadost_o_souhlas_s_uzavrenim_smlouvy__podlaha~203682.jpeg
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29031/export/zadost_o_cerpani_z_IF~203681.jpeg
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29031/export/Smlouva_o_dilo_SOD__lino_chodba_1NP_MS_Letohradska1~203680.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29031/export/Nabidka_CAT_sro__linoleum_chodba_1NP_2017~203679.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29031/export/export~296053.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na předchozí souhlas pro PO MŠ Praha 7, Letohradská 1a/712 a MŠ U Průhonu 17a/139 na uzavření smlouvy o dílo na opravu podlahové krytiny v MŠ Letohradská se zhotovitelem CZECH AMERICAN TRADE s.r.o. ve zkratce CAT s.r.o., zastoupeným Ing. Jiřím Cihlářem, sídlo Amforová 1889/36,155 00 Praha 5, Kamenická 20,170 00 Praha 7, IČO 49356143 ve výši 175.290,- Kč bez DPH, cena včetně DPH 212.100,90 Kč</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>žádost ředitelky PO MŠ Praha 7, Letohradská 1a/712 a MŠ U Průhonu 17a/139 o souhlas s čerpáním investičního fondu PO ve výši 162 101 Kč za účelem financování opravy a výměny podlahové krytiny – chodba v přízemí v budově MŠ Letohradská 1a</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s uzavřením smlouvy o dílo mezi PO MŠ Praha 7, Letohradská 1a/712 a MŠ U Průhonu 17a/139 a zhotovitelem CZECH AMERICAN TRADE s.r.o. ve zkratce CAT s.r.o., zastoupeným Ing. Jiřím Cihlářem, sídlo Amforová 1889/36,155 00 Praha 5, Kamenická 20,170 00 Praha 7, IČO 49356143 ve výši 212.100,90 Kč včetně DPH na opravu podlahové krytiny<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>žádost ředitelky PO MŠ Praha 7, Letohradská 1a/712 a MŠ U Průhonu 17a/139 o souhlas s čerpáním investičního fondu PO ve výši 162 101 Kč za účelem financování opravy a výměny podlahové krytiny – chodba v přízemí v budově MŠ Letohradská 1a</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OŠK Ing. Dita Výborová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat ředitelku MŠ Letohradská o usnesení RMČ</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.5.2017</span></li></ul></li></ol></li></ol>

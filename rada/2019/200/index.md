@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci vernisáže a výstavy obrazů Veroniky Lacinové pod názvem
+  „Cesta z temnoty mojí duše“, konané dne 24.04.2019 od 17.30 h v Galerii na úřadě,
+  nábř. Kpt. Jaroše 1000, 170 00 Praha 7
+datum_vzniku_usneseni: '2019-04-02 00:00:00'
+cislo_usneseni: 0200/19-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30741/export/Duvodova_zprava_lacinova~442396.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30741/export/S06_Stingl_vernisaz_24_04_2019_V~442395.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30741/export/export~442917.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na realizaci vernisáže a výstavy obrazů Veroniky Lacinové pod názvem „Cesta z temnoty mojí duše“, konané dne 24.04.2019 od 17.30 h v Galerii na úřadě, nábř. Kpt. Jaroše 1000, 170 00 Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>realizaci vernisáže a výstavy obrazů Veroniky Lacinové pod názvem „Cesta z temnoty mojí duše“, konané dne 24.04.2019 od 17.30 h v Galerii na úřadě, nábř. Kpt. Jaroše 1000, 170 00 Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>text a uzavření smlouvy o umělecké produkci mezi městskou částí Praha 7 a Michalem Štinglem viz příloha č. 2</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů ve výši 2 500 Kč vč. DPH, v hotovosti, Michalu Štinglovi, za uměleckou produkci, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 2 000 vč. DPH, v hotovosti, spojených s realizací vernisáže za občerstvení, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu o umělecké produkci mezi městskou částí Praha 7 a Michalem Štinglem viz příloha č.2</p></span><span class="urzUkolTermin">  Termín:&nbsp;16.4.2019</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci vernisáže a výstavy obrazů Veroniky Lacinové pod názvem „Cesta z temnoty mojí duše“ dle článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;24.4.2019</span></li></ul></li></ol></li></ol>

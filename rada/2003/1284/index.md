@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Jmenování komisí na výběr vyhlášených grantů pro rok 2004
+datum_vzniku_usneseni: '2003-11-11 00:00:00'
+cislo_usneseni: 1284/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Jmenování komisí na výběr vyhlášených grantů pro rok 2004</h3></span><div class="center">
+		<strong>č. 1284/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 11.11.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na jmenování komisí na výběr vyhlášených grantů pro rok 2004<br><br><br>II.	jmenuje<br><br><br>komise na výběr grantů pro rok 2004 takto: <br><br>·	Oblast školství<br><br>Předseda: PhDr. Břetislav Voženílek<br>členové: Ing. Petr Hoffmann<br>              Miroslav Morávek<br>              Iva Ernstová<br>              Mgr. Blahoslav Čermák<br>              Jiří Beran <br>              Jaroslava Brachtlová<br>              PhDr. Petr Charvát<br><br>·	Primární protidrogové prevence <br><br>Předseda: Mgr. Radka Bartošová<br>členové: Ing. Petr Hoffmann<br>              Mgr. Libuše Neumannová<br>               PhDr. Ivana Kučerová <br>              Ing. Petr Hoffmann<br>              Ing. Martina Berdychová <br>              Vladimír Bezděk <br>              Mgr. Nina Janýšková<br>              Helena Erhardtová<br>              PhDr. Ilona Preslová<br>              RNDr. Štěpánka Selingerová<br>              Olga Šerclová<br>              MUDr. Kamila Beroušková<br>              Mgr. Jana Woleská<br>              Ing. Libor Polášek<br>             Jiří Vacek<br>             PhDr. Olga Kolářová<br>             PhDr. Břetislav Voženílek<br>           <br>·	Oblast sociální <br><br>Předseda: JUDr. Daniela Vodičková<br>členové: PhDr. Ivana Kučerová<br>              MUDr. Pavel Douda <br>              Květa Krajíčková<br>              Jaromír Horyna<br>              MUDr. Daniela Humlová<br>              MUDr. Helena Bubeníčková<br>              Vlasta Vondrášková<br>              Dušan Strejcovský<br>              <br>·	Oblast bezpečnosti<br><br>Předseda: Ing. Milan Steigerwald<br>členové: Radek Mikšík<br>              Vladimír Bezděk<br>              Filip Kuchař<br>              Štefan Rečka<br>              Ivan Votava<br>              Bc. Emil Vacek<br>              Marek Ječmének<br>              Jiří Soukup<br>              <br>·	Oblast kultury <br><br>Předseda: Dagmar Wagnerová<br>členové: PhDr. Ivana Kučerová<br>              Pavel Smetáček<br>              Filip Novotný<br>              Petra Šípová<br>              Kateřina Ebelová<br>              Ing. Petr Kovář<br>              Daniel Závorka<br><br>·	Oblast sportu<br><br>Předseda: Dagmar Wagnerová<br>členové: Josef Neuberg<br>              Ing. Aleš Zmeškal<br>              Milan Menšík<br>              Miroslav Janků<br>              Ing. Libor Polášek<br>              Barbora Paříková<br><br><br>·	Oblast životního prostředí<br><br>Předseda: Ing. Hana Horská<br>členové: Štěpán Hasal<br>              RNDr. Pavel Jablonský<br>              Jiří Koutský<br>              Martin Hrubý<br>              Milan Mazanec<br>              Marek Tomin<br>              Tomáš Just <br><br>·	Oblast zdravotnictví <br><br>Předseda: Ing. Miroslava Pilnáčková<br>členové: Otto Kechner<br>              MUDr. Petr Haicl<br>              MUDr. Pavel Douda<br>               Bc. Emil Vacek<br>              MUDr. Jitka Géciová<br>              MUDr. Michal Beran<br>              MUDr. Pavel Pick<br>              MUDr. Pavel Wierer<br><br><br>IV.	ukládá <br><br>Určen:	TAJ Dušek Josef<br>Termín: 25.11.2003<br>Úkol:	zaslat jmenovací dekrety členům grantových komisí <br> <br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

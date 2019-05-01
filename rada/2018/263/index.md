@@ -1,0 +1,24 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření nájemní smlouvy na pronájem části Řezáčova náměstí za
+  účelem restaurační zahrádky, pro rok 2018
+datum_vzniku_usneseni: '2018-04-10 00:00:00'
+cislo_usneseni: 0263/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29780/export/01_8min_2018~342522.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29780/export/02_8min_2018~342521.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29780/export/03_8min_2018~342520.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29780/export/04_8min_2018~342519.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29780/export/export~343239.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li class="urzClass1" id=""><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>Návrh na uzavření nájemní smlouvy na pronájem části Řezáčova náměstí za účelem restaurační zahrádky, pro rok 2018</p></span></li></ol></li>
+
+<li class="urzClass1" id=""><span name="26">souhlasí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>se záměrem&nbsp;uzavření smlouvy na pronájem části Řezáčova náměstí pozemku parc. č. 2251/2 v k.ú. Holešovice, plocha pronájmu 32 m², se společností 8 minut, s.r.o., IČO: 24202592, Svatovítská 6, Praha 6, za nájemné 9.733,- Kč/měsíc/předmět nájmu, na dobu určitou od 01.05.2018 do 15.09.2018, za účelem provozování restaurační zahrádky ke kavárně Liberál, umístěné v domě Heřmanova 6/1209, s podmínkou, že provoz zahrádky bude denně omezen na dobu mezi 09 - 21 hod., budou dodrženy veškeré platné předpisy k provozování restaurační zahrádky, budou řádně hrazeny všechny související poplatky spojené s provozováním restaurační zahrádky, zveřejněným po dobu 15 dnů na úřední desce Úřadu MČ Praha 7</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>s textem a uzavřením smlouvy na pronájem části Řezáčova náměstí pozemku parc. č. 2251/2 v k.ú. Holešovice, plocha pronájmu 32 m², se společností 8 minut, s.r.o., IČO: 24202592, Svatovítská 6, Praha 6, za nájemné 9.733,- Kč/měsíc/předmět nájmu, na dobu určitou od 01.05.2018 do 15.09.2018, za účelem provozování restaurační zahrádky ke kavárně Liberál, umístěné v domě Heřmanova 6/1209, s podmínkou, že provoz zahrádky bude denně omezen na dobu mezi 09 - 21 hod., budou dodrženy veškeré platné předpisy k provozování restaurační zahrádky, budou řádně hrazeny všechny související poplatky spojené s provozováním restaurační zahrádky,&nbsp;za podmínky, že ke zveřejněnému záměru po dobu 15 dnů na úřední desce Úřadu MČ Praha 7, nebudou vzneseny námitky</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zveřejnit záměr uzavření smlouvy na pronájem části Řezáčova náměstí pozemku parc. č. 2251/2 v k.ú. Holešovice, plocha pronájmu 32 m², se společností 8 minut, s.r.o., IČO: 24202592, Svatovítská 6, Praha 6, za nájemné 9.733,- Kč/měsíc/předmět nájmu, na dobu určitou od 01.05.2018 do 15.09.2018, za účelem provozování restaurační zahrádky ke kavárně Liberál, umístěné v domě Heřmanova 6/1209, s podmínkou, že provoz zahrádky bude denně omezen na dobu mezi 09 - 21 hod., budou dodrženy veškeré platné předpisy k provozování restaurační zahrádky, budou řádně hrazeny všechny související poplatky spojené s provozováním restaurační zahrádky, po dobu 15 dnů na úřední desce Úřadu MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;13.4.2018</span></li></ul></li><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít smlouvu na pronájem části Řezáčova náměstí pozemku parc. č. 2251/2 v k.ú. Holešovice, plocha pronájmu 32 m², se společností 8 minut, s.r.o., IČO: 24202592, Svatovítská 6, Praha 6, za nájemné 9.733,- Kč/měsíc/předmět nájmu, na dobu určitou od 01.05.2018 do 15.09.2018, za účelem provozování restaurační zahrádky ke kavárně Liberál, umístěné v domě Heřmanova 6/1209, s podmínkou, že provoz zahrádky bude denně omezen na dobu mezi 09 - 21 hod., budou dodrženy veškeré platné předpisy k provozování restaurační zahrádky, budou řádně hrazeny všechny související poplatky spojené s provozováním restaurační zahrádky, za podmínky, že ke zveřejněnému záměru po dobu 15 dnů na úřední desce Úřadu MČ Praha 7, nebudou vzneseny námitky</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.4.2018</span></li></ul></li></ol></li>
+</ol>

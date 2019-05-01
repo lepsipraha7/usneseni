@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení zrušení veřejné zakázky malého rozsahu "Rekonstrukce
+  nebytových prostor U Průhonu 11 - vybavení nábytkem - Volný interiér", k.ú. Holešovice,
+  Praha 7
+datum_vzniku_usneseni: '2018-02-09 00:00:00'
+cislo_usneseni: 0105/18-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27194/export/1Duvodovazprava~324663.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27194/export/2Vyzvakpodaninabidky~324662.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27194/export/export~324878.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: justify;" id="" class="urzClass2"><span><p style="text-align: justify;" data-mce-style="text-align: justify;">návrh na schválení zrušení veřejné zakázky malého rozsahu "<strong>Rekonstrukce nebytových prostor U Průhonu 11 - vybavení nábytkem - Volný interiér</strong>"<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: justify;" id="" class="urzClass2"><span><p style="text-align: justify;" data-mce-style="text-align: justify;">text Oznámení o zrušení zrušení veřejné zakázky malého rozsahu "<strong>Rekonstrukce nebytových prostor U Průhonu 11 - vybavení nábytkem - Volný interiér</strong>"<br></p></span></li><li style="text-align: justify;" id="" class="urzClass2"><span><p style="text-align: justify;" data-mce-style="text-align: justify;">podpis Oznámení o zrušení zrušení veřejné zakázky malého rozsahu "<strong>Rekonstrukce nebytových prostor U Průhonu 11 - vybavení nábytkem - Volný interiér</strong>"<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="16">pověřuje</span><ol class="urzOlClass"><li style="text-align: justify;" id="" class="urzClass2"><span><p style="text-align: justify;" data-mce-style="text-align: justify;">vedoucí Odboru investic a veřejných zakázek Ing. arch. Hanu Pochmannovou k podpisu a odeslání účastníkům Oznámení o zrušení veřejné zakázky malého rozsahu "<strong>Rekonstrukce nebytových prostor U Průhonu 11 - vybavení nábytkem - Volný interiér</strong>"<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OIVZ Pochmannová Hana Ing. Arch.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat a rozeslat účastníkům Oznámení o zrušení veřejné zakázky malého rozsahu s názvem "Rekonstrukce nebytových prostor U Průhonu 11 - vybavení nábytkem - Volný interiér"</p></span><span class="urzUkolTermin">  Termín:&nbsp;13.2.2018</span></li></ul></li></ol></li></ol>

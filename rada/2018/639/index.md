@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení uzavření Dohody o ukončení smluvního vztahu k Rámcové
+  dohodě č. 2017/OIVZ/028 na veřejnou zakázku „ Rámcová dohoda na dodávky pramenité
+  pitné vody, vodních stojanů, opravy a údržba stojanů, vč. sanitací"
+datum_vzniku_usneseni: '2018-08-21 00:00:00'
+cislo_usneseni: '0639/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30188/export/6645_Duvodova_zprava~385184.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30188/export/3Ramcovadohodac2017OIVZ028_anonym~385182.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30188/export/6VypiszOR~385179.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30188/export/7Vypiszregistruplatcu~385178.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30188/export/export~386191.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na schválení uzavření Dohody o ukončení smluvního vztahu k Rámcové dohodě č. 2017/OIVZ/028 na veřejnou zakázku malého rozsahu na dodávky s názvem "Rámcová dohoda na dodávky pramenité pitné vody, vodních stojanů, opravy a údržba stojanů, vč. sanitací“<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass decimal " id=""><li style="text-align: left;" id="" class="urzClass2"><span><p>text a uzavření Dohody o ukončení smluvního vztahu k Rámcové dohodě č. 2017/OIVZ/028 na veřejnou zakázku malého rozsahu na dodávky s názvem "Rámcová dohoda na dodávky pramenité pitné vody, vodních stojanů, opravy a údržba stojanů, vč. sanitací“, se společností s názvem</p><p>&nbsp;EVROPSKÉ VODY s.r.o.,Tyršova 183217, 120 00 Praha 2, IČO: 02632799<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="16">pověřuje</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>starostu městské části Praha 7 Mgr. Jana Čižinského k podpisu Dohody o ukončení smluvního vztahu k Rámcové dohodě č. 2017/OIVZ/028 na veřejnou zakázku malého rozsahu na dodávky s názvem "Rámcová dohoda na dodávky pramenité pitné vody, vodních stojanů, opravy a údržba stojanů, vč. sanitací“, se společností s názvem EVROPSKÉ VODY s.r.o.,Tyršova 183217, 120 00 Praha 2, IČO: 02632799<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Dohodu o ukončení smluvního vztahu k Rámcové dohodě č. 2017/OIVZ/028 na veřejnou zakázku malého rozsahu na dodávky s názvem "Rámcová dohoda na dodávky pramenité pitné vody, vodních stojanů, opravy a údržba stojanů, vč. sanitací", se společností s názvem EVROPSKÉ VODY s.r.o.,Tyršova 183217, 120 00 Praha 2, IČO: 02632799</p></span><span class="urzUkolTermin">  Termín:&nbsp;28.8.2018</span></li></ul></li></ol></li></ol>

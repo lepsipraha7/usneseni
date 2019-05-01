@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh schválení uzavření smlouvy o bezplatné výpůjčce sedmi vodních prvků
+  (pítek "P") se Štěpánem Bartákem, Václavské náměstí 778/14, 110 00, Praha – Nové
+  Město, IČO: 66049342'
+datum_vzniku_usneseni: '2017-11-28 00:00:00'
+cislo_usneseni: 1072/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29713/export/Duvodovazpravasmlouvaovypujccepitka~274161.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29713/export/Smlouva_o_vypujcce_2017_Stepan_Bartak__Praha_7~274160.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29713/export/Smlouva_o_vypujcce_2017_Stepan_Bartak__Praha_7__priloha_c_1~274159.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29713/export/Smlouva_o_vypujcce_2017_Stepan_Bartak__Praha_7__priloha_c_21~274158.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29713/export/pitkoOrtenovonam~274439.jpg
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29713/export/export~302322.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol id="" class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh schválení uzavření smlouvy o bezplatné výpůjčce sedmi vodních prvků (pítek "P") se Štěpánem Bartákem, Václavské náměstí 778/14, 110 00, Praha – Nové Město, IČO: 66049342</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>že má zájem o zlepšení přístupu občanů k pitné vodě formou instalace nových pítek "P" ve veřejném prostoru MČ Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že má zájem o bezplatnou výpůjčku 7 pítek "P" od jejich autora Štěpána Bartáka, Václavské náměstí 778/14, 110 00, Praha – Nové Město,</p><p>IČO: 66049342</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>text smlouvy o bezplatné výpůjčce 7 vodních prvků (pítek "P") a její uzavření se Štěpánem Bartákem, Václavské náměstí 778/14, 110 00, Praha – Nové Město, IČO: 66049342</p></span></li></ol></li><li id="" class="urzClass1"><span name="16">pověřuje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>starostu MČ Praha 7 podpisem smlouvy o bezplatné výpůjčce 7 vodních prvků (pítek "P") se Štěpánem Bartákem, Václavské náměstí 778/14, 110 00, Praha – Nové Město, IČO: 66049342</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OVP Mgr. Knitl Jiří</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Připravit smlouvu o výpůjčce včetně příloh k podpisu a následné převzetí vodních prvků od vypůjčitele</p></span><span class="urzUkolTermin">  Termín:&nbsp;22.12.2017</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Podepsat smlouvu o bezplatné výpůjčce vodních prvků (pítek "P") se Štěpánem Bartákem, Václavské náměstí 778/14, 110 00, Praha – Nové Město, IČO: 66049342</p></span><span class="urzUkolTermin">  Termín:&nbsp;4.12.2017</span></li></ul></li></ol></li></ol>

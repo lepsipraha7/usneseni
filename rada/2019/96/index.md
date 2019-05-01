@@ -1,0 +1,29 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na odpis pohledávek z vydaných faktur bývalou správní firmou CENTRA
+  a.s. za období od roku 2010 do roku 2012 a odpis pohledávky za Společenství domu
+  Na ovčinách č.p. 970, Praha 7, IČO: 75100908, v návaznosti na schválenou Dohodu
+  o narovnání dle usnesení Rady MČ Praha 7 č. 0726/18-R ze dne 09.10.2018'
+datum_vzniku_usneseni: '2019-02-12 00:00:00'
+cislo_usneseni: '0096/19-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30629/export/01_R_DZOdpisPohl7U~430374.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30629/export/02_DZOdpisPohl7U~430373.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30629/export/04_DZOdpisPohl7U~430371.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30629/export/export~430756.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li id="" class="urzClass1"><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>návrh na odpis pohledávek z vydaných faktur bývalou správní firmou CENTRA a.s. za období od roku 2010 do roku 2012 a odpis pohledávky za Společenství domu Na ovčinách č.p. 970, Praha 7, IČO: 75100908, v návaznosti na schválenou Dohodu o narovnání dle usnesení Rady MČ Praha 7 č. 0726/18-R ze dne 09.10.2018</p></span></li></ol></li>
+<li id="" class="urzClass1"><span name="50">konstatuje,</span> 
+<ol class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>že na základě konzultace&nbsp;s Úřadem pro ochranu osobních údajů a v souladu se zákonem č. 101/2000 Sb. v platném znění je usnesení zpracováno tak, že plná jména a adresy dlužníků jsou uvedeny v neveřejné příloze č. 3 tohoto usnesení</p></span></li></ol></li>
+<li id="" class="urzClass1"><span name="26">souhlasí</span> 
+<ol class="urzOlClass" id="">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>s odpisem pohledávek, v celkové hodnotě 331.654,2 Kč (celkem 10 faktur), z vydaných faktur bývalou správní firmou CENTRA a.s., IČO: 18628966 (zastupující MČ Praha 7), v období od roku 2010 do roku 2012, kterými bývalá správní firma přefakturovávala náklady na služby a plnění do fondů oprav spravovaných domů dlužníkům uvedeným v neveřejné příloze č. 3 tohoto usnesení, na základě doporučení správní firmy 7U s.r.o., do nákladů MČ Praha 7, prostřednictvím 7U s.r.o., která spravuje vymezený úsek účetnictví MČ Praha 7 dle příslušné příkazní smlouvy, v hodnotě do 100,0 tis. Kč/pohledávka, dle § 89 odst. 2) písm. h) zákona č. 131/2000 Sb.<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>s návrhem usnesení Zastupitelstva MČ Praha 7 na odpis pohledávky, v celkové hodnotě 240.706,85 Kč, ze souboru vydaných faktur bývalou správní firmou CENTRA a.s., IČO: 18628966 (zastupující MČ Praha 7), v období od roku 2010 do roku 2012, kterými bývalá správní firma přefakturovávala náklady na služby a plnění do fondů oprav spravovaných domů dlužníkům uvedeným v neveřejné příloze č. 3 tohoto usnesení, na základě doporučení správní firmy 7U s.r.o., do nákladů MČ Praha 7, prostřednictvím 7U s.r.o., která spravuje vymezený úsek účetnictví MČ Praha 7 dle příslušné příkazní smlouvy<br></p></span></li>
+<li class="urzClass2" id="" style="text-align: left;"><span><p>s návrhem usnesení Zastupitelstva MČ Praha 7 na odpis&nbsp;pohledávky, v celkové hodnotě 379.413,- Kč, za Společenství domu Na ovčinách č.p. 970, Praha 7, IČO: 75100908, v návaznosti na schválenou Dohodu o narovnání dle usnesení Rady MČ Praha 7 č. 0726/18-R ze dne 09.10.2018, do nákladů MČ Praha 7, prostřednictvím 7U s.r.o., která spravuje vymezený úsek účetnictví MČ Praha 7 dle příslušné příkazní smlouvy<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>vydat pokyn správní firmě 7U s.r.o. k odpisu pohledávek, v celkové hodnotě 331.654,2 Kč, z vydaných faktur bývalou správní firmou CENTRA a.s., IČO: 18628966 (zastupující MČ Praha 7), v období od roku 2010 do roku 2012, kterými bývalá správní firma přefakturovávala náklady na služby a plnění do fondů oprav spravovaných domů dlužníkům uvedeným v neveřejné příloze č. 3 tohoto usnesení, na základě doporučení správní firmy 7U s.r.o., do nákladů MČ Praha 7, prostřednictvím 7U s.r.o., která spravuje vymezený úsek účetnictví MČ Praha 7 dle příslušné příkazní smlouvy, v hodnotě do 100,0 tis. Kč/pohledávka, dle § 89 odst. 2) písm. h) zákona č. 131/2000 Sb. a kopii zaslat VED OFI</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.2.2019</span></li></ul></li><li class="urzClass2"><span><p>MISTA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>předložit Zastupitelstvu MČ Praha 7 návrh na odpis pohledávky ze souboru vydaných faktur bývalou správní firmou CENTRA a.s. za období od roku 2010 do roku 2012 a odpis pohledávky za Společenství domu Na ovčinách č.p. 970, Praha 7, IČO: 75100908, v návaznosti na schválenou Dohodu o narovnání dle usnesení Rady MČ Praha 7 č. 0726/18-R ze dne 09.10.2018</p></span><span class="urzUkolTermin">  Termín:&nbsp;4.3.2019</span></li></ul></li><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit Odbor právní s usnesením Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.2.2019</span></li></ul></li></ol></li>
+
+
+</ol>

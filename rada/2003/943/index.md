@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Změna Jednacího řádu komisí Rady MČ P7 schváleného usnesením Rady MČ P7
+  č. 0026/03 dne 14.01.2003
+datum_vzniku_usneseni: '2003-08-12 00:00:00'
+cislo_usneseni: '0943/03'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Změna Jednacího řádu komisí Rady MČ P7 schváleného usnesením Rady MČ P7 č. 0026/03 dne 14.01.2003</h3></span><div class="center">
+		<strong>č. 0943/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 12.08.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na změnu Jednacího řádu komisí Rady MČ P7 schváleného usnesením Rady MČ P7 č. 0026/03 dne 14.01.2003<br><br>II.	schvaluje <br><br>změnu Jednacího řádu komisí Rady MČ P7 schváleného usnesením Rady MČ P7 č. 0026/03 dne 14.01.2003 takto:<br><br>·	bod 1) § 3 Personální struktura komisí nově zní: „1) Rada jmenuje a odvolává z funkce předsedy, místopředsedy a členy komisí“<br>	<br>·	bod 5) § 3 Personální struktura komisí nově zní: „5) Místopředseda/místopředsedové vykonávají v době nepřítomnosti předsedy komise veškeré činnosti předsedy“<br>	<br>·	bod 5) a 6) § 3 Personální struktura komisí se přečíslovávají na bod 6) a 7)<br>	<br>·	v původním bodě 6a) se vypouští věta: „Při dlouhodobé nepřítomnosti předsedy komise může rada na dobu nezbytně nutnou pověřit výkonem práv předsedy komise jiného člena komise.“<br>	<br>·	bod 3) §4 Jednání komisí nově zní takto: „Jednání komise svolává její předseda.“<br>	<br>·	bod 1) §5 Pravidla jednání komise nově zní takto: „Jednání komise řídí předseda komise.“<br>	<br>·	bod 3) §7 Organizačně technické záležitosti nově zní takto: „Zápis o jednání komise podepisuje předseda.“<br>	<br>·	bod 2) §8 Závěrečná ustanovení nově zní takto: „Tento Jednací řád komisí Rady Městské části Praha 7 nabývá účinnosti dnem 01.09.2003 a tímto dnem pozbývá platnosti stávající Jednací řád komisí Rady Městské části Praha 7.“<br>	<br>	<br>	<br>III.	ukládá <br>	<br> <br>Určen:	PRED BytK RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br><br> <br>Určen:	PRED BezpK RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br><br> <br>Určen:	PRED DopK RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br><br> <br>Určen:	PRED KHsNP RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br><br> <br>Určen:	PRED KOO RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br><br> <br>Určen:	PRED KRoz RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br><br> <br>Určen:	PRED KulK RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br><br> <br>Určen:	PRED KŽP RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br>	<br> <br>Určen:	PRED MajK RMČ P7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br> <br>Určen:	PRED PovK RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br> <br>Určen:	PRED SocK RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br> <br>Určen:	PRED SportK RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br><br><br>Určen:	PRED ŠkolK RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br><br> <br>Určen:	PRED ZdravK RMČP7<br>Termín: 30.09.2003<br>Úkol:	navrhnout Radě MČ P7 člena komise pro výkon funkce místopředsedy komise rady<br> <br><br>	<br><br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

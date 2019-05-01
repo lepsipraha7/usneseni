@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na uzavření smlouvy o odběru zboží mezi městskou částí Praha 7
+  a společností ADAVE - POHÁRY,  MEDAILE s.r.o., IČO: 254 60 412 pro zajištění nákupu
+  sportovních pohárů, medailí, trofejí apod. vč. příslušenství v roce 2017'
+datum_vzniku_usneseni: '2016-11-22 00:00:00'
+cislo_usneseni: 1176/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28385/export/D_Adave_pohary_medaile_2017_V~136878.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28385/export/S_ADAVE_Smlouvaoodberuzbozi_2017~136877.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28385/export/OR_Adave2017~136876.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28385/export/DPH_Adave2017~136875.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28385/export/export~297303.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na uzavření smlouvy o odběru zboží mezi městskou částí Praha 7 a společností ADAVE - POHÁRY, MEDAILE s.r.o., IČO: 254 60 412 pro zajištění nákupu sportovních pohárů, medailí, trofejí apod. vč. příslušenství v roce 2017</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>text smlouvy o odběru zboží mezi městskou částí Praha 7 a společností ADAVE - POHÁRY, MEDAILE s.r.o., IČO: 254 60 412, se sídlem Lesní 132, 471 27 Stráž pod Ralskem (provozovna Bubenská 35, Praha 7) pro zajištění nákupu sportovních pohárů, medailí, trofejí apod. vč. příslušenství v roce 2017 viz příloha č. 2</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>uzavření smlouvy o odběru zboží mezi městskou částí Praha 7 a společností ADAVE - POHÁRY, MEDAILE s.r.o., IČO: 254 60 412, se sídlem Lesní 132, 471 27 Stráž pod Ralskem (provozovna Bubenská 35, Praha 7) pro zajištění nákupu sportovních pohárů, medailí, trofejí apod. vč. příslušenství v roce 2017 viz příloha č. 2<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu o odběru zboží mezi městskou částí Praha 7 a společností ADAVE - POHÁRY, MEDAILE s.r.o., IČO: 254 60 412 viz příloha č. 2</p></span><span class="urzUkolTermin">  Termín:&nbsp;2.12.2016</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>finančně a organizačně zajistit dle potřeby nákup sportovních pohárů, medailí, trofejí apod. vč. příslušenství v roce 2017</p></span><span class="urzUkolTermin">  Termín:&nbsp;29.12.2017</span></li></ul></li></ol></li></ol>

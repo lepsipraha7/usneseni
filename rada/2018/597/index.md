@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na koupi 7 kusů adjustovaných fotografií tematicky zaměřených na
+  historii Prahy 7
+datum_vzniku_usneseni: '2018-07-31 00:00:00'
+cislo_usneseni: '0597/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30144/export/M33DV_Sterneck_nakupfotografii_Poliklinika_2018~380369.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30144/export/S41_Sterneck_fotografie_Poliklinika_P7_NV~380368.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30144/export/export~380663.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na koupi 7 kusů adjustovaných fotografií tematicky zaměřených na historii Prahy 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>koupi 7 kusů adjustovaných fotografií tematicky zaměřených na historii Prahy 7 za účelem výzdoby společných prostor Polikliniky Prahy 7<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>text kupní smlouvy mezi městskou částí Praha 7 a Mervynem Sterneckem viz příloha č. 2</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>uzavření kupní smlouvy mezi městskou částí Praha 7 a Mervynem Sterneckem viz příloha č. 2</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu částky v max. výši 7 000 Kč vč. DPH, bezhotovostním převodem, Mervynu Sterneckovi, za koupi 7 kusů adjustovaných fotografií tematicky zaměřených na historii Prahy 7 za účelem výzdoby společných prostor Polikliniky Prahy 7, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat kupní smlouvu mezi městskou částí Praha 7 a Mervynem Sterneckem viz příloha č. 2</p></span><span class="urzUkolTermin">  Termín:&nbsp;17.8.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit koupi 7 kusů adjustovaných fotografií dle ustanovení článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;3.9.2018</span></li></ul></li></ol></li></ol>

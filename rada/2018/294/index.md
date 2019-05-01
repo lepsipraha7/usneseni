@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na poskytnutí individuálních dotací v oblasti kultury dle žádostí
+  podaných v měsících březen-duben 2018
+datum_vzniku_usneseni: '2018-04-17 00:00:00'
+cislo_usneseni: '0294/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29823/export/M20DV_ID_kultura_brezen_duben_2018~346047.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29823/export/Priloha_c_2_Individualnidotace_kultura_brezen_duben_2018_11_04_2018~346046.xls
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29823/export/Zapis_4_jednani_KK_ze_dne_11_04_2018~346045.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29823/export/Vzorova_smlouva_ID_do_50_tis_Kc_unor_brezen_kultura~346044.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29823/export/export~346925.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na poskytnutí individuálních dotací v oblasti kultury dle žádostí podaných v měsících březen-duben 2018</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>poskytnutí individuálních dotací v oblasti kultury nepřesahujících 50 tis. Kč, dle žádostí podaných v měsících březen-duben 2018, žadatelům dle přílohy č. 2 tohoto usnesení v celkové výši 60 000 Kč, formou veřejnoprávní smlouvy, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>uzavření smluv o poskytnutí dotace mezi městskou částí Praha 7 a úspěšnými žadateli s podporou do 50 tis. Kč viz příloha č. 2</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvy o poskytnutí dotace mezi městskou částí Praha 7 a úspěšnými žadateli s podporou do 50 tis. Kč viz příloha č. 2</p></span><span class="urzUkolTermin">  Termín:&nbsp;25.4.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit poskytnutí individuálních dotací v oblasti kultury nepřesahujících 50 tis. Kč dle ustanovení článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.4.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit evidenci poskytnutí dotací dle článku II tohoto usnesení v Centrálním registru podpor malého rozsahu ve lhůtě do 5 dnů od podpisu jednotlivých smluv</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.4.2018</span></li></ul></li></ol></li></ol>

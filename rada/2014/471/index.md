@@ -1,0 +1,37 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na stanovení počtu členů Zastupitelstva MČ Praha 7 na příští volební
+  období pro volby do Zastupitelstva MČ Praha 7 v komunálních volbách 2014
+datum_vzniku_usneseni: '2014-06-16 00:00:00'
+cislo_usneseni: 0471/14
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24910/32-14-n%c3%a1vrh_usnesen%c3%ad_zm%c4%8d_na_%c4%8d._3_dne_16.06.2014.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na stanovení počtu členů Zastupitelstva MČ Praha 7 na příští volební období pro volby do Zastupitelstva MČ Praha 7 v komunálních volbách 2014</h3></span><div class="center">
+		<strong>č. 0471/14</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 16.06.2014</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh na stanovení počtu členů Zastupitelstva MČ Praha 7 na příští volební období pro volby do Zastupitelstva MČ Praha 7 v komunálních volbách 2014</li></ul>
+</li>
+<li>Schvaluje<ul><li>
+<strong>1.</strong> Návrh usnesení Zastupitelstva MČ Praha 7 na stanovení počtu členů Zastupitelstva MČ Praha 7 na příští volební období pro volby do Zastupitelstva MČ Praha 7 v komunálních volbách 2014 viz příloha č. 1</li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>STA Ječmének Marek</li>
+<li>
+<strong>1.1 Úkol: </strong>předložit Návrh usnesení Zastupitelstva MČ Praha 7 na stanovení počtu členů Zastupitelstva MČ Praha 7 na příští volební období pro volby do Zastupitelstva MČ Praha 7 v komunálních volbách 2014 na 3. jednání ZMČ Praha 7 dne 16.06.2014</li>
+<li>
+<strong>1.2 Termín: </strong>16.06.2014</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na vyslovení souhlasu MČ Praha 7 s odejmutím pozemků parc. č. 2118/6,
+  2118/10 a 2118/11 (část zeleně a chodníku u vstupu do Letenských sadů), vše k.ú.
+  Holešovice, ze svěřené správy MČ Praha 7
+datum_vzniku_usneseni: '2018-01-16 00:00:00'
+cislo_usneseni: 0042/18-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27110/export/01_odejmutiGennet~316206.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27110/export/02_odejmutiGennet~316205.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27110/export/export~316758.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh na vyslovení souhlasu MČ Praha 7 s odejmutím pozemků parc. č. 2118/6, 2118/10 a 2118/11 (část zeleně a chodníku u vstupu do Letenských sadů), vše k.ú. Holešovice, ze svěřené správy MČ Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>že pozemky parc. č. 2118/6, 2118/10 a 2118/11, vše k.ú. Holešovice, se nacházejí u vstupu do Letenských sadů a nachází se na nich z části zeleň a chodník</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že svěřená správa MČ Praha 7 u těchto pozemků pochází z doby svěřené správy MČ Praha 7 přilehlé budovy Kostelní 9/292 (dříve jesle, dnes soukromé zdravotnické zařízení Gennet), prodané v roce 2009</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že MČ Praha 7 je pro sjednocení pozemků, které tvoří součást Letenských sadů, do vlastnictví hl.m. Prahy</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>s tím, aby Zastupitelstvo MČ Praha 7 v souladu s odst. 1) § 19 zákona č. 131/2000 Sb., schválilo odejmutí nemovitých věcí, pozemků parc. 2118/6, 2118/10 a 2118/11, vše k.ú. Holešovice, hl.m. Prahou ze svěřené správy MČ Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s návrhem usnesení Zastupitelstva MČ Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>předložit Zastupitelstvu MČ Praha 7 návrh na vyslovení souhlasu MČ Praha 7 s odejmutím pozemků parc. č. 2118/6, 2118/10 a 2118/11 (část zeleně a chodníku u vstupu do Letenských sadů), vše k.ú. Holešovice, ze svěřené správy MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;29.1.2018</span></li></ul></li></ol></li></ol>

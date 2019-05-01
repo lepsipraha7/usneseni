@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na vyslovení souhlasu MČ Praha 7 s úhradou nákladů na vypracování
+  znaleckých posudků na stanovení ceny pozemků nabídnutých společností Dopravní podnik
+  hl. m. Prahy, akciová společnost, jako zbytný nemovitý majetek
+datum_vzniku_usneseni: '2017-03-21 00:00:00'
+cislo_usneseni: 0271/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28944/export/01_DPPposudky~182209.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28944/export/02_DPPposudky~182208.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28944/export/export~296467.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na vyslovení souhlasu MČ Praha 7 s úhradou nákladů na vypracování znaleckých posudků na stanovení ceny pozemků nabídnutých společností Dopravní podnik hl. m. Prahy, akciová společnost, jako zbytný nemovitý majetek</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s úhradou nákladů na vypracování znaleckých posudků na stanovení ceny pozemků parc. č. 198/1, 198/6, 348/4, 348/5, 348/3, 348/1, 373/3, 373/5, 373/29, 2410/1, 6/1, 133/1, 133/23, 133/24, 133/25, vše k.ú. Holešovice, na náklady MČ Praha 7, nabídnutých společností Dopravní podnik hl. m. Prahy, akciová společnost, jako zbytný nemovitý majetek</p></span></li></ol></li><li id="" class="urzClass1"><span name="62">požaduje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>po vypracování znaleckých posudků na stanovení ceny pozemků uvedených v tomto materiálu, dodání originálů vždy ve dvojím vyhotovení, k rukám MČ Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že u pozemku parc. č. 2218/2 v k.ú. Holešovice byl již vypracován nový znalecký posudek k roku 2017, znalcem vybraným společností Dopravní podnik hl. m. Prahy, akciová společnost, na náklady MČ Praha 7, přičemž MČ Praha 7 je od roku 2014 připravena tento pozemek odkoupit</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit Dopravní podnik hl. m. Prahy, akciová společnost, s usnesením Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;24.3.2017</span></li></ul></li></ol></li></ol>

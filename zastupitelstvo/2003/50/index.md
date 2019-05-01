@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Finanční vypořádání příspěvkových organizací MČ P/7 za rok 2002 včetně
+  rozdělení zlepšených hospodářských výsledků a vypořádání ztrát
+datum_vzniku_usneseni: '2003-05-26 00:00:00'
+cislo_usneseni: 0050/03
+prilohy: []
+organ: zastupitelstvo
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení zastupitelstva MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Finanční vypořádání příspěvkových organizací MČ P/7 za rok 2002 včetně rozdělení zlepšených hospodářských výsledků a vypořádání ztrát</h3></span><div class="center">
+		<strong>č. 0050/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 26.05.2003</strong><br><br>
+	</div>
+<br>Zastupitelstvo MČ Praha 7<br>po projednání<br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh k  finančnímu vypořádání příspěvkových organizací MČ P/7 za rok 2002 včetně rozdělení zlepšených hospodářských výsledků a vypořádání ztrát<br><br><br>II.	schvaluje <br><br><br>1) finanční vypořádání příspěvkových organizací zřízených MČ P/7 včetně  rozdělení zlepšených<br>hospodářských výsledků a vypořádání ztrát dosažených za rok 2002 dle příloh č. 1 - 3<br><br><br>2) u PO Vydavatelství Hobulet  vykrytí vykázané ztráty resp. jejího zůstatku z r. 2001 ze zlepšeného HV dosaženého za rok 2002 ve výši 211 390,0 Kč. Zbývající objem  ve výši 426 802,29 Kč  přidělit do fondů dle přílohy č. 2 (v tom RF 341,8 tis.Kč  a FO 85,0 tis.Kč a s tím, že příděl do FO je vázán, resp. jeho naplněnost, na event. použití k pokrytí zvýšených mzdových nákladů v souladu s platnou legislativou)<br><br><br>3) u PO Pečovatelské centrum Praha 7  odvod do rozpočtu zřizovatele ve výši 98 052,- Kč, což  představuje vratku do státního rozpočtu za rok 2002 za nenaplněnou kapacitu v  SOC Kamenická (na ZBÚ č. 2000870339/0800 s var.symb.č.2229) <br>Zbývající objem  ve výši  198 526,68 Kč  přidělit do fondů dle přílohy č. 3 <br><br><br>4)  u PO SAZ Praha 7  vykrytí vykázané ztráty v objemu 2 190 932,59 Kč takto:<br>    579 997,80 Kč pokrýt převodem z výsledku dosaženého v doplňkové činnosti (po odvodu daně)<br>    1 610  934,79  Kč pokrýt z rezervního fondu PO.<br>   V případě zpřesnění daně z příjmu  doplňkové činnosti dle podaného daňového přiznání bude objem     ztráty dorovnán do skutečně potřebné  výše z RF PO.<br><br><br>5) uložení povinnosti PO SAZ Praha 7 přijmout taková opatření, která povedou ke zlepšení výsledků hospodaření PO v dalších letech vč. zajištění neprohlubování ztráty<br><br><br>IV.	ukládá <br><br> <br>Určen:	RED.VYD.HOB Presler Aleš<br>Termín: 30.06.2003<br>Úkol:	zajistit vykrytí vykázané ztráty PO Vydavatelství Hobulet, resp. jejího zůstatku z r. 2001, ze zlepšeného HV dosaženého za rok 2002 ve výši 211 390,0 Kč a dále zajistit příděly do fondů dle přílohy č. 2<br> <br><br><br>Určen:	VED OS Vodičková Daniela<br>Termín: 30.06.2003<br>Úkol:	ve spolupráci s řed. PO Pečovatelské centrum zajistit realizaci odvodu do rozpočtu zřizovatele ve výši 98 052,- Kč, což  představuje vratku do státního rozpočtu za rok 2002 za nenaplněnou kapacitu v  SOC Kamenická (na ZBÚ č. 2000870339/0800 s var.symb.č.2229), a dále zajistit  příděly do fondů dle přílohy č. 3 <br> <br><br><br>Určen:	VED OZ Pilnáčková Miloslava<br>Termín: 30.06.2003<br>Úkol:	ve spolupráci s řed. PO SAZ zajistit vykrytí vykázané ztráty v objemu 2 190 932,59 Kč takto:<br>                   579 997,80 Kč pokrýt převodem z výsledku dosaženého v doplňkové činn. (po odvodu daně)<br>                   1 610  934,79  Kč pokrýt z rezervního fondu PO<br>                   V případě zpřesnění daně z příjmu doplňkové činnosti bude objem ztráty dorovnán do skutečně potřebné výše z RF PO.<br> <br><br><br>Určen:	R MČ P7<br>Termín: 03.06.2003<br>Úkol:	prostřednictvím ved. odvětvových odborů seznámit ředitele všech PO s usnesením Z MČ k finančnímu vypořádání příspěvkových organizací MČ P/7 za rok 2002 včetně rozdělení zlepšených hospodářských výsledků a vypořádání ztrát a současně stanovit termín zaúčtování rozdělených HV v PO ve spolupráci s OFI - odd. účetnictví<br> <br><br> <br>	<br> Radek Mikšík starosta Městské části Praha 7	 Vavřinec Tomáš zástupce starosty Městské části Praha 7<br>	<br><br>
+</div>
+</div>

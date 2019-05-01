@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření NS na NBP po zveřejněném záměru - Havanská 6, Korunovační 2,
+  Praha 7
+datum_vzniku_usneseni: '2003-05-06 00:00:00'
+cislo_usneseni: '0492/03'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření NS na NBP po zveřejněném záměru - Havanská 6, Korunovační 2, Praha 7</h3></span><div class="center">
+		<strong>č. 0492/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 06.05.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na uzavření NS na NBP po zveřejněném záměru - Havanská 6, Korunovační 2, Praha 7<br><br>II.	souhlasí <br><br>s ukončením NS uzavřené dne 22.01.1994 na NBP - garáž č.9 ve dvoře domu Havanská 6/808, Praha 7, nájemce Ing. arch. Milan Býček (1), o rozloze 12m2 dohodou ke dni 31.05.2003<br><br>se zveřejněním záměru po dobu 15-ti dnů na úřední desce na pronájem NBP - garáž č. 4 ve dvoře domu Havanská 6/808, Praha 7, nájemce Ing. arch. Milan Býček (1), o rozloze 13m2, za nájemné 500,-Kč/m2/rok, na dobu neurčitou<br><br>s uzavřením nájemní smlouvy po zveřejněném záměru, pokud nebudou vzneseny žádné připomínky na pronájem NBP - garáž č. 4 ve dvoře domu Havanská 6/808, Praha 7, nájemce Ing. arch. Milan Býček (1), o rozloze 13m2, za nájemné 500,-Kč/m2/rok, na dobu neurčitou<br>  <br>s ukončením dohody o přidělení NBP zn. č. OBH7/1235/86 - č.p. 310/disl./Ma ze dne 09.04.1986 na NBP - ateliér v 5. patře domu Korunovační 2/310, Praha 7, nájemce ak. mal. Eva Chmelová (2) a ak. mal. Kamila Ženatá (3), o rozloze 37m2 dohodou ke dni 31.05.2003<br><br>se zveřejněním záměru po dobu 15-ti dnů na úřední desce na pronájem NBP - ateliér v 5. patře domu Korunovační 2/310, Praha 7, nájemce ak. mal. Eva Chmelová (2), o rozloze 37m2, za nájemné 500,-Kč/m2/rok, na dobu neurčitou<br><br>s uzavřením nájemní smlouvy po zveřejněném záměru, pokud nebudou vzneseny žádné připomínky na pronájem NBP - ateliér v 5. patře domu Korunovační 2/310, Praha 7, nájemce ak. mal. Eva Chmelová (2), o rozloze 37m2, za nájemné 500,-Kč/m2/rok, na dobu neurčitou<br><br><br><br>  III.	ukládá <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 31.05.2003<br>Úkol:	podepsat dohodu o ukončení NS uzavřené dne 22.01.1994 na NBP - garáž č.9 ve dvoře domu Havanská 6/808, Praha 7, nájemce Ing. arch. Milan Býček (1), o rozloze 12m2 dohodou ke dni 31.05.2003<br> <br><br><br>Určen:	VED OMB Kadaňková Alena <br>Termín: 10.05.2003<br>Úkol:	zveřejnit záměr po dobu 15-ti dnů na úřední desce na pronájem NBP -  garáž č. 4 ve dvoře domu Havanská 6/808, Praha 7, nájemce Ing. arch. Milan Býček (1), o rozloze 13m2, za nájemné 500,-Kč/m2/rok, na dobu neurčitou<br> <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 31.05.2003<br>Úkol:	uzavřít NS po zveřejněném záměru, pokud nebudou vzneseny žádné připomínky na pronájem NBP - garáž č. 4 ve dvoře domu Havanská 6/808, Praha 7, nájemce Ing. arch. Milan Býček (1), o rozloze 13m2, za nájemné 500,-Kč/m2/rok, na dobu neurčitou<br> <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 31.05.2003<br>Úkol:	podepsat dohodu ukončení NS zn. č. OBH7/1235/86 - č.p. 310/disl./Ma ze dne 09.04.1986 na NBP - ateliér v 5. patře domu Korunovační 2/310, Praha 7, nájemce ak. mal. Eva Chmelová (2) a ak. mal. Kamila Ženatá (3), o rozloze 37m2 dohodou ke dni 31.05.2003<br> <br><br> <br>Určen:	VED OMB Kadaňková Alena<br>Termín: 10.05.2003<br>Úkol:	zveřejnit záměr po dobu 15-ti dnů na úřední desce na pronájem NBP - ateliér v 5. patře domu Korunovační 2/310, Praha 7, nájemce ak. mal. Eva Chmelová (2), o rozloze 37m2, za nájemné 500,-Kč/m2/rok, na dobu neurčitou<br> <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 31.05.2003<br>Úkol:	uzavřít NS po zveřejněném záměru, pokud nebudou vzneseny žádné připomínky na pronájem NBP - ateliér v 5. patře domu Korunovační 2/310, Praha 7, nájemce ak. mal. Eva Chmelová (2), o rozloze 37m2, za nájemné 500,-Kč/m2/rok, na dobu neurčitou<br> <br> <br><br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

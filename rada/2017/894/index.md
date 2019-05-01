@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na pověření Mgr. Václava Kůse k zastupování městské části Praha
+  7 v jednáních před soudy, při podepisování a podávání návrhů k soudu a k podávání
+  návrhů dle pravomocných rozhodnutí na nařízení a zastavení exekučních řízení
+datum_vzniku_usneseni: '2017-10-03 00:00:00'
+cislo_usneseni: '0894/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28643/export/20170927_DZ_povereni~253524.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28643/export/P2_verejna_Povereni_soud1~253523.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28643/export/P3_verejna_Povereni_exekuce1~253521.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28643/export/export~295155.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na pověření Mgr. Václava Kůse k zastupování městské části Praha 7 v jednáních před soudy, při podepisování a podávání návrhů k soudu a k podávání návrhů dle pravomocných rozhodnutí na nařízení a zastavení exekučních řízení</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s pověřením Mgr.&nbsp;Václava Kůse k zastupování městské části Praha 7 v jednáních před soudy, při podepisování a podávání návrhů k soudu</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s pověřením Mgr.&nbsp;Václava Kůse k podávání návrhů dle pravomocných rozhodnutí na nařízení a zastavení exekučních řízení</p></span></li></ol></li><li id="" class="urzClass1"><span name="16">pověřuje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Mgr.&nbsp;Václava Kůse k zastupování městské části Praha 7 v jednáních před soudy, při podepisování a podávání návrhů k soudu</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>Mgr.&nbsp;Václava Kůse k podávání návrhů dle pravomocných rozhodnutí na nařízení a zastavení exekučních řízení</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat pověření Mgr. Václava Kůse k zastupování městské části Praha 7 v jednáních před soudy, při podepisování a podávání návrhů k soudu</p></span><span class="urzUkolTermin">  Termín:&nbsp;13.10.2017</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat pověření Mgr. Václava Kůse k zastupování městské části Praha 7 při podávání návrhů dle pravomocných rozhodnutí na nařízení a zastavení exekučních řízení</p></span><span class="urzUkolTermin">  Termín:&nbsp;13.10.2017</span></li></ul></li></ol></li></ol>

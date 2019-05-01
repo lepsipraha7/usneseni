@@ -1,0 +1,22 @@
+---
+layout: detail_usneseni
+nazev_bodu: Vyhlášení obchodní veřejné soutěže na investora rekonstrukce a nájemce
+  objektu č. p. 20, Šlechtova restaurace, k. ú. Bubeneč, pozemků č. parc. 1796 a 1798
+  / 2, Praha 7, podle zákona č. 513/1991 Sb., Obchodní zákoník, ve znění pozdějších
+  předpisů
+datum_vzniku_usneseni: '2000-03-07 00:00:00'
+cislo_usneseni: 0205/00
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Vyhlášení obchodní veřejné soutěže na investora rekonstrukce a nájemce objektu č. p. 20, Šlechtova restaurace, k. ú. Bubeneč, pozemků č. parc. 1796 a 1798 / 2, Praha 7, podle zákona č. 513/1991 Sb., Obchodní zákoník, ve znění pozdějších předpisů</h3></span><div class="center">
+		<strong>č. 0205/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 07.03.2000</strong><br><br>
+	</div>
+<br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na vyhlášení obchodní veřejné soutěže na investora rekonstrukce a nájemce objektu č. p. 20, Šlechtova restaurace, k. ú. Bubeneč, pozemků č. parc. 1796 a 1798 / 2, <br>Praha 7, podle zákona č. 513/1991 Sb., Obchodní zákoník, ve znění pozdějších předpisů<br><br>II.	schvaluje <br><br>text zadávacích podmínek na vyhlášení obchodní veřejné soutěže na investora rekonstrukce a nájemce objektu č. p. 20, Šlechtova restaurace, k. ú. Bubeneč, pozemků č. parc. 1796 a 1798 / 2, Praha 7, podle zákona č. 513/1991 Sb., Obchodní zákoník, ve znění pozdějších předpisů<br><br><br>III.	jmenuje<br><br>složení výběrové komise pro vyhodnocení nabídek zaslaných do obchodní veřejné soutěže na investora rekonstrukce a nájemce objektu č. p. 20, Šlechtova restaurace, k. ú. Bubeneč, pozemků č. parc. 1796 a 1798 / 2, Praha 7, podle zákona č. 513/1991 Sb., Obchodní zákoník, ve znění pozdějších předpisů<br>včetně náhradníků :<br>1. Štěpán Hasal, radní<br>2. Mgr. Luboš Vayhel, zástupce starosty<br>3. Ari Lieberman, radní<br>4. Ing. Zdeňka Charvátová, radní<br>5. Ing. arch. Stanislav Stránský, ved. ORZ<br>6. Miloslava Vitásková, ved. ODO<br>7. Ing. Hana Horská, ved. OŽP<br>8. Ing.Roman Hrubý , ved. OMA <br>9. Miroslav Puc, OMA<br>10. David Večeřa, předseda MK<br><br><br><br>včetně náhradníků :<br>1. PhDr. Ivana Kučerová, zást. starosty<br>2. Tomáš Ammer, radní<br>3. Radek Mikšík, radní<br>4. Jiří Mach, radní<br>5. Ing.arch. Jan Hájek, zást. ved. ORZ<br>6. Eva Mašková, zast.ved. ODO<br>7. Bc.Martin Pecánek, zást. ved. OŽP<br>8. Jaroslava Špiclová , zást. ved. OMA<br>9. Jindřich Táborský, OMA<br><br>IV.	ukládá <br><br> Určen:	tajemník	TAJ Dušek Josef<br>Termín: 31.03.2000<br>Úkol:	rozeslat jmenovací dekrety dle bodu III. pro členy výběrové komise vyhlášené obchodní veřejné soutěže na investora rekonstrukce a nájemce objektu č. p. 20, Šlechtova restaurace, k. ú. Bubeneč, pozemků č. parc. 1796 a 1798 / 2, Praha 7, podle zákona č. 513/1991 Sb., Obchodní zákoník, ve znění pozdějších předpisů, včetně náhradníků :          <br>1. Štěpán Hasal, radní<br>2. Mgr. Luboš Vayhel, zástupce starosty<br>3. Ari Lieberman, radní<br>4. Ing. Zdeňka Charvátová, radní<br>5. Ing. arch. Stanislav Stránský, ved. ORZ<br>6. Miloslava Vitásková, ved. ODO<br>7. Ing. Hana Horská, ved. OŽP<br>8. Ing.Roman Hrubý , ved. OMA <br>9. Miroslav Puc, OMA<br>10. David Večeřa, předseda MK<br>včetně náhradníků :<br>1. PhDr. Ivana Kučerová, zást. starosty<br>2. Tomáš Ammer, radní<br>3. Radek Mikšík, radní<br>4. Jiří Mach, radní<br>5. Ing.arch. Jan Hájek, zast. ved. ORZ<br>6. Eva Mašková, zast.ved. ODO<br>7. Bc.Martin Pecánek, zast. ved. OŽP<br>8. Jaroslava Špiclová , zast. ved. OMA<br>9. Jindřich Táborský, OMA   První jednání komise je stanoveno na den 24.05.2000 ve 15:00 hod, ve 2. patře, číslo dveří 256, nábř. Kpt. Jaroše 7/1000<br> <br><br> Určen:	vedoucí OMA	VED OMA Hrubý Roman<br>Termín: 14.03.2000<br>Úkol:	zveřejnit zadávací podmínky obchodní veřejné soutěže na investora rekonstrukce a nájemce objektu č. p. 20, Šlechtova restaurace, k. ú. Bubeneč, pozemků č. parc. 1796 a 1798 / 2, Praha 7, podle zákona č. 513/1991 Sb., Obchodní zákoník, ve znění pozdějších předpisů, v Obchodním věstníku, Hospodářských novinách, Mladé frontě Dnes, Hobuletu, Economii a. s., Navatypu a. s. a na internetových stránkách městské části Praha 7<br> </div>
+</div>

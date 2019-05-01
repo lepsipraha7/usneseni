@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na souhlas s podáním žádosti o získání finanční podpory z Fondu
+  rozvoje dostupného bydlení na území hl. m. Prahy na rekonstrukci bytového domu Dobrovského
+  19, Praha 7 (č. p. 537, k.ú. Holešovice)
+datum_vzniku_usneseni: '2017-09-15 00:00:00'
+cislo_usneseni: '0849/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29616/export/Duvodovazprava~248008.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29616/export/usnesenizmc_014617R_7_04092017~248007.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29616/export/tabulkazadostodotaci_Dobrovskeho_19_final~248006.xls
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29616/export/export~295253.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na souhlas s podáním žádosti o získání finanční podpory z Fondu rozvoje dostupného bydlení na území hl. m. Prahy na rekonstrukci bytového domu Dobrovského 19, Praha 7 (č. p. 537, k.ú. Holešovice)</p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass" id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>že žádost je podána na základě zmocnění Rady MČ Praha 7 na základě usnesení Zastupitelstva MČ Praha 7 č. 0146/17-Z, jednání č. 7 ze dne 04.09.2017 s termínem do 30.09.2017 viz příloha č. 2&nbsp;</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že žádost o získání finanční podpory bude podána do Fondu rozvoje dostupného bydlení na území hl. m. Prahy</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že hlavním cílem projektu je rekonstrukce bytového domu<br>Dobrovského 19, Praha 7 (č. p. 537, k.ú. Holešovice)<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>předložení žádosti o získání finanční podpory do Fondu rozvoje dostupného bydlení na území hl. m. Prahy s maximálními celkovými výdaji projektu 32 088 946 Kč</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>poskytnutí 10% podílu výdajů projektu z rozpočtu městské části Praha 7, tj. maximálně 3 208 895 Kč z maximálních celkových výdajů projektu</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat a podat žádost o získání finanční podpory z Fondu rozvoje dostupného bydlení hl. m. Prahy včetně relevantních příloh</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.9.2017</span><div class="urzUkolTermin">  Kontrolní termín:&nbsp;19.9.2017</div></li></ul></li></ol></li></ol>

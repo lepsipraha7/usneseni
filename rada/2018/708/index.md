@@ -1,0 +1,23 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na schválení udělení plné moci pro Mgr. Josefa Fiřta, LL.M., advokáta
+  zapsaného v seznamu advokátů vedeném Českou advokátní komorou pod č. ev. 10551,
+  vykonávajícímu advokacii ve společnosti Advokátní kancelář KF Legal, s.r.o., se
+  sídlem Opletalova 1015/55, 110 00 Praha 1 – Nové Město, IČO: 29143608, k zastupování
+  městské části Praha 7 v soudním řízení'
+datum_vzniku_usneseni: '2018-09-25 00:00:00'
+cislo_usneseni: '0708/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30256/export/Duvodovazprava~395050.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30256/export/export~395374.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li class="urzClass1" id=""><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass decimal ">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>Návrh na schválení udělení plné moci pro Mgr. Josefa Fiřta, LL.M., advokáta zapsaného v seznamu advokátů vedeném Českou advokátní komorou pod č. ev. 10551, vykonávajícímu advokacii ve společnosti Advokátní kancelář KF Legal, s.r.o., se sídlem Opletalova 1015/55, 110 00 Praha 1 – Nové Město, IČO: 29143608, k zastupování městské části Praha 7 v řízení vedeném v souvislosti se spoluvlastnictvím nemovitosti – pozemku parc. č. st. 267/1, jehož součástí je dům č. p. 184, vše zapsáno v katastru nemovitostí vedeném Katastrálním úřadem pro Hl. m. Prahu, katastrální území Bubeneč</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="24">schvaluje</span> 
+<ol class="urzOlClass decimal ">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>text plné moci pro Mgr. Josefa Fiřta, LL.M., advokáta zapsaného v seznamu advokátů vedeném Českou advokátní komorou pod č. ev. 10551, vykonávajícímu advokacii ve společnosti Advokátní kancelář KF Legal, s.r.o., se sídlem Opletalova 1015/55, 110 00 Praha 1 – Nové Město, IČO: 29143608, k zastupování městské části Praha 7 v řízení vedeném v souvislosti se spoluvlastnictvím nemovitosti – pozemku parc. č. st. 267/1, jehož součástí je dům č. p. 184, vše zapsáno v katastru nemovitostí vedeném Katastrálním úřadem pro Hl. m. Prahu, katastrální území Bubeneč</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>udělení plné moci pro Mgr. Josefa Fiřta, LL.M., advokáta zapsaného v seznamu advokátů vedeném Českou advokátní komorou pod č. ev. 10551, vykonávajícímu advokacii ve společnosti Advokátní kancelář KF Legal, s.r.o., se sídlem Opletalova 1015/55, 110 00 Praha 1 – Nové Město, IČO: 29143608, k zastupování městské části Praha 7 v řízení vedeném v souvislosti se spoluvlastnictvím nemovitosti – pozemku parc. č. st. 267/1, jehož součástí je dům č. p. 184, vše zapsáno v katastru nemovitostí vedeném Katastrálním úřadem pro Hl. m. Prahu, katastrální území Bubeneč</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat plnou moc pro Mgr. Josefa Fiřta, LL.M., advokáta zapsaného v seznamu advokátů vedeném Českou advokátní komorou pod č. ev. 10551, vykonávajícímu advokacii ve společnosti Advokátní kancelář KF Legal, s.r.o., se sídlem Opletalova 1015/55, 110 00 Praha 1 – Nové Město, IČO: 29143608, k zastupování městské části Praha 7 v řízení vedeném v souvislosti se spoluvlastnictvím nemovitosti – pozemku parc. č. st. 267/1, jehož součástí je dům č. p. 184, vše zapsáno v katastru nemovitostí vedeném Katastrálním úřadem pro Hl. m. Prahu, katastrální území Bubeneč</p></span><span class="urzUkolTermin">  Termín:&nbsp;27.9.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OPV Mgr. Kateřina Šilhová Šafránková</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>předat plnou moc pro Mgr. Josefa Fiřta, LL.M., advokáta zapsaného v seznamu advokátů vedeném Českou advokátní komorou pod č. ev. 10551, vykonávajícímu advokacii ve společnosti Advokátní kancelář KF Legal, s.r.o., se sídlem Opletalova 1015/55, 110 00 Praha 1 – Nové Město, IČO: 29143608, k zastupování městské části Praha 7 v řízení vedeném v souvislosti se spoluvlastnictvím nemovitosti – pozemku parc. č. st. 267/1, jehož součástí je dům č. p. 184, vše zapsáno v katastru nemovitostí vedeném Katastrálním úřadem pro Hl. m. Prahu, katastrální území Bubeneč, podepsanou Mgr. Janem Čižinským, starostou MČ P7 zmocněnci Mgr. Josefu Fiřtovi, LL.M.</p></span><span class="urzUkolTermin">  Termín:&nbsp;2.10.2018</span></li></ul></li></ol></li>
+</ol>

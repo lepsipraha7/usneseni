@@ -1,0 +1,34 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení uzavření Dohody o změně v obsahu závazků ke smlouvě
+  o dílo č. 2017/OIVZ/001 na veřejnou zakázku "SAZ Praha 7 – Adaptace objektu Fr.
+  Křížka 22 pro zdravotnické služby" a Smlouvy č. 2018/OIVZ/034 na zakázku s názvem
+  „Vícepráce elektro a zajištění TIČR pro zdravotnické zařízení Poliklinika Prahy
+  7"
+datum_vzniku_usneseni: '2018-10-09 00:00:00'
+cislo_usneseni: 0734/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30274/export/1Duvodovazprava~397511.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30274/export/10DPHELPROM~397501.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30274/export/11VypiszORELPROM~397500.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30274/export/12DPHSSM~397499.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30274/export/13VypiszORSSM~397498.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30274/export/export~397888.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li class="urzClass1" id=""><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">návrh na&nbsp;uzavření Dohody o změně v obsahu závazků ke smlouvě o dílo č. 2017/OIVZ/001 na veřejnou zakázku "SAZ Praha 7 – Adaptace objektu Fr. Křížka 22 pro zdravotnické služby"<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na uzavření Smlouvy č. 2018/OIVZ/034 na zakázku s názvem „Vícepráce elektro a zajištění TIČR pro zdravotnické zařízení Poliklinika Prahy 7"</p></span></li></ol></li>
+
+<li class="urzClass1" id=""><span name="24">schvaluje</span> 
+<ol class="urzOlClass" id="">
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">text a uzavření Dohody o změně v obsahu závazků ke smlouvě o dílo č. 2017/OIVZ/001 na veřejnou zakázku "SAZ Praha 7 – Adaptace objektu Fr. Křížka 22 pro zdravotnické služby", se společností Speciální stavby Most spol. s r.o., Josefa Suka 261/11, 434 01 Most, IČO: 41327225. Předmětem Dohody je vypořádání smluvní pokuty, sleva z ceny díla a navýšení ceny díla v objektivně prokazatelném rozsahu:<br></p></span><ul class="urzUlClass" id=""><li style="text-align: left;" id="" class="urzClass3"><span><p>1) Celková cena za dílo v důsledku změn dle Dohody se zvyšuje o 97.569,36,- Kč bez DPH, tzn. 118.058,93,- Kč s DPH. Celková cena plnění dle smlouvy ve znění této Dohody se zvyšuje a činí 23.494.038,36,- Kč bez DPH při sazbě 21% DPH 28.427.786,42,- Kč včetně DPH</p></span></li><li style="text-align: left;" id="" class="urzClass3"><span><p>2) v rámci Dohody dochází k uplatnění slevy z ceny díla na veškeré vnitřní dřevěné dveře a na provedení dlažeb a lišt obkladů ve výši 500.000,- Kč</p></span></li><li class="urzClass3" id="" style="text-align: left;"><span><p>3) v rámci Dohody je vypořádána úhrada smluvní pokuty za nedodržení termínu dokončení díla dle čl. VI. odst. 6.12 písm. a) Smlouvy ve výši tj. 4.760.000,- Kč. K uhrazení této smluvní pokuty došlo započtením oproti faktuře (daňovému dokladu) č. 0518030025 vystavené Zhotovitelem dne 5. 4. 2018, na základě vyúčtování Objednatele doručeného dne 4. 5. 2018 do datové schránky Zhotovitele, tj. faktury/ daňového dokladu č. 20180002 v souladu s usnesením RMČ P7 č.0360/18-R z 29. jednání, konaného dne 4. 5. 2018<br></p></span></li></ul></li>
+<li class="urzClass2" id="" style="text-align: left;"><span><p>text a uzavření Smlouvy o dílo č. 2018/OIVZ/034 na zakázku s názvem „Vícepráce elektro a zajištění TIČR pro zdravotnické zařízení Poliklinika Prahy 7“ s poddodavatelem generálního zhotovitele stavby s názvem „SAZ Praha 7 – Adaptace objektu Fr. Křížka 22 pro zdravotnické služby“ se spol. EL-PROM, spol. s r.o., Úvozová 25/4, Koloděje, 190 16 Praha 9, IČO: 16188101<br></p></span><ol class="urzUlClass"><li class="urzClass3" id="" style="text-align: left;"><span><p>nabídková cena je v celkové výši 661 348,00 Kč bez DPH, tj. 800 231,08 Kč s DPH ve výši 21 %</p></span></li><li class="urzClass3" id="" style="text-align: left;"><span><p>předmětem Smlouvy je dodávka kabelových rozvodů elektro silno a slaboproudých a jejich koncových prvků, jejich montáž, včetně měření a vyhotovení dokumentace skutečného provedení instalace. Dále je předmětem Smlouvy vypracování všech potřebných pokladů a zajištění vydání závazného stanoviska TIČR. Souhlasné závazné stanovisko TIČR bude předáno v originále kupujícímu.</p></span></li></ol></li></ol></li>
+
+<li class="urzClass1" id=""><span name="16">pověřuje</span> 
+<ol class="urzOlClass" id="">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>místostarostu městské části Praha 7&nbsp;Ing. Kamila Vavřince Mareše k podpisu Dohody o změně v obsahu závazků ke smlouvě o dílo č. 2017/OIVZ/001 na veřejnou zakázku "SAZ Praha 7 – Adaptace objektu Fr. Křížka 22 pro zdravotnické služby", se společností Speciální stavby Most spol. s r.o., Josefa Suka 261/11, 434 01 Most, IČO: 41327225<br></p></span>
+</li>
+<li class="urzClass2" id="" style="text-align: left;"><span><p>místostarostu městské části Praha 7 Ing. Kamila Vavřince Mareše k podpisu Smlouvy o dílo č. 2018/OIVZ/034 na zakázku s názvem „Vícepráce elektro a zajištění TIČR pro zdravotnické zařízení Poliklinika Prahy 7“ se společností EL-PROM, spol. s r.o., Úvozová 25/4, Koloděje, 190 16 Praha 9, IČO: 16188101</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>MISTA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Dohodu o změně v obsahu závazků ke smlouvě o dílo č. 2017/OIVZ/001 na veřejnou zakázku "SAZ Praha 7 – Adaptace objektu Fr. Křížka 22 pro zdravotnické služby", se společností Speciální stavby Most spol. s r.o., Josefa Suka 261/11, 434 01 Most, IČO: 41327225</p></span><span class="urzUkolTermin">  Termín:&nbsp;16.10.2018</span></li></ul></li><li class="urzClass2"><span><p>MISTA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Smlouvu o dílo č. 2018/OIVZ/034 na zakázku s názvem „Vícepráce elektro a zajištění TIČR pro zdravotnické zařízení Poliklinika Prahy 7“ se společností EL-PROM, spol. s r.o., Úvozová 25/4, Koloděje, 190 16 Praha 9, IČO: 16188101</p></span><span class="urzUkolTermin">  Termín:&nbsp;16.10.2018</span></li></ul></li></ol></li>
+</ol>

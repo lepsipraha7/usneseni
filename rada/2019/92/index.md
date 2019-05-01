@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci vernisáže a výstavy obrazů Petra Lichtenberga pod názvem
+  „Realistické obrazy“, konané dne 06.03.2019 od 17.30 h v Galerii na úřadě, nábř.
+  Kpt. Jaroše 1000, 170 00 Praha 7
+datum_vzniku_usneseni: '2019-02-12 00:00:00'
+cislo_usneseni: '0092/19-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30617/export/Duvodova_zprava_lichtenberg~430308.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30617/export/S1_Kubatova_Gabriela_2019_vernisaz_brezen~430307.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30617/export/export~430720.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na realizaci vernisáže a výstavy obrazů Petra Lichtenberga pod názvem „Realistické obrazy“, konané dne 06.03.2019 od 17.30 h v Galerii na úřadě, nábř. Kpt. Jaroše 1000, 170 00 Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>realizaci vernisáže a výstavy obrazů Petra Lichtenberga pod názvem „Realistické obrazy“, konané dne 06.03.2019 od 17.30 h v Galerii na úřadě, nábř. Kpt. Jaroše 1000, 170 00 Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>text a uzavření smlouvy o uměleckém výkonu mezi městskou částí Praha 7 a Gabrielou Kubátovou viz příloha č. 2</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů ve výši 3 000 Kč vč. DPH, v hotovosti, Gabriele Kubátové, za umělecký výkon, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 2 000 vč. DPH, v hotovosti, spojených s realizací vernisáže za občerstvení, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu o uměleckém výkonu mezi městskou částí Praha 7 a Gabrielou Kubátovou viz příloha č.2</p></span><span class="urzUkolTermin">  Termín:&nbsp;18.2.2019</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci vernisáže a výstavy obrazů Petra Lichtenberga pod názvem „Realistické obrazy“ dle článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;6.3.2019</span></li></ul></li></ol></li></ol>

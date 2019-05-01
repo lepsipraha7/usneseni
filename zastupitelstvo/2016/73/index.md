@@ -1,0 +1,23 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh k finančnímu vypořádání hospodářského výsledku za rok 2015 u příspěvkové
+  organizace Pečovatelské centrum Praha 7 a Sdružené ambulantní zařízení v Praze 7
+datum_vzniku_usneseni: '2016-04-18 00:00:00'
+cislo_usneseni: 0073/16-Z
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26892/export/duvodovazprava~46751.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26892/export/prilohyrozvahy~46750.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26892/export/usneseniRMCproZastupitelstvo~46749.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26892/export/export~48772.pdf
+organ: zastupitelstvo
+---
+<ol class="urzList_view" id="urzList">
+<li id="" class="urzClass1"><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>návrh k finančnímu vypořádání hospodářského výsledku za rok 2015 u příspěvkové organizace Pečovatelské centrum Praha 7 a Sdružené ambulantní zařízení v Praze 7</p></span></li></ol></li>
+<li id="" class="urzClass1"><span name="24">schvaluje</span> 
+<ol class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>návrh finančního vypořádání zlepšeného výsledku hospodaření za rok 2015 u příspěvkové organizace Pečovatelské centrum Praha 7 následovně:</p><p>Celkový hospodářský výsledek ve výši 170 961,92 Kč (zisk z hlavní činnosti 169 761,92 Kč, zisk z doplňové činnosti 1 200,00 Kč) bude převeden do rezervního fondu příspěvkové organizace.</p></span></li>
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>návrh finančního vypořádání zlepšeného výsledku hospodaření za rok 2015 u příspěvkové organizace&nbsp;Sdružené ambulantní zařízení v Praze 7&nbsp;následovně:</p><p>Ztráta z hlavní činnosti - 285 403,82 Kč bude pokryta ziskem z doplňové činnosti 690 056,66 Kč. Celkový hospodářský výsledek 404 652,84 Kč pak&nbsp;bude použit k částečnému umoření zůstatku ztráty z r. 2014, která činí - 1 000 000,00 Kč v návaznosti na usnesení Zastupitelstva MČ Praha 7 č. 0033/15-Z ze dne 23.3.2015.&nbsp;Zbývající část ztráty ve výši - 595 347,16 Kč bude vyrovnána z vlastních zdrojů organizace odvodem zřizovateli&nbsp;(odvod z fondu investic ve vazbě na zvýšení neinvestičního příspěvku zřizovatele).</p></span></li>
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>provedení souvisejícího rozpočtového opatření v měsíci dubnu (RO 25/2016)&nbsp;k vypořádání části zůstatku ztráty z hospodaření za rok 2014 u příspěvkové organizace Sdružené ambulantní zařízení v Praze 7&nbsp;ve výši - 595 347,16 Kč takto:</p><p>1. zvýšení příjmové položky 2122 odvody příspěvkových organizací: odvod z fondu investic Sdruženého ambulantního zařízení v Praze 7 ve výši - 595 347,16 Kč (rozpočtově 595,4 tis. Kč)</p><p>2. zvýšení neinvestičního příspěvku zřizovatele na rok 2016 pro příspěvkovou organizaci Sdružené ambulantní zařízení v Praze 7 o 595 347,16 Kč (rozpočtově 595,4 tis. Kč)</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>Rada MČ Praha 7</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Prostřednictvím vedoucího odboru sociálního a zdravotnictví (OSZ) seznámit ředitele příspěvkových organizací s usnesením Zastupitelstva MČ Praha 7 ve věci finančního vypořádání hospodářských výsledků za rok 2015 a současně monitorovat jejich proúčtování.</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.6.2016</span></li></ul></li><li class="urzClass2"><span><p>Rada MČ Praha 7</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Prostřednictvím vedoucího odboru sociálního a zdravotnictví (OSZ) zajistit odvod finančních prostředků z fondu investic příspěvkové organizace Sdružené ambulantní zařízení v Praze 7 ve výši 595 347,16 Kč na ZBÚ zřizovatele a následně zajistit zpětný převod účelově soustředěných finančních prostředků určených pro dílčí vykrytí zůstatku ztráty z hospodaření za rok 2014.</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.6.2016</span></li></ul></li><li class="urzClass2"><span><p>Rada MČ Praha 7</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Realizovat prostřednictvím odboru finančního (OFI) realizaci rozpočtového opatření měsíce dubna (RO 25/2016) k vypořádání části zůstatku ztráty z hospodaření za rok 2014 u příspěvkové organizace Sdružené ambulantní zařízení v Praze 7 ve výši - 595 347,16 Kč.</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.4.2016</span></li></ul></li></ol></li>
+</ol>

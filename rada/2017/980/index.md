@@ -1,0 +1,28 @@
+---
+layout: detail_usneseni
+nazev_bodu: Schválení žádostí o doplnění veřejného osvětlení na území MČ Praha 7
+datum_vzniku_usneseni: '2017-10-31 00:00:00'
+cislo_usneseni: '0980/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/c1duvodovazprava_VO~263133.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/NavrhupravstavajicihostavuVO~263132.jpg
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/1_CC_ZadostodoplneniVO_prechodKorunovacni~263131.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/2_CC_ZadostodoplneniVO_prechodKorunovacni~263130.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/3_CC_ZadostodoplneniVO_prechodKorunovacni~263129.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/4_CC_ZadostodoplneniVO_prechod_Veletrzni~263128.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/5_CC_ZadostodoplneniVO_prechod_Ortenovonamesti~263127.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/6_CC_ZadostodoplneniVO_prechod_UUranie~263126.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/7_CC_ZadostodoplneniVO_Vltavska~263125.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/8_CC_ZadostodoplneniVO_nabrezikptJarose~263124.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/9_CC_ZadostodoplneniVO_Hlavkuvmost~263123.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/10_CC_ZadostodoplneniVO_Zeleznicaru~263122.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/11_CC_ZadostodoplneniVO_podchodnadraziHolesovice~263121.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/12_CC_ZadostodoplneniVO_park_u_vody~263120.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/13_CC_ZadostodoplneniVO_tusarova~263119.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/14_CC_ZadostodoplneniVO_armadaspasy~263118.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/15_CC_ZadostodoplneniVO_Libenskymost~263117.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/16_CC_ZadostodoplneniVO_koordinaceparky~263116.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29509/export/export~294977.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrhy žádostí o doplnění veřejného osvětlení na území MČ Praha 7 vycházející z Návrhu úprav stávajícího veřejného osvětlení na území MČ Praha 7, který je přílohou č. 2 tohoto usnesení.</p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>že Magistrát hl. m. Prahy uvolnil finanční prostředky na výstavbu, obnovu a modernzaci veřejného osvětlení na území hl. m. Prahy.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>MČ Praha 7 zpracovala na základě analýzy problémových míst stávajícího veřejného osvětlení na území MČ Praha 7 výkres Návrh úprav stávajícího stavu VO na území MČ Praha 7, na jehož základě jsou připraveny žádosti o doplnění VO na území MČ Praha 7.</p></span></li></ol></li><li class="urzClass1" id=""><span name="63">požaduje,</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>po společnosti Cost Control vypořádat žádosti MČ Praha 7 (přílohy č. 3 - 16 tohoto usnesení) s MHMP a zajistit realizaci požadovaných úprav.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>aby sloupy nového VO byly takového typu a nově měněné zdroje svítily v takovém úhlu a intenzitě, aby nedocházelo k oslňování okolních bytů.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>aby zdroje nově umisťovaného VO vydávaly světlo teplé barvy (tzv. "žluté" světlo).</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>aby nově umisťované VO bylo, pokud to podmínky umožňují, zavěšené mezi domy a negenerovalo nutnost umístění dalších sloupů do prostoru ulice</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>s návrhy&nbsp; žádostí o doplnění veřejného osvětlení na území MČ Praha 7.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat žádosti MČ Praha 7 o doplnění osvětlení</p></span><span class="urzUkolTermin">  Termín:&nbsp;6.11.2017</span></li></ul></li><li class="urzClass2"><span><p>VED ORZ Čermáková Martina Ing. arch.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zaslat žádosti o doplnění osvětlení Jaroslavu Hudci, Cost control s.r.o., Sámova 410/28, 101 00 Praha 10</p></span><span class="urzUkolTermin">  Termín:&nbsp;10.11.2017</span></li></ul></li></ol></li></ol>

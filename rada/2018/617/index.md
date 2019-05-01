@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na udělení plné moci správci podílového domu Plynární 798/39 společnosti
+  J.N.NOVA - spol. s r.o., IČO: 45315809, k zajištění úkonů spojených s aktualizací
+  a následným uzavřením nové odběratelské smlouvy na dodávku vody a odvádění odpadních
+  vod se společností Pražské vodovody a kanalizace, a.s., IČO: 25656635'
+datum_vzniku_usneseni: '2018-08-14 00:00:00'
+cislo_usneseni: 0617/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30161/export/01_pmPVK798~382953.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30161/export/02_pmPVK798~382952.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30161/export/03_pmPVK798~382951.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30161/export/export~383255.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na udělení plné moci správci podílového domu Plynární 798/39 společnosti J.N.NOVA - spol. s r.o., IČO: 45315809, k zajištění úkonů spojených s aktualizací a následným uzavřením nové odběratelské smlouvy na dodávku vody a odvádění odpadních vod se společností Pražské vodovody a kanalizace, a.s., IČO: 25656635</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>z titulu podílového spoluvlastníka domu Plynární 798/39, Praha 7, s textem a vystavením plné moci správci domu společnosti J.N.NOVA - spol. s r.o., IČO: 45315809, k zajištění nezbytných úkonů spojených s aktualizací a následným uzavřením nové odběratelské smlouvy na dodávku vody a odvádění odpadních vod se společností Pražské vodovody a kanalizace, a.s., IČO: 25656635</p></span></li></ol></li><li class="urzClass1" id=""><span name="41">zmocňuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>z titulu podílového spoluvlastníka domu Plynární 798/39, Praha 7, správce domu společnost J.N.NOVA - spol. s r.o., IČO: 45315809, k zajištění nezbytných úkonů spojených s aktualizací a následným uzavřením nové odběratelské smlouvy na dodávku vody a odvádění odpadních vod se společností Pražské vodovody a kanalizace, a.s., IČO: 25656635</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>MISTA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat plnou moc správci domu společnosti J.N.NOVA - spol. s r.o., IČO: 45315809, k zajištění nezbytných úkonů spojených s aktualizací a následným uzavřením nové odběratelské smlouvy na dodávku vody a odvádění odpadních vod se společností Pražské vodovody a kanalizace, a.s., IČO: 25656635</p></span><span class="urzUkolTermin">  Termín:&nbsp;24.8.2018</span></li></ul></li></ol></li></ol>

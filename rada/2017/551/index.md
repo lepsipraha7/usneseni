@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na uzavření dohody o narovnání se společností XEDOS s.r.o., IČO:
+  27121852, v souvislosti s odstoupením MČ Praha 7 od smlouvy o dílo č. 2016/OIVZ/049
+  na opravu sálu kina Oko'
+datum_vzniku_usneseni: '2017-06-13 00:00:00'
+cislo_usneseni: 0551/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29192/export/01_XEDOS_17narov~214808.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29192/export/02_XEDOS_17narov~214807.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29192/export/03_XEDOS_17narov~214806.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29192/export/04_XEDOS_17narov~214805.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29192/export/export~295875.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na uzavření dohody o narovnání se společností XEDOS s.r.o., IČO: 27121852, v souvislosti s odstoupením MČ Praha 7 od smlouvy o dílo č. 2016/OIVZ/049 na opravu sálu kina Oko</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že v souladu s usnesením Rady MČ Praha 7 č. 0375/17-R ze dne 18.04.2017 bylo ze strany MČ Praha 7 odstoupeno od smlouvy o dílo č. 2016/OIVZ/049, uzavřené dne 20.12.2016 se společností XEDOS s.r.o., IČO: 27121852, Kutnohorská 309/84, Praha 10 a současně byly uplatněny nároky související s předmětem díla, kterým byla oprava sálu kina Oko, Františka Křížka 15/460</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že na základě jednání se společností XEDOS s.r.o., IČO: 27121852, Kutnohorská 309/84, Praha 10, bude uzavřena dohoda o narovnání, na základě které budou MČ Praha 7 uhrazeny dosud vzniklé náklady v celkové výši 250.000,- Kč</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s textem a uzavřením dohody o narovnání mezi MČ Praha 7 a společností XEDOS s.r.o., IČO: 27121852, Kutnohorská 309/84, Praha 10, jejímž předmětem je narovnání vyplývající z odstoupení od smlouvy o dílo č. 2016/OIVZ/049, uzavřené dne 20.12.2016, dle usnesení Rady MČ Praha 7 č. 0375/17-R ze dne 18.04.2017</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Pavel Vyhnánek, M.A.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dohodu o narovnání mezi MČ Praha 7 a společností XEDOS s.r.o., IČO: 27121852, Kutnohorská 309/84, Praha 10, jejímž předmětem je narovnání vyplývající z odstoupení od smlouvy o dílo č. 2016/OIVZ/049, uzavřené dne 20.12.2016, dle usnesení Rady MČ Praha 7 č. 0375/17-R ze dne 18.04.2017</p></span><span class="urzUkolTermin">  Termín:&nbsp;14.7.2017</span></li></ul></li></ol></li></ol>

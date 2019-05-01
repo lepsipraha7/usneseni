@@ -1,0 +1,38 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na udělení souhlasu pro PO MŠ U Uranie, Praha 7, Na Maninách 1080/29a,  k
+  přijetí daru ve výši 60.000,- Kč od Unie rodičů při MŠ U Uranie '
+datum_vzniku_usneseni: '2013-02-12 00:00:00'
+cislo_usneseni: '0108/13'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24273/10-13-skmbt_c22013020409560.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24273/10-13-darovaci_smlouva_ur_2013.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na udělení souhlasu pro PO MŠ U Uranie, Praha 7, Na Maninách 1080/29a,  k přijetí daru ve výši 60.000,- Kč od Unie rodičů při MŠ U Uranie </h3></span><div class="center">
+		<strong>č. 0108/13</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 12.02.2013</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh na udělení souhlasu pro PO MŠ U Uranie, Praha 7, Na Maninách 1080/29a,  k přijetí daru ve výši 60.000,- Kč od Unie rodičů při MŠ U Uranie </li></ul>
+</li>
+<li>Souhlasí<ul><li>
+<strong>1.</strong> aby PO MŠ U Uranie, Praha 7, Na Maninách 1080/29a, přijala dar od Unie rodičů při MŠ U Uranie (IČ: 70886326), ve výši 60.000,- Kč na financování akcí a didaktických pomůcek pro děti mateřské školy </li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>VED OŠK Kuchař Filip Mgr.</li>
+<li>
+<strong>1.1 Úkol: </strong>Informovat vedení mateřské školy o usnesení RMČ Praha 7</li>
+<li>
+<strong>1.2 Termín: </strong>13.02.2013</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

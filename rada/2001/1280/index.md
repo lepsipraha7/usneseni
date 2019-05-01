@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření nájemních smluv po zveřejněném záměru na pronájem NBP - Dělnická
+  34, Dukelských hrdinů 54, Praha 7, ke kterému byly vzneseny připomínky
+datum_vzniku_usneseni: '2001-11-27 00:00:00'
+cislo_usneseni: 1280/01
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření nájemních smluv po zveřejněném záměru na pronájem NBP - Dělnická 34, Dukelských hrdinů 54, Praha 7, ke kterému byly vzneseny připomínky</h3></span><div class="center">
+		<strong>č. 1280/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 27.11.2001</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na uzavření nájemních smluv po zveřejněném záměru na pronájem NBP - Dělnická 34, Dukelských hrdinů 54, Praha 7, ke kterému byly vzneseny připomínky<br><br>připomínku paní MUDr. Doroty Seunikové - Němcové<br><br><br>II.	nesouhlasí<br><br>s pronájmem NBP - prodejna, sklady v přízemí domu č.p. 1044, ulice Dělnická, č.o. 34, Praha 7, nájemci: ELEKTRO GOLD, s.r.o., sídlo Hnězdenská 596, Praha 8, IČO 26483246, na dobu neurčitou, za nájemné 3.500,-Kč/m2/rok, o celkové rozloze 203m2<br><br>s pronájmem NBP - kancelář s příslušenstvím v přízemí domu č.p. 616, ulice Dukelských hrdinů, č.o. 54, Praha 7, paní MUDr. Dorotě Seunikové - Němcové na  základě její připomínky vznesené v průběhu zveřejněného záměru na pronájem výše uvedeného NBP nájemci: ČSSD, sídlo Hybernská 7, Praha 1, IČO 409171, na dobu neurčitou, za nájemné 380,-Kč/m2/rok, o celkové rozloze 46,56m2<br><br>s pronájmem NBP - kancelář s příslušenstvím v přízemí domu č.p. 616, ulice Dukelských hrdinů, č.o. 54, Praha 7, nájemci: ČSSD, sídlo Hybernská 7, Praha 1, IČO 409171, na dobu neurčitou, za nájemné 380,-Kč/m2/rok, o celkové rozloze 46,56m2<br><br><br><br><br><br><br><br><br><br><br><br><br><br>III.	souhlasí <br><br><br>se zveřejněním záměru na úřední desce po dobu 15- ti dnů na pronájem NBP - prodejna potravin, sklady v přízemí domu č.p. 1044, ulice Dělnická, č.o. 34, Praha 7, nájemce  Marie Šeflová, místo podnikání Čechova 22, Praha 7, IČO 43935338, na dobu neurčitou, za nájemné 3.500,-Kč/m2/rok, o celkové rozloze 203m2  za podmínky uhrazení dluhu za bývalého nájemce ABC Real s.r.o<br><br>s uzavřením NS, po zveřejněném záměru, pokud nebudou vzneseny žádné připomínky na pronájem NBP - prodejna potravin, sklady v přízemí domu č.p. 1044, ulice Dělnická, č.o. 34, Praha 7, nájemce  Marie Šeflová, místo podnikání Čechova 22, Praha 7, IČO 43935338, na dobu neurčitou, za nájemné 3.500,-Kč/m2/rok, o celkové rozloze 203m2  za podmínky uhrazení dluhu za bývalého nájemce ABC Real s.r.o<br><br>IV.	ukládá <br><br> <br>Určen:	VED OBH Wawrečka Ronald<br>Termín: 30.11.2001<br>Úkol:	seznámit paní MUDr. Dorotu Seunikovou - Němcovou se stanoviskem R MČ P7 <br> <br><br> <br>Určen:	VED OBH Wawrečka Ronald<br>Termín: 30.11.2001<br>Úkol:	seznámit stranu ČSSD se stanoviskem R MČ P7 <br> <br><br> <br>Určen:	VED OBH Wawrečka Ronald<br>Termín: 04.12.2001<br>Úkol:	zveřejnit záměr na úřední desce po dobu 15- ti dnů na pronájem NBP - prodejna potravin, sklady v přízemí domu č.p. 1044, ulice Dělnická, č.o. 34, Praha 7, nájemce  Marie Šeflová, místo podnikání Čechova 22, Praha 7, IČO 43935338, na dobu neurčitou, za nájemné 3.500,-Kč/m2/rok, o celkové rozloze 203m2<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 31.01.2002<br>Úkol:	podepsat NS, po zveřejněném záměru, pokud nebudou vzneseny žádné připomínky na pronájem NBP - prodejna potravin, sklady v přízemí domu č.p. 1044, ulice Dělnická, č.o. 34, Praha 7, nájemce  Marie Šeflová, místo podnikání Čechova 22, Praha 7, IČO 43935338, na dobu neurčitou, za nájemné 3.500,-Kč/m2/rok, o celkové rozloze 203m2<br> <br><br> <br>Určen:	VED OBH Wawrečka Ronald<br>Termín: 30.11.2001<br>Úkol:	seznámit ELEKTRO GOLD s.r.o. se stanoviskem R MČ P7<br> <br><br> <br><br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

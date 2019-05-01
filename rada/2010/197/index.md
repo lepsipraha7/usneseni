@@ -1,0 +1,42 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na souhlas se změnou textu Souhlasného prohlášení, podepsaného mezi
+  MČ P7 a spol. Bystroň-zateplení, a.s. schváleného usnesením R MČ P7 č. 1257/09-R
+  z 22.12.09, na základě požadavku katastru nemovitostí
+datum_vzniku_usneseni: '2010-02-16 00:00:00'
+cislo_usneseni: '0197/10'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/20715/9-usn_1257.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na souhlas se změnou textu Souhlasného prohlášení, podepsaného mezi MČ P7 a spol. Bystroň-zateplení, a.s. schváleného usnesením R MČ P7 č. 1257/09-R z 22.12.09, na základě požadavku katastru nemovitostí</h3></span><div class="center">
+		<strong>č. 0197/10</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 16.02.2010</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh na souhlas se změnou textu Souhlasného prohlášení, podepsaného mezi MČ P7 a spol. Bystroň-zateplení, a.s. schváleného usnesením R MČ P7 č. 1257/09-R z 22.12.09, na základě požadavku katastru nemovitostí</li></ul>
+</li>
+<li>Souhlasí<ul>
+<li>
+<strong>1.</strong> s textem nového Souhlasného prohlášení, podepsaného mezi MČ P7 a spol. Bystroň-zateplení, a.s. se sídlem Chopinova 576/1, Ostrava , Přívoz, PSČ 702 00 IČ 27800466, doplněného na základě požadavku katastru nemovitostí</li>
+<li>
+<strong>2.</strong> s novým Souhlasným prohlášením  mezi MČ P7 a spol. Bystroň-zateplení, a.s. se sídlem Chopinova 576/1, Ostrava , Přívoz, PSČ 702 00, IČ 27800466, doplněného  na základě požadavku katastru nemovitostí             </li>
+</ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>STA Ječmének Marek</li>
+<li>
+<strong>1.1 Úkol: </strong>podepsat nové Souhlasné prohlášení mezi MČ P7 a společností Bystroň-zateplení, a.s. se sídlem Chopinova 576/1, Ostrava, Přívoz, PSČ 702 00, IČ 27800466 </li>
+<li>
+<strong>1.2 Termín: </strong>19.02.2010</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: MUDr. Tomáš Kaštovský 
+</div>
+</div>

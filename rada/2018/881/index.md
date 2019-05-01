@@ -1,0 +1,31 @@
+---
+layout: detail_usneseni
+nazev_bodu: Předběžné stanovisko MČ Praha 7 k záměru "Půdní vestavba a nástavba obytného
+  domu, přístavba výtahu k objektu Kamenická č. p. 801/15, Praha 7 - Holešovice"
+datum_vzniku_usneseni: '2018-12-11 00:00:00'
+cislo_usneseni: '0881/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30457/export/p1_duvod~416196.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30457/export/P2_Navrh_pruvodniho_dopisu~416195.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30457/export/c3_zadostopredbeznestanovisko~416194.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30457/export/export~416676.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li class="urzClass1" id=""><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>návrh předběžného stanoviska MČ Praha 7 k záměru "Půdní vestavba a nástavba obytného domu, přístavba výtahu k objektu Kamenická č. p. 801/15, Praha 7 - Holešovice".<br></p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="50">konstatuje,</span> 
+<ol class="urzOlClass" id="">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že předmětem předloženého návrhu je půdní nástavba, která je směrem do ulice řešena zvednutím hřebene střechy o 0,8 metru při zachování uliční římsy a z toho vyplývající změny sklonu střešní roviny (z 35 stupňů na 40 stupňů) s umístěním nových střešních oken. V dvorní fasádě dochází k nástavbě objektu o jedno plnohodnotné podlaží, což se projevuje zvednutím dvorního okapu o 2,5 m a přidáním dvou pultových střešních vikýřů o šířce 2 m. Záměrem vznikají dva mezonetové byty.</p></span></li>
+
+
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že podle Územního plánu sídelního útvaru hlavního města Prahy se přístavba nachází v ploše OV – všeobecně obytné. Dle platného územního plánu SÚ hl. m. Prahy se záměr nachází ve stabilizovaném území. "Stabilizované území je zastavitelné území, které je tvořeno stávající souvislou zástavbou a stabilizovanou hmotovou strukturou, v němž územní plán nepředpokládá významný rozvoj, proto zde není stanovena míra využití území a z hlediska limitů rozvoje je možné pouze zachování stávající urbanistické struktury bez možnosti další rozsáhlé stavební činnosti".<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že stavba se nachází v památkové zóně Dejvice, Bubeneč, horní Holešovice dle vyhlášky HMP č. 10/1993 Sb., o prohlášení části území hlavního města Prahy za památkové zóny a o určení podmínek jejich ochrany.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že MČ Praha 7 schválila ve svém usnesení č. 0676/17-R dokument "Pravidla pro půdní vestavby, půdní nástavby a nástavby objektů na území městské části Praha 7 v památkové zóně", který má sloužit jako nástroj jednotného přístupu městské části k těmto stavebním zásahům do stávající zástavby a dle těchto pravidel je posuzován i tento stavební záměr.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že záměr byl představen na 6. jednání Komise rozvoje urbanismu, architektury a veřejného prostoru (dále jen Komise) v roce 2018, kde se Komise usnesla: "<em>Komise s vestavbou souhlasí v případě, že hřeben bude navýšen maximálně o 800 mm, rozsah navržených balkónových vikýřů bude redukován na maximálně třetinu celkové šířky dvorní střechy a vikýře budou v exteriéru oplechované tak, aby nevznikala iluze dalšího patra domu. Po zapracování požadujeme záměr předložit odboru rozvoje ÚMČ Praha 7.</em>"<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že v památkových zónách není možné postupovat dle §1, odst. 3 a 4, Nařízení hl.m. Prahy č. 10/2016 (Pražské stavební předpisy) a odvolávat se při nesplnění požadavků dopravy v klidu na závažné územně technické a stavebně technické důvody, neboť v památkových zónách je dle čl. 4, Vyhlášky hl. m. Prahy č. 10/1993 možná stavební činnost pouze pokud je v souladu s technickými a kapacitními možnostmi území.<br></p></span></li>
+</ol></li>
+
+
+<li class="urzClass1" id=""><span name="52">nemá námitek</span><ol class="urzOlClass decimal " id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>k záměru "Půdní vestavba a nástavba obytného domu, přístavba výtahu k objektu Kamenická č.p. 801/15, Praha 7 - Holešovice", neboť byly splněny podmínky pro záměr stanovené Komisí, při splnění níže uvedených požadavků.</p></span></li></ol></li><li class="urzClass1" id=""><span name="63">požaduje,</span> 
+<ol class="urzOlClass" id="">
+
+
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>prověřit vliv nové výstavby na stávající okolní zástavbu z hlediska&nbsp;oslunění a denního osvětlení pro kategorii 3 (Prostory s trvalým pobytem lidí v souvislé řadové zástavbě v centru měst, Dw=29%).</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>smluvní zajištění parkovacích stání v blízkosti řešeného objektu, aby byly dodrženy požadavky na dopravu v klidu dané Nařízením č. 10/2016 Sb. HMP - Pražské stavební předpisy.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat průvodní dopis předběžného stanoviska MČ Praha 7 k záměru "Půdní vestavba a nástavba obytného domu, přístavba výtahu k objektu Kamenická č. p. 801/15, Praha 7 - Holešovice"</p></span><span class="urzUkolTermin">  Termín:&nbsp;21.12.2018</span></li></ul></li><li class="urzClass2"><span><p>VED ORZ Marková Tereza Ing. arch.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>odeslat předběžné stanovisko MČ Praha 7 záměru "Půdní vestavba a nástavba obytného domu, přístavba výtahu k objektu Kamenická č.p. 801/15, Praha 7 - Holešovice" Ing. Alexandře Bystřické na adresu Štorchova stezka 3864, Mělník</p></span><span class="urzUkolTermin">  Termín:&nbsp;28.12.2018</span></li></ul></li></ol></li></ol>

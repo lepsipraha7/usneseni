@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Řešení některých žádostí projednaných na zasedáních bytové komise Rady
+  MČ P7
+datum_vzniku_usneseni: '2003-03-18 00:00:00'
+cislo_usneseni: '0299/03'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Řešení některých žádostí projednaných na zasedáních bytové komise Rady MČ P7</h3></span><div class="center">
+		<strong>č. 0299/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 18.03.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na řešení některých žádostí projednaných na zasedáních bytové komise Rady MČ P7<br><br><br>II.  souhlasí<br><br>NN - s uzavřením nájemní smlouvy na dobu neurčitou na byt č.14, 3+1, II.kat., Farského 1/1385, P7 s Davidem Hrubým s doplněním ustanovení čl.5 standardní nájemní smlouvy o bod č.4 tohoto znění: „Nabytím platnosti a účinnosti této nájemní smlouvy pozbývá platnosti a účinnosti nájemní smlouva na byt č.3, 1+1, Osadní 41/46, P7“ (1)<br><br>NN - s uzavřením nájemní smlouvy na dobu neurčitou na byt č.11, 1+0, I.kat., Dělnická 31/897, P7 s Martinem Temlem s doplněním ustanovení čl.5 standardní nájemní smlouvy o bod č.4 tohoto znění: „Nabytím platnosti a účinnosti této nájemní smlouvy pozbývá platnosti a účinnosti nájemní smlouva na byt č.3, 1+0, U Průhonu 28/1138, P7 (2)<br><br>s uzavřením smlouvy o ubytování na dobu určitou do 31.12.2004 na byt č.3, Za Papírnou 7/144, P7 s Václavem Boudou (3)<br><br>NN – s uzavřením nájemní smlouvy na dobu určitou do 31.12.2004 na byt č.17, 1+1, U Průhonu 48/1240, P7 s Annou Burdíčkovou (4)<br><br><br>III. nesouhlasí<br><br>s prodloužením nájemní smlouvy na ubytovnu - byt č.10, Za Papírnou 7, P7 s Reginou Ferkovou<br><br>s prominutím dvou let z podmínky 5-ti letého trvalého pobytu na území MČ P7 k zařazení do evidence žadatelů o pronájem bytu ze sociálně zdravotních důvodů za nájemné regulované paní Marie Dráfiové, Jankovcova 45, P7<br><br><br><br><br><br>IV.  trvá<br><br>na svém usnesení č. 1254/02-R ze dne 10.12.2002, kterým nesouhlasí s výměnou bytů mezi Alžbětou Bagárovou bytem U Městských domů 9, P7 a Ing. Janou Smutnou bytem Údolní 51, Brno<br><br>V.   ukládá<br><br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 18.04.2003<br>Úkol:	NN - uzavřít nájemní smlouvu na dobu neurčitou na byt č.14, 3+1, II.kat., Farského 1/1385, P7 s Davidem Hrubým s doplněním ustanovení čl.5 standardní nájemní smlouvy o bod č.4 tohoto znění: „Nabytím platnosti a účinnosti této nájemní smlouvy pozbývá platnosti a účinnosti nájemní smlouva na byt č.3, 1+1, Osadní 41/46, P7“ (1)<br> <br><br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 18.04.2003<br>Úkol:	NN - uzavřít nájemní smlouvu na dobu neurčitou na byt č.11, 1+0, I.kat., Dělnická 31/897, P7 s Martinem Temlem s doplněním ustanovení čl.5 standardní nájemní smlouvy o bod č.4 tohoto znění: „ Nabytím platnosti a účinnosti této nájemní smlouvy pozbývá platnosti a účinnosti nájemní smlouva na byt č.3, 1+0, U Průhonu 28/1138, P7 (2)<br> <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 18.04.2003<br>Úkol:	uzavřít smlouvu o ubytování na dobu určitou do 31.12.2004 na byt č.3, Za Papírnou 7/144, P7 s Václavem Boudou (3)<br> <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 18.04.2003<br>Úkol:	NN - uzavřít nájemní smlouvu na dobu určitou do 31.12.2004 na byt č.17, 1+1, U Průhonu 48/1240, P7 s Annou Burdíčkovou (4)<br> <br><br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 31.03.2003<br>Úkol:	seznámit paní Reginu Ferkovou, Za Papírnou 7, P7, se stanoviskem R MČ P7<br> <br><br><br> <br>Určen:	VED OS Vodičková Daniela<br>Termín: 30.04.2003<br>Úkol:	řešit azylové ubytování paní Reginy Ferkové<br> <br><br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 31.03.2003<br>Úkol:	seznámit paní Marii Dráfiovou, Jankovcova 45, P7, se stanoviskem R MČ P7<br> <br><br> <br>Určen:	VED OMB Špiclová Jaroslava<br>Termín: 31.03.2003<br>Úkol:	seznámit paní Alžbětu Bagárovou, U městských domů 9, P7, se stanoviskem R MČ P7 <br> <br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

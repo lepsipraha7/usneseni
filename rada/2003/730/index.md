@@ -1,0 +1,22 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření nájemních smluv na NBP - V Háji 35, U Průhonu 52, V Háji 35,
+  Kostelní 8, Veletržní 65, U Smaltovny 25, Havanská 6, Praha 7 po ukončeném výběrovém
+  řízení
+datum_vzniku_usneseni: '2003-06-24 00:00:00'
+cislo_usneseni: 0730/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření nájemních smluv na NBP - V Háji 35, U Průhonu 52, V Háji 35, Kostelní 8, Veletržní 65, U Smaltovny 25, Havanská 6, Praha 7 po ukončeném výběrovém řízení</h3></span><div class="center">
+		<strong>č. 0730/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 24.06.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na uzavření nájemních smluv na NBP - V Háji 35, U Průhonu 52, V Háji 35, Kostelní 8, Veletržní 65, U Smaltovny 25, Havanská 6, Praha 7 po ukončeném výběrovém řízení  <br><br>II.	souhlasí <br><br>s uzavřením  NS na NBP - kancelář a sklad v přízemí domu V Háji 35/1243, Praha 7, o rozloze 52 m2,  nájemce Tomáš Fejt, místo podnikání Sedlec 59, Líbeznice, IČO 11402806, za nájemné 1.154,-Kč/m2/rok, na dobu neurčitou<br><br>s uzavřením smlouvy o smlouvě budoucí na NBP - restaurace - kavárna, prodejna salátů a sendvičů v přízemí domu V Háji 35/1243, Praha 7, o rozloze 214 m2,  budoucí nájemce Cafe 42, s.r.o., sídlo Kubelíkova 33/1123, Praha 3, IČO 26744970, za nájemné 800,-Kč/m2/rok, na dobu určitou 10 let <br><br>s uzavřením  smlouvy o smlouvě budoucí na NBP - literární kavárna  v přízemí domu Kostelní 8/360, Praha 7, o rozloze 53,01 m2,  budoucí nájemce Milena Kurucová, místo podnikání Pekařská 247, Brandýs nad Labem - Stará Boleslav, IČO 41831845, za nájemné 3.800,-Kč/m2/rok, na dobu neurčitou<br><br>s uzavřením NS na NBP - garáž v přízemí domu Veletržní 65/825, Praha 7, o rozloze 12 m2, nájemce Petr Machalík (1) , za nájemné 700,-Kč/m2/rok, na dobu neurčitou <br><br>s uzavřením NS na NBP - garáž v přízemí domu U Smaltovny 25/1375, Praha 7, o rozloze 19 m2, nájemce Ing. Josef Dušek (2) , za nájemné 890,-Kč/m2/rok, na dobu neurčitou <br> <br>s uzavřením NS na NBP - garáž č. (10)v přízemí domu Havanská 6/808, Praha 7, o rozloze 13 m2, nájemce Zdeněk Václavík (3) , za nájemné 805,-Kč/m2/rok, na dobu neurčitou <br><br><br><br>III.	ukládá <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 31.07.2003<br>Úkol:	podepsat NS na NBP - kancelář a sklad v přízemí domu V Háji 35/1243, Praha 7, o rozloze 52 m2,  nájemce Tomáš Tejt, místo podnikání Sedlec 59, Líbeznice, IČO 11402806, za nájemné 1.154,-Kč/m2/rok, na dobu neurčitou<br> <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 30.06.2003<br>Úkol:	podepsat smlouvu o smlouvě budoucí na NBP - restaurace - kavárna, prodejna salátů a sendvičů v přízemí domu V Háji 35/1243, Praha 7, o rozloze 214 m2,  budoucí nájemce Cafe 42, s.r.o., sídlo Kubelíkova 33/1123, Praha 3, IČO 26744970, za nájemné 800,-Kč/m2/rok, na dobu určitou 10 let <br> <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 31.07.2003<br>Úkol:	podepsat smlouvu o smlouvě budoucí na NBP - literární kavárna  v přízemí domu Kostelní 8/360, Praha 7, o rozloze 53,01 m2,  budoucí nájemce Milena Kurucová, místo podnikání Pekařská 247, Brandýs nad Labem - Stará Boleslav, IČO 41831845, za nájemné 3.800,-Kč/m2/rok, na dobu neurčitou<br> <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 31.07.2003<br>Úkol:	podepsat NS na NBP - garáž v přízemí domu Veletržní 65/825, Praha 7, o rozloze 12 m2, nájemce Petr Machalík (1) , za nájemné 700,-Kč/m2/rok, na dobu neurčitou <br> <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 31.07.2003<br>Úkol:	podepsat NS na NBP - garáž v přízemí domu U Smaltovny 25/1375, Praha 7, o rozloze 19 m2, nájemce Ing. Josef Dušek (2) , za nájemné 890,-Kč/m2/rok, na dobu neurčitou <br> <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 31.07.2003<br>Úkol:	podepsat NS na NBP - garáž č. (10)v přízemí domu Havanská 6/808, Praha 7, o rozloze 13 m2, nájemce Zdeněk Václavík (3) , za nájemné 805,-Kč/m2/rok, na dobu neurčitou <br> <br><br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

@@ -1,0 +1,18 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření Smlouvy o sdružených službách dodávky elektřiny, Smlouvy
+  o připojení k distribuční soustavě z napěťové hladiny nízkého napětí a Smlouvy o
+  dodávce vody a odvádění odpadních vod, včetně vod srážkových mezi Výstavištěm Praha,
+  a.s. se sídlem Výstaviště 67, Bubeneč, 170 00 Praha 7 a Městskou částí Praha 7 se
+  sídlem nábř. Kpt. Jaroše 1000, 170 00 Praha 7
+datum_vzniku_usneseni: '2018-09-11 00:00:00'
+cislo_usneseni: 0672/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30218/export/Duvodova_zprava~391284.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30218/export/ELE_NEBYT_012A~391283.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30218/export/ELE_NEBYT_2017_012~391282.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30218/export/VODA_NEBYT_2017_012~391281.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30218/export/export~391592.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na uzavření&nbsp;Smlouvy o sdružených službách dodávky elektřiny, Smlouvy o připojení k distribuční soustavě z napěťové hladiny nízkého napětí a Smlouvy o dodávce vody a odvádění odpadních vod, včetně vod srážkových pro podnajatý prostor v Maroldově panoramatu mezi Výstavištěm Praha, a.s. se sídlem Výstaviště 67, Bubeneč, 170 00 Praha 7 a Městskou částí Praha 7 se sídlem nábř. Kpt. Jaroše 1000, 170 00 Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>s textem Smlouvy o sdružených službách dodávky elektřiny, Smlouvy o připojení k distribuční soustavě z napěťové hladiny nízkého napětí a Smlouvy o dodávce vody a odvádění odpadních vod, včetně vod srážkových&nbsp;pro podnajatý prostor v Maroldově panoramatu mezi Výstavištěm Praha, a.s. se sídlem Výstaviště 67, Bubeneč, 170 00 Praha 7 a Městskou částí Praha 7 se sídlem nábř. Kpt. Jaroše 1000, 170 00 Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>uzavření Smlouvy o sdružených službách dodávky elektřiny, Smlouvy o připojení k distribuční soustavě z napěťové hladiny nízkého napětí a Smlouvy o dodávce vody a odvádění odpadních vod, včetně vod srážkových&nbsp;pro podnajatý prostor v Maroldově panoramatu mezi Výstavištěm Praha, a.s. se sídlem Výstaviště 67, Bubeneč, 170 00 Praha 7 a Městskou částí Praha 7 se sídlem nábř. Kpt. Jaroše 1000, 170 00 Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvy na dodávku energií s Výstavištěm Praha a.s.</p></span><span class="urzUkolTermin">  Termín:&nbsp;21.9.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OŠK Ing. Dita Výborová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit administrativu a zpracování smluv na dodávku energií s Výstavištěm Praha</p></span><span class="urzUkolTermin">  Termín:&nbsp;21.9.2018</span></li></ul></li></ol></li></ol>

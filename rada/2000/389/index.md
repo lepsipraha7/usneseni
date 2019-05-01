@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Realizaci usnesení Obvodního zastupitelstva m.č. Praha 7 ze dne 26.4.2000
+datum_vzniku_usneseni: '2000-05-02 00:00:00'
+cislo_usneseni: '0389/00'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Realizaci usnesení Obvodního zastupitelstva m.č. Praha 7 ze dne 26.4.2000</h3></span><div class="center">
+		<strong>č. 0389/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 02.05.2000</strong><br><br>
+	</div>
+<br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> usnesení Obvodního zastupitelstva m.č. Praha 7 ze dne 26.4.2000<br><br>II.	ukládá <br><br> Určen:	     	VED OFI Hurník Jaromír<br>Termín: 10.05.2000<br>Úkol:	potvrdit ORJ OZS přeschválený rozpis výdajové části rozpočtu pro OPO   (0033/00-OZ)<br> <br> Určen:	     	VED OKS Kheil Bohumil<br>Termín: 31.05.2000<br>Úkol:	realizovat přijaté usnesení ve věci výběru projektů pro poskytnutí grantu m.č. Praha 7 v oblasti sportu a kultury pro rok 2000   (0035/00-OZ)<br> <br> Určen:	     	VED OŠK Cerman Miroslav<br>Termín: 31.05.2000<br>Úkol:	realizovat přijaté usnesení ve věci výběru projektů pro poskytnutí grantu m.č. Praha 7 v oblasti školství pro rok 2000   (0035/00-OZ)<br> <br> Určen:	     	VED OZS Pilnáčková Miloslava<br>Termín: 31.05.2000<br>Úkol:	realizovat přijaté usnesení ve věci výběru projektů pro poskytnutí grantu m.č. Praha 7 v oblasti zdravotnictví a sociální pro rok 2000   (0035/00-OZ)<br> <br> Určen:	     	VED OŽP Horská Hana<br>Termín: 31.05.2000<br>Úkol:	realizovat přijaté usnesení ve věci výběru projektů pro poskytnutí grantu m.č. Praha 7 v oblasti životního prostředí pro rok 2000   (0035/00-OZ)<br> <br> Určen:	     	STA Dub Tomáš<br>Termín: 28.04.2000<br>Úkol:	uzavřít darovací smlouvu mezi TJ Lokomotiva a městskou částí Praha 7 na poskytnutí peněžitého daru ve výši skutečných nákladů na realizaci projektu přestavby stávajícího škvárového fotbalového hřiště na travnaté a úpravy tréninkové plochy, maximálně však ve výši 2 000 000,- Kč   (0036/00-OZ)<br> <br><br> Určen:	     	VED OFI Hurník Jaromír<br>Termín: 30.06.2000<br>Úkol:	uvolňovat peněžní prostředky na základě účetních dokladů předkládaných TJ Lokomotiva  (0036/00-OZ)<br> <br> Určen:	     	RADNI Hasal Štěpán<br>Termín: 30.06.2000<br>Úkol:	předložit OZ P-7 návrh smlouvy o vymezení dosavadních bytových a nebytových jednotek a prohlášení vlastníka budovy podle § 5 zákona č. 72/1994 Sb., v platném znění  (0037/00-OZ)<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 30.06.2000<br>Úkol:	realizovat záměr odprodeje samostatně vymezených bytových a nebytových jednotek a příslušející id. části nemovitosti č.p. 616 Dukelských hrdinů 54 a id. části parc. č. 1537 a 1538, k.ú. Holešovice Římskokatolické církvi u sv. Antonína se sídlem Dukelských hrdinů 16, Praha 7  (0037/00-OZ)<br> <br> Určen:	     	TAJ Dušek Josef<br>Termín: 15.05.2000<br>Úkol:	realizovat přijaté usnesení ve věci vyplácení odměn předsedům komisí ObÚ m.č. P 7 (0039/00-OZ)<br> <br> Určen:	     	TAJ Dušek Josef<br>Termín: 28.04.2000<br>Úkol:	zapracovat do Statutu Vydavatelství Hobulet zřízení, postavení a úkoly redakční rady (0040/00-OZ)<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 30.05.2000<br>Úkol:	realizovat odprodej id. 3/4 nemovitosti č.p. 396, Milady Horákové 33 a id. 3/4 parc. č. 2006, k.ú. Holešovice spolumajiteli, společné jmění manželů Piskáček Petr (1) a Zdeňka (2), bytem Praha 6, Plojharova 9 za cenu obvyklou - tržní   (0041/00-OZ)<br> <br> Určen:	     	ZAS STA Vayhel Luboš<br>Termín: 30.06.2001<br>Úkol:	doplnit koncepci bytové politiky m.č. Praha 7 s důrazem na postup m.č. v deregulaci nájemného na vyhodnocení privatizace domů, či případného prodeje bytů   (0042/00-OZ)<br> <br><br>
+</div>
+</div>

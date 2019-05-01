@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření dodatku č. 3 k nájemní smlouvě mezi ZŠ Štrossmayerovo
+  náměstí 4 a Gymnáziem Přírodní škola o.p.s. a zmocnění p. starosty Mgr. Jana Čižinského
+  k podepsání souhlasu k umístění sídla Gymnázia do objektu ZŠ Letohradská 370/1,
+  Praha 7
+datum_vzniku_usneseni: '2016-09-27 00:00:00'
+cislo_usneseni: '0944/16-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28190/export/Duvodovazprava~111068.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28190/export/ZadostzmenasidlaGymnazium~111067.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28190/export/Navrhdodatku3GymnaziumPrirodniskola~111066.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28190/export/Souhlassumistenimsidla~111065.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28190/export/export~297777.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na uzavření dodatku č. 3 k nájemní smlouvě mezi ZŠ Štrossmayerovo náměstí 4 a Gymnáziem Přírodní škola o.p.s. (IČ 25107500) a zmocnění starosty Mgr. Jana Čižinského k podepsání souhlasu k umístění sídla Gymnázia do objektu ZŠ Letohradská 370/1, Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>s uzavřením Dodatku č. 3 ke smlouvě o nájmu nebytových prostor v objektu ZŠ letohradská 370/1, Praha 7 a zmocnění starosty Mgr. Jana Čižinského k podepsání souhlasu k umístění sídla Gymnázia do objektu ZŠ Letohradská 370/1, Praha 7, zřizovanou MČ Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>předložený návrh Dodatku č. 3 k nájemní smlouvě mezi ZŠ Štrossmayerovo náměstí 4 a Gymnáziem Přírodní škola o.p.s. a&nbsp;<span style="font-family: " data-mce-style="">předložený návrh materiálu "Souhlas s umístěním sídla" určený k podpisu panem starostou</span></p></span></li></ol></li><li class="urzClass1" id=""><span name="41">zmocňuje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>Mgr. Jana Čižinského k podepsání souhlasu k umístění sídla Gymnázia do objektu ZŠ Letohradská 370/1, Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Podepsat a úředně ověřit podpis na dokument "Souhlas s umístěním sídla"</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.9.2016</span></li></ul></li><li class="urzClass2"><span><p>VED OŠK Ing. Dita Výborová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Informovat ředitele ZŠ o rozhodnutí RMČ</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.9.2016</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uspořádání majetkových vztahů mezi MČ-P7 a Pražskou energetikou a.s. v
+  souvislosti s transformačními stanicemi  zřízenými v objektech svěřených m.č. P-7
+datum_vzniku_usneseni: '2000-02-29 00:00:00'
+cislo_usneseni: 0163/00
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uspořádání majetkových vztahů mezi MČ-P7 a Pražskou energetikou a.s. v souvislosti s transformačními stanicemi  zřízenými v objektech svěřených m.č. P-7</h3></span><div class="center">
+		<strong>č. 0163/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 29.02.2000</strong><br><br>
+	</div>
+<br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh k uspořádání majetkoprávních vztahů mezi MČ-P7 a Pražskou energetikou a.s. ve věci transformačních stanic, zřízených v objektech svěřených  MČ- P7<br><br>II.	schvaluje <br><br>text souhlasného prohlášení MČ-P7 a Pražské energetiky a.s.  o potvrzení vzniku věcných břemen ze zákona č. 79/1957 Sb.  spočívajících v právu provozování a přístupu za účelem oprav a údržby transformačních stanic v objektech   U Elektrárny 10/9,  U Průhonu 52/1242,  Přístavní 49/1187,         U Smaltovny 17/1218<br><br>III.	souhlasí <br><br>s návrhem na záznam práva věcného břemene ve prospěch Pražské energetiky a.s., spočívající v právu provozování a přístupu za účelem oprav a údržby v objektech U Elektrárny 10/9,  U Průhonu 52/1242, Přístavní 49/1187,  U Smaltovny 17/1218<br><br>s uzavřením smlouvy o zřízení věcného břemene a s návrhem na vklad práva věcného břemene ve prospěch Pražské energetiky a.s. spočívající ve strpění provozu a užívání vestavěné distribuční trafostanice v objektu U Studánky 621/15, na základě ustanovení čl.III odst 2 smlouvy č. 8826102798, uzavřené mezi MČ-P7 a Pražskou energetikou<br><br>se zveřejněním záměru pronájmu na úřední desce ObÚ P7 a  s následným uzavřením nájemních smluv o pronájmu nebytových prostor za účelem provozování zařízení transformačních stanic v objektech  Janovského 15/985, Sládkova 9/259,U Smaltovny 20/1335, Dělnická 34/1044,  Sochařská 2/333, Korunovační 28/127 na dobu určitou do 31.12.2030 za cenu 500,- Kč/m2/rok, pokud nebudou vzneseny připomínky<br><br><br>IV.	ukládá <br><br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 07.03.2000<br>Úkol:	zveřejnit záměr pronájmu na úřední desce ObÚ P7 a  s následně uzavřít nájemní smluvy o pronájmu nebytových prostor za účelem provozování zařízení transformačních stanic v objektech  Janovského 15/985, Sládkova 9/259,U Smaltovny 20/1335, Dělnická 34/1044,  Sochařská 2/333, Korunovační 28/127 na dobu určitou do 31.12.2030 za cenu 500,- Kč/m2/rok<br> <br><br> Určen:	     	STA Dub Tomáš<br>Termín: 20.03.2000<br>Úkol:	podepsat souhlasné prohlášení  o potvrzení vzniku věcných břemen ze zákona č. 79/1957 Sb.  spočívajících v právu provozování a přístupu za účelem oprav a údržby transformačních stanic v objektech   U Elektrárny 10/9,  U Průhonu 52/1242,  Přístavní 49/1187,  U Smaltovny 17/1218<br> <br> Určen:	     	STA Dub Tomáš<br>Termín: 20.03.2000<br>Úkol:	podepsat návrh na záznam práva věcného břemene ve prospěch Pražské energetiky a.s., spočívající v právu provozování a přístupu za účelem oprav a údržby v objektech  U Elektrárny 10/9,  U Průhonu 52/1242, Přístavní 49/1187,  U Smaltovny 17/1218<br> <br><br> Určen:	     	STA Dub Tomáš<br>Termín: 20.03.2000<br>Úkol:	podepsat smlouvu o zřízení věcného břemene k objektu U Studánky 621/15 <br> <br><br> Určen:	     	STA Dub Tomáš<br>Termín: 20.03.2000<br>Úkol:	podepsat návrh na vklad práva věcného břemene ve prospěch Pražské energetiky a.s. spočívající ve strpění provozu a užívání vestavěné distribuční trafostanice v objektu U Studánky 621/15<br> <br> Určen:	     	STA Dub Tomáš<br>Termín: 20.04.2000<br>Úkol:	po zveřejnění záměru podepsat smlouvu o pronájmu nebytových prostor za účelem provozování zařízení transformačních stanic v objektech  Janovského 15/985, Sládkova 9/259,U Smaltovny 20/1335, Dělnická 34/1044,  Sochařská 2/333, Korunovační 28/127 na dobu určitou do 31.12.2030 za cenu 500,- Kč/m2/rok, pokud nebudou vzneseny připomínky<br>
+</div>
+</div>

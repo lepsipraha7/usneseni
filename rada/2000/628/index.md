@@ -1,0 +1,19 @@
+---
+layout: detail_usneseni
+nazev_bodu: Řešení žádostí projednaných při jednání majetkové komise dne 21.6.2000
+datum_vzniku_usneseni: '2000-07-04 00:00:00'
+cislo_usneseni: '0628/00'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Řešení žádostí projednaných při jednání majetkové komise dne 21.6.2000</h3></span><div class="center">
+		<strong>č. 0628/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 04.07.2000</strong><br><br>
+	</div>     <br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál -Návrh na na řešení žádostí projednaných při jednání majetkové komise dne 21.6.2000<br><br>II.	konstatuje,<br><br>že nemá námitek k úplatnému převodu části pozemku č. parc. 1177 , k.ú. Holešovice ve vlastnictví <br>Hl. města Prahy  žadateli panu Boldovi  z důvodu sloučení s dalšími pozemky<br><br>III.	souhlasí <br><br>se změnou platebních podmínek za umístění antény pro příjem internetového signálu  na střechu domu č.p. 1246 Přístavní 39 pro firmu ORBIS ARTIS  a to nově za cenu 2 500,- Kč ( oproti původně schválených 25 000,- Kč )<br><br>se záměrem pronájmů pozemků svěřených m.č. P7 , na kterých jsou vybudovány soukromé garáže <br>za cenu pronájmu ve výši 30,- Kč/m2/ rok<br><br>se záměrem prodeje pozemků svěřených m.č. P7 , na kterých jsou vybudovány soukromé garáže <br>za cenu ve výši  1 870,- Kč za 1 m2<br><br>se změnou platebních podmínek za umístění technologie mobilních telefonu sítě EuroTel  na domě Osadní 46 a to nově za cenu 250 000,- ročně ( oproti původně schválených 320 000,- Kč )<br><br>se záměrem pronájmu další části pozemku při objektu Jankovcova 23 N firmě STAKONA , s.r.o. <br>po vyřešení majetkoprávních vztahů<br><br>se záměrem pronájmu pozemku č. parc. 1651, k.ú. Holešovice  o výměře 154 m2   svěřeného m.č. P7, firmě PRONÁJMY se sídlem v Praze 7, Heřmanova 24 za cenu pronájmu ve výši 30,- Kč /m2/rok<br><br>s uvedením sloučených bytových jednotek do původního kolaudovaného stavu a s drobnými stavebními úpravami v bytě nájemce Radka Prokopa a Ivany Prokopové, bytem  Veverkova 3, na vlastní náklady nájemce<br><br><br>IV.	nesouhlasí<br><br>s úhradou zvýšených finančních nákladů na vytápění v bytě nájemce paní Milady Chitussiové, <br>bytem Ortenovo nám. 12<br><br>V.	ukládá <br><br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 12.07.2000<br>Úkol:	seznámit firmu ORBIS ARTIS se sídlem v Přístavní 39 s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 12.07.2000<br>Úkol:	seznámit EuroTel Praha , spol. s r.o. s výsledkem projednání nové žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 12.07.2000<br>Úkol:	seznámit firmu STAKONA , s.r.o.  s výsledkem projednání žádosti <br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 12.07.2000<br>Úkol:	seznámit MHMP se stanoviskem OR<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 12.07.2000<br>Úkol:	seznámit firmu PRONÁJMY se sídlem v Praze 7 , Heřmanova 24  , s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 25.07.2000<br>Úkol:	zveřejnit na úřední desce po dobu 30-ti dnů záměr pronájmu pozemku č. parc. 1651 o výměře 154 m2  svěřeného m.č. P7 , firmě PRONÁJMY se sídlem , Praha 7, Heřmanova 24<br> <br> Určen:	     	VED OP Hájniková Danka<br>Termín: 18.08.2000<br>Úkol:	vypracovat návrh smlouvy o pronájmu pozemku č. parc. 1651 , k.ú. Holešovice <br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 12.07.2000<br>Úkol:	seznámit nájemce paní Miladu Chitussiovou, bytem Ortenovo náměstí 12 s výsledkem projednání žádosti<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 12.07.2000<br>Úkol:	seznámit nájemce pana Radka Prokopa a paní Ivanu Prokopovou , bytem Veverkova 3 s výsledkem projednání žádosti<br> <br>
+</div>
+</div>

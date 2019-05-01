@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Podání návrhů na výkon rozhodnutí na základě pravomocných soudních rozhodnutí
+datum_vzniku_usneseni: '2001-09-11 00:00:00'
+cislo_usneseni: '0955/01'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Podání návrhů na výkon rozhodnutí na základě pravomocných soudních rozhodnutí</h3></span><div class="center">
+		<strong>č. 0955/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 11.09.2001</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na podání návrhů na výkon rozhodnutí na základě pravomocných soudních rozhodnutí<br><br>II.	souhlasí<br><br>s podáním návrhů na výkon rozhodnutí na základě pravomocných soudních rozhodnutí proti povinným uvedeným v příloze č.1, která je součástí tohoto materiálu<br><br>III.	ukládá <br><br>  Určen:	–––––	VED OBH Kněžourek Jan<br>Termín: 31.10.2001<br>Úkol:	zajistit přístřeší, příp. náhradní ubytování těm povinným v příloze č.1, jimž byla uložena povinnost vyklidit byt a vyzvat je ke splnění této povinnosti<br> <br> Určen:	–––––	Lužová Jana<br>Termín: průběžně<br>Úkol:	zajistit podání návrhů na výkon rozhodnutí na základě pravomocných soudních rozhodnutí proti povinným uvedeným v příloze č.1, která je součástí tohoto materiálu<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Marii Balážové<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Jaroslavě Banýrové<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Vlastě Beutelschmidtové<br> <br><br><br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti společnosti BH Centrum<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Michalu Blažkovi<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Štěpánu Duškovi<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Petru Ebrovi<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Alexandru Fabiánovi<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Regině Ferkové<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Martinu Chovanovi<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Milanu Jeníkovi<br>  Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Lence Krausové<br>  Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Tomáši Landovi<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Ivaně Mánkové<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Slavoji Menclovi<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Bohumilu Nešlehovi<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Milanu Skotálkovi<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Aleně Uhlířové<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Janu Vávrovi<br> <br> Určen:	–––––	STA Dub Tomáš<br>Termín: 31.12.2001<br>Úkol:	podepsat návrh na výkon rozhodnutí proti Kláře Žižkové<br> <br> <br> <br> <br><br><br> 	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

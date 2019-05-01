@@ -1,0 +1,12 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na úpravu platového výměru pro ředitele příspěvkové organizace Základní
+  škola T. G. Masaryka, Praha 7, Ortenovo náměstí 34
+datum_vzniku_usneseni: '2017-10-10 00:00:00'
+cislo_usneseni: '0915/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29564/export/1Duvodovazprava~255955.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29564/export/export~295111.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na úpravu platového výměru pro ředitele příspěvkové organizace Základní škola T. G. Masaryka, Praha 7, Ortenovo náměstí 34 v souladu se zákonem č. 262/2006 Sb., zákoníkem práce ve znění pozdějších předpisů<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>úpravený platový výměr pro Mgr. Jana Rychtra, ředitele příspěvkové organizace Základní škola T. G. Masaryka, Praha 7, Ortenovo náměstí 34</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>účinnost platového výměru pro Mgr. Jana Rychtra, ředitele příspěvkové organizace Základní škola T. G. Masaryka, Praha 7, Ortenovo náměstí 34 od 1. 10. 2017<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>Ing. Ditu Výborovou vedoucí odboru školství k podpisu upraveného platového výměru pro Mgr. Jana Rychtra, ředitele příspěvkové organizace Základní škola T. G. Masaryka, Praha 7, Ortenovo náměstí 34</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OŠK Ing. Dita Výborová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat a předat upravený platový výměr Mgr. Janu Rychtrovi</p></span><span class="urzUkolTermin">  Termín:&nbsp;25.10.2017</span></li></ul></li></ol></li></ol>

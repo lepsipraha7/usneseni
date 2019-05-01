@@ -1,0 +1,23 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření nájemní smlouvy záměrem, na dobu určitou 1 rok, na nebytový
+  prostor č. 521 v podílovém domě U Studánky 29/241, Praha 7, na základě návrhu druhého
+  spoluvlastníka
+datum_vzniku_usneseni: '2016-06-07 00:00:00'
+cislo_usneseni: '0594/16-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27833/export/DZ_Kovacova_Studanka241~70381.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27833/export/02_Kovacova_Studanka241~70380.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27833/export/export~298493.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li id="" class="urzClass1"><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>Návrh na uzavření nájemní smlouvy záměrem, na dobu určitou 1 rok, na nebytový prostor č. 521 v podílovém domě U Studánky 29/241, Praha 7, na základě návrhu druhého spoluvlastníka</p></span></li></ol></li>
+
+<li id="" class="urzClass1"><span name="26">souhlasí</span> 
+<ol class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>se zveřejněním záměru po dobu 15 dnů na úřední desce Úřadu MČ Praha 7, na uzavření nájemní smlouvy na dobu určitou 1 rok od 15.07.2016 do 14.07.2017, na pronájem nebytového prostoru č. 521, o rozloze 98 m2, k nájemcem zamýšlenému účelu užívání jako prostor pro design a umění – prezentace umělců a výrobků z chráněných dílen + caffe bar + čítárna + pořádání workshopů a seminářů + květinářství (nájemce musí dodržet veškeré zákonné podmínky k provozování zamýšleného účelu užívání), na adrese U Studánky 29/241, Praha 7, s paní Barborou Kováčovou, IČO: 05136164, Malířská 386/1, 170 00 Praha - Bubeneč, za nájemné 13.000,- Kč/měsíc/předmět nájmu (1.591,84 Kč/m2/rok), na základě návrhu druhého spoluvlastníka<br></p></span></li>
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>s uzavřením nájemní smlouvy na dobu určitou 1 rok od 15.07.2016 do 14.07.2017, po zveřejněném záměru po dobu 15 dnů na úřední desce Úřadu MČ Praha 7, ke kterému nebyly vzneseny námitky, na pronájem nebytového prostoru č. 521, o rozloze 98 m2,&nbsp;k nájemcem zamýšlenému účelu užívání jako prostor pro design a umění – prezentace umělců a výrobků z chráněných dílen + caffe bar + čítárna + pořádání workshopů a seminářů + květinářství (nájemce musí dodržet veškeré zákonné podmínky k provozování zamýšleného účelu užívání), na adrese U Studánky 29/241, Praha 7, s paní Barborou Kováčovou, IČO: 05136164, Malířská 386/1, 170 00 Praha - Bubeneč, za nájemné 13.000,-Kč/měsíc/předmět nájmu (1.591,84 Kč/m2/rok), na základě návrhu druhého spoluvlastníka<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zveřejnit záměr po dobu 15 dnů na úřední desce Úřadu MČ Praha 7, na uzavření nájemní smlouvy na dobu určitou 1 rok od 15.07.2016 do 14.07.2017, na pronájem nebytového prostoru č. 521, o rozloze 98 m2, k nájemcem zamýšlenému účelu užívání jako prostor pro design a umění – prezentace umělců a výrobků z chráněných dílen + caffe bar + čítárna + pořádání workshopů a seminářů + květinářství (nájemce musí dodržet veškeré zákonné podmínky k provozování zamýšleného účelu užívání), na adrese U Studánky 29/241, Praha 7, s paní Barborou Kováčovou, IČO: 05136164, Malířská 386/1, 170 00 Praha - Bubeneč, za nájemné 13.000,- Kč/měsíc/předmět nájmu (1.591,84 Kč/m2/rok), na základě návrhu druhého spoluvlastníka</p></span><span class="urzUkolTermin">  Termín:&nbsp;10.6.2016</span></li></ul></li><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít nájemní smlouvu na dobu určitou 1 rok od 15.07.2016 do 14.07.2017, po zveřejněném záměru po dobu 15 dnů na úřední desce Úřadu MČ Praha 7, ke kterému nebyly vzneseny námitky, na pronájem nebytového prostoru č. 521, o rozloze 98 m2, k nájemcem zamýšlenému účelu užívání jako prostor pro design a umění – prezentace umělců a výrobků z chráněných dílen + caffe bar + čítárna + pořádání workshopů a seminářů + květinářství (nájemce musí dodržet veškeré zákonné podmínky k provozování zamýšleného účelu užívání), na adrese U Studánky 29/241, Praha 7, s paní Barborou Kováčovou, IČO: 05136164, Malířská 386/1, 170 00 Praha - Bubeneč, za nájemné 13.000,-Kč/měsíc/předmět nájmu (1.591,84 Kč/m2/rok), na základě návrhu druhého spoluvlastníka</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.7.2016</span></li></ul></li></ol></li>
+</ol>

@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Stanovení pořadu 1. zasedání Zastupitelstva MČ P7 dne 24.2.2003
+datum_vzniku_usneseni: '2003-02-11 00:00:00'
+cislo_usneseni: 0164/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Stanovení pořadu 1. zasedání Zastupitelstva MČ P7 dne 24.2.2003</h3></span><div class="center">
+		<strong>č. 0164/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 11.02.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>Návrh na stanovení pořadu 1. zasedání Zastupitelstva MČ P7 dne 24.2.2003<br><br>II.	schvaluje <br><br>Pořad 1. zasedání Zastupitelstva MČ P7 dne 24.2.2003<br><br><br>1.	Volba společné volební a návrhové komise<br>2.	Návrh na volbu přísedících k Obvodnímu soudu pro Prahu 7<br>3.	Návrh na doplnění člena Kontrolního výboru Z MČ P7<br>4.	Návrh na doplnění člena Finančního výboru Z MČ P7<br>5.	Návrh ke konečným úpravám rozpočtu v hlavní činnosti MČ Praha 7 za měsíc prosinec 2002<br>6.	Návrh k rozpočtu MČ Praha 7 na rok 2003 - hlavní činnost<br>7.	Návrh ke stanovení usměrňování výše prostředků, vynakládaných na platy a odměny v  Úřadu MČ Praha 7 a v příspěvkových organizacích Vydavatelství Hobulet, KD Vltavská, Pečovatelské centrum P7 a SAZ P7 pro rok 2003<br>8.	Návrh k poskytování dotací na opravy bytového fondu zasaženého povodní v srpnu r. 2002 z povodňového fondu obce hl.m. Prahy<br>9.	Návrh k rámcovému plánu hlavních úkolů Finančního výboru Z MČ P7 na rok 2003<br>10.	Návrh hospodářské činnosti MČ Praha 7 pro rok 2003 - zdaňovaná činnost<br>11.	Návrh na změnu podpisu Kupní smlouvy mezi MČ Praha 7 zastoupenou starostou p. Radkem Mikšíkem a Konzervatoří a Ladičskou školou Jana Deyla, se sídlem Praha 1, Maltézské nám. 14, zastoupené JUDr. Alenou Štumpfovou<br>12.	Návrh na odepsání pohledávek do nákladů MČ Praha 7<br>13.	Návrh na odepsání promlčených pohledávek do nákladů MČ Praha 7<br>14.	Informace o aktuálním stavu pohledávek u bytů a NBP v domech svěřených MČ Praha 7<br>15.	Návrh na odpuštění poplatků z prodlení dle usnesení Z MČ P7 č. 0049/02-Z, z 22.4.2002<br>16.	Návrh na řešení žádosti Bytového družstva Š 163, se sídlem Šmeralova 163/34, Praha 7 ve věci prominutí poplatku z prodlení z dlužného nájemného<br>17.	Návrh na prodej domů (a s nimi souvisejících pozemků) schválených Z MČ Praha 7 č. 0129/02-Z ze dne 21. 10. 2002 k prodeji bytovým družstvům zapsaným v obchodním rejstříku<br>18.	Návrh na schválení plánu práce Kontrolního výboru Z MČ P7<br>19.	Návrh na poskytnutí darů neuvolněným členům Zastupitelstva MČ Praha 7 za období červenec - říjen 2002<br>20.	Návrh na poskytnutí darů členům komisí Rady MČ Praha 7 a členům výborů Zastupitelstva MČ Praha 7, kteří nejsou členy Z MČ P7 za období červenec - říjen 2002<br>21.	Návrh na odvolání členů Správní rady Sociálního fondu a jmenování nových členů Správní rady Sociálního fondu<br>22.	Návrh na realizaci doporučení ZK - jmenování členů Správní rady Fondu zdraví<br>23.	Návrh na poskytnutí finančního příspěvku z Fondu zdraví paní Naděždě Kocarové<br>24.	Návrh na výběr projektů pro poskytnutí grantů Městské části Praha 7 v oblasti sportu, kultury, zdravotnictví, protidrogové prevence, sociální a školství pro rok 2003<br>25.	Návrh na změnu usnesení č. 0869/02-R, z 27.08.2002 - na souhlas s návrhem dohody o vzájemné spolupráci s městskou částí Bělehradu - NOVI BEOGRAD v Jugoslávii<br>26.	Informace o protipovodňových opatřeních Prahy 7<br>27.	Informace o činnosti Rady MČ Praha 7 v období mezi 4. zasedáním Zastupitelstva MČ Praha 7 v roce 2002 a 1. zasedáním Zastupitelstva MČ Praha 7 v roce 2003<br>28.	Dopisy, adresované Z MČ P7<br>29.	R ů z n é<br>30.	Interpelace, diskuse <br>31.	Závěr <br>	<br>	<br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

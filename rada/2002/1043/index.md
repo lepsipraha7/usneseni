@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření NS na NBP - Osadní 6, Praha 7 po zveřejněném záměru
+datum_vzniku_usneseni: '2002-10-08 00:00:00'
+cislo_usneseni: 1043/02
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření NS na NBP - Osadní 6, Praha 7 po zveřejněném záměru</h3></span><div class="center">
+		<strong>č. 1043/02</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 08.10.2002</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na uzavření NS na NBP - Osadní 6, Praha 7 po zveřejněném záměru  <br><br><br>II.	souhlasí <br><br>se zveřejněním záměru na úřední desce po dobu 15- ti dnů na pronájem NBP - prodejna (dětský bazar a burza) v suterénu domu Osadní 6/1472, Praha 7, nájemce Petra Murchová, místo podnikání Přístavní 33, Praha 7, IČO 42519993, o rozloze 36m2, na dobu určitou 5 let, za nájemné 190,-Kč/m2/rok s podmínkou, že úpravy v NBP budou provedeny na vlastní náklady nájemce<br><br>s uzavřením NS po zveřejněném záměru, pokud nebudou vzneseny žádné připomínky na pronájem NBP - prodejna (dětský bazar a burza) v suterénu domu Osadní 6/1472, Praha 7, nájemce Petra Murchová, místo podnikání Přístavní 33, Praha 7, IČO 42519993, o rozloze 36m2, na dobu určitou 5 let, za nájemné 190,-Kč/m2/rok s podmínkou, že úpravy v NBP budou provedeny na vlastní náklady nájemce<br><br>se zveřejněním záměru na úřední desce po dobu 15- ti dnů na pronájem NBP - pracovna v suterénu domu Osadní 6/1472, Praha 7, nájemce Václav Syřiště (1), o rozloze 23,75m2, na dobu určitou 5 let, za nájemné 190,-Kč/m2/rok s podmínkou, že úpravy v NBP budou provedeny na vlastní náklady nájemce<br><br>s uzavřením NS po zveřejněném záměru, pokud nebudou vzneseny žádné připomínky na pronájem NBP - pracovna v suterénu domu Osadní 6/1472, Praha 7, nájemce Václav Syřiště (1), o rozloze 23,75m2, na dobu určitou 5 let, za nájemné 190,-Kč/m2/rok s podmínkou, že úpravy v NBP budou provedeny na vlastní náklady nájemce<br><br><br><br><br>III.	ukládá <br><br> <br>Určen:	VED OBH Wawrečka Ronald<br>Termín: 15.10.2002<br>Úkol:	zveřejnit záměr na úřední desce po dobu 15-ti dnů na pronájem NBP - prodejna (dětský bazar a burza) v suterénu domu Osadní 6/1472, Praha 7, nájemce Petra Murchová, místo podnikání Přístavní 33, Praha 7, IČO 42519993, o rozloze 36m2, na dobu určitou 5 let, za nájemné 190,-Kč/m2/rok s podmínkou, že úpravy v NBP budou provedeny na vlastní náklady nájemce<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 30.11.2002<br>Úkol:	uzavřít NS po zveřejněném záměru, pokud nebudou vzneseny žádné připomínky na pronájem NBP - prodejna (dětský bazar a burza) v suterénu domu Osadní 6/1472, Praha 7, nájemce Petra Murchová, místo podnikání Přístavní 33, Praha 7, IČO 42519993, o rozloze 36m2, na dobu určitou 5 let, za nájemné 190,-Kč/m2/rok s podmínkou, že úpravy v NBP budou provedeny na vlastní náklady nájemce<br> <br><br> <br>Určen:	VED OBH Wawrečka Ronald<br>Termín: 15.10.2002<br>Úkol:	zveřejnit záměr na úřední desce po dobu 15-ti dnů na pronájem NBP - pracovna v suterénu domu Osadní 6/1472, Praha 7, nájemce Václav Syřiště (1), o rozloze 23,75m2, na dobu určitou 5 let, za nájemné 190,-Kč/m2/rok s podmínkou, že úpravy v NBP budou provedeny na vlastní náklady nájemce<br> <br><br> <br>Určen:	ZAS STA Vayhel Luboš<br>Termín: 30.11.2002<br>Úkol:	uzavřít NS po zveřejněném záměru, pokud nebudou vzneseny žádné připomínky na pronájem NBP - pracovna v suterénu domu Osadní 6/1472, Praha 7, nájemce Václav Syřiště (1), o rozloze 23,75m2, na dobu určitou 5 let, za nájemné 190,-Kč/m2/rok s podmínkou, že úpravy v NBP budou provedeny na vlastní náklady nájemce<br> <br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starostyMěstské části Praha 7	Ing. Tomáš Dub starostaMěstské části Praha 7<br>	<br><br>
+</div>
+</div>

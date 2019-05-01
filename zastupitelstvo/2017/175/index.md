@@ -1,0 +1,48 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na zřízení bezúplatného práva stavby na pozemcích parc. č. 303,
+  304, 305, vše k.ú. Holešovice, pro Českobratrskou církev evangelickou
+datum_vzniku_usneseni: '2017-12-04 00:00:00'
+cislo_usneseni: 0175/17-Z
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/01_pravoRajska_2017~304544.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/02I_pravoRajska_2017~304543.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/02II_pravoRajska_2017~304542.docx
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/03_pravoRajska_2017~304541.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/04_pravoRajska_2017~304540.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/05_pravoRajska_2017~304539.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/06_pravoRajska_2017~304538.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/07_pravoRajska_2017~304537.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/08_pravoRajska_2017~304536.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/09_pravoRajska_2017~304535.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/10_pravoRajska_2017~304534.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/11_pravoRajska_2017~304533.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/12_pravoRajska_2017~304532.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26918/export/export~308767.pdf
+organ: zastupitelstvo
+---
+<ol class="urzList_view" id="urzList">
+<li class="urzClass1" id=""><span name="1">bere na vědomí</span>
+<ol class="urzOlClass decimal ">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>Návrh na zřízení bezúplatného práva stavby na pozemcích parc. č. 303, 304, 305, vše k.ú. Holešovice, pro Českobratrskou církev evangelickou</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="50">konstatuje,</span>
+<ol class="urzOlClass decimal ">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že v souladu s usnesením Zastupitelstva MČ Praha 7 č. 0044/16-Z ze dne 14.03.2016 nabyla MČ Praha 7 koupí do svěřené správy pozemky parc. č. 303 a 304 v k.ú. Holešovice, v ulici Rajská, za cenu 15.787.000,- Kč, v souladu se znaleckým posudkem, za účelem zvyšování kapacit pro školních a předškolní vzdělávání<br></p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že s ohledem na demografický vývoj na území MČ Praha 7, kdy stoupl počet ročně narozených dětí, s čím je spojený vzrůstající tlak na kapacity školských zařízení, je rozšiřování těchto kapacit prioritou MČ Praha 7</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že MČ Praha 7 má značně omezený rozpočet, kdy investice do nemovitostí jsou omezeny na stávající budovy ve zhoršeném stavu</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že s ohledem na dlouhodobý rozpočtový výhled by MČ Praha 7 nemohla zahájit výstavbu nových kapacit pro školní a předškolní vzdělávání, na pozemcích parc. č. 303 a 304 v k.ú. Holešovice, v ulici Rajská, z vlastních zdrojů<br></p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že Bratrská škola - církevní základní škola, IČ 48546119, Rajská 300/3, Praha 7, je na základě smlouvy o nájmu nemovitostí ze dne 6.9.2000, ve znění pozdějších dodatků, nájemcem objektu ve svěřené správě MČ Praha 7 na adrese Rajská 3/300, za účelem provozování církevní základní školy, s dobou nájmu do 06.09.2020</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že zřizovatel nájemce objektu Rajská 3/300, Českobratrská církev evangelická, IČO: 00445223, Jungmannova 22/9, Praha 1, je připravena na pozemcích parc. č. 303, 304, 305, vše k.ú. Holešovice, provést výstavbu nové budovy základní školy, včetně školní jídelny a tělocvičny, kterou budou moci užívat i žáci ze školského zařízení Rajská 3/300, jejímž provozovatelem po uplynutí stávajícího nájemního vztahu bude městská část</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že tímto řešením nebudou vyžadovány další investiční prostředky MČ Praha 7 a současně bude zachována již zavedená škola v Praze 7, přičemž se uvolní prostory ve stávajícím pronajatém objektu Rajská 3/300 a oprávněný z práva stavby bude zavázán k tomu, že bude přednostně brát žáky z Prahy 7 a to do minimálního poměru 2/3</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že s ohledem na výše uvedené, byla investice MČ Praha 7 do nákupu pozemků ve výši 15.787.000,- Kč výhodná, neboť za tuto částku nelze za současných podmínek postavit kuchyň, jídelnu a tělocvičnu, a to ani na vlastním pozemku, navíc tímto dojde k rozšíření kapacit školských zařízení v Praze 7</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že usnesením Zastupitelstva MČ Praha 7 č. 0153/17-Z ze dne 09.10.2017 byl schválen záměr zřízení bezúplatného práva stavby na pozemcích parc. č. 303, 304, 305, vše k.ú. Holešovice, pro Českobratrskou církev evangelickou a ten byl ve dnech 14.-30.11.2017 zveřejněn na úřední desce</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že revokace usnesení Rady MČ Praha 7 č. 1066/17-R ze dne 24.11.2017, včetně změn ve smlouvě, vychází z projednání materiálu návrhu usnesení Zastupitelstva MČ Praha 7 č.e. 0849, Komisí pro majetek, bytové a nebytové prostory dne 27.11.2017 a navazujících usnesení č. 316/17-KMBN a č. 317/17-KMBN, po předchozím odložení projednání materiálu touto komisí dne 13.11.2017</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že návrh usnesení Zastupitelstva MČ Praha 7 č.e. 0849 byl projednán Finančním výborem Zastupitelstva MČ Praha 7 dne 27.11.2017, který svým usnesením vzal předložený materiál na vědomí a doporučil jej Zastupitelstvu MČ Praha 7 ke schválení, přičemž návrh změn smlouvy nemůže negativně neovlivnit finanční vztahy mezi MČ Praha 7 a stavebníkem (Českobratrská církev evangelická)</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="24">schvaluje</span>
+<ol class="urzOlClass decimal ">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>bezúplatné smluvní zřízení práva stavby - budovy základní školy - k pozemkům ve vlastnictví hl. m. Prahy, svěřená správa MČ Praha 7, parc. č. 303, 304, 305, vše v k.ú. Holešovice, obec Praha, zapsané na listu vlastnictví č. 825 u Katastrálního úřadu pro hlavní město Prahu, Katastrální pracoviště Praha, ve prospěch stavebníka&nbsp;Českobratrská církev evangelická, IČO: 00445223, Jungmannova 22/9, Praha 1,&nbsp;v souladu s ust. § 1244 zákona č. 89/2012 Sb, Občanský zákoník, na dobu určitou do 31.10.2116, vkladem do katastru nemovitostí<br></p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>text a uzavření smlouvy o zřízení práva stavby - budovy základní školy - mezi MČ Praha 7 a stavebníkem Českobratrská církev evangelická, IČO: 00445223, Jungmannova 22/9, Praha 1, k pozemkům parc. č. 303, 304, 305, vše v k.ú. Holešovice, obec Praha, zapsané na listu vlastnictví č. 825 u Katastrálního úřadu pro hlavní město Prahu, Katastrální pracoviště Praha, ve prospěch stavebníka, v souladu s ust. § 1244 zákona č. 89/2012 Sb, Občanský zákoník, bezúplatně, na dobu určitou do 31.10.2116 a vklad do katastru nemovitostí</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="68">rozhoduje</span>
+<ol class="urzOlClass decimal ">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>dle § 89 odst. 2 písm l) zákona č. 131/2000 Sb. o hl. m. Praze, o bezúplatném smluvním zřízení práva stavby - budovy základní školy - k pozemkům ve vlastnictví hl. m. Prahy, svěřená správa MČ Praha 7, parc. č. 303, 304, 305, vše v k.ú. Holešovice, obec Praha, zapsané na listu vlastnictví č. 825 u Katastrálního úřadu pro hlavní město Prahu, Katastrální pracoviště Praha, ve prospěch stavebníka Českobratrská církev evangelická, IČO: 00445223, Jungmannova 22/9, Praha 1, v souladu s ust. § 1244 zákona č. 89/2012 Sb, Občanský zákoník, na dobu určitou do 31.10.2116, vkladem do katastru nemovitostí</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít smlouvu o zřízení práva stavby - budovy základní školy - mezi MČ Praha 7 a stavebníkem Českobratrská církev evangelická, IČO: 00445223, Jungmannova 22/9, Praha 1, k pozemkům parc. č. 303, 304, 305, vše v k.ú. Holešovice, obec Praha, zapsané na listu vlastnictví č. 825 u Katastrálního úřadu pro hlavní město Prahu, Katastrální pracoviště Praha, ve prospěch stavebníka, v souladu s ust. § 1244 zákona č. 89/2012 Sb, Občanský zákoník, bezúplatně, na dobu určitou do 31.10.2116, včetně podpisu souvisejícího návrhu na vklad do katastru nemovitostí</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.1.2018</span></li></ul></li></ol></li>
+</ol>

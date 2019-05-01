@@ -1,0 +1,19 @@
+---
+layout: detail_usneseni
+nazev_bodu: Stanovení pořadu 1. zasedání Z MČ P7 dne 29.1.2001
+datum_vzniku_usneseni: '2001-01-16 00:00:00'
+cislo_usneseni: '0039/01'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Stanovení pořadu 1. zasedání Z MČ P7 dne 29.1.2001</h3></span><div class="center">
+		<strong>č. 0039/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 16.01.2001</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> přednesený materiál - Návrh na stanovení pořadu 1. zasedání Z MČ P7 dne 29.1.2001<br><br>II.	schvaluje <br><br>pořad 1. zasedání Z MČ P7 dne 29.1.2001:<br><br>1. Volba návrhové komise<br>2. Návrh k provedení úprav v rozpočtu hlavní činnosti MČ Praha 7 - sumarizace <br>3. Návrh k přijetí zásad pro hospodaření MČ Praha 7 v období rozpočtového provizoria na r. 2001<br>4. Návrh k rozpočtu MČ Praha 7 na rok 2001<br>5. Návrh hospodářské činnosti MČ Praha 7 pro rok 2001 - vedlejší hospodářská činnost<br>6. Návrh ke stanovení způsobu usměrňování výše prostředků, vynakládaných na platy a odměny v Úřadu m.č. P/7, v příspěvkových organizacích Vydavatelství Hobulet, OKD Vltavská, Pečovatelské centrum P/7 a SAZ v P/7 pro rok 2001<br>7. Návrh k rámcovému plánu hlavních úkolů Finančního výboru Z MČ v r. 2001<br>8. Návrh na převod  a prodej domu schváleného OZ Praha 7 č.51 ze dne 22.6. 1998 do 4. etapy privatizace<br>9. Návrh na úpravu ceny a splátkových podmínek u domů, uvedených v mat. č. 1438/00 ze dne 4.12.2000 ve skupině B, t.j. Domy, u kterých bude možno privatizovat formou odprodeje jednotlivých bytů<br>10. Návrh na záměr odprodeje id. 1/24 nemovitosti č.p. 216, Jana Zajíce 29 a 1/24 parc.č. 287 a 288, k.ú. Bubeneč spolumajiteli, firmě DUX Consulting a.s., se sídlem Praha 7, Jana Zajíce 29, IČO: 64948544 za cenu v místě obvyklou - tržní<br>11. Návrh  na odprodej id. 8/15 nemovitosti č.p. 1177, Haškova 6 a pozemku parc.č. 1733, k.ú. Holešovice spolumajiteli, firmě Freska s.r.o. se sídlem Krkonošská 5, Praha 2, IČO: 25604520, za cenu vycházející z veřejné soutěže po uplatnění předkupního práva na  základě § 140 Obč. Z Kč 2 555 000,- a cenu ZP Kč 6 825,-<br>12. Návrh na odprodej id. 3/4 nemovitosti č.p. 396, Milady Horákové 33 a id. 3/4 parc.č. 2006, k.ú. Holešovice spolumajiteli, SJM Piskáček Petr (1) a Zdeňka (2), bytem Praha 6, Plojharova 9 za cenu obvyklou - tržní která činí Kč 4 275 000,- a cenu znaleckého posudku Kč 6825,-<br>13. Návrh na uzavření dodatku č.  1 ke smlouvě o nájmu nebytových prostor a nájmu nemovitostí ze dne 29.5.1998  uzavřené mezi MČ P7 a společností NONET s.r.o.<br>14. Návrh na poskytnutí darů neuvolněným členům  Zastupitelstva MČ P7 za období červenec až říjen  2000<br>15. Návrh na stanovení odměn předsedům komisí OR MČ P7 za měsíc říjen 2000<br>16. Návrh na poskytnutí darů členům komisí Rady MČ P7 a členům výborů Zastupitelstva MČ P7 za II. pololetí 2000<br>17. Návrh Pravidel pro poskytování darů členům komisí Rady MČ P7 a členům výborů Zastupitelstva MČ P7, kteří nejsou členy Z MČ P7<br>18. Návrh na odvolání členů Okresní školské rady v Praze 7<br>19. Informační zprávy pro členy Z MČ Praha 7:<br>	  - Informace k dopisu k průběžnému přezkoumání hospodaření za rok 2000<br>	  - Informace o výsledné činnosti obvodního ředitelství Městské policie Praha 7 za rok 2000<br>	  - Informace o činnosti Rady MČ Praha 7 v období mezi 5. zasedáním Zastupitelstva MČ Praha 7 v roce 	  	    2000 a 1. zasedáním Zastupitelstva MČ Praha 7 v roce 2001<br>21.Interpelace, diskuse<br>22.Závěr<br><br><br><br><br> </div>
+</div>

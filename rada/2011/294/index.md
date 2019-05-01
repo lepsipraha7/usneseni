@@ -1,0 +1,49 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení realizace projektu "Kondiční cvičení pro veřejnost"
+  v termínu od 06.06. do 28.09.2011 v Královské oboře, Praha 7
+datum_vzniku_usneseni: '2011-04-26 00:00:00'
+cislo_usneseni: '0294/11'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/21731/22-11-s7_-_sedmi%c4%8dka_v_pohybu_-_cvi%c4%8den%c3%ad_ve_stromovce_2011.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na schválení realizace projektu "Kondiční cvičení pro veřejnost" v termínu od 06.06. do 28.09.2011 v Královské oboře, Praha 7</h3></span><div class="center">
+		<strong>č. 0294/11</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 26.04.2011</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh na schválení realizace projektu "Kondiční cvičení pro veřejnost" v termínu od 06.06. do 28.09.2011 v Královské oboře, Praha 7   </li></ul>
+</li>
+<li>Schvaluje<ul>
+<li>
+<strong>1.</strong> realizaci projektu "Kondiční cvičení pro veřejnost" v termínu od 06.06. do 28.09.2011 v Královské oboře, Praha 7</li>
+<li>
+<strong>2.</strong> proplacení nákladů formou faktury ve výši 15.000,- Kč vč. DPH občanskému sdružení Sedmička v pohybu, Malířská 235/8, 170 00 Praha 7 - Bubeneč,  IČ: 27008231 za zajištění projektu "Kondiční cvičení pro veřejnost", hrazeno z rozpočtu OVV - KS - sport</li>
+<li>
+<strong>3.</strong> text smlouvy mezi MĚSTSKOU ČÁSTÍ PRAHA 7 a občanským sdružením Sedmička v pohybu, Malířská 235/8, 170 00 Praha 7 - Bubeneč, IČ: 27008231    </li>
+</ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>STA Ječmének Marek</li>
+<li>
+<strong>1.1 Úkol: </strong>podepsat smlouvu mezi MĚSTSKOU ČÁSTÍ PRAHA 7 a občanským sdružením Sedmička v pohybu, Malířská 235/8, 170 00 Praha 7 - Bubeneč, IČ: 27008231</li>
+<li>
+<strong>1.2 Termín: </strong>15.05.2011</li>
+<li>
+<strong><br>2. Určen: </strong>VED KS Jandová Olga Ing.</li>
+<li>
+<strong>2.1 Úkol: </strong>finančně a organizačně zajistit realizaci projektu "Kondiční cvičení pro veřejnost" v termínu od 06.06. do 28.09.2011 v Královské oboře, Praha 7</li>
+<li>
+<strong>2.2 Termín: </strong>30.09.2011</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: MUDr. Tomáš Kaštovský 
+</div>
+</div>

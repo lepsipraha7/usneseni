@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení prodloužení ubytování v krizovém bytě a na poskytnutí
+  ubytování v bytě určeném pro řešení naléhavých sociálních a bytových problémů
+datum_vzniku_usneseni: '2017-07-11 00:00:00'
+cislo_usneseni: 0634/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29120/export/duvodovazprava_prodlouzeniubytovanikrizovybytubytovani_verejna~224436.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29120/export/seznamzadatelu_117_verejna~224435.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29120/export/export~295703.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na schválení prodloužení ubytování v krizovém bytě a na poskytnutí ubytování, v bytě určeném pro řešení naléhavých sociálních a bytových problémů</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>prodloužení ubytování v krizovém bytě a poskytnutí ubytování, v bytě určeném pro řešení naléhavých sociálních a bytových problémů</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>oznámit žadatelce schválení prodloužení ubytování v krizovém bytě a schválení poskytnutí ubytování v bytě určeném pro naléhavé sociální a bytové problémy dle přílohy č. 2 tohoto materiálu</p></span><span class="urzUkolTermin">  Termín:&nbsp;14.7.2017</span></li></ul></li><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit společnost 7U s.r.o. s usnesením ve věci schválení poskytnutí ubytování, v bytě určeném pro řešení naléhavých sociálních a bytových problémů dle přílohy č. 2 tohoto materiálu, a jejím prostřednictvím zajistit  uzavření Smlouvy o ubytování</p></span><span class="urzUkolTermin">  Termín:&nbsp;14.7.2017</span></li></ul></li><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít Smlouvu o prodloužení ubytování v krizovém bytě dle Metodického pokynu</p></span><span class="urzUkolTermin">  Termín:&nbsp;14.7.2017</span></li></ul></li></ol></li></ol>

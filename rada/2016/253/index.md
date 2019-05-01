@@ -1,0 +1,28 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření dodatků ke smlouvám o ubytování v domě pro seniory Tusarova
+  42/1601
+datum_vzniku_usneseni: '2016-03-15 00:00:00'
+cislo_usneseni: 0253/16-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26991/export/DZ_DPS20160315~32447.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26991/export/c1zadosti~32446.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26991/export/c2usneseni_RMC_P7_c_0069~32444.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/26991/export/export~299852.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li id="" class="urzClass1"><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>Návrh na uzavření dodatků ke smlouvám o ubytování v domě pro seniory Tusarova 42/1601</p></span></li></ol></li>
+<li id="" class="urzClass1"><span name="26">souhlasí</span> 
+<ol class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>s uzavřením dodatku č.1, ke smlouvě o ubytování č. 7295/2014, uzavřené dne 22.04.2014 mezi MČ Praha 7 a Dagmar Heřmánkovou, na dobu určitou 2 roky na pronájem ubytovací jednotky č.70, Tusarova 1601/42, P7, kterým se mění doba trvání nájmu do 30.04.2018</p></span></li>
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>s uzavřením dodatku č.1, ke smlouvě o ubytování č. 7296/2014, uzavřené dne 28.04.2014 mezi MČ Praha 7 a Věrou Laňarovou, na dobu určitou 2 roky na pronájem ubytovací jednotky č.71, Tusarova 1601/42, P7, kterým se mění doba trvání nájmu do 30.04.2018</p></span></li>
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>s uzavřením dodatku č.1, ke smlouvě o ubytování č. 7298/2014, uzavřené dne 22.04.2014 mezi MČ Praha 7 a Zdeňkou Hockovou, na dobu určitou 2 roky na pronájem ubytovací jednotky č.74, Tusarova 1601/42, P7, kterým se mění doba trvání nájmu do 30.04.2018</p></span></li>
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>s uzavřením dodatku č.1, ke smlouvě o ubytování č. 7313/2014, uzavřené dne 20.04.2014 mezi MČ Praha 7 a Blankou Kupcovou, na dobu určitou 2 roky na pronájem ubytovací jednotky č.75, Tusarova 1601/42, P7, kterým se mění doba trvání nájmu do 30.04.2018</p></span></li>
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>s uzavřením dodatku č.1, ke smlouvě o ubytování č. 7299/2014, uzavřené dne 20.06.2014 mezi MČ Praha 7 a Marií Růžičkovu, na dobu určitou 2 roky na pronájem ubytovací jednotky č.73, Tusarova 1601/42, P7, kterým se mění doba trvání nájmu do 30.06.2018</p></span></li></ol></li>
+<li id="" class="urzClass1"><span name="21">revokuje</span> 
+<ol class="urzOlClass">
+<li id="" class="urzClass2" style="TEXT-ALIGN: left"><span><p>část usnesení Rady MČ Praha 7 č. 0069/16-R ze dne 26.01.2016, kde ruší odst. 1. bodu II. a odst. 1. bodu IV., z důvodu&nbsp;odstoupení nájemce od uzavření nájemní smlouvy ze zdravotních&nbsp;důvodů</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dodatek č.1, ke smlouvě o ubytování č. 7295/2014, uzavřené dne 22.04.2014 mezi MČ Praha 7  a Dagmar  Heřmánkovou, na dobu určitou 2 roky na pronájem ubytovací jednotky č.70, Tusarova 1601/42, P7,  kterým se mění doba trvání nájmu do 30.04.2018</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.3.2016</span></li></ul></li><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dodatek č.1, ke smlouvě o ubytování č. 7296/2014, uzavřené dne 28.04.2014 mezi MČ Praha 7   a  Věrou Laňarovou,  na dobu určitou 2 roky na pronájem ubytovací jednotky č.71, Tusarova 1601/42, P7,  kterým se mění doba  trvání nájmu do 30.04.2018</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.3.2016</span></li></ul></li><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dodatek č.1, ke smlouvě o ubytování č. 7298/2014, uzavřené dne 22.04.2014  mezi MČ Praha 7   a  Zdeňkou Hockovou, na dobu určitou 2 roky na pronájem ubytovací jednotky č.74, Tusarova 1601/42, P7,  kterým se mění doba trvání nájmu do 30.04.2018</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.3.2016</span></li></ul></li><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dodatek č.1, ke smlouvě o ubytování č. 7313/2014, uzavřené dne 20.04.2014 mezi MČ Praha 7   a  Blankou Kupcovou, na dobu určitou 2 roky na pronájem ubytovací jednotky č.75, Tusarova 1601/42, P7,   kterým se mění doba trvání nájmu do  30.04.2018</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.3.2016</span></li></ul></li><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dodatek č.1, ke smlouvě o ubytování č. 7299/2014, uzavřené dne 20.06.2014 mezi MČ Praha 7  a  Marií Růžičkovu, na dobu určitou 2 roky na pronájem ubytovací jednotky č.73, Tusarova 1601/42, P7,  kterým  se mění doba  trvání nájmu do 30.06.2018</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.3.2016</span></li></ul></li></ol></li>
+</ol>

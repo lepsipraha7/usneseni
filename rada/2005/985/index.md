@@ -1,0 +1,40 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření Smlouvy o dílo "Vyhotovení prohlášení vlastníka budovy,
+  dle zákona č.72 / 1994 Sb., v platném znění a další úkony s touto agendou spojené"
+  se společností CENTRA a.s.
+datum_vzniku_usneseni: '2005-09-06 00:00:00'
+cislo_usneseni: '0985/05'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na uzavření Smlouvy o dílo "Vyhotovení prohlášení vlastníka budovy, dle zákona č.72 / 1994 Sb., v platném znění a další úkony s touto agendou spojené" se společností CENTRA a.s.</h3></span><div class="center">
+		<strong>č. 0985/05</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 06.09.2005</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> návrh na uzavření Smlouvy o dílo "Vyhotovení prohlášení vlastníka budovy, dle zákona č.72 / 1994 Sb., v platném znění a další úkony s touto agendou spojené" se společností CENTRA a.s.</li></ul>
+</li>
+<li>Souhlasí<ul><li>
+<strong>1.</strong> s uzavřením SOD "Vyhotovení prohlášení vlastníka budovy, dle zákona č.72 / 1994 Sb., v platném znění a další úkony s touto agendou spojené", se společností CENTRA a.s., Plzeňská 3185/5b, 150 00 Praha 5, IČ: 18628966.  </li></ul>
+</li>
+<li>Schvaluje<ul><li>
+<strong>1.</strong> text SOD "Vyhotovení prohlášení vlastníka budovy, dle zákona č.72 / 1994 Sb., v platném znění a další úkony s touto agendou spojené", se společností CENTRA a.s., Plzeňská 3185/5b, 150 00 Praha 5, IČ: 18628966 </li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>ZAS STA Hasal Štěpán</li>
+<li>
+<strong>1.1 Úkol: </strong>podepsat SOD"Vyhotovení prohlášení vlastníka budovy, dle zákona č.72 / 1994 Sb., v platném znění a další úkony s touto agendou spojené", se společností CENTRA a.s., Plzeňská 3185/5b, 150 00 Praha 5, IČ: 18628966.  </li>
+<li>
+<strong>1.2 Termín: </strong>16.09.2005</li>
+</ul>
+</li>
+</ol>starostka Městské části Praha 7: PhDr. Ivana Kučerová<br>zástupce starostky Městské části Praha 7: JUDr. Tomáš Vavřinec 
+</div>
+</div>

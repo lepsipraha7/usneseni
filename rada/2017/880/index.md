@@ -1,0 +1,28 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na řešení žádostí v oblasti nájmů bytů svěřených MČ Praha 7
+datum_vzniku_usneseni: '2017-09-26 00:00:00'
+cislo_usneseni: '0880/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29596/export/01_BJ20170926~251497.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29596/export/c2_souhlasPCP~251496.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29596/export/cc3_Hamplovazadost~251494.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29596/export/c4_Jirousekzadost~251492.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29596/export/c5_Soukup_ujednanifotopredopravouprotokolfotopooprave~251490.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29596/export/c6_Stifterovazadost~251488.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29596/export/c7_Berki~251486.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29596/export/export~295181.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li class="urzClass1" id=""><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass decimal ">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>Návrh na řešení žádostí v oblasti nájmů bytů svěřených MČ Praha 7</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="26">souhlasí</span> 
+<ol class="urzOlClass decimal ">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>s&nbsp;uzavřením dodatku č. 2 ke smlouvě o ubytování č. 7323/2014, uzavřené dne 08.10.2014, s paní Martou Hamplovou, na pronájem ubytovací jednotky č. 22, Tusarova 1601/42, Praha 7, kterým se mění doba trvání nájmu do 08.10.2019, na základě kladného sdělení Pečovatelského centra Praha 7<br></p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>s&nbsp;uzavřením dodatku č. 2 ke smlouvě o ubytování č. 7325/2014, uzavřené dne 08.10.2014, s panem Jaroslavem Jirouškem, na pronájem ubytovací jednotky č. 33, Tusarova 1601/42, Praha 7, kterým se mění doba trvání nájmu do 08.10.2019, na základě kladného sdělení Pečovatelského centra Praha 7<br></p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>s&nbsp;poskytnutím měsíční slevy z nájmu ve výši 5.232,- Kč po dobu 11 měsíců, poslední 12. měsíc&nbsp;ve výši 5.228,- Kč, počínaje 10/2017, nájemci bytové jednotky č. 1334/96, na adrese U Smaltovny 1334/22D, Praha 7, panu Martinu Soukupovi, v souladu s ujednáním nájemní smlouvy o změnách předmětu nájmu ze dne 10.05.2017 a protokolem o kontrole provedených prací v pronajatém prostoru ze dne 11.09.2017, které na vlastní náklady provedl nájemce</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>s&nbsp;uzavřením dohody o ukončení účinnosti nájemní smlouvy na bytovou jednotku č. 424/49, na adrese Antonínská 424/8, Praha 7, s paní Markétou Stifterovou, ke dni 30.09.2017, na základě žádosti nájemce</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>s&nbsp;uzavřením dodatku č. 1 k nájemní smlouvě ze dne 09.12.2015, na služební byt (bytovou jednotku č. 1334/10), s panem Petrem Berki, na adrese U Smaltovny 1334/22A, Praha 7,&nbsp;kterým se mění doba trvání nájmu do 09.12.2019, na základě doporučení zaměstnavatele, s podmínkou trvání pracovního poměru u aktuální organizace<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dodatek č.2  ke smlouvě o ubytování č. 7323/2014, uzavřené dne 08.10.2014 s paní Martou Hamplovou na pronájem ubytovací jednotky č.22, Tusarova 1601/42, Praha 7, kterým se mění doba trvání nájmu do 08.10.2019</p></span><span class="urzUkolTermin">  Termín:&nbsp;6.10.2017</span></li></ul></li><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dodatek č.2 ke smlouvě o ubytování č. 7325/2014, uzavřené dne 08.10.2014 s panem Jaroslavem Jirouškem, na pronájem ubytovací jednotky č. 33, Tusarova 1601/42 Praha 7, kterým se mění doba trvání nájmu do 08.10.2019</p></span><span class="urzUkolTermin">  Termín:&nbsp;6.10.2017</span></li></ul></li><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit pana Martina Soukupa a správní firmu 7U s usnesením Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;2.10.2017</span></li></ul></li><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dohodu o ukončení účinnosti nájemní smlouvy na bytovou jednotku č. 424/49, na adrese Antonínská 424/8, Praha 7 s paní Markétou Stifterovou ke dni 30.09.2017, na základě žádosti Mgr. Kamily Carbolové, zplnomocněné paní Markétou Stifterovou</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.9.2017</span></li></ul></li><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít s panem Petrem Berki dodatek č.1 k nájemní smlouvě č. 7422-B/1334/1088-15, uzavřené dne 09.12.2015 na služební byt, (bytovou jednotku č. 1334/10), na adrese U Smaltovny 1334/22A, Praha 7, kterým se mění doba trvání nájmu do 09.12.2019, s podmínkou trvání pracovního poměru u aktuální organizace</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.11.2017</span></li></ul></li></ol></li>
+</ol>

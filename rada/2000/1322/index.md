@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Řešení žádostí projednaných při jednání majetkové komise dne 11.12.2000
+datum_vzniku_usneseni: '2000-12-19 00:00:00'
+cislo_usneseni: 1322/00
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Řešení žádostí projednaných při jednání majetkové komise dne 11.12.2000</h3></span><div class="center">
+		<strong>č. 1322/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 19.12.2000</strong><br><br>
+	</div>
+<br><br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na řešení žádostí projednaných při jednání majetkové komise dne 11.12.2000<br><br>předložené nabídky firem Štěpán s.r.o. a APLEDO - Jaroslav Doskočil  na odstranění graffity<br><br><br>II.	konstatuje,<br><br>že trvá na svém původním rozhodnutí ze dne 1.8.2000 č. usn. 0731/00-OR tzn. nevyhovět žádosti Strojnická 9, družstvo o úhradu finančních prostředků vynaložených na opravy při odstranění dřevomorky v domě Strojnická 9/1429<br><br><br>III.	souhlasí <br><br>s provedením plynového etážového topení a se změnou užívání v bytě nájemce paní Miroslavy Kleinové, bytem Šmeralova 29/190 , na vlastní náklady nájemce <br><br>s instalací mříží do oken v bytě nájemce paní Marie  Neudorfové , bytem Osadní 43/1476 , na vlastní náklady nájemce<br><br>s přiznáním slevy ze základního nájemného  ve výši 10 % po dobu 1. měsíce všem nájemcům bytů v domě Schnirchova 15/ 1447 z důvodu probíhajících stavebních úprav NP<br><br>s přiznáním slevy ze základního nájemného ve výši 10 % po dobu 1. měsíce všem nájemcům bytů v domě Heřmanova 41/ 457 z důvodu odstávky dodávky TUV<br><br>s přiznáním slevy ze základního nájemného ve výši 10 % po dobu 1. měsíce všem nájemcům bytů v domě U Měšťanského pivovaru 12 / 1489 z důvodu odstávky dodávky TUV<br><br>s povolením vkladu dalšího zástavního práva do KN ve výši 1,5 mil. Kč bytovému družstvu - Domovní družstvo U Smaltovny 24<br><br>s uzavřením smlouvy o podnájmu prostor v objektu Na Výšinách 1000 mezi DDM a Českým svazem ochránců  přírody Trója v termínu 1.1.2001 do 31.12.2002 za cenu pronájmu 26 000,- Kč ročně<br><br>s poskytnutím slevy společnosti Nonet, s. r. o. z nájmu Letenského zámečku ve výši 50 % po dobu rekonstrukce (4 měsíce v roce 2001)<br><br><br>IV.	ukládá <br><br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 28.12.2000<br>Úkol:	seznámit bytové družstvo Strojnická 9, družstvo se stanoviskem R MČ P7<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 28.12.2000<br>Úkol:	seznámit paní Miroslavu Kleinovou se stanoviskem R MČ P7<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 28.12.2000<br>Úkol:	seznámit paní Marii Neudorfovou se stanoviskem R MČ P7<br> <br> Určen:	     	VED OKO Dlouhý Bedřich<br>Termín: 31.01.2001<br>Úkol:	prověřit žádost paní Milany Hemmrové, bytem Veletržní 33/505, Praha 7, týkající se vzájemného započtení pohledávek<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 28.12.2000<br>Úkol:	seznámit nájemce domu Schnirchova 15 a správní firmu CENTRA v.o.s. se stanoviskem R MČ P7<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 28.12.2000<br>Úkol:	seznámit nájemce domu Heřmanova 41 a  správní firmu CENTRA v.o.s. se stanoviskem R MČ P7<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 28.12.2000<br>Úkol:	seznámit nájemce domu U Měšťanského pivovaru 12 a správní firmu EXA CZ, s.r.o. se stanoviskem R MČ P7<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 28.12.2000<br>Úkol:	seznámit bytové družstvo Domovní družstvo U Smaltovny 24 se stanoviskem R MČ P7<br> <br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 28.12.2000<br>Úkol:	seznámit ředitele DDM se stanoviskem R MČ P7<br> <br><br><br> Určen:	     	VED OMA Hrubý Roman<br>Termín: 28.12.2000<br>Úkol:	seznámit firmu NONET , s.r.o. se stanoviskem R MČ P7<br> <br>
+</div>
+</div>

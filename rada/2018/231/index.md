@@ -1,0 +1,19 @@
+---
+layout: detail_usneseni
+nazev_bodu: "Návrh na schválení a podpis Dodatku č.4 smlouvy o veřejných službách
+  v přepravě cestujících ve veřejné linkové osobní dopravě \nv systému Pražské integrované
+  dopravy (přívoz P7) pro období 2016 -2025"
+datum_vzniku_usneseni: '2018-03-27 00:00:00'
+cislo_usneseni: 0231/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29676/export/1DUVODOVAZPRAVA~338276.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29676/export/smlouva_P7_2016_ROPID_proMC7_anonim~338275.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29676/export/smlouva_P7_2018_ROPID_proMC7_d4~338274.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29676/export/priloha_1_18~338273.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29676/export/priloha_3_JR_18~338272.xls
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29676/export/priloha_4_fin_model_18~338271.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29676/export/priloha_5_vypocet_nakladu_18~338270.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29676/export/export~338920.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na schválení a podpis Dodatku č.4 smlouvy o veřejných službách v přepravě cestujících ve veřejné linkové osobní dopravě<br>v systému Pražské integrované dopravy (přívoz P7) pro období 2016 -2025</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s návrhem na schválení a podpis Dodatku č.4 smlouvy o veřejných službách v přepravě cestujících ve veřejné linkové osobní dopravě<br>v systému Pražské integrované dopravy (přívoz P7) pro období 2016 -2025</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p style="text-align: left;" data-mce-style="text-align: left;">text Dodatku č.4 smlouvy o veřejných službách v přepravě cestujících ve veřejné linkové osobní dopravě<br>v systému Pražské integrované dopravy (přívoz P7) pro období 2016 -2025<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p style="text-align: left;" data-mce-style="text-align: left;">podpis Dodatku č.4 smlouvy o veřejných službách v přepravě cestujících ve veřejné linkové osobní dopravě<br>v systému Pražské integrované dopravy (přívoz P7) pro období 2016 -2025<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="16">pověřuje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>starostu Mgr. Jana Čižinského k podpisu Dodatku č.4 smlouvy o veřejných službách v přepravě cestujících ve veřejné linkové osobní dopravě v systému Pražské integrované dopravy (přívoz P7) pro období 2016 -2025</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Dodatek č.4 smlouvy o veřejných službách v přepravě cestujících ve veřejné linkové osobní dopravě v systému Pražské integrované dopravy (přívoz P7) pro období 2016 -2025</p></span><span class="urzUkolTermin">  Termín:&nbsp;5.4.2018</span></li></ul></li></ol></li></ol>

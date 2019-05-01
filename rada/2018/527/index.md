@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci výletů pro seniory z Prahy 7 ve II. pololetí roku 2018
+datum_vzniku_usneseni: '2018-07-10 00:00:00'
+cislo_usneseni: 0527/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30077/export/Duvodovazprava_Vylety_pro_seniory_II_2018~373583.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30077/export/Vylety_pro_seniory_II_2018_popis~373582.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30077/export/NabidkavyletuzarilistopadMCPraha7ver32~373581.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30077/export/export~374374.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na realizaci výletů pro seniory z Prahy 7 ve II. pololetí roku 2018</p></span></li></ol></li><li class="urzClass1" id=""><span name="6">konstatuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>že jednodenních výletů pro seniory se mohou účastnit pouze senioři s trvalým bydlištěm v Praze 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>realizaci výletů pro seniory z Prahy 7 ve II. pololetí roku 2018 v rozsahu 3 výletů viz přílohy č. 2 a 3</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů, formou faktury, v max. výši 74 200 Kč vč. DPH, spolku Spolek Hurá na Výlet!, IČO: 032 25 470, se sídlem Školní náměstí 11, Chrudim II, 537 01 Chrudim, za realizaci 3 výletů (dramaturgické, organizační a personální zajištění) v rozsahu viz přílohy č. 2 a 3, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>spoluúčast účastníků jednodenních výletů ve výši 100 Kč/osoba/výlet</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci jednodenních výletů pro seniory z Prahy 7 ve II. pololetí roku 2018 dle článků II a III tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;3.12.2018</span></li></ul></li></ol></li></ol>

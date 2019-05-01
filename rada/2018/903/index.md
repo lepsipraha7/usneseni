@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci počítačových kurzů a výuky uživatelské práce s tabletem
+  pro seniory z Prahy 7 v roce 2019, pořádaných MČ Praha 7 v Přístavu 7, Jankovcova
+  8b, Praha 7
+datum_vzniku_usneseni: '2018-12-18 00:00:00'
+cislo_usneseni: '0903/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30475/export/M51DV_Pocitacove_kurzy_seniori_2019~418649.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30475/export/M51_Pocitacove_kurzy_seniori_2019_harmogram~418648.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30475/export/export~419231.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na realizaci počítačových kurzů a výuky uživatelské práce s tabletem pro seniory z Prahy 7 v roce 2019, pořádaných MČ Praha 7 v Přístavu 7, Jankovcova 8b, Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>že&nbsp;počítačových kurzů a výuky uživatelské práce s tabletem pro seniory z Prahy 7 se mohou účastnit pouze senioři s trvalým bydlištěm v Praze 7</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že počítačové kurzy a výuka uživatelské práce s tabletem jsou pro seniory z Prahy 7 zdarma</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>realizaci&nbsp;počítačových kurzů a výuku uživatelské práce s tabletem pro seniory Prahy 7, v termínu 01.02. - 06.12.2019&nbsp;v Přístavu 7, Jankovcova 8b, Praha 7 v rozsahu viz příloha č. 2</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů v max. výši 200 520 Kč vč. DPH, formou faktur, společnosti Elpida o. p. s., IČO: 279 48 706, se sídlem Na Strži 40, 140 00 Praha 4, za realizaci počítačových kurzů a výuky uživatelské práce s tabletem pro seniory z Prahy 7 v roce 2019, hrazeno z rozpočtu OKS ORJ 621 – kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit realizaci počítačových kurzů a výuku uživatelské práce s tabletem pro seniory Prahy 7 dle článku III tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;13.12.2019</span></li></ul></li></ol></li></ol>

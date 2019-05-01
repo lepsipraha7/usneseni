@@ -1,0 +1,22 @@
+---
+layout: detail_usneseni
+nazev_bodu: Sloučení administrativně rozděleného bytu, dnes bytů č.1 a č.4, Letohradská
+  14/804, P7 a uzavření nové nájemní smlouvy na nově vzniklou bytovou jednotku s Václavem
+  a Janou Pernikářovými.
+datum_vzniku_usneseni: '2003-11-04 00:00:00'
+cislo_usneseni: 1252/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Sloučení administrativně rozděleného bytu, dnes bytů č.1 a č.4, Letohradská 14/804, P7 a uzavření nové nájemní smlouvy na nově vzniklou bytovou jednotku s Václavem a Janou Pernikářovými.</h3></span><div class="center">
+		<strong>č. 1252/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 04.11.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na sloučení administrativně rozděleného bytu, dnes bytů č.1 a č.4, Letohradská 14/804, P7 a uzavření nové nájemní smlouvy na nově vzniklou bytovou jednotku s Václavem a Janou Pernikářovými.<br><br>II.	souhlasí <br><br>se sloučením administrativně rozděleného bytu, dnes bytu č.1, 2+1, IV.kat., nájemce Václav Pernikář, a bytu č.4, 1+1, IV.kat., volný byt, oba Letohradská 14/804, P7<br><br><br>se změnou užívání nově vzniklé bytové jednotky<br><br><br>NN - s uzavřením nájemní smlouvy na nově vzniklou bytovou jednotku s Václavem Pernikářem a Janou Pernikářovou s doplněním ustanovení čl.5 standardní nájemní smlouvy o bod č.4 tohoto znění: „Nabytím platnosti a účinnosti této nájemní smlouvy pozbývá platnosti a účinnosti nájemní smlouva na byt č.1, 2+1, IV.kat., Letohradská 14/804, P7“  ( 1 )<br><br><br>III.	ukládá <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 28.11.2003<br>Úkol:	podepsat souhlas se sloučením administrativně rozděleného bytu, dnes bytu č.1, 2+1, IV.kat., nájemce Václav Pernikář, a bytu č.4, 1+1, IV.kat., volný byt, oba Letohradská 14/804, P7 a se změnou užívání nově vzniklé bytové jednotky<br> <br><br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 30.12.2003<br>Úkol:	NN - uzavřít nájemní smlouvu na nově vzniklou bytovou jednotku s Václavem Pernikářem a Janou Pernikářovou s doplněním ustanovení čl.5 standardní nájemní smlouvy o bod č.4 tohoto znění: „Nabytím platnosti a účinnosti této nájemní smlouvy pozbývá platnosti a účinnosti nájemní smlouva na byt č.1, 2+1, IV.kat., Letohradská 14/804, P7“  ( 1 )<br> <br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

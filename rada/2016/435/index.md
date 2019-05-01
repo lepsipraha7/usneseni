@@ -1,0 +1,40 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh k finančnímu vypořádání příspěvkových organizací v oblasti školství  MČ
+  Praha 7 za rok 2015 včetně rozdělení zlepšených hospodářských výsledků a vypořádání
+  ztrát  včetně zajištění rozpočtového opatření měsíce května 2016 (RO č. 43/2016)
+datum_vzniku_usneseni: '2016-05-03 00:00:00'
+cislo_usneseni: 0435/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27639/export/Prilohac1DuvodovazpravaFV2015~53390.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27639/export/Prilohac2Zpusobfinvyporadanizarok2015skolstvi~53389.xls
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27639/export/export~299468.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li class="urzClass1" id=""><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>předložený materiál - Návrh k finančnímu vypořádání příspěvkových organizací zřízených v oblasti školství MČ Praha 7 za rok 2015 včetně rozdělení zlepšených hospodářských výsledků a vypořádání ztrát&nbsp; včetně zajištění rozpočtového opatření měsíce května (RO&nbsp;č.&nbsp;43/2016).</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="50">konstatuje,</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že rozborové zprávy jednotlivých organizací byly zhodnoceny odvětvovým odborem OŠK a projednány v jejich úrovni ve vazbě na výsledky hospodaření za rok 2015. Návrh na finanční vypořádání, rozdělení zlepšených hospodářských výsledků a vypořádání ztrát (viz příloha&nbsp; č.2) vychází z těchto podkladů.</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že předložený materiál neobsahuje vypořádání vztahů účtové třídy 3 u jednotlivých PO, které se týká přímých vztahů k vyšším rozpočtům, a je koordinováno z úrovně MHMP (případné vratky přímých nákladů MŠMT a účelových dotací, které neprošly rozpočtem zřizovatele).</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že v rámci řešení ztráty z hospodaření za r. 2015 u PO&nbsp; MŠ Kostelní je ztráta řešena využitím rezervního fondu a fondu investic organizace.</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že v případě PO MŠ Letohradská a PO ZŠ Tusarova&nbsp;(vč. MŠ Tusarova)&nbsp;došlo vlivem realizovaných úsporných opatření školy k nedočerpaní příspěvku zřizovatele v roce 2015, který bude v případě souhlasu zřizovatele zařazen do neinvestičního příspěvku dotčených organizací pro rok 2016.</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="26">souhlasí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>s finančním vypořádáním příspěvkových organizací zřízených v oblasti školství MČ Praha 7, s návrhy na rozdělení zlepšených hospodářských výsledků a vypořádáním ztrát, dosažených za rok 2015 dle přílohy č.2, včetně uložení povinnosti vypořádání vykázané ztráty v hlavní činnosti a stanovení odvodu u: </p></span>
+<ul class="urzUlClass">
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>1.1&nbsp; PO MŠ Kostelní: &nbsp;ztráta z hlavní činnosti&nbsp;&nbsp;v objemu&nbsp; -&nbsp;271 086,95 Kč bude částečně pokryta&nbsp; zapojením Rezervního fondu organizace v objemu 103 095,66 Kč&nbsp;(proúčtováno přímo v organizaci) a&nbsp;částečně odvodem z Investičního fondu v objemu 167 991,29 Kč (rozpočtově 168,0 tis.Kč)&nbsp;ve vazbě na zvýšení neinvest. příspěvku na r. 2016 - účelově vázáno na úhradu ztráty v roce 2015.</p><p>Ztráta&nbsp; bude v r. 2016 umořena v souvislosti s vyrovnáním hospodaření; pro tento účel se navyšuje neinvestiční příspěvek r. 2016 (rozpočtově o&nbsp;168,0 tis.Kč) ve vazbě na odvod z fondu investic do neinvest. příspěvku pro&nbsp;PO MŠ Kostelní.</p></span></li></ul></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>s převodem nedočerpaného neinvestičního příspěvku zřizovatele PO MŠ Letohradská za rok 2014 a 2015 v celkovém objemu 123 455,26 Kč (rozpočtově 123,5 tis.Kč) do neinvestičního příspěvku organizace v roce 2016. Příspěvek po úpravě dosáhne objemu&nbsp;2 268,9&nbsp;tis.Kč.</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>s převodem nedočerpaného neinvestičního příspěvku zřizovatele PO ZŠ Tusarova (vč. MŠ Tusarova) za rok 2015 ve výši 185 231,25 Kč (rozpočtově 185,3 tis.Kč)&nbsp;do neinvestičního příspěvku organizace v roce 2016. Příspěvek po úpravě dosáhne objemu&nbsp;4 514,6&nbsp;tis.Kč.</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>s provedením souvisejících rozpočtových opatření k vypořádání ztrát z hospodaření za rok 2015 a ke stanovenému odvodu - elektronické zpracování měsíce května 2015 takto:</p></span>
+<ul class="urzUlClass">
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>4.1. zvýšení příjmové položky 2122 - odvody příspěvkových organizací - odvod z fondu investic PO MŠ Kostelní v objemu&nbsp;168,0 tis.Kč na účet zřizovatele.</p></span></li>
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>4.2&nbsp;zvýšení neinvest. příspěvku na r. 2016 (závazný ukazatel) pro PO MŠ Kostelní celkem o&nbsp;168,0 tis.Kč - ORJ 0417, OŠK, Odpa. 3111, Pol. 5331 Neinvestiční příspěvky zřízeným příspěvkovým organizacím, ORG 301.&nbsp;&nbsp;Příspěvek po úpravě dosáhne objemu&nbsp;1 863,4 tis.Kč.</p></span></li>
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>4.3 zvýšení příjmové položky 2122 - odvody příspěvkových organizací - odvod nevyčerpaného příspěvku PO MŠ Letohradská v objemu 123 455,26 Kč&nbsp;(rozpočtově 123,5 tis.Kč) na účet zřizovatele.</p></span></li>
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>4.4 zvýšení neinvest. příspěvku na r. 2016 (závazný ukazatel) pro PO MŠ Letohradská celkem o 123 455,26 Kč (rozpočtově 123,5 tis.Kč) - ORJ 0417, OŠK, Odpa. 3111, Pol. 5331 Neinvestiční příspěvky zřízeným příspěvkovým organizacím, ORG 304. Příspěvek po úpravě dosáhne objemu 2 268,9 tis.Kč.</p></span></li>
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>4.5 zvýšení příjmové položky 2122 - odvody příspěvkových organizací - PO ZŠ Tusarova (vč. MŠ Tusarova) za rok 2015 ve výši 185 231,25 Kč (rozpočtově 185,3 tis.Kč) na účet zřizovatele.</p></span></li>
+<li class="urzClass3" style="TEXT-ALIGN: left" id=""><span><p>4.6 zvýšení neinvest. příspěvku na r. 2016 (závazný ukazatel) pro PO ZŠ Tusarova (vč. MŠ Tusarova) celkem o&nbsp;185 231,25 Kč (rozpočtově 185,3 tis.Kč) - ORJ 0417, OŠK, Odpa. 3113, Pol. 5331 Neinvestiční příspěvky zřízeným příspěvkovým organizacím, ORG 326. Příspěvek po úpravě dosáhne objemu&nbsp;4 514,6&nbsp;tis.Kč.</p></span></li></ul></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>s předložením návrhu Z MČ Praha 7&nbsp; k finančnímu vypořádání příspěvkových organizací v oblasti školství MČ Praha 7 za rok 2015 včetně rozdělení zlepšených hospodářských výsledků a vypořádání ztrát a&nbsp;zajištění rozpočtového opatření měsíce května 2016 (RO č.&nbsp;43/2016).</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Předložit Z MČ Praha 7 návrh k finančnímu vypořádání příspěvkových organizací v oblasti školství MČ Praha 7 za rok 2015 vč. rozdělení zlepšených hospodářských výsledků a vypořádání ztrát PO a zajištění rozpočtového opatření měsíce května 2016 (RO 43/2016).</p></span><span class="urzUkolTermin">  Termín:&nbsp;16.5.2016</span></li></ul></li><li class="urzClass2"><span><p>VED OFI Ing. Kateřina Lusková</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Realizovat rozpočtové opatření měsíce května 2016 (RO 43/2016) ve schváleném objemu finančních prostředků.</p></span><span class="urzUkolTermin">  Termín:&nbsp;3.6.2016</span></li></ul></li></ol></li>
+</ol>

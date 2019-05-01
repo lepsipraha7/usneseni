@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na svěření majetku k hospodaření příspěvkovým organizacím MČ Praha
+  7 vedeným v rejstříku škol MŠMT, v souvislosti s dokončením některých investičních
+  akcí městské části Praha 7.
+datum_vzniku_usneseni: '2018-10-23 00:00:00'
+cislo_usneseni: 0752/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30314/export/Duvodovazprava~400720.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30314/export/P2MOBILIAR_Zarazeni_majetku_ZS_FrPlaminkove~400719.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30314/export/P3aMS_Na_Vysinach_seznammajetku_Vodarenska_Vez_FINAL~400718.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30314/export/P3bMS_Vysimy_majetek_zahrada~400717.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30314/export/P4ZS_Tusarova_seznammajetku_MS_VISIONARY_FINAL~400716.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30314/export/export~401453.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na svěření majetku k hospodaření příspěvkovým organizacím MČ Praha 7&nbsp; vedeným v rejstříku škol MŠMT, v souvislosti s dokončením některých investičních akcí městské části Praha</p></span></li></ol></li><li class="urzClass1" id=""><span name="29">svěřuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>příspěvkové organizaci Základní škola Fr. Plamínkové s rozšířenou výukou jazyků Praha 7, Františka Křížka 2, k hospodaření majetek, který je blíže specifikován v příloze č. 2 tohoto usnesení, v souvislosti s ukončením investiční akce ,,ZŠ Fr. Plamínkové – reko kuchyňského provozu", dle pravidel č. 8 ze dne 27.06. 2017, k evidenci majetku MČ Praha 7.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>příspěvkové organizaci Fakultní mateřská škola při Pedagogické fakultě Univerzity Karlovy, Praha 7, Na Výšinách 3, k hospodaření majetek, který je blíže specifikován v příloze č. 3 tohoto usnesení, v souvislosti s ukončením investiční akce ,,MŠ Na Výšinách, navýšení kapacity", dle pravidel č. 8 ze dne 27.06. 2017, k evidenci majetku MČ Praha 7.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>příspěvkové organizaci Základní škola a Mateřská škola Praha 7, Tusarova 790/21, k hospodaření majetek, který je blíže specifikován v příloze č. 4 tohoto usnesení, v souvislosti s ukončením investiční akce ,,MŠ Visionary – interiér a gastrozařízení", dle pravidel č. 8 ze dne 27.06. 2017, k evidenci majetku MČ Praha 7.<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OŠK Ing. Dita Výborová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>realizovat předání majetku dle pravidel č. 8 ze dne 27.06. 2017, k evidenci majetku<br>MČ Praha 7.</p></span><span class="urzUkolTermin">  Termín:&nbsp;26.10.2018</span></li></ul></li></ol></li></ol>

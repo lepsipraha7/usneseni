@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Schválení dodavatelů  Úřadu MČ Praha 7, kteří mají charakter úzce specializovaný,
+  monopolní, nebo jejich dodávky služeb jsou dlouhodobé a bezproblémové
+datum_vzniku_usneseni: '2000-12-19 00:00:00'
+cislo_usneseni: 1307/00
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Schválení dodavatelů  Úřadu MČ Praha 7, kteří mají charakter úzce specializovaný, monopolní, nebo jejich dodávky služeb jsou dlouhodobé a bezproblémové</h3></span><div class="center">
+		<strong>č. 1307/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 19.12.2000</strong><br><br>
+	</div>
+<br><br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na schválení dodavatelů  Úřadu MČ Praha 7, kteří mají charakter úzce specializovaný, monopolní, nebo jejich dodávky služeb jsou dlouhodobé a bezproblémové <br><br><br>II.	schvaluje <br><br>výběr dodavatelů služeb pro potřeby Úřadu MČ Praha 7:<br><br>Česká pošta s. p., odštěpný závod - Sazečská 603/9, Praha 10, IČO: 47114983 - poštovní služby, <br>Česká spořitelna a.s., Dukelských hrdinů 28, Praha 7, IČO:- 45244782 - poplatky za šekové knížky,    <br>                    vedení účtu a další.<br>Český Telecom a.s.,Olšanská 5, Praha 3, IČO: 60193336 -  telefonní služby.<br>Sodexho Pass a.s., Hradecká 3/2526, Praha 3 ,IČO: 61860476 - nákup stravenek.<br>Česká pojišťovna a.s., Litevská 8, Praha 10, IČO: 45272956 - pojištění movitého majetku, 	automobilů, včetně povinného ručení a úrazového pojištění.<br>CCS - Česká společnost pro platební karty a.s.,Chlimčanského 5, Praha 8, IČO:49240129 - pohonné <br>                   hmoty, maziva a služby spojené s užíváním platebních karet CCS a UTA.<br>Přerost a Švorc s.r.o.,Veleslavínská 39, Praha 6, IČO: 63073188 - autorizovaná opravna automobilů<br>                   Škoda.<br>Autovars a.s., provozovna Jankovcova 2a, Praha 6, IČO: 25069322  - autorizovaná opravna  <br>                   automobilů Opel.<br>Pražská energetika a.s., Na Hroudě 4, Praha 10, IČO: 60193913  - dodávky elektrické energie.<br>Sběrné suroviny - Praha a.s., provozovna  - Bartoškova 38, Praha 4, IČO: 60193859- skartace <br>                   materiálu archivního oddělení.<br>Mafra a.s., Na Příkopě 31, Praha 1, IČO: 45313351, - inzertní služby. <br>Vltava - Label -Press a.s. divize Praha Přátelství 986, Praha 10- Večerník Praha, - inzertní služby.<br>Economia a.s.,Dobrovského 25, Praha 7, IČO: 00499153  - inzertní služby.<br>Moraviapress a.s., U póny 3061, Břeclav, IČO: 00543411, - sbírky zákonů.<br>Anag s.r.o., J.Jabůrkové 1,P.O.Box 78,Olomouc, IČO: 12079146 - odborná literatura.<br>Economia a.s., Dobrovského 25, Praha 7, IČO: 00499153, - odborná literatura.<br>Codex Bohemia s.r.o., U nákl. nádraží 6, Praha 3, IČO: 63077639, - odborná literatura.<br>SEVT a.s., Pekařova 4, Praha 8, IČO: 45274851 - tiskopisy, normy, pokladní doklady, formuláře apod.<br>Katastrální úřad Praha , Pod sídlištěm 9, Praha 8, IČO: 00213683 - výpisy z pozemkových knih, ověřování katastrálních map, potvrzení geometrických plánů a další (Odbor životního prostředí)<br>Institut pro místní správu Praha, Dlážděná 6, Praha 1, IČO: 0007030 - školení zaměstnanců Úřadu MČ Praha 7<br>Vzdělávací centrum pro veřejnou správu ČR o.p.s. U Meteoru 6, Praha 8, IČO: 26187639 - školení<br>Pragoeduca, Antala Staška 80, Praha 4, IČO: 12636860 - školení<br>Moska, Štětínská 360/6, Praha 8, IČO: 45289875 - školení<br>Anag s.r.o.- Národní dům na Vinohradech, nám Míru 9, Praha 2, IČO: 12079146<br>Odborconsult, Zápasnická 879, Praha 10, IČO: 41783255 - školení<br>Studio W - Hana Týcová, Pod Klaudiánkou 8, Praha 4, IČO: 11218631 - školení<br>Ústav dopravního inženýrství hl. m. Prahy - 180 00, Praha 8, Podlipného 9, IČO: 063266<br>Vita-vzdělávací agentura - 110 00 Praha 1, Boršov 10, IČO: 16879171<br><br><br>III.	ukládá <br><br> Určen:	     	TAJ Dušek Josef<br>Termín: průběžně<br>Úkol:	průběžně zajišťovat dodávky služeb od dodavatelů uvedených v bodě II. tohoto usnesení<br>  </div>
+</div>

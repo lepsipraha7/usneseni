@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na zajištění terénního programu v MČ Praha 7 v rámci využití dotace
+  z rozpočtu hl. města Prahy na realizaci projektů v oblasti řešení problematiky bezdomovectví
+datum_vzniku_usneseni: '2016-06-21 00:00:00'
+cislo_usneseni: 0643/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27892/export/duvodovazprava_Fokus~76558.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27892/export/usneseniRMC_dotaceMHMP~76557.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27892/export/Zadost_o_poskytnuti_ucelove_neinvesticni_dotace~76556.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27892/export/smlouvaospolupraci_Fokus~76555.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27892/export/export~298395.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na zajištění terénního programu v MČ Praha 7 v rámci využití dotace z rozpočtu hl.města Prahy na realizaci projektů v oblasti řešení problematiky bezdomovectví</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>se zajištěním terénního programu v MČ Praha 7 v rámci využití dotace z rozpočtu hl. města Prahy na realizaci projektů v oblasti řešení problematiky bezdomovectví</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s textem Smlouvy o spolupráci v oblasti řešení problematiky bezdomovectví v MČ Praha 7, dle přílohy č. 4 tohoto materiálu</p><p><br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s uzavřením Smlouvy o spolupráci v oblasti řešení problematiky bezdomovectví v MČ Praha 7&nbsp; s nestátní neziskovou organizací Fokus Praha, z.ú., Dolákova 24, 181 00 Praha 8, IČO 45701822 , dle přílohy č. 4 tohoto materiálu, na jejímž základě budou proplaceny finanční prostředky v max. výši 224 000,- Kč vč. DPH, s tím, že část nákladů bude hrazena z rozpočtu ORJ OSZ - 0516 a část prostřednictvím dotace MHMP <br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Smlouvu o spolupráci, dle přílohy č. 4 tohoto materiálu</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.6.2016</span></li></ul></li><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>realizovat na území MČ Praha 7 terénní program ve spolupráci s Fokusem Praha, z.ú. a zajistit proplacení nákladů z rozpočtu ORJ OSZ – 0516 (33 600) a prostřednictvím dotace MHMP (190 400), v maximální výši 224 000,- Kč vč. DPH</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.12.2016</span></li></ul></li></ol></li></ol>

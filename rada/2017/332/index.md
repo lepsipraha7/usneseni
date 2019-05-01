@@ -1,0 +1,12 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Informace o probíhajícím řízení o kasační stížnosti vedené u Nejvyššího
+  správního soudu pod sp.zn.: 9 As 53/2017 se 30-ti denní lhůtou k vyjádření'
+datum_vzniku_usneseni: '2017-04-11 00:00:00'
+cislo_usneseni: 0332/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29242/export/20170406_KSS_duvodova_zprava~189088.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29242/export/export~296335.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>informaci o probíhajícím řízení o kasační stížnosti vedené u Nejvyššího správního soudu pod sp.zn.: 9 As 53/2017 se 30-ti denní lhůtou k vyjádření</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že kasační stížnost směřuje proti rozsudku Městského soudu, č.j. 6A 209/2015-145, kde byla na počátku na straně žalobce i MČ P7. Žaloba směřovala proti rozhodnutí Magistrátu hlavního města Prahy, kterým změnil rozhodnutí odboru výstavby a územního plánování Úřadu městské části Praha 7 ze dne 12.02.2014. Osobou zúčastněnou na řízení je společnost Holešovický trojúhelník a.s., se sídlem Perlová 371/5, Praha 1, IČO: 276 98 327.</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že MČ P7 a a společnost Holešovický trojúhelník a.s uzavřely dne 22.09.2016 Dodatek č.5 ke Smlouvě o nájmu ze dne 20.05.2012. Cílem&nbsp; dodatku bylo ukončit dlouhodobý spor o podobu Centra na pozemku, který má společnost dlouhodobě pronajatý od MČ P7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že MČ P7 a společnost Holešovický trojúhelník a.s. došly ke vzájemnému konsensu, jehož podmínky jsou vyjádřeny v uzavřeném Dodatku č. 5. ke Smlouvě o nájmu ze dne 20.05.2012 <br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>MČ P7 s ohledem na uzavřený Dodatek č. 5 nepovažuje za potřebné podávat v řízení o kasační stížnosti své vyjádření<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="75">souhlasí s tím,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>aby se MČ P7 v rámci řízení o kasační stížnosti MČ P7 vedené u Nejvyššího správního soudu pod sp.zn.: 9 As 53/2017 nevyjadřovala</p></span></li></ol></li></ol>

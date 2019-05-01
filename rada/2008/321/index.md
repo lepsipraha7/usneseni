@@ -1,0 +1,50 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na prominutí poplatků z prodlení a smluvní pokuty '
+datum_vzniku_usneseni: '2008-03-18 00:00:00'
+cislo_usneseni: 0321/08
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na prominutí poplatků z prodlení a smluvní pokuty </h3></span><div class="center">
+		<strong>č. 0321/08</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 18.03.2008</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> předložený materiál - Návrh na prominutí poplatků z prodlení a smluvní pokuty </li></ul>
+</li>
+<li>Konstatuje,<ul><li>
+<strong>1.</strong> že na základě konzultace na Úřadě pro ochranu osobních údajů a v souladu se zákonem č.101/2000 Sb. v platném znění, je usnesení zpracováno tak, že jména dlužníků s jejich adresami jsou nahrazena iniciálami s tím, že plná jména a adresy dlužníků jsou uvedena v neveřejné příloze č. 1 tohoto usnesení </li></ul>
+</li>
+<li>Nesouhlasí<ul>
+<li>
+<strong>1.</strong> s prominutím smluvní pokuty u paní M.G., která byla po zaplacení dohody o splátkách poplatků z prodlení ke dni  31.01.2008 ve výši 833,- Kč</li>
+<li>
+<strong>2.</strong> s prominutím poplatků z prodlení u paní M.B., které byly po zaplacení dlužného nájemného ke dni  02.11.2007 ve výši 11.434,18 Kč</li>
+<li>
+<strong>3.</strong> s prominutím poplatků z prodlení u paní R.P., které byly po zaplacení dlužného nájemného ke dni  31.01.2008 ve výši 32.361,96 Kč</li>
+<li>
+<strong>4.</strong> s prominutím poplatků z prodlení u pana B.B., které byly po zaplacení dohody o splátkách dlužného nájemného (68.715,- Kč)  a  části poplatků z prodlení (35.000,- Kč)  ke dni  20.02.2008 ve výši 97.560,- Kč       </li>
+</ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>VED OP Hrubý Václav Mgr.</li>
+<li>
+<strong>1.1 Úkol: </strong>informovat žadatele dle přílohy č.1 tohoto materiálu o usnesení RMČ P7</li>
+<li>
+<strong>1.2 Termín: </strong>31.03.2008</li>
+<li>
+<strong>1.3 Úkol: </strong>informovat správní firmu EXA CZ, s.r.o., sídlem U Průhonu 48/1248, P7 o usnesení RMČ P7</li>
+<li>
+<strong>1.4 Termín: </strong>31.03.2008</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: MUDr. Tomáš Kaštovský <hr>
+<br>Přílohy: Neveřejné</div>
+</div>

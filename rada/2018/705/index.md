@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci projektu Filmové projekce k výročí „Osmiček“ pro studenty
+  ZŠ a seniory z Prahy 7
+datum_vzniku_usneseni: '2018-09-25 00:00:00'
+cislo_usneseni: 0705/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30250/export/duvodovazprava_filmoveprojekcekvyrociosmicek~395014.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30250/export/podrobnypopisakce~395013.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30250/export/export~395341.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na realizaci projektu Filmové projekce k výročí „Osmiček“ pro studenty ZŠ a seniory z Prahy 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>realizaci projektu Filmové projekce k výročí „Osmiček“ pro studenty ZŠ a seniory z Prahy 7 v termínu od 22. do 26.10.2018 v kině Bio OKO, Praha 7 v rozsahu viz příloha č. 2<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů v max. výši&nbsp;13 500 Kč vč. DPH, formou faktury, PO Národní filmový archiv, IČO: 000 57 26, se sídlem Malešická 2706/12, 130 00 Praha 3, za poskytnutí licence a zapůjčení filmových a digitálních nosičů k promítání, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů v max. výši 24 200 Kč vč. DPH, formou faktury, spolku Pro-OKO z.s., IČO: 228 42 136, se sídlem Františka Křížka 460/15, 170 00 Praha 7, za pronájem sálu v kině Bio OKO, Praha 7, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci projektu Filmové projekce k výročí „Osmiček“ pro studenty ZŠ a seniory z Prahy 7 dle ustanovení článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.10.2018</span></li></ul></li></ol></li></ol>

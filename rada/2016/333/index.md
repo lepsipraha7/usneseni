@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na udělení plné moci společnosti Lighthouse services s.r.o. k zastupování
+  MČ Praha 7 ve věci projednání opravy bývalé pobočky městské knihovny na adrese Milady
+  Horákové 56/387, jednotka č. 387/102, s Odborem památkové péče MHMP
+datum_vzniku_usneseni: '2016-04-05 00:00:00'
+cislo_usneseni: 0333/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27529/export/DZ_PMLighthouse~27575.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27529/export/02_PMLighthouseV2~27616.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27529/export/vypis689680~27617.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27529/export/export~299684.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh na udělení plné moci společnosti&nbsp;Lighthouse services s.r.o. k zastupování MČ Praha 7 ve věci projednání opravy bývalé pobočky městské knihovny na adrese Milady Horákové 56/387, jednotka č. 387/102, s Odborem památkové péče MHMP</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s udělením plné moci společnosti Lighthouse services s.r.o., IČO: 26758059, Jankovcova 1595/14, Praha 7, k zastupování MČ Praha 7 ve věci projednání opravy bývalé pobočky městské knihovny na adrese Milady Horákové 56/387, jednotka č. 387/102, s Odborem památkové péče MHMP</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s textem plné moci společnosti Lighthouse services s.r.o., IČO: 26758059, Jankovcova 1595/14, Praha 7, k zastupování MČ Praha 7 ve věci projednání opravy bývalé pobočky městské knihovny na adrese Milady Horákové 56/387, jednotka č. 387/102, s Odborem památkové péče MHMP</p></span></li></ol></li><li id="" class="urzClass1"><span name="16">pověřuje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Ing. arch. PhDr. Lenku Burgerovou, Ph.D., radní MČ Praha 7, k podpisu plné moci společnosti Lighthouse services s.r.o., IČO: 26758059, Jankovcova 1595/14, Praha 7, k zastupování MČ Praha 7 ve věci projednání opravy bývalé pobočky městské knihovny na adrese Milady Horákové 56/387, jednotka č. 387/102, s Odborem památkové péče MHMP<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>RAD PhDr. Ing. arch Lenka Burgerová, Ph.D.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat plnou moc společnosti Lighthouse services s.r.o., IČO: 26758059, Jankovcova 1595/14, Praha 7, k zastupování MČ Praha 7 ve věci projednání opravy bývalé pobočky městské knihovny na adrese Milady Horákové 56/387, jednotka č. 387/102, s Odborem památkové péče MHMP</p></span><span class="urzUkolTermin">  Termín:&nbsp;22.4.2016</span></li></ul></li></ol></li></ol>

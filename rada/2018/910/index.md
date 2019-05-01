@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na souhlas s podpisem smlouvy o financování projektu s názvem Jsme
+  IN - INspirováno INkluzí II., reg.č. CZ 07.4.68/0.0/0.0/17_045/0001202 mezi Základní
+  školou Praha 7, Strossmayerovo náměstí 4, Strossmayerovo náměstí 990/4, 170 00 Praha
+  7, IČO: 613 89 838 a Magistrátem hlavního města Prahy se sídlem: Mariánské nám.
+  2, 110 01 Praha 1, IČO: 000 64 581'
+datum_vzniku_usneseni: '2018-12-21 00:00:00'
+cislo_usneseni: '0910/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30485/export/Duvodovazprava~419453.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30485/export/1202_Smlouvaofinancovani_navrh~419452.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30485/export/ZadostosouhlasspodpisemsmlouvyofinancovaniprojektuJSMEINIIdocx~419451.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30485/export/export~419487.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal " id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na souhlas s podpisem smlouvy o financování projektu s názvem Jsme IN - INspirováno INkluzí II., reg.č. CZ 07.4.68/0.0/0.0/17_045/0001202 mezi Základní školou Praha 7, Strossmayerovo náměstí 4, Strossmayerovo náměstí 990/4, 170 00 Praha 7, IČO: 613 89 838 a Magistrátem hlavního města Prahy se sídlem: Mariánské nám. 2, 110 01 Praha 1, IČO: 000 64 581</p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass decimal " id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>že projekt s názvem Jsme IN - INspirováno INkluzí II., reg.č. CZ 07.4.68/0.0/0.0/17_045/0001202 je financován z Operačního programu Praha - pól růstu, výzvy č. 28<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že projekt byl doporučen k podpoře na základě usnesení Zastupitelstva hl. m. Prahy č. 39/9 ze dne 6. září 2018 <br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že příjemcem finanční podpory je Základní škola Praha 7, Strossmayerovo náměstí 4, Strossmayerovo náměstí 990/4, 170 00 Praha 7, IČO: 613 89 838<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>s podpisem smlouvy o financování statutárním zástupcem příjemce dotace, kterým je Základní škola Praha 7, Strossmayerovo náměstí 4, Strossmayerovo náměstí 990/4, 170 00 Praha 7, IČO: 613 89 838 <br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>RAD Šišková Hana Mgr.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat statutárního zástupce příjemce dotace, kterým je Základní škola Praha 7, Strossmayerovo náměstí 4, Strossmayerovo náměstí 990/4, 170 00 Praha 7, IČO: 613 89 838, o schválení uzavření smlouvy o financování s poskytovatelem dotace, kterým je Magistrátem hlavního města Prahy se sídlem: Mariánské nám. 2, 110 01 Praha 1, IČO: 000 64 581</p></span><span class="urzUkolTermin">  Termín:&nbsp;21.12.2018</span></li></ul></li></ol></li></ol>

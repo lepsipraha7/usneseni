@@ -1,0 +1,22 @@
+---
+layout: detail_usneseni
+nazev_bodu: NBP - kancelář U Letenského sadu 7, prodejna Letohradská 9, garáž U Smaltovny
+  23, dílna Ortenovo nám. 24, prodejna Dělnická 2 byly zveřejněny ve VŘ, KHsNP vyhodnotila
+  došlé nabídky a navrhuje uzavřít NS s vítězi tak, jak je uvedeno v návrhu usnesení.
+datum_vzniku_usneseni: '1999-06-22 00:00:00'
+cislo_usneseni: 0436/99
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>NBP - kancelář U Letenského sadu 7, prodejna Letohradská 9, garáž U Smaltovny 23, dílna Ortenovo nám. 24, prodejna Dělnická 2 byly zveřejněny ve VŘ, KHsNP vyhodnotila došlé nabídky a navrhuje uzavřít NS s vítězi tak, jak je uvedeno v návrhu usnesení.</h3></span><div class="center">
+		<strong>č. 0436/99</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 22.06.1999</strong><br><br>
+	</div>
+<br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na uzavření nájemních smluv na NBP po výběrovém řízení<br><br><br>II.	souhlasí <br><br>s uzavřením nájemní smlouvy na NBP kancelář, o rozloze 38 m2, v suterénu domu č. p. 215, ulice <br>U Letenského sadu, č. o. 7, Praha 7, s nájemcem LIKRS s. r. o., sídlo: Novodvorská 994, Praha 4, IČO: 25 60 84 36, na dobu neurčitou, za nájemné 1.500,- Kč/ m2/ rok<br><br>s uzavřením nájemní smlouvy na NBP prodejna tabáku, tisku a nápojů, o rozloze 20,9 m2, v přízemí domu č. p.: 681, ulice: Letohradská, č. o.: 9, Praha 7, s nájemcem Josef Filandr, IČO: 667 61 450, místo podnikání: Na Kácku 86, Sázava, na dobu neurčitou, za nájemné 8.000,- Kč/m2/ rok<br><br>s uzavřením nájemní smlouvy na NBP garáž o rozloze 18 m2, ve dvoře domu č. p.: 1369, ulice <br>U Smaltovny, č. o.: 23, Praha 7, s nájemcem Olga Čermáková (1), na dobu neurčitou, za nájemné 1.000,- Kč/ m2/ rok<br><br>s uzavřením nájemní smlouvy na NBP dílna o rozloze 20 m2, v přízemí domu č. p. 1148, ulice: Ortenovo náměstí, č. o.: 24, Praha 7, s nájemcem: Jaroslav Gottwald, místo podnikání: Husitská 3/ 107, Praha 3, IČO: 40 67 73 20, na dobu neurčitou, za nájemné 400,- Kč/ m2/rok  <br><br>s uzavřením nájemní smlouvy na NBP prodejna zboží -“ Levné oděvy“, opravna obuvi, o rozloze 98 m2, v přízemí domu č.p. 194a, ulice: Dělnická, č. o.: 2, Praha 7, s nájemcem Marek MIRGA, sídlo: Dělnická 2/194, Praha 7, IČO: 63 09 39 28, na dobu neurčitou, za nájemné 2.200,- Kč/ m2/rok<br><br><br>III.	ukládá <br><br><br> Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 21.07.1999<br>Úkol:	uzavřít nájemní smlouvu na NBP kancelář, o rozloze 38 m2, v suterénu domu č. p. 215, ulice U Letenského sadu, č. o. 7, Praha 7, s nájemcem LIKRS s. r. o., sídlo: Novodvorská 994, Praha 4, IČO: 25 60 84 36, na dobu neurčitou, za nájemné 1.500,- Kč/ m2/ rok<br>   <br> Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 21.07.1999<br>Úkol:	 uzavřít nájemní smlouvu na NBP prodejna tabáku, tisku a nápojů, o rozloze 20,9 m2, v přízemí domu č. p.: 681, ulice: Letohradská, č. o.: 9, Praha 7, s nájemcem Josef Filandr, IČO: 667 61 450, místo podnikání: Na Kácku 86, Sázava, na dobu neurčitou, za nájemné 8.000,- Kč/m2/ rok<br> <br> Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 27.07.1999<br>Úkol:	s uzavřít nájemní smlouvu na NBP garáž o rozloze 18 m2, ve dvoře domu č. p.: 1369, ulice U Smaltovny, č. o.: 23, Praha 7, s nájemcem Olga Čermáková (1), na dobu neurčitou, za nájemné 1.000,- Kč/ m2/ rok<br> <br> Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 27.07.1999<br>Úkol:	uzavřít nájemní smlouvy na NBP dílna o rozloze 20 m2, v přízemí domu č. p. 1148, ulice: Ortenovo náměstí, č. o.: 24, Praha 7, s nájemcem: Jaroslav Gottwald, místo podnikání: Husitská 3/ 107, Praha 3, IČO: 40 67 73 20, na dobu neurčitou, za nájemné 400,- Kč/ m2/rok  <br> <br><br> Určen:	zástupce starosty	ZAS STA Vayhel Luboš<br>Termín: 27.07.1999<br>Úkol:	uzavřít nájemní smlouvu na NBP prodejna zboží -“ Levné oděvy“, opravna obuvi, o rozloze 98 m2, v přízemí domu č.p. 194a, ulice: Dělnická, č. o.: 2, Praha 7, s nájemcem Marek MIRGA, sídlo: Dělnická 2/194, Praha 7, IČO: 63 09 39 28, na dobu neurčitou, za nájemné 2.200,- Kč/ m2/rok <br>
+</div>
+</div>

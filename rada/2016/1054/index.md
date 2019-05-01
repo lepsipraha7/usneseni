@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci vzpomínkového aktu u příležitosti významného dne Den
+  válečných veteránů, dne 11.11.2016 od 10:00 hodin v ul. Nad Štolou 1282/8, 170 00
+  Praha 7
+datum_vzniku_usneseni: '2016-10-25 00:00:00'
+cislo_usneseni: 1054/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27661/export/D_Denvalecnychveteranu_2016_V~123063.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27661/export/export~297547.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh na realizaci vzpomínkového aktu u příležitosti významného dne Den válečných veteránů, dne 11.11.2016 od 10:00 hodin v ul. Nad Štolou 1282/8, 170 00 Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>realizaci vzpomínkového aktu u příležitosti významného dne Den válečných veteránů, dne 11.11.2016 od 10:00 hodin v ul. Nad Štolou 1282/8, 170 00 Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 4 000 Kč vč. DPH, v hotovosti, spolku Klub vojenských výsadkových veteránů Praha, z.s., IČO: 266 44 231, se sídlem Čínská 1949/35, 160 00 Praha 6 - Dejvice, za zajištění čestné stráže (max. 8 členů) na vzpomínkovém aktu, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 6 000 Kč vč. DPH, v hotovosti, Miroslavu Laštovkovi, IČO: 711 11 964, za hudební doprovod, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 3 500 Kč vč. DPH, formou faktury, společnosti ELTODO-CITELUM, s.r.o., IČO: 257 51 018, se sídlem Novodvorská 1010/14, 142 01 Praha 4, za zajištění el. přípojky a odběr elektřiny pro zajištění ozvučení pietního aktu, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně realizaci vzpomínkového aktu u příležitosti významného dne Den válečných veteránů, dne 11.11.2016 od 10:00 hodin v ul. Nad Štolou 1282/8, 170 00 Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;25.11.2016</span></li></ul></li></ol></li></ol>

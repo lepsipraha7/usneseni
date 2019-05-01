@@ -1,0 +1,36 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh Přezkum hospodaření MČ Praha 7 za rok 2013 externím nezávislým auditorem
+datum_vzniku_usneseni: '2013-05-14 00:00:00'
+cislo_usneseni: '0378/13'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24003/24-13-dopis_mhmp.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh Přezkum hospodaření MČ Praha 7 za rok 2013 externím nezávislým auditorem</h3></span><div class="center">
+		<strong>č. 0378/13</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 14.05.2013</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh na Přezkum hospodaření MČ Praha 7 za rok 2013 externím nezávislým auditorem</li></ul>
+</li>
+<li>Schvaluje<ul><li>
+<strong>1.</strong> Návrh zadat přezkum hospodaření MČ Praha 7 za rok 2013 externímu nezávislému auditorovi</li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>STA Ječmének Marek</li>
+<li>
+<strong>1.1 Úkol: </strong>Podepsat dopis o přezkumu hospodaření MČ Praha 7 za rok 2013 externím nezávislým auditorem, který bude odeslán Odboru kontrolních činností MHMP</li>
+<li>
+<strong>1.2 Termín: </strong>16.05.2013</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

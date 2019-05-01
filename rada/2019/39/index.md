@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na souhlas s uzavřením darovací smlouvy o přijetí hmotného daru
+  v hodnotě 4 519 Kč mezi příspěvkovou organizací Základní škola Praha 7, Korunovační
+  8, Korunovační 164/8, 170 00 Praha 7, IČO: 613 89 820 a Spolkem Korunka, z. s.,
+  se sídlem Korunovační 164/8, Bubeneč, 170 00 Praha 7, IČO: 051 18 123'
+datum_vzniku_usneseni: '2019-01-22 00:00:00'
+cislo_usneseni: '0039/19-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30529/export/1_Duvodova_zprava_~424366.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30529/export/Darovacismlouva1_2019_final~424365.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30529/export/ZSKorunovacnidarzadost~424364.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30529/export/vypis_rejstrik_spolek_Korunka~424363.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30529/export/export~424909.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na souhlas s uzavřením darovací smlouvy o přijetí hmotného daru v hodnotě 4 519 Kč mezi příspěvkovou organizací Základní škola Praha 7, Korunovační 8, Korunovační 164/8, 170 00 Praha 7, IČO: 613 89 820 a Spolkem Korunka, z. s., se sídlem Korunovační 164/8, Bubeneč, 170 00 Praha 7, IČO: 051 18 123</p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>že na základě této darovací smlouvy bude základní škole Praha 7, Korunovační 8, Korunovační 164/8, 170 00 Praha 7, IČO: 613 89 820 předán Spolkem Korunka, z. s., se sídlem Korunovační 164/8, Bubeneč, 170 00 Praha 7, IČO: 051 18 123 hmotný dar v celkové hodnotě 4 519 Kč v podobě 34 kusů cizojazyčných knih určených pro potřeby jazykové výuky v základní škole <br></p><p><br></p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>text darovací smlouvy mezi příspěvkovou organizací Základní škola Praha 7, Korunovační 8, Korunovační 164/8, 170 00 Praha 7, IČO: 613 89 820 a Spolkem Korunka, z. s., se sídlem Korunovační 164/8, Bubeneč, 170 00 Praha 7, IČO: 051 18 123 viz příloha č. 2</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>s uzavřením darovací smlouvy&nbsp;o přijetí hmotného daru v hodnotě 4 519 Kč mezi příspěvkovou organizací Základní škola Praha 7, Korunovační 8, Korunovační 164/8, 170 00 Praha 7, IČO: 613 89 820 a Spolkem Korunka, z. s., se sídlem Korunovační 164/8, Bubeneč, 170 00 Praha 7, IČO: 051 18 123</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OVPŘ Hradecká Soňa Bc.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat ředitele Základní školy Praha 7, Korunovační 8, Korunovační 164/8, 170 00 Praha 7, IČO: 613 89 820 Mgr. Tomáše Komrsku o schváleném usnesení Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;23.1.2019</span></li></ul></li></ol></li></ol>

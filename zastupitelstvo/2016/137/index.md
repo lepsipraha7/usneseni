@@ -1,0 +1,57 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na záměr uzavření dohody o zrušení a vypořádání spoluvlastnictví
+  domů Šmeralova 27/197 a Přístavní 44/1112, včetně souvisejících pozemků
+datum_vzniku_usneseni: '2016-09-12 00:00:00'
+cislo_usneseni: 0137/16-Z
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/DZ_HartmannZ16~103820.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/02_HartmannZ16~103819.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/03_HartmannZ16~103818.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/04_HartmannZ16~103817.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/05_HartmannZ16~103816.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/06_HartmannZ16~103815.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/07_HartmannZ16~103814.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/08_HartmannZ16~103813.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/09_HartmannZ16~103812.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/10_HartmannZ16~103811.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/11_HartmannZ16~103810.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/12_HartmannZ16~103809.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/160902Hartmaninakladyvynosyporovnani2014x2016~103808.xlsx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/160902stavbankovnichuctuHartmanik3182016~103807.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27434/export/export~301557.pdf
+organ: zastupitelstvo
+---
+<OL class=urzList_view id=urzList>
+<LI class=urzClass1><SPAN name="1">bere na vědomí</SPAN> 
+<OL class=urzOlClass>
+<LI class=urzClass2 style="TEXT-ALIGN: left"><SPAN>
+<P>Návrh na záměr uzavření dohody o zrušení a vypořádání spoluvlastnictví domů Šmeralova 27/197 a Přístavní 44/1112, včetně souvisejících pozemků</P></SPAN></LI></OL></LI>
+<LI class=urzClass1><SPAN name="50">konstatuje,</SPAN> 
+<OL class=urzOlClass>
+<LI class=urzClass2 style="TEXT-ALIGN: left"><SPAN>
+<P>že je dlouhodobou snahou MČ Praha 7 sjednocení vlastnictví podílových domů formou směny, či odkupu jednotlivých podílů, s důrazem na postup s péčí řádného hospodáře, v nejzazším řešení formou podání žaloby na určení vlastnictví</P></SPAN></LI>
+<LI class=urzClass2 style="TEXT-ALIGN: left"><SPAN>
+<P>že MČ Praha 7 a rodina Hartmannových dospěli k oboustranné dohodě o zrušení a vypořádání spoluvlastnictví domů Šmeralova 27/197 a Přístavní 44/1112, kdy MČ Praha 7 nabyde plné vlastnictví domu Přístavní 44/1112 a rodina Hartmannových nabyde plné vlastnictví domu Šmeralova 27/197, přičemž&nbsp;rodina Hartmannových uhradí za vypořádání spoluvlastnictví náhradu MČ Praha 7 v souhrnné výši 5.500.000,- Kč<BR></P></SPAN></LI></OL></LI>
+<LI class=urzClass1><SPAN name="24">schvaluje</SPAN> 
+<OL class=urzOlClass>
+<LI class=urzClass2 style="TEXT-ALIGN: left"><SPAN>
+<P>záměr směny spoluvlastnických podílů pozemků parc. č. 949, o výměře 291 m2, zastavěná plocha a nádvoří, jehož součástí je budova č.p. 1112, bytový dům Přístavní 44, a parc. č. 950,&nbsp;o výměře 163 m2, zahrada, vše v k.ú. Holešovice a pozemku parc. č.&nbsp;359, o výměře 427 m2, zastavěná plocha a nádvoří, jehož součástí je budova č.p. 197, bytový dům Šmeralova 27, vše v k.ú. Bubeneč, mezi MČ Praha 7 (id. 1/2) a Cyril Hartman, rue de la Félia, Franois, Francie (id. 1/6), Eva Hartman, rue Jacguard, Lyon, Francie (id. 1/6), Veronique Hartman, rue Duviard, Lyon, Francie (id. 1/6), kdy MČ Praha 7 zůstane svěřená správa nemovitostí celého domu Přístavní 44/1112 a pozemků parc. č. 949 a 950 v k.ú. Holešovice a Cyril Hartman, Eva Hartman, Veronique Hartman budou připsány příslušné spoluvlastnické podíly na domu Šmeralova 27/197 a pozemku 359 v k.ú. Bubeneč s tím, že za úplné vypořádání zaniklého podílového spoluvlastnictví uhradí Cyril Hartman, Eva Hartman a Véronique Hartman společně náhradu za vypořádání spoluvlastnictví MČ Praha 7 v souhrnné výši 5.500.000,- Kč<BR></P></SPAN></LI>
+<LI class=urzClass2 style="TEXT-ALIGN: left"><SPAN>
+<P>záměr rozhodnutí MČ Praha 7 dle § 89, odst. 2, písm. e) zákona č. 131/2000 Sb., o nabytí nemovitých věcí spoluvlastnických podílů pozemků parc. č. 949, o výměře 291 m2, zastavěná plocha a nádvoří, jehož součástí je budova č.p. 1112, bytový dům Přístavní 44, a parc. č. 950, o výměře 163 m2, zahrada, vše v k.ú. Holešovice, formou směny spoluvlastnických podílů mezi MČ Praha 7 (id. 1/2) a Cyril Hartman, rue de la Félia, Franois, Francie (id. 1/6), Eva Hartman, rue Jacguard, Lyon, Francie (id. 1/6), Veronique Hartman, rue Duviard, Lyon, Francie (id. 1/6), kdy MČ Praha 7 zůstane svěřená správa nemovitostí celého domu Přístavní 44/1112 a pozemků parc. č. 949 a 950 v k.ú. Holešovice a Cyril Hartman, Eva Hartman, Veronique Hartman budou připsány příslušné spoluvlastnické podíly na domu Šmeralova 27/197 a pozemku 359 v k.ú. Bubeneč s tím, že za úplné vypořádání zaniklého podílového spoluvlastnictví uhradí Cyril Hartman, Eva Hartman a Véronique Hartman společně náhradu za vypořádání spoluvlastnictví MČ Praha 7 v souhrnné výši 5.500.000,- Kč<BR></P></SPAN></LI>
+<LI class=urzClass2 style="TEXT-ALIGN: left"><SPAN>
+<P>záměr zřízení předkupního práva k nemovitým věcem pozemku parc. č. 359, o výměře 427 m2, zastavěná plocha a nádvoří, jehož součástí je budova č.p. 197, bytový dům Šmeralova 27, vše v k.ú. Bubeneč, pro MČ Praha 7, po dobu deseti let ode dne podání návrhu na vklad vlastnického práva do katastru nemovitostí, jakožto práva věcného, které působí i vůči právním nástupcům rodiny Hartmannových</P></SPAN></LI>
+<LI class=urzClass2 style="TEXT-ALIGN: left"><SPAN>
+<P>záměr uzavření dohody o zrušení a vypořádání spoluvlastnictví a zřízení předkupního práva jako práva věcného, mezi MČ Praha 7 a Cyril Hartman, rue de la Félia, Franois, Francie, Eva Hartman, rue Jacguard, Lyon, Francie, Veronique Hartman, rue Duviard, Lyon, Francie<BR></P></SPAN></LI></OL></LI>
+<LI class=urzClass1 id=urzUkoly><SPAN name="1">ukládá</SPAN>
+<OL class=urzOlClass>
+<LI class=urzClass2><SPAN>
+<P>VED OMA Mgr. Robert Kolář</P></SPAN>
+<UL class=urzUlClass>
+<LI class=urzClass3><SPAN>
+<P>zveřejnit záměr uzavření dohody o zrušení a vypořádání spoluvlastnictví domů Šmeralova 27/197 a Přístavní 44/1112, včetně souvisejících pozemků, na úřední desce Ú MČ P7 po dobu 15 dnů</P></SPAN><SPAN class=urzUkolTermin>Termín:&nbsp;13.9.2016</SPAN></LI></UL></LI>
+<LI class=urzClass2><SPAN>
+<P>ZAS STA Ing. Kamil Vavřinec Mareš</P></SPAN>
+<UL class=urzUlClass>
+<LI class=urzClass3><SPAN>
+<P>předložit Zastupitelstvu MČ Praha 7 návrh na uzavření dohody o zrušení a vypořádání spoluvlastnictví domů Šmeralova 27/197 a Přístavní 44/1112, včetně souvisejících pozemků</P></SPAN><SPAN class=urzUkolTermin>Termín:&nbsp;10.10.2016</SPAN></LI></UL></LI></OL></LI></OL>

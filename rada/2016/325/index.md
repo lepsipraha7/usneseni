@@ -1,0 +1,19 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení dohody o ukončení Příkazní smlouvy č. 2014/OIVZ/041
+  uzavřené se společností LANDKER s.r.o. a vyplacení finanční částky ve výši 19 500,-
+  Kč bez DPH této společnosti za  služby poskytnuté na základě této smlouvy
+datum_vzniku_usneseni: '2016-04-05 00:00:00'
+cislo_usneseni: 0325/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27521/export/1duvodovazprava~40549.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27521/export/2Dohodaoukoncenismlouvypoprip~40548.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27521/export/3Prikaznismlouva~40547.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27521/export/4prilohac1soupispoznatkuzPD~40546.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27521/export/5prilohac2dohody~40545.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27521/export/6vypiszORplatny~40544.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27521/export/registrPlatcuDPH~40543.htm
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27521/export/export~299702.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh dohody o ukončení Příkazní smlouvy č. 2014/OIVZ/041 uzavřené se společností LANDKER s.r.o., IČO: 27938433,sídlo: Havanská 19/183, Praha 7, PSČ 170 00;</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>vyplacení finanční částky ve výši 19 500,- Kč bez DPH, tj. 23 595,- Kč včetně DPH společnosti LANDKER s.r.o. za dosud poskytnuté služby spojené z Příkazní smlouvou č. 2014/OIVZ/041; částka bude hrazena z rozpočtu akce rekonstrukce vodárenské věže, ORJ OMA 0809.<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s dohodou o ukončení Příkazní smlouvy č. 2014/OIVZ/041 uzavřené se společností LANDKER s.r.o., IČO: 27938433,sídlo: Havanská 19/183, Praha 7, PSČ 170 00;</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>vyplacením finanční částky ve výši 19 500,- Kč bez DPH, tj. 23 595,- Kč včetně DPH společnosti LANDKER s.r.o. za dosud poskytnuté služby spojené z Příkazní smlouvou č. 2014/OIVZ/041; částka bude hrazena z rozpočtu akce rekonstrukce vodárenské věže, ORJ OMA 0809.<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>dohodu o ukončení Příkazní smlouvy č. 2014/OIVZ/041 uzavřené se společností LANDKER s.r.o., IČO: 27938433,sídlo: Havanská 19/183, Praha 7, PSČ 170 00;</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>vyplacení finanční částky ve výši 19 500,- Kč bez DPH, tj. 23 595,- Kč včetně DPH společnosti LANDKER s.r.o. za dosud poskytnuté služby spojené z Příkazní smlouvou č. 2014/OIVZ/041; částka bude hrazena z rozpočtu akce rekonstrukce vodárenské věže, ORJ OMA 0809.<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>úřadu MČ - ZAS STA Pavel Vyhnánek, M.A.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat dohodu o ukončení Příkazní smlouvy č. 2014/OIVZ/041</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.4.2016</span></li></ul></li></ol></li></ol>

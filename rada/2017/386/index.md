@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na podporu začínajících umělců formou poskytnutí nebytových prostor
+  městské části Praha 7 v rámci projektu Art District 7
+datum_vzniku_usneseni: '2017-04-25 00:00:00'
+cislo_usneseni: '0386/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28972/export/M20DV_Startovaciateliery_zamer_dokumenty~194444.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28972/export/Startovaci_ateliery_AD7_pravidla~194443.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28972/export/Pokyny_a_pouceni__NBP~194442.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28972/export/Zavazna_nabidka_do_vyberoveho_rizeni_o_NBP_formular~194441.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28972/export/Souhlas_s_uverejnenim_jmena_a_prijmeni_byty~194440.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28972/export/Zapis_4_jednani_clenu_KK_ze_dne_03_04_2017~194439.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28972/export/export~296223.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na podporu začínajících umělců formou poskytnutí nebytových prostor městské části Praha 7 v rámci projektu Art District 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>podporu začínajících umělců formou poskytnutí nebytových prostor městské části <br>Praha 7 v rámci projektu Art District 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>Pravidla městské části Praha 7 pro poskytnutí nebytových prostor ve správě městské části Praha 7 v rámci podpory začínajících umělců viz příloha č. 2<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>Pokyny a poučení pro zájemce o účast ve výběrovém řízení MČ Praha 7 o uzavření nájemní smlouvy na nebytový prostor viz příloha č. 3<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>formulář - Závazná nabídka do výběrového řízení MČ Praha 7 o uzavření nájemní smlouvy na nebytový prostor - startovací ateliér pro začínající umělce v rámci projektu Art District 7 viz příloha č. 4<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>formulář - Souhlas s uveřejněním jména a příjmení viz příloha č. 5<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit zveřejnění podpory začínajících umělců formou poskytnutí nebytových prostor městské části Praha 7 v rámci projektu Art District 7 vč. Pravidel a formulářů na internetových stránkách MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;12.5.2017</span></li></ul></li></ol></li></ol>

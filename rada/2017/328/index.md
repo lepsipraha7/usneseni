@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na poskytnutí individuální dotace spolku MOTUS, z.s., IČO: 265
+  27 120 za účelem podpory akce Františkovy lásky 2017, Láska za stolem'
+datum_vzniku_usneseni: '2017-04-11 00:00:00'
+cislo_usneseni: '0328/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29238/export/M17DV_Motus_ID_Frantiskovylasky_2017~189041.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29238/export/Zadost_Motus_Frantiskovylasky_anonymizovana~189040.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29238/export/S_Motus_ID_Frantiskovylasky_2017~189039.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29238/export/SR_Motus_Frantiskovylasky2017~189038.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29238/export/export~296343.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na poskytnutí individuální dotace spolku MOTUS, z.s., IČO: 265 27 120 za účelem podpory akce Františkovy lásky 2017, Láska za stolem</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>poskytnutí individuální dotace ve výši 20 000 Kč, formou veřejnoprávní smlouvy, spolku MOTUS, z.s., IČO: 265 27 120, se sídlem Veverkova 721/28, 170 00 Praha 7, Holešovice, za účelem podpory akce Františkovy lásky 2017, Láska za stolem, pořádané dne 01.05.2017 v ulici Františka Křížka před kinem Bio Oko, Praha 7. Dotace je poskytnuta v poměrné výši na úhradu nákladů spojených s realizací akce - technicko-organizační zajištění. Hrazeno z rozpočtu OKS ORJ 621 - kultura.<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>uzavření smlouvy o poskytnutí dotace mezi městskou částí Praha 7 a spolkem MOTUS, z.s., IČO: 265 27 120, se sídlem Veverkova 721/28, 170 00 Praha 7, Holešovice viz příloha č. 3<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu o poskytnutí dotace mezi městskou částí Praha 7 a spolkem MOTUS, z.s., IČO: 265 27 120 viz příloha č. 3</p></span><span class="urzUkolTermin">  Termín:&nbsp;21.4.2017</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit poskytnutí individuální dotace spolku MOTUS, z.s., IČO: 265 27 120 za účelem podpory akce Františkovy lásky 2017, Láska za stolem dle ustanovení článku II tohoto ustanovení</p></span><span class="urzUkolTermin">  Termín:&nbsp;28.4.2017</span></li></ul></li></ol></li></ol>

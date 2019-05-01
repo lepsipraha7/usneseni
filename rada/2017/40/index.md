@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření nájemní smlouvy se společností Pečovatelské centrum
+  Praha 7, příspěvková organizace, Heřmanova 1/1415, Praha 7, na nebytový prostor
+  – ordinace, č. 101, na adrese Kamenická 46/622, Praha 7
+datum_vzniku_usneseni: '2017-01-17 00:00:00'
+cislo_usneseni: 0040/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28765/export/01DZ_NSPCP7622~156527.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28765/export/02_NSPCP7622~156526.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28765/export/export~296937.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na uzavření nájemní smlouvy se společností Pečovatelské centrum Praha 7, příspěvková organizace, Heřmanova 1/1415, Praha 7, na nebytový prostor – ordinace, č. 101, na adrese Kamenická 46/622, Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že Pečovatelské centrum Praha 7 je příspěvkovou organizací MČ Praha 7 a v souladu se zákonem č. 131/2000 Sb. o hlavním městě Praze, odst. 3, § 36, nemusí být zveřejněn záměr<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s uzavřením nájemní smlouvy na dobu neurčitou od 01.01.2017, na pronájem nebytového prostoru – ordinace, č. 101, o celkové ploše 38,73 m2, na adrese Kamenická 46/622, Praha 7, se společností Pečovatelské centrum Praha 7, p.o., IČ: 70890307, se sídlem Heřmanova 1/1415, Praha 7, za nájemné 1.614,- Kč/měsíčně/předmět nájmu (tj. 500 Kč/m2/rok)</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít nájemní smlouvu na dobu neurčitou od 01.01.2017, na pronájem nebytového prostoru – ordinace, č. 101 o celkové ploše 38,73 m2 na adrese  Kamenická 46/622, Praha 7, se společností Pečovatelské centrum Praha 7, p.o., IČ: 70890307, se sídlem Heřmanova 1/1415, Praha 7, za nájemné 1.614,- Kč/měsíčně/předmět nájmu (tj.  500  Kč/m2/rok)</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.1.2017</span></li></ul></li></ol></li></ol>

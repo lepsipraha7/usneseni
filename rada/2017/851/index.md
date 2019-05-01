@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na schválení soudního smíru dle § 99 zákona č. 99/1963 Sb., občanský
+  soudní řád, se společností GOJA, agentura Gott-Janeček spol. s.r.o., IČO: 481 12
+  852, ve věci žaloby o zaplacení 1.652.342 Kč s úroky z prodlení'
+datum_vzniku_usneseni: '2017-09-18 00:00:00'
+cislo_usneseni: '0851/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29091/export/DuvodovazpravaGOJA~248242.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29091/export/Spolecnynavrhnaschvalenisoudnihosmiru~248241.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29091/export/export~295249.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na schválení soudního smíru dle § 99 zákona č. 99/1963 Sb., občanský soudní řád, se společností GOJA, agentura Gott-Janeček spol. s.r.o., IČO: 481 12 852, ve věci žaloby o zaplacení 1.652.342 Kč s úroky z prodlení<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="89">schvaluje,</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>text návrhu na schválení soudního smíru dle § 99 zákona č. 99/1963 Sb., občanský soudní řád, se společností GOJA, agentura Gott-Janeček spol. s.r.o., IČO: 481 12 852, ve věci žaloby o zaplacení 1.652.342 Kč s úroky z prodlení<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="16">pověřuje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>zástupce starosty Pavla Vyhnánka M. A. k podpisu návrhu soudního smíru se společností GOJA, agentura Gott-Janeček spol. s.r.o., IČO: 48112852, ve věci žaloby o zaplacení 1.652.342 Kč s úroky z prodlení<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Pavel Vyhnánek, M.A.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat návrh soudního smíru se společností GOJA, agentura Gott-Janeček spol. s.r.o., IČO: 48112852, ve věci žaloby o zaplacení 1.652.342 Kč s úroky z prodlení</p></span><span class="urzUkolTermin">  Termín:&nbsp;19.9.2017</span><div class="urzUkolTermin">  Kontrolní termín:&nbsp;19.9.2017</div></li></ul></li><li class="urzClass2"><span><p>VED OPV Mgr. Kateřina Šilhová Šafránková</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat AK KF Legal s.r.o. o usnesení RMČ P7</p></span><span class="urzUkolTermin">  Termín:&nbsp;18.9.2017</span><div class="urzUkolTermin">  Kontrolní termín:&nbsp;18.9.2017</div></li></ul></li></ol></li></ol>

@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na spolupráci mezi městskou částí Praha 7 a společností GoOut,
+  s.r.o., IČO: 019 01 613 na tvorbě kulturního přehledu a databázi kontaktů v návaznosti
+  na nové webové stránky MČ Praha 7'
+datum_vzniku_usneseni: '2017-08-01 00:00:00'
+cislo_usneseni: '0698/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29361/export/M39_DV_GoOUT~231230.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29361/export/SmlouvaGOoutfinal~231229.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29361/export/export~295573.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na spolupráci mezi městskou částí Praha 7 a společností GoOut, s.r.o., IČO: 019 01 613 na tvorbě kulturního přehledu a databázi kontaktů v návaznosti na nové webové stránky MČ Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>spolupráci mezi městskou částí Praha 7 a společností GoOut, s.r.o., IČO: 019 01 613, se sídlem Mánesova 917/28, Vinohrady, 120 00 Praha 2, na tvorbě kulturního přehledu a databázi kontaktů v návaznosti na nové webové stránky MČ Praha 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>text smlouvy o spolupráci mezi městskou částí Praha 7 a společností GoOut, s.r.o., IČO: 019 01 613, se sídlem Mánesova 917/28, Vinohrady, 120 00 Praha 2 viz příloha č. 2</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>uzavření smlouvy o spolupráci mezi městskou částí Praha 7 a společností GoOut, s.r.o., IČO: 019 01 613, se sídlem Mánesova 917/28, Vinohrady, 120 00 Praha 2 viz příloha č. 2</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu o spolupráci mezi městskou částí Praha 7 a společností GoOut, s.r.o., IČO: 019 01 613 viz příloha č. 2</p></span><span class="urzUkolTermin">  Termín:&nbsp;11.8.2017</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit plnění smlouvy o spolupráci mezi městskou částí Praha 7 a společností GoOut, s.r.o., IČO: 019 01 613 viz příloha č. 2</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.1.2018</span></li></ul></li></ol></li></ol>

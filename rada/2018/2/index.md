@@ -1,0 +1,12 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci jazykových kurzů pro seniory z Prahy 7 v I. pololetí
+  roku 2018 v budově ÚMČ Praha 7, nábř. Kpt. Jaroše 1000, Praha 7
+datum_vzniku_usneseni: '2018-01-02 00:00:00'
+cislo_usneseni: 0002/18-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27092/export/D__Jazykove_kurzy_seniori_2018_V~312425.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27092/export/export~312649.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na realizaci jazykových kurzů pro seniory z Prahy 7 v I. pololetí roku 2018 v budově ÚMČ Praha 7, nábř. Kpt. Jaroše 1000, Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="6">konstatuje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>že jazykových kurzů pro seniory z Prahy 7 se mohou účastnit pouze senioři s trvalým bydlištěm v Praze 7</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že jazykové kurzy jsou pro seniory z Prahy 7 zdarma</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>realizaci jazykových kurzů pro seniory Prahy 7, v termínu 06.02. - 31.05.2018 v budově ÚMČ Praha 7, nábř. Kpt. Jaroše 1000, Praha 7 v rozsahu viz příloha č. 2</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 23 100 Kč spojených s realizací kurzů na výplatu lektorného na základě DPP, hrazeno z rozpočtu OPČ-OPP ORJ 912</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně zajistit realizaci jazykových kurzů pro seniory z Prahy 7 dle článku III tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.5.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OPČ Mgr. Sedláková Lenka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>finančně zajistit realizaci jazykových kurzů pro seniory z Prahy 7 dle článku III odst. 2 tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.6.2018</span></li></ul></li></ol></li></ol>

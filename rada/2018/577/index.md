@@ -1,0 +1,12 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na úpravu platového výměru pro ředitele příspěvkové organizace Základní
+  škola Korunovační, Praha 7, Korunovační 164/8
+datum_vzniku_usneseni: '2018-07-24 00:00:00'
+cislo_usneseni: 0577/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30125/export/1Duvodovazprava~378413.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30125/export/export~379175.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na úpravu platového výměru pro ředitele příspěvkové organizace Základní škola Korunovační, Praha 7, Korunovační 164/8 v souladu s ustanovením zákona č. 262/2006 Sb., zákoník práce ve znění pozdějších předpisů a s nařízením vlády č. 564/2006 Sb., o platových poměrech zaměstnanců ve veřejných službách a správě v platném znění<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal " id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>úpravu platového výměru řediteli příspěvkové organizace Základní škola Korunovační, Praha 7, Korunovační 164/8, Mgr. Tomáši Komrskovi na základě odpracovaných let a to změnou platového stupně v platové třídě. Ostatní náležitosti platového výměru jsou beze změny<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>účinnost platového výměru pro Mgr. Tomáše Komrsku ředitele příspěvkové organizace Základní škola Korunovační, Praha 7, Korunovační 164/8 od 1.8.2018</p></span></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>Ing. Ditu Výborovou vedoucí odboru školství k podpisu upraveného platového výměru pro Mgr. Tomáše Komrsku, ředitele příspěvkové organizace Základní škola Korunovační, Praha 7, Korunovační 164/8<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OŠK Ing. Dita Výborová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Informaovat ředitele Mgr. Tomáše Komrsku o změně platového výměru a zároveň mu předat nový platový výměr</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.7.2018</span></li></ul></li></ol></li></ol>

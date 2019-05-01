@@ -1,0 +1,45 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na převod vlastnictví jednotky č. 1463/10 a č. 1463/11 v domě č.p.
+  1463, Tusarova č.o. 18, Praha 7, k.ú. Holešovice
+datum_vzniku_usneseni: '2010-02-15 00:00:00'
+cislo_usneseni: 0177/10
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/20735/8-1463-10_burger,kutajovi_-_15.02.2010_-_ii.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/20735/8-p%c5%99%c3%adloha_k_materi%c3%a1lu_-_tusarova_18_-15.02.2010.xls
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na převod vlastnictví jednotky č. 1463/10 a č. 1463/11 v domě č.p. 1463, Tusarova č.o. 18, Praha 7, k.ú. Holešovice</h3></span><div class="center">
+		<strong>č. 0177/10</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 15.02.2010</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> předložený materiál - návrh na převod vlastnictví jednotky č. 1463/10 a č. 1463/11 v domě č.p. 1463, Tusarova č.o. 18, Praha 7, k.ú. Holešovice</li></ul>
+</li>
+<li>Souhlasí<ul>
+<li>
+<strong>1.</strong> s převodem vlastnictví jednotky č. 1463/10 v domě č.p. 1463, Tusarova č.o. 18, postaveném na pozemku parc. č. 1143, včetně příslušného spoluvlastnického podílu o velikosti 637/7462 na společných částech budovy č.p. 1463 a na pozemku parc. č. 1143, vše v k.ú. Holešovice, obec Praha, oprávněnému nájemci Josefu Burgerovi za cenu ve výši 713.440,00 Kč (slovy: sedmsettřinácttisícčtyřistačtyřicet korun českých), po poskytnutí příslušné slevy 30 % při jednorázové platbě</li>
+<li>
+<strong>2.</strong> s převodem vlastnictví jednotky č. 1463/11 v domě č.p. 1463, Tusarova č.o. 18, postaveném na pozemku parc. č. 1143, včetně příslušného spoluvlastnického podílu o velikosti 647/7462 na společných částech budovy č.p. 1463 a na pozemku parc. č. 1143, vše v k.ú. Holešovice, obec Praha, oprávněným nájemcům Štěpánu Kutajovi a Evě Kutajové za cenu ve výši 724.640,00 Kč (slovy: sedmsetdvacetčtyřitisícešestsetčtyřicet korun českých), po poskytnutí příslušné slevy 30 % při jednorázové platběs textem přiložených Smlouv o převodu vlastnictví jednotek mezi MČ Praha 7 a oprávněnými nájemci jednotek</li>
+</ul>
+</li>
+<li>Schvaluje<ul><li>
+<strong>1.</strong> návrh usnesení Zastupitelstva MČ Praha 7 na převod vlastnictví jednotek č. 1463/10 a č. 1463/11 v domě č.p. 1463, Tusarova č.o. 18, Praha 7, k.ú. Holešovice   </li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>RAD Justová Marcela Bc.</li>
+<li>
+<strong>1.1 Úkol: </strong>předložit na zasedání Zastupitelstva MČ Praha 7 návrh na převod vlastnictví  jednotek č. 1463/10 a č. 1463/11 v domě č.p. 1463, Tusarova č.o. 18, Praha 7, k.ú. Holešovice  </li>
+<li>
+<strong>1.2 Termín: </strong>15.02.2010</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: MUDr. Tomáš Kaštovský 
+</div>
+</div>

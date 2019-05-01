@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení přijetí finančního daru Nadačního fondu "Osvojme si
+  stáří"
+datum_vzniku_usneseni: '2017-07-18 00:00:00'
+cislo_usneseni: 0662/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29334/export/duvodovazprava_DARAMIS_08122017~226506.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29334/export/Smlouvaoposkytnutifinancnihodaru_NFOsvojmesistari_8122017~226505.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29334/export/Vypisznadacnihorejstriku_NF~226504.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29334/export/export~295645.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na schválení přijetí finančního daru Nadačního fondu "Osvojme si stáří"</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass" id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>přijetí finančního daru na účet MČ Praha 7 a z tohoto daru proplacení nákladů sociálních služeb pro seniory v maximální výši 60 000 Kč vč. DPH z kapitoly ORJ 0516. Zdrojem financování je finanční dar od Nadačního fondu "Osvojme si stáří", Jankovcova 1595/14, Praha 7, IČO: 049 66 856, viz příloha č. 2 tohoto materiálu</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>text Smlouvy o poskytnutí finančního daru Nadačním fondem "Osvojme si stáří", Jankovcova 1595/14, Praha 7, IČO: 049 66 856, viz příloha č. 2 tohoto materiálu</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>uzavření Smlouvy o poskytnutí finančního daru s Nadačním fondem "Osvojme si stáří", Jankovcova 1595/14, Praha 7, IČO: 049 66 856, viz příloha č. 2 tohoto materiálu</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Smlouvu o poskytnutí finančního daru se společností Nadační fond "Osvojme si stáří", viz příloha č. 2 tohoto materiálu</p></span><span class="urzUkolTermin">  Termín:&nbsp;21.7.2017</span></li></ul></li><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit vedení oddělené evidence přijatých prostředků, čerpání a jejich vyúčtování</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.12.2017</span></li></ul></li></ol></li></ol>

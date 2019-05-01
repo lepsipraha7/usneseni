@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření nájemní smlouvy mezi MČ Praha 7 a SOU gastronomie a
+  podnikání na pronájem budovy občanského vybavení U Uranie 14/1576
+datum_vzniku_usneseni: '2016-03-04 00:00:00'
+cislo_usneseni: 0215/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28490/export/DZ_Uranie14~28199.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28490/export/02_Uranie14~28198.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28490/export/03_Uranie14~28197.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28490/export/export~299932.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh na uzavření nájemní smlouvy mezi MČ Praha 7 a SOU gastronomie a podnikání na pronájem budovy občanského vybavení U Uranie 14/1576</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s uzavřením nájemní smlouvy mezi MČ Praha 7 a SOU gastronomie a podnikání, IČO: 49629077, Za Černým Mostem 362/3, PSČ 198 00 Praha 9, na pronájem pozemku parc. č. 652/2 jehož součástí je budova č.p. 1576, stavba občanského vybavení U Uranie 14 a pozemku parc. č. 653/2, vše k.ú. Holešovice, na dobu neurčitou, pro účely provozování školství, za roční nájemné 504.132,- Kč, hrazeno z účtu HČ ORJ 0409<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s textem nájemní smlouvy mezi MČ Praha 7 a SOU gastronomie a podnikání, IČO: 49629077, Za Černým Mostem 362/3, PSČ 198 00 Praha 9, na pronájem pozemku parc. č. 652/2 jehož součástí je budova č.p. 1576, stavba občanského vybavení U Uranie 14 a pozemku parc. č. 653/2, vše k.ú. Holešovice, na dobu neurčitou, pro účely provozování školství, za roční nájemné 504.132,- Kč, hrazeno z účtu HČ ORJ 0409</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat nájemní smlouvu mezi MČ Praha 7 a SOU gastronomie a podnikání, IČO: 49629077, Za Černým Mostem 362/3, PSČ 198 00 Praha 9, na pronájem pozemku parc. č. 652/2 jehož součástí je budova č.p. 1576, stavba občanského vybavení U Uranie 14 a pozemku parc. č. 653/2, vše k.ú. Holešovice, na dobu neurčitou, pro účely provozování školství, za roční nájemné 504.132,- Kč</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.3.2016</span></li></ul></li></ol></li></ol>

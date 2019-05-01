@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na poskytnutí individuální dotace v oblasti kultury společnosti
+  DOX PRAGUE, a. s., IČO: 271 77 718 za účelem podpory akce Máme otevřeno 2018, pořádané
+  v termínu 26.04.2018 na území MČ Praha 7'
+datum_vzniku_usneseni: '2018-03-20 00:00:00'
+cislo_usneseni: 0206/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27402/export/M12DV_DOX_Mameotevreno_2018~335928.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27402/export/M12Z_DOX_Mameotevreno_2018~335927.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27402/export/DOX_Mameotevreno_AN~335926.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27402/export/S20_DOX_Mameotevreno_2018~335925.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27402/export/Zapis_3_jednani_KK_ze_dne_07_03_2018~335924.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27402/export/export~336329.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na poskytnutí individuální dotace v oblasti kultury společnosti DOX PRAGUE, a. s., IČO: 271 77 718 za účelem podpory akce Máme otevřeno 2018, pořádané v termínu 26.04.2018 na území MČ Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>s poskytnutím individuální dotace v oblasti kultury ve výši 60 000 Kč, formou veřejnoprávní smlouvy, společnosti DOX PRAGUE,a. s., IČO: 271 77 718, se sídlem Poupětova 793/1, 170 00 Praha 7, za účelem podpory akce Máme otevřeno 2018, pořádané v termínu 26.04.2018 na území MČ Praha 7, na úhradu části nákladů spojených s realizací - produkční zajištění, propagaci, honoráře, hrazeno z rozpočtu OKS ORJ 621 - kultura<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s textem smlouvy mezi městskou částí Praha 7 a společností&nbsp;DOX PRAGUE, a. s., IČO: 271 77 718 viz příloha č. 4<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s uzavřením smlouvy mezi městskou částí Praha 7 a společností DOX PRAGUE, a. s., IČO: 271 77 718 viz příloha č. 4<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh usnesení Zastupitelstva MČ Praha 7 na poskytnutí individuální dotace v oblasti kultury společnosti DOX PRAGUE, a. s., IČO: 271 77 718 viz příloha č. 2<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>RAD MgA. Hana Třeštíková</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>předložit návrh usnesení Zastupitelstva MČ Praha 7 viz příloha č. 2 na 3. zasedání Zastupitelstva MČ Praha 7 dne 16.04.2018</p></span><span class="urzUkolTermin">  Termín:&nbsp;16.4.2018</span></li></ul></li></ol></li></ol>

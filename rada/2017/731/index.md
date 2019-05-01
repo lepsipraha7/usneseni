@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh vyjádření Městské části Praha 7 ke kasační stížnosti na zrušení
+  rozsudku Městského soudu v Praze ze dne 24. 5. 2017, č. j.: 9 A 207/2012 – 146'
+datum_vzniku_usneseni: '2017-08-08 00:00:00'
+cislo_usneseni: 0731/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29389/export/20170808_duvodovazprava~233488.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29389/export/usneseniRMC~233486.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29389/export/export~295507.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh vyjádření Městské části Praha 7 ke kasační stížnosti na zrušení rozsudku Městského soudu v Praze ze dne 24. 5. 2017, č. j.: 9 A 207/2012 – 146</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na odvolání plné moci udělené AK Josefa Vrabce usnesením rady MČ Praha 7 č. 0701/17 ze dne 1. 8. 2017</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>text vyjádření Městské části Praha 7 ke kasační stížnosti na zrušení rozsudku Městského soudu v Praze ze dne 24. 5. 2017, č. j.: 9 A 207/2012 – 146</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>odvolání plné moci udělené AK Josefa Vrabce usnesením rady MČ Praha 7 č. 0701/17 ze dne 1. 8. 2017</p></span></li></ol></li><li id="" class="urzClass1"><span name="16">pověřuje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>VED OPV Mgr. Kateřinu Šilhovou Šafránkovou k podání vyjádření ke kasační stížnosti k Nejvyššímu správnímu soudu</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OPV Mgr. Kateřina Šilhová Šafránková</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Podat vyjádření ke kasační stížnosti na zrušení rozsudku Městského soudu v Praze ze dne 24. 5. 2017, č. j.: 9 A 207/2012 - 146 k Nejvyššímu správnímu soudu</p></span><span class="urzUkolTermin">  Termín:&nbsp;8.8.2017</span></li></ul></li></ol></li></ol>

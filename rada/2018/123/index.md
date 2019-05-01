@@ -1,0 +1,18 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na poskytnutí individuální dotace v oblasti kultury společnosti
+  Elpida, o.p.s., IČO: 279 48 706 na podporu projektu Mosty mezi generacemi v Praze
+  7, pořádaného v termínu 1. 3. - 31. 12. 2018 v Přístavu 7, Praha 7'
+datum_vzniku_usneseni: '2018-02-20 00:00:00'
+cislo_usneseni: 0123/18-R
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27202/export/M7DV_Elpida_ID_unor2018~327206.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27202/export/Zadost_Elpida2018_AN~327205.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27202/export/Zapis_2_jednani_KK_ze_dne_07_02_2018~327204.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27202/export/S8_Elpida_Mostymezigeneracemi_2018~327203.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27202/export/OPS_Elpida~327202.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27202/export/DPH_Elpida~327201.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/27202/export/export~328148.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol id="" class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na poskytnutí individuální dotace v oblasti kultury společnosti Elpida, o.p.s., IČO: 279 48 706 na podporu projektu Mosty mezi generacemi v Praze 7, pořádaného v termínu 1. 3. - 31. 12. 2018 v Přístavu 7, Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>poskytnutí individuální dotace v oblasti kultury ve výši 35 000 Kč, formou veřejnoprávní smlouvy, společnosti Elpida, o.p.s., IČO: 279 48 706, se sídlem Na Strži 1683/40, 140 00 Praha 4, na podporu projektu Mosty mezi generacemi v Praze 7, pořádaného v termínu 1. 3. - 31. 12. 2018 v Přístavu 7, Jankovcova 8, 170 00 Praha 7, na úhradu části nákladů spojených s realizací – odborné a zajišťující služby, hrazeno z rozpočtu OKS ORJ 621 - kultura<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>text smlouvy mezi městskou částí Praha 7 a společností Elpida, o.p.s., IČO: 279 48 706 viz příloha č. 4</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>uzavření smlouvy mezi městskou částí Praha 7 a společností Elpida, o.p.s., IČO: 279 48 706 viz příloha č. 4</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu mezi městskou částí Praha 7 a společností Elpida, o.p.s., IČO: 279 48 706 viz příloha č. 4</p></span><span class="urzUkolTermin">  Termín:&nbsp;26.2.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit poskytnutí individuální dotace v oblasti kultury společnosti Elpida, o.p.s., IČO: 279 48 706 dle článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;2.3.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zajistit evidenci poskytnutí dotace dle článku II tohoto usnesení v Centrálním registru podpor malého rozsahu ve lhůtě do 5 dnů od podpisu smlouvy</p></span><span class="urzUkolTermin">  Termín:&nbsp;2.3.2018</span></li></ul></li></ol></li></ol>

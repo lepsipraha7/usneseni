@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na revokaci usnesení č. 0555/17-R z jednání č. 40, ze dne 13.06.2017
+  ve věci stanovení mimořádné odměny řediteli příspěvkové organizace Sdružené ambulantní
+  zařízení v Praze 7
+datum_vzniku_usneseni: '2017-06-29 00:00:00'
+cislo_usneseni: 0626/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29303/export/20170629_KSS_duvodovazprava_revokace~222856.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29303/export/Navrh_na_stanoveni_mimoradne_odmeny_rediteli_prispevkove_organizace_Sdruzene_ambulantni_zarizeni_v_Praze_7~222855.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29303/export/export~295721.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na revokaci usnesení č. 0555/17-R z jednání č. 40, ze dne 13.06.2017 ve věci stanovení mimořádné odměny řediteli příspěvkové organizace Sdružené ambulantní zařízení v Praze 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="21">revokuje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>usnesení č. 0555/17-R z jednání č. 40, ze dne 13.06.2017 takto:</p></span><ul class="urzUlClass"><li style="text-align: left;" id="" class="urzClass3"><span><p>1.1. v celém textu usnesení se vypouští slovo "mimořádná" před slovem odměna</p></span></li><li style="text-align: left;" id="" class="urzClass3"><span><p>1.2. bod IV. schvaluje odst. 1 se ruší v celém rozsahu a bude nově znít: "odměnu pro PhDr. Josefa Duška ve výši 30 000 Kč za každý měsíc ve funkci od 01.03.2017 do 14.08.2017, která bude za období 03/2017 až 05/2017 vyplacena zpětně a počínaje 06/2017 bude vyplácena měsíčně z prostředků Pečovatelského centra Praha 7, IČO 708 90 307, se sídlem Heřmanova 1415/1, 170 00 Praha 7"</p></span></li><li style="text-align: left;" id="" class="urzClass3"><span><p>1.3. bod IV. schvaluje odst. 2 se ruší v celém rozsahu</p></span></li></ul></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat PhDr. Josefa Duška o přijaté revokaci usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.6.2017</span><div class="urzUkolTermin">  Kontrolní termín:&nbsp;8.7.2017</div></li></ul></li></ol></li></ol>

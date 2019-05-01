@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na udělení plné moci techniku Odboru majetku, Ywetě Kvasnicové,
+  ve věci převodu stávajících uzavřených smluv na dodávku energií a služeb pro objekt
+  U Uranie 14/1576, 170 00 Praha 7, z pronajímatele SOU gastronomie a podnikání na
+  MČ Praha 7
+datum_vzniku_usneseni: '2016-06-28 00:00:00'
+cislo_usneseni: 0661/16-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27922/export/DZ_energie1576~78719.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27922/export/02_energie1576~78718.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27922/export/03_energie1576~78717.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27922/export/export~298359.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh na udělení plné moci techniku Odboru majetku, Ywetě Kvasnicové, ve věci převodu stávajících uzavřených smluv na dodávku energií a služeb pro objekt U Uranie 14/1576, 170 00 Praha 7, z pronajímatele SOU gastronomie a podnikání na MČ Praha 7</p></span></li></ol></li><li id="" class="urzClass1"><span name="26">souhlasí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>s udělením plné moci techniku Odboru majetku, Ywetě Kvasnicové, ve věci převodu stávajících uzavřených smluv na dodávku energií a služeb pro objekt U Uranie 14/1576, 170 00 Praha 7, z pronajímatele SOU gastronomie a podnikání,&nbsp;IČO: 49629077, Za Černým Mostem 362/3, PSČ 198 00 Praha 9 na MČ Praha 7, v souladu s uzavřenou nájemní smlouvou ze dne 22.03.2016, včetně následného přehlášení energií na budoucího podnájemce Základní škola Praha 7, Strossmayerovo náměstí 4, IČO: 61389838<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>s textem plné moci techniku Odboru majetku, Ywetě Kvasnicové, ve věci převodu stávajících uzavřených smluv na dodávku energií a služeb pro objekt U Uranie 14/1576, 170 00 Praha 7, z pronajímatele SOU gastronomie a podnikání,&nbsp;IČO: 49629077, Za Černým Mostem 362/3, PSČ 198 00 Praha 9 na MČ Praha 7, v souladu s uzavřenou nájemní smlouvou ze dne 22.03.2016, včetně následného přehlášení energií na budoucího podnájemce Základní škola Praha 7, Strossmayerovo náměstí 4, IČO: 61389838</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat plnou moc techniku Odboru majetku, Ywetě Kvasnicové, ve věci převodu stávajících uzavřených smluv na dodávku energií a služeb pro objekt U Uranie 14/1576, 170 00 Praha 7, z pronajímatele SOU gastronomie a podnikání, IČO: 49629077, Za Černým Mostem 362/3, PSČ 198 00 Praha 9 na MČ Praha 7, v souladu s uzavřenou nájemní smlouvou ze dne 22.03.2016, včetně následného přehlášení energií na budoucího podnájemce Základní škola Praha 7, Strossmayerovo náměstí 4, IČO: 61389838</p></span><span class="urzUkolTermin">  Termín:&nbsp;8.7.2016</span></li></ul></li></ol></li></ol>

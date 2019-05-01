@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení realizace přednáškového cyklu pro veřejnost pod názvem
+  Akademie celoživotního vzdělávání v II. pololetí r. 2018
+datum_vzniku_usneseni: '2018-07-31 00:00:00'
+cislo_usneseni: '0594/18-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30132/export/duvodovazprava_ACV_podzim2018~380336.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30132/export/Smlouvaoprednaskovecinnosti_Czumalo2018_verejna~380335.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30132/export/Smlouvaoprednaskovecinnosti_CAS2018_verejna~380333.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30132/export/Smlouvaoprednaskovecinnosti_Jurina2018_verejna~380331.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30132/export/export~380633.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na schválení realizace přednáškového cyklu pro veřejnost pod názvem Akademie celoživotního vzdělávání v II. pololetí r. 2018</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>realizaci přednáškového cyklu pro veřejnost pod názvem Akademie celoživotního vzdělávání v II. pololetí r. 2018</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>proplacení nákladů spojených s realizací vzdělávacích přednášek pro veřejnost pod názvem Akademie celoživotního vzdělávání v II. pololetí r. 2018, v maximální výši 30 000,- Kč vč. DPH z rozpočtu ORJ OSZ - 0516<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>se zněním a uzavřením Smluv o přednáškové činnosti, dle přílohy č. 2 - 4 tohoto materiálu</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně zajistit realizaci vzdělávacích přednášek pro veřejnost pod názvem Akademie celoživotního vzdělávání v II. pololetí r. 2018 a zajistit proplacení nákladů v maximální výši 30 000,- Kč vč. DPH z rozpočtu ORJ OSZ-0516</p></span><span class="urzUkolTermin">  Termín:&nbsp;28.11.2018</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Smlouvy o přednáškové činnosti, viz příloha č. 2 - 4 tohoto materiálu, v rámci realizace vzdělávacích přednášek pro veřejnost, pod názvem Akademie celoživotního vzdělávání v II. pololetí r. 2018</p></span><span class="urzUkolTermin">  Termín:&nbsp;28.11.2018</span></li></ul></li></ol></li></ol>

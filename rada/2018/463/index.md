@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na udělení předchozího souhlasu příspěvkové organizaci Pečovatelské
+  centrum Praha 7, Heřmanova 1, 170 00 Praha 7, IČO 70890307 k přijetí věcných darů
+  v celkové hodnotě 18 889,- Kč
+datum_vzniku_usneseni: '2018-06-12 00:00:00'
+cislo_usneseni: 0463/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29990/export/duvodovazprava_vecnedary_PCP70618_verejna~365365.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29990/export/PC_vecnedary_souhlas_verejna~365364.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29990/export/export~366330.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na udělení předchozího souhlasu příspěvkové organizaci Pečovatelské centrum Praha 7, Heřmanova 1, 170 00 Praha 7, IČO 70890307 k přijetí věcných darů v celkové hodnotě 18 889,- Kč</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>s přijetím věcného daru - Televize Hyundai FLN 40T211 Smart v pořizovací ceně 6 990 Kč příspěvkovou organizací Pečovatelské centrum Praha 7, dar je určen pro klienty Denního stacionáře<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>s přijetím věcného daru - 2 mobilní zahrádky v pořizovací ceně 9 200 Kč příspěvkovou organizací Pečovatelské centrum Praha 7, dar je určen pro klienty Denního stacionáře<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>s přijetím věcného daru - Gramofon Hyundai RT 910 RIP v pořizovací ceně 2 699 Kč příspěvkovou organizací Pečovatelské centrum Praha 7, dar je určen pro klienty Denního stacionáře<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat ředitelku p.o. Pečovatelské centrum Praha 7 Mgr. Martinu Pojarovou ve věci udělení předchozího souhlasu k přijetí věcných darů</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.6.2018</span></li></ul></li><li class="urzClass2"><span><p>RAD Ing. Jakob Hurrle</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zaslat dárcům děkovný dopis</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.6.2018</span></li></ul></li></ol></li></ol>

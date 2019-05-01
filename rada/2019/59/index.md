@@ -1,0 +1,18 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na souhlas s uzavřením darovací smlouvy o přijetí finančního daru
+  v hodnotě 7 551 Kč mezi příspěvkovou organizací Fakultní základní škola PedF UK
+  a Mateřská škola U Studánky Praha 7, Umělecká 8, Umělecká 850/8, 170 00 Praha 7,
+  IČO: 604 35 216 a obecně prospěšnou společností Women for Women, o.p.s., Vlastislavova
+  152/4, 140 00 Praha 4, IČO: 242 31 509'
+datum_vzniku_usneseni: '2019-01-29 00:00:00'
+cislo_usneseni: '0059/19-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30560/export/01_Duvodova_zprava~426935.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30560/export/02_V_DarovacismlouvaWomenforWomen_final_anonym~426934.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30560/export/03_V_PlnamocJ_S_anonym~426933.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30560/export/7373_priloha~426930.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30560/export/export~427368.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na souhlas s uzavřením darovací smlouvy o přijetí finančního daru v hodnotě 7 551 Kč mezi příspěvkovou organizací Fakultní základní škola PedF UK a Mateřská škola U Studánky Praha 7, Umělecká 8, Umělecká 850/8, 170 00 Praha 7, IČO: 604 35 216 a obecně prospěšnou společností Women for Women, o.p.s., Vlastislavova 152/4, 140 00 Praha 4, IČO: 242 31 509<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>že na základě této darovací smlouvy bude Fakultní základní škole PedF UK a Mateřské škole U Studánky Praha 7, Umělecká 8 předán finanční dar v celkové hodnotě 7 551 Kč pro účely úhrady měsíčních záloh na obědové služby poskytované v období od 1. 2. 2019 do 28. 6. 2019 ve prospěch tří dětí – žáků fakultní základní školy <br></p><p><br></p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>text darovací smlouvy mezi příspěvkovou organizací Fakultní základní škola PedF UK a Mateřská škola U Studánky Praha 7, Umělecká 8, Umělecká 850/8, 170 00 Praha 7, IČO: 604 35 216 a obecně prospěšnou společností Women for Women, o.p.s., Vlastislavova 152/4, 140 00 Praha 4, IČO: 242 31 509 viz. příloha č. 4<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>s uzavřením darovací smlouvy&nbsp;o přijetí finančního daru v celkové hodnotě 7 551 Kč mezi příspěvkovou organizací Fakultní základní škola PedF UK a Mateřská škola U Studánky Praha 7, Umělecká 8, Umělecká 850/8, 170 00 Praha 7, IČO: 604 35 216 a obecně prospěšnou společností Women for Women, o.p.s., Vlastislavova 152/4, 140 00 Praha 4, IČO: 242 31 509<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OVPŘ Hradecká Soňa Bc.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat ředitele Fakultní základní školy PedF UK a Mateřské školy U Studánky Praha 7, Umělecká 8, Umělecká 850/8, 170 00 Praha 7, IČO: 604 35 216 Mgr. Bohumila Kettnera o schváleném usnesení Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;29.1.2019</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,21 @@
+---
+layout: detail_usneseni
+nazev_bodu: Uzavření nájemních smluv na byty,které byly doporučeny bytovou komisí
+  dle pořadí  - listopad 1999
+datum_vzniku_usneseni: '1999-11-23 00:00:00'
+cislo_usneseni: '0861/99'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Uzavření nájemních smluv na byty,které byly doporučeny bytovou komisí dle pořadí  - listopad 1999</h3></span><div class="center">
+		<strong>č. 0861/99</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 23.11.1999</strong><br><br>
+	</div>
+<br>Obvodní rada v Praze 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na uzavření nájemních smluv na byty,které doporučila bytová komise dle pořadí - listopad 1999	<br><br>II.	souhlasí <br><br>DU - s uzavřením nájemní smlouvy na dobu určitou do 31.12.2001 s možností následného prodloužení,pokud budou všechna ustanovení smlouvy plněna, na byt 1+1,II.kat.,Milady Horákové 9/1280,P7 s Martinem a Renatou Rudolfovými (1)<br><br>DU - s uzavřením nájemní smlouvy na dobu určitou  do 31.12.2001 s možností následného prodloužení,pokud budou všechna ustanovení smlouvy plněna,  na byt 1+1,I.kat.,Strojnická 25/568(podílový dům),P7 s Jiřím a Miroslavou Hrstkovými (2)<br><br>DU - s uzavřením nájemní smlouvy na dobu určitou do 31.12.2001 s možností následného prodloužení, pokud budou všechna ustanovení smlouvy plněna, na byt 1+1,I.kat.,Milady Horákové 9/1280,P7 s Danielem a Gabrielou Hanušovými (3)<br><br>DU - s uzavřením nájemní smlouvy na dobu určitou do 31.12.2001 s možností následného prodloužení, pokud budou všechna ustanovení smlouvy plněna, na byt 1+1,I.kat.,Františka Křížka 15/460,P7 s Michalem a Danielou Slavíčkovými (4)<br><br>DU - s uzavřením nájemní smlouvy na dobu určitou do 31.12.2001 s možností následného prodloužení,pokud budou všechna ustanovení smlouvy plněna, na byt 2+kk,I.kat.,Františka Křížka 14/402,P7 s Andreou a Michalem Macháčkovými (5)<br><br>DU - s uzavřením nájemní smlouvy na dobu určitou do 31.12.2001 s možností následného prodloužení, pokud budou všechna ustanovení smlouvy plněna, na byt 0+1,I.kat.,Veverkova 12/1409,P7 s Markem Vondráškem (6)<br><br><br><br><br><br><br><br>III.	ukládá <br><br><br> Určen:	zást.starosty	ZAS STA Vayhel Luboš<br>Termín: 28.12.1999<br>Úkol:	DU -uzavřít nájemní smlouvu na dobu určitou  do 31.12.2001 s možností následného prodloužení,pokud budou všechna ustanovení smlouvy plněna ,na byt 1+1,II.kat.,Milady Horákové 9/1280,P7 s Martinem a Renatou Rudolfovými (1)<br> <br> Určen:	zást.starosty	ZAS STA Vayhel Luboš<br>Termín: 28.12.1999<br>Úkol:	DU - uzavřít nájemní smlouvu na dobu určitou  do 31.12.2001 s možností následného prodloužení,pokud budou všechna ustanovení smlouvy plněna,na byt 1+1,I.kat.,Strojnická 25/568,(podílový dům),P7 s Jiřím a Miroslavou Hrstkovými (2)<br> <br> Určen:	zást.starosty	ZAS STA Vayhel Luboš<br>Termín: 28.12.1999<br>Úkol:	DU - uzavřít nájemní smlouvu na dobu určitou do 31.12.2001 s možností následného prodloužení, pokud budou všechna ustanovení smlouvy plněna, na byt 1+1,I.kat.,Milady Horákové 9/1280,P7 s Danielem a Gabrielou Hanušovými (3)<br> <br> Určen:	zást.starosty	ZAS STA Vayhel Luboš<br>Termín: 28.12.1999<br>Úkol:	DU - uzavřít nájemní smlouvu na dobu určitou do 31.12.2001 s možností následného prodloužení,pokud budou všechna ustanovení smlouvy plněna, na byt 1+1,I.kat.,Františka Křížka 15/460,P7 s Michalem a Danielou Slavíčkovými (4)<br> <br> Určen:	zást.starosty	ZAS STA Vayhel Luboš<br>Termín: 28.12.1999<br>Úkol:	DU - uzavřít nájemní smlouvu na dobu určitou do 31.12.2001 s možností následného  prodloužení, pokud budou všechna ustanovení smlouvy plněna, na byt  2+kk,I.kat.,Františka Křížka 14/402,P7 s Andreou a Michalem Macháčkovými (5)<br> <br> Určen:	zást.starosty	ZAS STA Vayhel Luboš<br>Termín: 28.12.1999<br>Úkol:	DU - uzavřít nájemní smlouvu na dobu určitou do 31.12.2001 s možností následného prodloužení, pokud budou všechna ustanovení smlouvy plněna, na byt 0+1,I.kat.,Veverkova 12/1409,P7 s Markem Vondráškem (6)<br>
+</div>
+</div>

@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh ke zprávě o výsledcích hospodaření MČ Praha 7 za 1. čtvrtletí roku
+  2016 v rámci hospodářské činnosti - úseku zdaňované činnosti
+datum_vzniku_usneseni: '2016-09-12 00:00:00'
+cislo_usneseni: 0136/16-Z
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27471/export/DZ_VHC1k16~103781.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27471/export/02_VHC1k16~103780.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27471/export/03_VHC1k16~103779.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27471/export/0812R~103778.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27471/export/export~301561.pdf
+organ: zastupitelstvo
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>Návrh ke zprávě o výsledcích hospodaření MČ Praha 7 za 1. čtvrtletí roku 2016 v rámci hospodářské činnosti - úseku zdaňované činnosti</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>rozborovou zprávu&nbsp;za 1. čtvrtletí roku 2016 zpracovanou správní firmou Sedmá ubytovací s.r.o.</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že dosažený výsledek hospodaření MČ Praha 7&nbsp;za 1. čtvrtletí roku 2016 v rámci hospodářské činnosti - úseku zdaňované činnosti - vykazuje zisk ve výši&nbsp;41 717 616,10 Kč</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že skutečné příjmy na účtu 182&nbsp;za 1. čtvrtletí roku 2016 činily 626 940,82 Kč a výdaje 2 141,00 Kč</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že skutečné příjmy na účtu 9021&nbsp;za 1. čtvrtletí roku 2016 činily 16 898 457,63 Kč a výdaje 11 065 245,23 Kč</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že skutečné příjmy na účtu 3699929369&nbsp;za 1. čtvrtletí roku 2016 činily 16 520 982,96 Kč a výdaje 1 508,00 Kč</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že skutečné příjmy na účtech 140011, 129023, 139029, 149024, 220011 (spravovaný Sedmá ubytovací s.r.o.)&nbsp;za 1. čtvrtletí roku 2016 činily&nbsp;28 778 332,53 Kč a výdaje&nbsp;32 785 421,17 Kč</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>rozborovou zprávu o výsledcích hospodaření MČ Praha 7&nbsp;za 1. čtvrtletí roku 2016 v rámci hospodářské činnosti - úseku zdaňované činnosti</p></span></li></ol></li></ol>

@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na pověření JUDr. Terezy Jedličkové k zastupování městské části
+  Praha 7 v jednáních před soudy, při podepisování a podávání návrhů k soudu a k podávání
+  návrhů dle pravomocných rozhodnutí na nařízení a zastavení exekučních řízení
+datum_vzniku_usneseni: '2019-01-22 00:00:00'
+cislo_usneseni: 0041/19-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30523/export/c1_Duvodovazprava~424389.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30523/export/c2_Poverenisoudy_TerezaJedlickova~424388.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30523/export/c3_Povereniexekuce_TerezaJedlickova~424386.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30523/export/export~424822.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na pověření JUDr. Terezy Jedličkové k zastupování městské části Praha 7 v jednáních před soudy, při podepisování a podávání návrhů k soudu a k podávání návrhů dle pravomocných rozhodnutí na nařízení a zastavení exekučních řízení</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>s pověřením JUDr. Terezy Jedličkové k zastupování městské části Praha 7 v jednáních před soudy, při podepisování a podávání návrhů k soudu</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>s pověřením JUDr. Terezy Jedličkové k podávání návrhů dle pravomocných rozhodnutí na nařízení a zastavení exekučních řízení</p></span></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>JUDr. Terezu Jedličkovou k zastupování městské části Praha 7 v jednáních před soudy, při podepisování a podávání návrhů k soudu</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>JUDr. Terezu Jedličkovou k podávání návrhů dle pravomocných rozhodnutí na nařízení a zastavení exekučních řízení</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat pověření JUDr. Terezy Jedličkové k zastupování městské části Praha 7 v jednáních před soudy, při podepisování a podávání návrhů k soudu</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.1.2019</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat pověření JUDr. Terezy Jedličkové k podávání návrhů dle pravomocných rozhodnutí na nařízení a zastavení exekučních řízení</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.1.2019</span></li></ul></li></ol></li></ol>

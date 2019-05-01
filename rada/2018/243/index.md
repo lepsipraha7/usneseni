@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na souhlas z titulu zřizovatele příspěvkové organizace Fakultní
+  mateřská škola při Pedagogické fakultě Univerzity Karlovy Praha 7, Na Výšinách 3/1075
+  s podáním žádosti o nadační podporu na obnovu zahrady školy do Grantové výzvy 2017
+  grantového programu Zahrada hrou Nadace Proměny Karla Komárka.
+datum_vzniku_usneseni: '2018-03-28 00:00:00'
+cislo_usneseni: 0243/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29750/export/Duvodovazprava~339075.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29750/export/export~339136.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na souhlas z titulu zřizovatele příspěvkové organizace Fakultní mateřská škola při Pedagogické fakultě Univerzity Karlovy Praha 7, Na Výšinách 3/1075 s podáním žádosti o nadační podporu na obnovu zahrady školy do Grantové výzvy 2017 grantového programu Zahrada hrou Nadace Proměny Karla Komárka, Vinohradská 1511/230, 100 00 Praha 10, IČO: 27421538.<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>že žadatelem a případným realizátorem projektu bude příspěvková organizace Fakultní mateřská škola při Pedagogické fakultě Univerzity Karlovy Praha 7, Na Výšinách 3/1075, která rovněž bude hradit případné náklady spojené s projektem. <br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že městská část Praha 7 jako zřizovatel příspěvkové organizace Fakultní mateřská škola při Pedagogické fakultě Univerzity Karlovy Praha 7, Na Výšinách 3/1075 podporuje podání žádosti o poskytnutí finanční podpory a případnou realizaci projektu v souladu s péčí řádného hospodáře.</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>z titulu zřizovatele příspěvkové organizace Fakultní mateřská škola při Pedagogické fakultě Univerzity Karlovy Praha 7, Na Výšinách 3/1075 s podáním žádosti o nadační podporu na obnovu zahrady školy do Grantové výzvy 2017 grantového programu Zahrada hrou Nadace Proměny Karla Komárka, Vinohradská 1511/230, 100 00 Praha 10, IČO: 27421538.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OŠK Ing. Dita Výborová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat ředitelku MŠ Na Výšinách o rozhodnutí RMČ.</p></span><span class="urzUkolTermin">  Termín:&nbsp;29.3.2018</span></li></ul></li></ol></li></ol>

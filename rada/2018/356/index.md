@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na realizaci akce Rodinný den Prahy 7 na Výstavišti, pořádané městskou
+  částí Praha 7 a společností Výstaviště Praha, a.s., IČO: 256 49 329, v termínu 20.05.2018
+  v areálu Výstaviště Praha Holešovice, Praha 7'
+datum_vzniku_usneseni: '2018-05-04 00:00:00'
+cislo_usneseni: 0356/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29915/export/M16DV_DenPrahy7_2018~352137.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29915/export/rozpocetRDP72018keschvaleni~352136.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29915/export/Zapis_4_jednani_KK_ze_dne_11_04_2018~352135.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29915/export/export~352711.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na realizaci akce Rodinný den Prahy 7 na Výstavišti, pořádané městskou částí Praha 7 a společností Výstaviště Praha, a.s., IČO: 256 49 329, v termínu 20.05.2018 v areálu Výstaviště Praha Holešovice, Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>realizaci akce Rodinný den Prahy 7 na Výstavišti, pořádané městskou částí Praha 7 a společností Výstaviště Praha, a.s., IČO: 256 49 329, v termínu 20.05.2018 v areálu Výstaviště Praha Holešovice, Praha 7</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu části nákladů, spojených s realizací akce ve výši&nbsp;169 938,45 Kč vč. DPH, formou faktury, společnosti Výstaviště Praha, a.s., IČO: 256 49 329, se sídlem Výstaviště 67, 170 00 Praha 7, v rámci spolupořadatelství akce, hrazeno z rozpočtu ORJ 621 OKS - kultura</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů ve výši 6 600 Kč vč. DPH, formou faktury, FO Irena Vronská, IČO: 406 52 661, za malování na obličej, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů ve výši&nbsp;11 495 Kč vč. DPH, formou faktury, společnosti FALO EVENTS s.r.o., IČO: 027 63 427, se sídlem Čiklova 637/13, 128 00 Praha 2, za personálně-technické zajištění nafukování héliových balónků, hrazeno z rozpočtu OKS ORJ 621 - kultura</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci akce Rodinný den Prahy 7 na Výstavišti dle ustanovení článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;8.6.2018</span></li></ul></li></ol></li></ol>

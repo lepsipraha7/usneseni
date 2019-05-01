@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: Stanovisko MČ Praha 7 k žádosti o změnu usnesení ve věci "Umístění loga
+  společnosti Less Mess jako označení jejich sídla", Argentinská 516/40, Praha 7 -
+  Holešovice
+datum_vzniku_usneseni: '2016-03-22 00:00:00'
+cislo_usneseni: '0278/16-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28510/export/p1_duvod~35653.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28510/export/p2_dopis~35652.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28510/export/p3_zadost~35651.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28510/export/p4_usnRMC_019816R~35650.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28510/export/export~299800.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>předložený materiál - návrh stanoviska MČ Praha 7 k žádosti o změnu usnesení ve věci "Umístění loga společnosti Less Mess jako označení jejich sídla"</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol id="" class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že dne 4. března 2016 schválila Rada MČ P7 svým usnesením č. 0198/16-R předběžné stanovisko, kde požaduje nepodsvícení loga&nbsp;společnosti Less Mess jako označení jejich sídla o rozměrech max. 2,0 x 24,7m alespoň v nočních hodinách (22:00-6:00).<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>text dopisu dle přílohy č. 2 tohoto usnesení jako stanoviska MČ Praha 7 k žádosti o změnu usnesení ve věci "Umístění loga společnosti Less Mess jako označení jejich sídla", Argentinská 516/40, Praha 7 - Holešovice</p></span></li></ol></li><li id="" class="urzClass1"><span name="30">trvá</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>na předběžném stanovisku MČ Prahy 7 dle usnesení č. 0198/16-R Rady MČ Prahy 7 ze dne 4. března 2016<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat stanovisko MČ Praha 7 k žádosti o změnu usnesení ve věci "Umístění loga společnosti Less Mess jako označení jejich sídla", Argentinská 516/40, Praha 7 - Holešovice</p></span><span class="urzUkolTermin">  Termín:&nbsp;29.3.2016</span></li></ul></li><li class="urzClass2"><span><p>VED ORZ Ing. arch. Jitka Šindelářová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>odeslat stanovisko MČ Praha 7 k žádosti o změnu usnesení ve věci "Umístění loga společnosti Less Mess jako označení jejich sídla", Argentinská 516/40, Praha 7 - Holešovice společnosti Světelná reklama Hrkal a Greiner s.r.o., Slavíkova 101, Jince</p></span><span class="urzUkolTermin">  Termín:&nbsp;1.4.2016</span></li></ul></li></ol></li></ol>

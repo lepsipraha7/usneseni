@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na zplnomocnění Jitky Doleželové k zastupování Městské části Praha
+  7 k zajištění všech úkonů potřebných pro prodloužení platnosti Rozhodnutí o umístění
+  stavby "Stavební úpravy vnitrobloku U Vody"
+datum_vzniku_usneseni: '2017-07-11 00:00:00'
+cislo_usneseni: 0643/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29317/export/U_Vody_plna_moc~224572.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29317/export/PLNA__MOC_Dolezelova~224570.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29317/export/Rozhodnutiuvody~224569.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29317/export/export~295685.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>předložený materiál - Návrh na zplnomocnění Jitky Doleželové k zastupování Městské části Praha 7 k zajištění všech úkonů potřebných pro prodloužení platnosti Rozhodnutí o umístění stavby "Stavební úpravy vnitrobloku U Vody"</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>udělení plné moci Jitce Doleželové k zastupování Městské části Praha 7 k zajištění všech úkonů potřebných pro prodloužení platnosti Rozhodnutí o umístění stavby "Stavební úpravy vnitrobloku U Vody"</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>text plné moci pro Jitku Doleželovou k zastupování Městské části Praha 7 k zajištění všech úkonů potřebných k prodloužení platnosti Rozhodnutí o umístění stavby "Stavební úpravy vnitrobloku U Vody", která je v příloze č.2 tohoto materiálu<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>Mgr. Ondřeje Mirovského, M.EM, zástupce starosty k&nbsp; podpisu plné moci pro Jitku Doleželovou k zastupování Městské části Praha 7 k zajištění všech úkonů potřebných k prodloužení platnosti Rozhodnutí o umístění stavby "Stavební úpravy vnitrobloku U Vody", která je v příloze č. 2 tohoto materiálu</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Mgr. Ondřej Mirovský, M. EM</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat plnou moc pro Jitku Doleželovou k zastupování Městské části Praha 7 k zajištění všech úkonů potřebných pro prodloužení platnosti Rozhodnutí o umístění stavby "Stavební úpravy vnitrobloku U Vody". Plná moc je v příloze č. 2 tohoto materiálu</p></span><span class="urzUkolTermin">  Termín:&nbsp;21.7.2017</span></li></ul></li></ol></li></ol>

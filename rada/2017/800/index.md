@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na uzavření smlouvy na odběr energie pro veřejné osvětlení v ulici
+  U Letenské vodárny, Praha 7 se společností TRADE CENTRE PRAHA a.s., se sídlem Praha
+  2, Blanická 1008/28, PSČ 12000,IČO: 00409316'
+datum_vzniku_usneseni: '2017-08-29 00:00:00'
+cislo_usneseni: '0800/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29440/export/VO_U_Letenske_vodarny_smlouva~241433.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29440/export/VONavrhsmlouvy_odberenergieMC7_EF20170828~241432.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29440/export/TCP~241431.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29440/export/TCP~241430.txt
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29440/export/export~295359.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>předložený materiál - návrh na uzavření smlouvy na odběr energie pro veřejné osvětlení v ulici U Letenské vodárny, Praha 7 se společností TRADE CENTRE PRAHA a.s., se sídlem Praha 2, Blanická 1008/28, PSČ 12000,IČO: 00409316</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>znění smlouvy na odběr energie pro veřejné osvětlení v ulici U Letenské vodárny, Praha 7 se společností TRADE CENTRE PRAHA a.s.,se sídlem Praha 2, Blanická 1008/28, PSČ 12000,IČO: 00409316. Cena odebrané energie je 562,60 Kč za 1 měsíc. Hrazeno z rozpočtu OŽP. Smlouva je v příloze č. 2 tohoto materiálu.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>uzavření smlouvy nění smlouvy na odběr energie pro veřejné osvětlení v ulici U Letenské vodárny, Praha 7 se společností TRADE CENTRE PRAHA a.s.,se sídlem Praha 2, Blanická 1008/28, PSČ 12000,IČO: 00409316. Cena odebrané energie je 562,60 Kč za 1 měsíc. Hrazeno z rozpočtu OŽP. Smlouva je v příloze č. 2 tohoto materiálu.</p></span></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>zástupce starosty Mgr. Ondřeje Mirovského. ME.M. k uzavření smlouvy na odběr energie pro veřejné osvětlení v ulici U Letenské vodárny, Praha 7 se společností TRADE CENTRE PRAHA a.s.,se sídlem Praha 2, Blanická 1008/28, PSČ 12000,IČO: 00409316. Cena odebrané energie je 562,60 Kč za 1 měsíc. Hrazeno z rozpočtu OŽP. Smlouva je v příloze č. 2 tohoto materiálu.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Mgr. Ondřej Mirovský, M. EM</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu na odběr energie pro veřejné osvětlení v ulici U Letenské vodárny, Praha 7 se společností TRADE CENTRE PRAHA a.s., se sídlem Praha 2, Blanická 1008/28, PSČ 12000,IČO: 00409316. Cena odebrané energie je 562,60 Kč za 1 měsíc. Smlouva je v příloze č. 2 tohoto materiálu.</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.9.2017</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Poskytnutí finančního daru z Fondu rezerv a rozvoje MČ Praha 7 Domovu
+  svaté rodiny
+datum_vzniku_usneseni: '2000-09-11 00:00:00'
+cislo_usneseni: 0075/00
+prilohy: []
+organ: zastupitelstvo
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení zastupitelstva MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Poskytnutí finančního daru z Fondu rezerv a rozvoje MČ Praha 7 Domovu svaté rodiny</h3></span><div class="center">
+		<strong>č. 0075/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 11.09.2000</strong><br><br>
+	</div>     <br>Obvodní zastupitelstvo v Praze 7<br>po projednání<br>I.	bere na vědomí<br><br> předložený materiál - Návrh na poskytnutí finančního daru z Fondu rezerv a rozvoje MČ Praha 7 Domovu svaté rodiny<br><br>II.	schvaluje <br><br>poskytnutí finančního daru ve výši 32.000,- Kč z Fondu rezerv a rozvoje MČ Praha 7 Domovu svaté rodiny, IČO: 63833069<br><br>III.	ukládá <br><br> Určen:	     	STA Dub Tomáš<br>Termín: 30.09.2000<br>Úkol:	podepsat Smlouvu na poskytnutí finančního daru ve výši 32.000,-Kč z Fondu rezerv a rozvoje MČ Praha 7 Domovu svaté rodiny, IČO: 63833069<br> <br>
+</div>
+</div>

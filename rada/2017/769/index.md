@@ -1,0 +1,35 @@
+---
+layout: detail_usneseni
+nazev_bodu: Předběžné stanovisko MČ Praha 7 k záměru „Stavební úpravy bytového domu
+  - Milady Horákové 806/29, Praha 7 - Holešovice - na parc. č. 2012 k. ú. Holešovice
+  - spočívající ve vybudování dvou bytů v prostoru stávající půdy na úrovni 5.NP,
+  instalace osobního výtahu a oprava uliční fasády"
+datum_vzniku_usneseni: '2017-08-22 00:00:00'
+cislo_usneseni: '0769/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28662/export/c1duvodovazprava~238165.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28662/export/c2_Navrh_pruvodniho_dopisu_predbezneho_stanoviska_MC_P7_k_zameru_Milady_Horakove_29~238164.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28662/export/c3Zadostostanoviskonastavba~238163.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28662/export/export~295421.pdf
+organ: rada
+---
+<ol class="urzList_view" id="urzList">
+<li class="urzClass1" id=""><span name="1">bere na vědomí</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">návrh předběžného stanoviska MČ Praha 7 k záměru „Stavební úpravy bytového domu - Milady Horákové 806/29, Praha 7 - Holešovice - na parc. č. 2012 k. ú. Holešovice - spočívající ve vybudování dvou bytů v prostoru stávající půdy na úrovni 5.NP, instalace osobního výtahu a oprava uliční fasády".<br></p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="50">konstatuje,</span> 
+<ol class="urzOlClass">
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">že předmětem&nbsp;předloženého návrhu je dvorní nástavba domu č.p. 806 k.ú. Holešovice se záměrem vytvoření dvou nových bytových jednotek do stávajícího půdního prostoru&nbsp; spojené s vestavbou výtahu a obnovou uliční fasády.</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>že vzhledem k navýšení hrubých podlažních ploch vzniká dle platných Pražských stavebních&nbsp;předpisů požadavek na nová vázaná parkovací stání.<br></p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">že podle Územního plánu sídelního útvaru hlavního města Prahy se přístavba nachází v ploše OV – všeobecně obytné. Záměr nástavby s obytnou funkcí ke stávající stavbě pro bydlení je v souladu s územním plánem.</p></span></li>
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">že záměr se nachází v památkové zóně Dejvice, Bubeneč, horní Holešovice, prohlášené vyhláškou HMP č. 10/1993 Sb., o prohlášení části území hlavního města Prahy za památkové zóny a o určení podmínek jejich ochrany. V této lokalitě je nezbytný souhlas orgánu památkové péče, jehož stanovisko je závazné.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že MČ Praha 7 schválila ve svém usnesení č. 0676/17-R dokument "Pravidla pro půdní vestavby, půdní nástavby a nástavby objektů na území městské části Praha 7 v památkové zóně", který má sloužit jako nástroj jednotného přístupu městské části k těmto stavebním zásahům do stávající zástavby a dle těchto pravidel je posuzován i tento stavební záměr.</p></span></li></ol></li>
+<li class="urzClass1" id=""><span name="52">nemá námitek</span> 
+<ol class="urzOlClass" id="">
+<li class="urzClass2" style="TEXT-ALIGN: justify" id=""><span><p style="TEXT-ALIGN: justify" data-mce-style="text-align: justify;">vůči záměru dvorní nástavby stávajícího domu se záměrem vytvoření dvou nových bytových jednotek vzhledem ke skutečnosti, že návrh zachovává tvar původní střechy bez zvedání výškové úrovně hřebene a výškové úrovně uliční římsy.<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>vůči instalaci osobního výtahu a opravy uliční fasády.</p></span></li>
+</ol></li>
+<li class="urzClass1" id=""><span name="63">požaduje,</span> 
+<ol class="urzOlClass" id="">
+<li class="urzClass2" style="TEXT-ALIGN: left" id=""><span><p>aby návrh dvorní fasády, speciálně řešení okenních otvorů, jejich tvar, velikost a poloha, odpovídal charakteru domu v památkové zóně, a aby tento návrh byl koordinován s Odborem památkové péče MHMP. Předložený návrh není vyhovující, nerespektuje architektonické čelnění dvorní fasády objektu.<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>aby byla řešena doprava v klidu.&nbsp;Platné Pražské stavební předpisy stanovují požadavek na výpočet parkovacích stání, který je potřeba splnit. Pokud není možné tato místa zajistit stavebními úpravami stávajícího objektu ani je realizovat na pozemku stavby, je požadováno smluvní zajištění parkovacích stání v blízkosti řešeného objektu.<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>aby byla doplněna dokumentace o pohledy dokumentující začlenění stavby do stávající zástavby, ze kterých bude zřejmé napojení na sousední objekty. Je požadováno frontální zachycení kontextu navrhované úpravy se zobrazením výšek říms a střech u minimálně tří domů na každé straně plánovaného záměru.</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>aby byla doložena studii oslunění a denního osvětlení dokumentující vliv nové výstavby na stávající okolní zástavbu. Z předložené dokumentace není zřejmé, do jaké míry dvorní nástavba negativně ovlivní oslunění a denní osvětlení protilehlého objektu ve vnitrobloku.</p></span></li>
+
+</ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat průvodní dopis předběžného stanoviska MČ Praha 7 ke stavbě „Stavební úpravy bytového domu - Milady Horákové 806/29, Praha 7 - Holešovice - na parc. c. 2012 k. ú. Holešovice - spočívající ve vybudování dvou bytů v prostoru stávající půdy na úrovni 5.NP, instalace osobního výtahu a oprava uliční fasády"</p></span><span class="urzUkolTermin">  Termín:&nbsp;28.8.2017</span></li></ul></li><li class="urzClass2"><span><p>VED ORZ Čermáková Martina Ing. arch.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zaslat předběžné stanovisko MČ Prahy 7 ke stavbě „Stavební úpravy bytového domu - Milady Horákové 806/29, Praha 7 - Holešovice - na parc. c. 2012 k. ú. Holešovice - spočívající ve vybudování dvou bytů v prostoru stávající půdy na úrovni 5.NP, instalace osobního výtahu a oprava uliční fasády" na adresu Wuchterlova 566/7, Praha 6, 160 00, panu Ing. Luboši Rajnišovi</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.8.2017</span></li></ul></li></ol></li>
+</ol>

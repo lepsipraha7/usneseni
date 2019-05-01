@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na spolupráci mezi městskou částí Praha 7 a Akademií výtvarných
+  umění v Praze, IČO: 604 61 446, při podpoře vzdělávacích a kulturních činností studentů
+  AVU a při přípravě i realizaci oslav výročí založení AVU'
+datum_vzniku_usneseni: '2018-09-04 00:00:00'
+cislo_usneseni: 0661/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30207/export/M35DV_AVU_memorandum~389252.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30207/export/S43_AVU_Smlouva_o_spolupraci_V~389251.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30207/export/export~389573.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na spolupráci mezi městskou částí Praha 7 a Akademií výtvarných umění v Praze, IČO: 604 61 446, při podpoře vzdělávacích a kulturních činností studentů AVU a při přípravě i realizaci oslav výročí založení AVU<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>spolupráci mezi městskou částí Praha 7 a Akademií výtvarných umění v Praze, IČO: 604 61 446, se sídlem U Akademie 172/4, 170 00 Praha 7,&nbsp;při podpoře vzdělávacích a kulturních činností studentů AVU a při přípravě i realizaci oslav výročí založení AVU <br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>text smlouvy o spolupráci mezi městskou částí Praha 7&nbsp;a Akademií výtvarných umění v Praze, IČO: 604 61 446, se sídlem U Akademie 172/4, 170 00 Praha 7 viz příloha č. 2</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>uzavření smlouvy o spolupráci mezi městskou částí Praha 7&nbsp;a Akademií výtvarných umění v Praze, IČO: 604 61 446, se sídlem U Akademie 172/4, 170 00 Praha 7 viz příloha č. 2</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat smlouvu o spolupráci mezi městskou částí Praha 7 a Akademií výtvarných umění v Praze, IČO: 604 61 446 viz příloha č. 2</p></span><span class="urzUkolTermin">  Termín:&nbsp;14.9.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně zajistit plnění smlouvy o spolupráci mezi městskou částí Praha 7 a Akademií výtvarných umění v Praze, IČO: 604 61 446 viz příloha č. 2</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.12.2019</span></li></ul></li></ol></li></ol>

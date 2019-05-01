@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci atletických závodů městské části Praha 7 pro žáky a
+  žákyně ZŠ a víceletých gymnázií z Prahy 7, pořádaných dne 25.04.2018 v zařízení
+  OLYMP Centra sportu Ministerstva vnitra ve Stromovce
+datum_vzniku_usneseni: '2018-03-20 00:00:00'
+cislo_usneseni: 0207/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27403/export/M1D_Atletickezavody_2018~335939.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27403/export/Zapis_3_jednani_SK_05_03_2018~335938.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27403/export/Olymp_Atletickezavody_schvaleniakce_2018~335937.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/27403/export/export~336338.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na realizaci atletických závodů městské části Praha 7 pro žáky a žákyně ZŠ a víceletých gymnázií z Prahy 7, pořádaných dne 25.04.2018 v zařízení OLYMP Centra sportu Ministerstva vnitra ve Stromovce<br></p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na realizaci atletických závodů městské části Praha 7 pro žáky a žákyně ZŠ a víceletých gymnázií z Prahy 7, pořádaných dne 25.04.2018 v zařízení OLYMP Centra sportu Ministerstva vnitra ve Stromovce<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>proplacení nákladů v max. výši 30 000 Kč vč. DPH, formou faktury, spolku Policejní sportovní klub OLYMP Praha, z.s., IČO: 496 25 837, se sídlem Za Císařským mlýnem 1063/5, 170 00 Praha 7, za metodické a technicko-organizační zajištění akce, hrazeno z rozpočtu ORJ 421 OKS - sport</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>úhradu nákladů v max. výši 1 200 Kč vč. DPH, formou faktury, spolku Oblastní spolek Českého červeného kříže Praha 7, IČO: 004 25 664, se sídlem Janovského 767/29, 170 00 Praha 7, za zdravotnický dozor, hrazeno z rozpočtu ORJ 421 OKS - sport</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci atletických závodů městské části Praha 7 pro žáky a žákyně ZŠ a víceletých gymnázií z Prahy 7 dle ustanovení článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;18.5.2018</span></li></ul></li></ol></li></ol>

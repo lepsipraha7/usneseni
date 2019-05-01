@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: Souhlas s vymáháním dlužného nájemného u dlužníků, s podáním žalob na
+  přivolení k výpovědi z nájmů bytů a podáním žalob na vydání bezdůvodného obohacení
+datum_vzniku_usneseni: '2000-11-28 00:00:00'
+cislo_usneseni: 1242/00
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Souhlas s vymáháním dlužného nájemného u dlužníků, s podáním žalob na přivolení k výpovědi z nájmů bytů a podáním žalob na vydání bezdůvodného obohacení</h3></span><div class="center">
+		<strong>č. 1242/00</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 28.11.2000</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na souhlas s vymáháním dlužného nájemného u dlužníků, s podáním žalob na přivolení k výpovědi z nájmů bytů a žalob na vydání bezdůvodného obohacení<br><br>II.	souhlasí <br><br>s vymáháním dlužného nájemného u dlužníků uvedených v příloze č. 1, která je nedílnou součástí tohoto materiálu, s podáním žalob na přivolení k výpovědi z nájmů bytů a žalob na vydání bezdůvodného obohacení  v domech svěřených městské části Praha 7, u osob uvedených v příloze č.1<br><br>III.	ukládá <br><br> Určen:	     	VED OBH Meško Martin<br>Termín: 31.12.2000<br>Úkol:	předat potřebné doklady pro vymáhání dlužného nájemného a podání žalob na přivolení k výpovědi z nájmů bytů a žalob na vydání bezdůvodného obohacení  na OP, dle přílohy č.1<br>  Určen:	     	VED OP Plášil Petr<br>Termín: 31.05.2001<br>Úkol:	zajistit podání žalob na vymáhání dlužného nájemného, žalob na přivolení k výpovědi z nájmů bytů a žalob na bezdůvodné obohacení  dle přílohy  č.1 a podkladů předaných OBH na OP<br>  Určen:	     	STA Dub Tomáš<br>Termín: 30.06.2001<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u Věry Kecové, Přístavní 35/1236, Praha 7 (1)<br> <br><br><br><br><br> Určen:	     	STA Dub Tomáš<br>Termín: 30.06.2001<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u Marie Haluškové, Veletržní 32/628, Praha 7 (2)<br> <br> Určen:	     	STA Dub Tomáš<br>Termín: 30.06.2001<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u Miloslava Šnobla, Argentinská 12/194.2, Praha 7 (3)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 30.06.2001<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby u Jaroslava Kovaříka, Přístavní 40/1111, Praha 7 (4)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 30.06.2001<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u Magdy Fukové, U Uranie 10/1328, Praha 7 (5)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 30.06.2001<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby u Josefa Vacka, Přístavní 19/1347, Praha 7 (6)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 30.06.2001<br>Úkol:	podepsat žalobu na vymáhání dlužného nájemného v aktuální výši ke dni podání žaloby a žalobu na přivolení k výpovědi z nájmu bytu u Ondřeje Šorma, Nad Štolou 8/1282, Praha 7 (7)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 30.06.2001<br>Úkol:	podepsat žalobu na přivolení k výpovědi z nájmu bytu u  Jiřího Weisnera, Bubenská 5/441, Praha 7 (8)<br> <br> Určen:	     	STA Dub Tomáš<br>Termín: 30.06.2001<br>Úkol:	podepsat žalobu na vydání bezdůvodného obohacení a na vyklizení bytu u Dany Suchorebské, Šmeralova 34/163, Praha 7 (9)<br>  Určen:	     	STA Dub Tomáš<br>Termín: 30.06.2001<br>Úkol:	podepsat žalobu na vydání bezdůvodného obohacení a na vyklizení  bytu u Renaty Bartošové, Milady Horákové 9/1280, Praha 7 (10)<br>  </div>
+</div>

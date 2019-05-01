@@ -1,0 +1,12 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na vyslovení souhlasu přechodného využití bytové jednotky pro potřeby
+  druhého krizového bytu po dobu Vánočních svátků nejdéle však 15.1.2018
+datum_vzniku_usneseni: '2017-12-22 00:00:00'
+cislo_usneseni: 1173/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28572/export/DZ~311921.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28572/export/export~312132.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal " id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na vyslovení souhlasu přechodného využití bytové jednotky pro potřeby druhého krizového bytu po dobu Vánočních svátků nejdéle však 15.1.2018</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>přechodné využití bytové jednotky uvedené v Příloze č.2 pro potřeby druhého krizového bytu ve smyslu Principů schválených Radou MČ Praha 7 usnesením č. 0236/16-R ze dne 15.03.2016 po dobu Vánočních svátků nejdéle však 15.1.2018</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Zajistit vypůjčení klíčů od 7U s.r.o. od bytové jednotky uvedené v příloze č.2</p></span><span class="urzUkolTermin">  Termín:&nbsp;22.12.2017</span></li></ul></li><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>Podepsat pověření vedoucímu Odboru sociálního a zdravotnictví Úřadu MČ Praha 7, PaedDr. Miroslavu Luczkovi, k uzavírání a podepisování smluv o výpůjčkách krizového bytu a smluv o krizovém ubytování v maximální délce trvání ubytování 10 kalendářních dnů v bytě uvedeném v příloze č.2 tohoto usnesení a to vždy právě jedenkrát s každým žadatelem v souladu s Metodickým pokynem pro krizové ubytování a užívání krizového ubytování a to s účinností takových smluv nejdéle do 15.1.2018</p></span><span class="urzUkolTermin">  Termín:&nbsp;22.12.2017</span></li></ul></li></ol></li></ol>

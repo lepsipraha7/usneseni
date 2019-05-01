@@ -1,0 +1,16 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení uzavření Smlouvy o dílo k nadlimitní veřejné zakázce
+  "Rentgen s přímou digitalizací" zadávanou Sdruženým ambulantním zařízením Praha
+  7, příspěvková organizace (SAZ)
+datum_vzniku_usneseni: '2017-10-06 00:00:00'
+cislo_usneseni: '0908/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29570/export/1Duvodovazprava~254604.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29570/export/2Zadavacidokumentace~254603.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29570/export/15UdajezregistruplatcuDPHFOMAMEDICAL~254590.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29570/export/16VypiszORFOMAMEDICAL~254589.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29570/export/export~295125.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: justify;" id="" class="urzClass2"><span><p style="text-align: justify;" data-mce-style="text-align: justify;">Návrh na uzavření&nbsp;Smlouvy o dílo&nbsp;k nadlimitní veřejné zakázce "Rentgen s přímou digitalizací" se společností FOMA MEDICAL spol. s.r.o.; Jana Krušiny 1737/6, 500 02 Hradec Králové, IČO: 02464454, za nabídkovou cenu 6 356 393,00 Kč bez DPH, tj. 7 691 236,00 Kč vč. DPH. Hrazeno z vlastních prostředků příspěvkové organizace.</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass" id=""><li style="text-align: justify;" id="" class="urzClass2"><span><p style="text-align: justify;" data-mce-style="text-align: justify;">uzavření Smlouvy o dílo k nadlimitní veřejné zakázce "Rentgen s přímou digitalizací" se společností FOMA MEDICAL spol. s.r.o.; Jana Krušiny 1737/6, 500 02 Hradec Králové, IČO: 02464454, za nabídkovou cenu 6 356 393,00 Kč bez DPH, tj. 7 691 236,00 Kč vč. DPH. Hrazeno z vlastních prostředků příspěvkové organizace.<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="16">pověřuje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>ředitele Sdruženého ambulantního zařízení Praha 7, příspěvkové organizace, Strossmayerovo náměstí 1477/6, 170 00, Praha - Holešovice, IČO: 44797362 - PhDr. Josefa Duška k podpisu&nbsp;Smlouvy o dílo k nadlimitní veřejné zakázce "Rentgen s přímou digitalizací" pro Sdružené ambulantní zařízení v Praze 7, příspěvková organizace, se společností FOMA MEDICAL spol. s.r.o.; Jana Krušiny 1737/6, 500 02 Hradec Králové, IČO: 02464454, za nabídkovou cenu 6 356 393,00 Kč bez DPH.</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OIVZ Pochmannová Hana Ing. Arch.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>informovat ředitele Sdruženého ambulantího zařízení v Praze 7, příspěvkové organizace, PhDr. Josefa Duška o schválení uzavření Smlouvy o dílo k nadlimitní veřejné zakázce s názvem "Rentgen s přímou digitalizací" Radou MČ Praha 7.</p></span><span class="urzUkolTermin">  Termín:&nbsp;20.10.2017</span></li></ul></li></ol></li></ol>

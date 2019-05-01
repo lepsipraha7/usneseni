@@ -1,0 +1,17 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení výběru zhotovitele a podpisu Smlouvy o dílo č. 2017/OIVZ/0019
+  na veřejnou zakázku malého rozsahu "Veletržní 39 – realizace nového systému vytápění
+  v NBP Autoservisu – Investice"
+datum_vzniku_usneseni: '2017-05-30 00:00:00'
+cislo_usneseni: '0498/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29051/export/1Duvodovazprava_HP~206833.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29051/export/4Smlouva_o_dilo~206830.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29051/export/5Cenovanabidka~206829.xls
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29051/export/6Plnamoc~206828.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29051/export/7Vyzva_k_podani_nabidky~206827.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29051/export/export~295987.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na schválení výběru zhotovitele a podpisu Smlouvy o dílo č. 2017/OIVZ/019 na veřejnou zakázku malého rozsahu "Veletržní 39 – realizace nového systému vytápění v NBP Autoservisu – Investice"</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>text Smlouvy o dílo č. 2017/OIVZ/0019 na veřejnou zakázku malého rozsahu "Veletržní 39 – realizace nového systému vytápění v NBP Autoservisu – Investice", se společností INSTAMA s.r.o., Dolnokrčská 2019/43, 140 00 Praha 4 - Krč, IČO: 26433087<br></p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>podpis Smlouvy o dílo č. 2017/OIVZ/019 na veřejnou zakázku malého rozsahu "Veletržní 39 – realizace nového systému vytápění v NBP Autoservisu – Investice", se společností INSTAMA s.r.o., Dolnokrčská 2019/43, 140 00 Praha 4 - Krč, IČO: 26433087, za nabídkovou cenu&nbsp;704 196,- Kč bez DPH, tj. 852 077,16 Kč vč. DPH - viz Příloha č. 4 tohoto materiálu. Hrazeno OMA ORJ 0809</p></span></li></ol></li><li id="" class="urzClass1"><span name="16">pověřuje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>ZAS STA Pavel Vyhnánek, M.A.</p><p>k podpisu Smlouvy o dílo č. 2017/OIVZ/019 na veřejnou zakázku malého rozsahu "Veletržní 39 – realizace nového systému vytápění v NBP Autoservisu – Investice", se společností INSTAMA s.r.o., Dolnokrčská 2019/43, 140 00 Praha 4 - Krč, IČO: 26433087, za nabídkovou cenu 704 196,- Kč bez DPH<br><br><br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>ZAS STA Pavel Vyhnánek, M.A.</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Smlouvu o dílo č. 2017/OIVZ/019 na veřejnou zakázku malého rozsahu<br>"Veletržní 39 – realizace nového systému vytápění v NBP Autoservisu – Investice", se společností INSTAMA s.r.o., Dolnokrčská 2019/43, 140 00 Praha 4 - Krč, IČO: 26433087, za nabídkovou cenu 704 196,- Kč bez DPH, a podepsat s tím související Plnou moc pro zhotovitele</p></span><span class="urzUkolTermin">  Termín:&nbsp;31.5.2017</span></li></ul></li></ol></li></ol>

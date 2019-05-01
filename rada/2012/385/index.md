@@ -1,0 +1,46 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení stanoviska k návrhu Nařízení o zrušení nařízení č.
+  11/2006 Sb. hl. m. Prahy, o maximální ceně za zpopelnění zemřelého a ostatků v rakvi
+  včetně uložení popele do pevně uzavíratelné urny s označením
+datum_vzniku_usneseni: '2012-05-29 00:00:00'
+cislo_usneseni: '0385/12'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/22805/30-12-dopis_starost%c5%afm.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/22805/30-12-n%c3%a1vrh+na%c5%99%c3%adzen%c3%ad+o+zru%c5%a1en%c3%ad+na%c5%99%c3%adzen%c3%ad_mhmp.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/22805/30-12-d%c5%afvodov%c3%a1+zpr%c3%a1va_mhmp.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na schválení stanoviska k návrhu Nařízení o zrušení nařízení č. 11/2006 Sb. hl. m. Prahy, o maximální ceně za zpopelnění zemřelého a ostatků v rakvi včetně uložení popele do pevně uzavíratelné urny s označením</h3></span><div class="center">
+		<strong>č. 0385/12</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 29.05.2012</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh na schválení stanoviska k návrhu Nařízení o zrušení nařízení č. 11/2006 Sb. hl. m. Prahy, o maximální ceně za zpopelnění zemřelého a ostatků v rakvi včetně uložení popele do pevně uzavíratelné urny s označením, ve znění nařízení č. 2/2008 Sb. hl. m. Prahy   </li></ul>
+</li>
+<li>Konstatuje,<ul><li>
+<strong>1.</strong> že k návrhu Nařízení o zrušení nařízení č. 11/2006 Sb. hl. m. Prahy, o maximální ceně za zpopelnění zemřelého a ostatků v rakvi včetně uložení popele do pevně uzavíratelné urny s označením, ve znění nařízení č. 2/2008 Sb. hl. m. Prahy má připomínky<ul>
+<li>
+<strong>1.1</strong> dojde k navýšení nákladů vynakládaných na pohřby, které zajišťuje Městská část P7 podle právního předpisu o pohřebnictví (§5 zákona č. 256/2001 Sb.)</li>
+<li>
+<strong>1.2</strong> Městská část P7 bude požadovat zohlednění navýšení takto vzniklých nákladů při přerozdělování finančních prostředků MHMP pro MČ P7       </li>
+</ul>
+</li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>STA Ječmének Marek</li>
+<li>
+<strong>1.1 Úkol: </strong>zaslat stanovisko MČ Praha 7  k návrhu Nařízení o zrušení nařízení č. 11/2006 Sb. hl. m. Prahy, o maximální ceně za zpopelnění zemřelého a ostatků v rakvi včetně uložení popele do pevně uzavíratelné urny s označením, ve znění nařízení č. 2/2008 Sb. hl. m. Prahy na MHMP</li>
+<li>
+<strong>1.2 Termín: </strong>01.06.2012</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

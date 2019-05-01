@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na realizaci florbalového turnaje žáků a žákyň 6.-9. tříd ZŠ a gymnázií
+  z Prahy 7, konaného ve dnech 13., 15. a 20.11.2018 ve sportovní hale TJ Tatran Střešovice,
+  Sibeliova 368, 162 00 Praha 6
+datum_vzniku_usneseni: '2018-10-16 00:00:00'
+cislo_usneseni: 0740/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30290/export/M25DV_Florbalovy_turnaj_2018~398868.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30290/export/Zapis_9_jednani_SK_03_09_2018~398867.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30290/export/export~399386.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na realizaci florbalového turnaje žáků a žákyň 6.-9. tříd ZŠ a gymnázií z Prahy 7, konaného ve dnech 13., 15. a 20.11.2018 ve sportovní hale TJ Tatran Střešovice, Sibeliova 368, 162 00 Praha 6<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>realizaci florbalového turnaje žáků a žákyň 6.-9. tříd ZŠ a gymnázií z Prahy 7, konaného ve dnech 13., 15. a 20.11.2018 ve sportovní hale TJ Tatran Střešovice, Sibeliova 368, 162 00 Praha 6<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů v max. výši 29 350 Kč vč. DPH, formou faktury, spolku Tělovýchovná jednota Tatran Střešovice, z. s., IČO: 005 39 015, se sídlem Sibeliova 368/51, Střešovice, 162 00 Praha 6, za pronájem sportovní haly, hrazeno z rozpočtu ORJ 421 OKS - sport</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>úhradu nákladů v max. výši 4 800 Kč vč. DPH, formou faktury, spolku Oblastní spolek Českého červeného kříže Praha 7, IČO: 004 25 664, se sídlem Janovského 767/29, 170 00 Praha 7, za zdravotnický dozor, hrazeno z rozpočtu ORJ 421 OKS - sport</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OKS Bc. Lukáš Fátor</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>organizačně a finančně zajistit realizaci florbalového turnaje žáků a žákyň 6.-9. tříd ZŠ a gymnázií z Prahy 7 dle ustanovení článku II tohoto usnesení</p></span><span class="urzUkolTermin">  Termín:&nbsp;14.12.2018</span></li></ul></li></ol></li></ol>

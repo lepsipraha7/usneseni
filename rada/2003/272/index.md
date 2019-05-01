@@ -1,0 +1,22 @@
+---
+layout: detail_usneseni
+nazev_bodu: Změna usnesení R MČ P-7 č. 0179/03 ze dne 18.02.2003 v bodě II. odst.
+  4 a v bodě III. odst. 4 - na uzavření nájemních smluv na NBP - Pplk. Sochora 38,
+  Šternberkova 17, Haškova 7, Umělecká 5, Praha 7 po ukončeném výběrovém řízení
+datum_vzniku_usneseni: '2003-03-18 00:00:00'
+cislo_usneseni: 0272/03
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Změna usnesení R MČ P-7 č. 0179/03 ze dne 18.02.2003 v bodě II. odst. 4 a v bodě III. odst. 4 - na uzavření nájemních smluv na NBP - Pplk. Sochora 38, Šternberkova 17, Haškova 7, Umělecká 5, Praha 7 po ukončeném výběrovém řízení</h3></span><div class="center">
+		<strong>č. 0272/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 18.03.2003</strong><br><br>
+	</div>
+<br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> <br>předložený materiál - Návrh na změnu usnesení R MČ P-7 č. 0179/03 ze dne 18.02.2003 v bodě II. odst. 4 a v bodě III. odst. 4 - na uzavření nájemních smluv na NBP - Pplk. Sochora 38, Šternberkova 17, Haškova 7, Umělecká 5, Praha 7 po ukončeném výběrovém řízení<br><br>II.  mění <br><br>usnesení R MČ Praha 7 č. č. 0179/03 ze dne 18.02.2003 v bodě II. odst. 4 a v bodě III. odst. 4 takto:<br>nájemce OKAMŽIK sdružení pro podporu nejen nevidomých, sídlo Nemocniční 7, Praha 9<br><br>III.	ukládá <br><br> <br>Určen:	RADNI Piskáček Jiří Mgr.<br>Termín: 31.03.2003<br>Úkol:	podepsat NS na NBP - kanceláře v přízemí domu Umělecká 5/1005, Praha 7, nájemce OKAMŽIK sdružení pro podporu nejen nevidomých, sídlo Nemocniční 7, Praha 9, IČO 70837791, o rozloze 63,37m2, za nájemné 600,-Kč/m2/rok, na dobu určitou 10 let<br> <br><br><br> <br>	<br>PhDr. Ivana Kučerová zástupkyně starosty Městské části Praha 7	 Radek Mikšík starosta Městské části Praha 7<br>	<br><br>
+</div>
+</div>

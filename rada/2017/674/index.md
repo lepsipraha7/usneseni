@@ -1,0 +1,26 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na vyjádření MČ Praha 7 k žádosti společnosti TOM REALITY 2000 s.r.o.,
+  IČ 26189933, ve věci půdních bytových jednotek v domě Tusarova 7/1263
+datum_vzniku_usneseni: '2017-07-25 00:00:00'
+cislo_usneseni: 0674/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/01_TR20001263~228784.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/02_TR20001263~228783.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/03_TR20001263~228781.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/04_TR20001263~228780.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/05_TR20001263~228779.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/06_TR20001263~228778.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/07_TR20001263~228777.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/08_TR20001263~228776.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/09_TR20001263~228775.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/10_TR20001263~228774.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/11_TR20001263~228773.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/12_TR20001263~228772.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/13_TR20001263~228770.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/14_TR20001263~228768.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/15_TR20001263~228767.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/28640/export/export~295621.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>Návrh na vyjádření MČ Praha 7 k žádosti společnosti TOM REALITY 2000 s.r.o., IČ 26189933, ve věci půdních bytových jednotek v domě Tusarova 7/1263</p></span></li></ol></li><li class="urzClass1" id=""><span name="50">konstatuje,</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>že od doby usnesení Rady MČ Praha 7 č. 0574/14-R ze dne 29.07.2014, došlo k závěrečné kontrolní prohlídce (kolaudaci) stavby ,,stavební úpravy domu č.p. 1263, Tusarova 7" - Holešovice, za účelem zřízení půdní vestavby 4 bytových jednotek, včetně plynového etážového vytápění a přístavby osobního výtahu, dne 13.02.2017 a následně dopisem doručeným dne 15.02.2017 na podatelnu Úřadu MČ Praha 7 požádal stavebník společnost TOM REALITY 2000 s.r.o., IČO: 26189933, o zajištění znaleckého posudku dle výše uvedeného usnesení a návrhu termínu dohadovacího řízení o výši kompenzace pro společnost TOM REALITY 2000 s.r.o.<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že MČ Praha 7 oslovila dlouhodobě spolupracujícího znalce Ing. Jana Beneše, ABBEN – znalecká kancelář, s.r.o., IČ 243 07 611, Za Strahovem 41, Praha 6, který se vyjádřil, že bez konkrétního právního zadání, nemůže nyní zpracovat znalecký posudek</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že Odbor právní svým stanoviskem ze dne 24.05.2017 nepovažuje případnou dohodu o narovnání mezi MČ Praha 7 a společností&nbsp;TOM REALITY 2000 s.r.o. za podloženou, neboť škoda vzniklá stavebníkovi, která by měla být vyvolána MČ Praha 7, ať již v jakékoliv výši a z jakéhokoliv důvodu nebyla dosud reálně prokázána, nebyl prokázán příčinný vztah mezi případnou škodou a konáním MČ Praha 7, nebyl kvantifikován případný vliv dalších činitelů na potencionální škodu</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>že dne 14.06. a 21.06.2017 proběhla na Úřadu MČ Praha 7 jednání se společností TOM REALITY 2000 s.r.o., kde byl jednatel společnosti seznámen se stanoviskem MČ Praha 7</p></span></li></ol></li><li class="urzClass1" id=""><span name="11">nesouhlasí</span><ol class="urzOlClass"><li class="urzClass2" id="" style="text-align: left;"><span><p>s uzavřením dohody o narovnání mezi MČ Praha 7 a společností TOM REALITY 2000 s.r.o., IČO: 26189933, Široká 25/6, Praha 1, ve věci půdních bytových jednotek v domě Tusarova 7/1263, neboť nebyl prokázán příčinný vztah mezi případnou škodou a konáním MČ Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OMA Mgr. Robert Kolář</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>seznámit společnost TOM REALITY 2000 s.r.o., IČO: 26189933, s usnesením Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;28.7.2017</span></li></ul></li></ol></li></ol>

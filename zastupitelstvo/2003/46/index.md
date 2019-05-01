@@ -1,0 +1,23 @@
+---
+layout: detail_usneseni
+nazev_bodu: Prodej nemovitosti č.p. 1342 včetně pozemku č.parc. 1070, k.ú. Holešovice
+  , Tovární 12 společnosti Tovární s.r.o. ( složené ze současných lékařů v nájmu uvedené
+  nemovitosti ) za cenu administrativní dle ZP vypracovaného dne 3.7.2002 ve výši
+  4 704 180,-
+datum_vzniku_usneseni: '2003-05-26 00:00:00'
+cislo_usneseni: 0046/03
+prilohy: []
+organ: zastupitelstvo
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení zastupitelstva MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Prodej nemovitosti č.p. 1342 včetně pozemku č.parc. 1070, k.ú. Holešovice , Tovární 12 společnosti Tovární s.r.o. ( složené ze současných lékařů v nájmu uvedené nemovitosti ) za cenu administrativní dle ZP vypracovaného dne 3.7.2002 ve výši 4 704 180,-</h3></span><div class="center">
+		<strong>č. 0046/03</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 26.05.2003</strong><br><br>
+	</div>
+<br>Zastupitelstvo MČ Praha 7<br>po projednání<br><br>I.	bere na vědomí<br><br> <br>předložený materiál - na prodej nemovitosti č.p. 1342 včetně pozemku č.parc. 1070, k.ú. Holešovice , Tovární 12 společnosti Tovární s.r.o. ( složené ze současných lékařů v nájmu uvedené nemovitosti ) za cenu administrativní dle ZP vypracovaného dne 3.7.2002 ve výši 4 704 180,- za podmínek <br>1) zaplacení kupní ceny do 24 měsíců od podpisu smlouvy v rozložených měsíčních splátkách<br>2) rekonstrukce nemovitosti do 3. let od podpisu kupní smlouvy dle projektové dokumentace , která bude vycházet ze Zadávací dokumentace zpracované firmou REAP - projektování staveb z 09/2000 s možností postupného provádění prací<br>3) závazek účelového určení  předmětu koupě k provozování zdravotnictví po dobu 50-ti let od převodu vlastnického práva k předmětu koupě nakupujícího  <br>4) zástavní právo ve prospěch MČ P7 do doby uhrazení kupní ceny<br>5) předkupní právo po dobu 50-ti let od převodu vlastnického práva   k předmětu koupě nakupujícího<br>6) po dobu 6 měsíců bude zachována ordinace kožního lékaře a po dobu 10 let bude zachována ordinace interního lékaře pro SAZ P7 za cenu nájmu 500,- Kč/m2/rok <br><br><br><br><br>II.	souhlasí <br><br>s prodejem nemovitosti č.p. 1342 včetně pozemku č.parc. 1070, k.ú. Holešovice , Tovární 12 společnosti Tovární s.r.o. ( složené ze současných lékařů v nájmu uvedené nemovitosti ) za cenu administrativní dle ZP vypracovaného dne 3.7.2002 ve výši 4 704 180,- za podmínek <br>1) zaplacení kupní ceny do 24 měsíců od podpisu smlouvy v rozložených měsíčních splátkách<br>2) rekonstrukce nemovitosti do 3. let od podpisu kupní smlouvy dle projektové dokumentace , která bude vycházet ze Zadávací dokumentace zpracované firmou REAP - projektování staveb z 09/2000 s možností postupného provádění prací<br>3) závazek účelového určení  předmětu koupě k provozování zdravotnictví po dobu 50-ti let od převodu vlastnického práva k předmětu koupě nakupujícího  <br>4) zástavní právo ve prospěch MČ P7 do doby uhrazení kupní ceny<br>5) předkupní právo po dobu 50-ti let od převodu vlastnického práva   k předmětu koupě nakupujícího<br>6) po dobu 6 měsíců bude zachována ordinace kožního lékaře a po dobu 10 let bude zachována ordinace interního lékaře pro SAZ P7 za cenu nájmu 500,- Kč/m2/rok <br><br><br><br><br>III.	ukládá <br><br>Určen:	STA Mikšík Radek<br>Termín: 30.06.2003<br>Úkol:	podepsat kupní smlouvu na prodej  nemovitosti č.p. 1342 včetně pozemku č.parc. 1070, k.ú. Holešovice , Tovární 12 společnosti Tovární s.r.o. ( složené ze současných lékařů v nájmu uvedené nemovitosti ) za cenu administrativní dle ZP vypracovaného dne 3.7.2002 ve výši 4 704 180,- za podmínek <br>1) zaplacení kupní ceny do 24 měsíců od podpisu smlouvy v rozložených měsíčních splátkách<br>2) rekonstrukce nemovitosti do 3. let od podpisu kupní smlouvy dle projektové dokumentace , která bude vycházet ze Zadávací dokumentace zpracované firmou REAP - projektování staveb z 09/2000 s možností postupného provádění prací<br>3) závazek účelového určení  předmětu koupě k provozování zdravotnictví po dobu 50-ti let od převodu vlastnického práva k předmětu koupě nakupujícího                                                                   4) zástavní právo ve prospěch MČ P7 do doby uhrazení kupní ceny<br>5) předkupní právo po dobu 50-ti let od převodu vlastnického práva   k předmětu koupě nakupujícího     6) po dobu 6 měsíců bude zachována ordinace kožního lékaře a po dobu 10 let bude zachována ordinace interního lékaře pro SAZ P7 za cenu nájmu 500,- Kč/m2/rok <br> <br> <br> <br>	<br> Radek Mikšík starosta Městské části Praha 7	 Vavřinec Tomáš zástupce starosty Městské části Praha 7<br>	<br><br>
+</div>
+</div>

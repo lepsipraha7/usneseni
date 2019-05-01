@@ -1,0 +1,51 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na výběr poskytovatele na zakázku "Údržba vodních prvků na Řezáčově
+  náměstí a v ul. Tusarova - parčík", k.ú. Holešovice, Praha 7
+datum_vzniku_usneseni: '2008-07-15 00:00:00'
+cislo_usneseni: '0749/08'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/17024/29-n%c3%a1vrh_smlouvy.doc
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/17024/29-rossy.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na výběr poskytovatele na zakázku "Údržba vodních prvků na Řezáčově náměstí a v ul. Tusarova - parčík", k.ú. Holešovice, Praha 7</h3></span><div class="center">
+		<strong>č. 0749/08</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 15.07.2008</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> návrh na výběr poskytovatele na zakázku "Údržba vodních prvků na Řezáčově náměstí a v ul. Tusarova - parčík", k.ú. Holešovice, Praha 7</li></ul>
+</li>
+<li>Souhlasí<ul><li>
+<strong>1.</strong> s výběrem poskytovatele a podpisem SOD na zakázku "Údržba vodních prvků na Řezáčově náměstí a v ul. Tusarova - parčík", k.ú. Holešovice, Praha 7, se společností ROSSY service s.r.o., Nad Opatovem 2026/1, 149 00 Praha 4, IČ: 26423804, za nabídnutou cenu 48.000,-Kč bez DPH</li></ul>
+</li>
+<li>Schvaluje<ul>
+<li>
+<strong>1.</strong> text SOD na zakázku "Údržba vodních prvků na Řezáčově náměstí a v ul. Tusarova - parčík", k.ú. Holešovice, Praha 7, se společností ROSSY service s.r.o., Nad Opatovem 2026/1, 149 00 Praha 4, IČ: 26423804, za nabídnutou cenu 48.000,-Kč bez DPH</li>
+<li>
+<strong>2.</strong> uzavření SOD na zakázku "Údržba vodních prvků na Řezáčově náměstí a v ul. Tusarova - parčík", k.ú. Holešovice, Praha 7, se společností ROSSY service s.r.o., Nad Opatovem 2026/1, 149 00 Praha 4, IČ: 26423804, za nabídnutou cenu 48.000,-Kč bez DPH . Hrazeno z kapitoly ORJ 0207 - OŽP   </li>
+</ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>ZAS STA Neuberg Josef</li>
+<li>
+<strong>1.1 Úkol: </strong>podepsat SOD na zakázku "Údřžba vodních prvků na Řezáčově náměstí a v ul. Tusarova - parčík", k.ú. Holešovice, Praha 7, se společností ROSSY service s.r.o., Nad Opatovem 2026/1, 149 00 Praha 4, IČ: 26423804, za nabídnutou cenu 48.000,-Kč bez DPH</li>
+<li>
+<strong>1.2 Termín: </strong>25.07.2008</li>
+<li>
+<strong><br>2. Určen: </strong>VED OIVZ Mangira Iva</li>
+<li>
+<strong>2.1 Úkol: </strong>informovat zúčastněné firmy o výsledku zakázky "Údržba vodních prvků na Řezáčově náměstí a v ul. Tusarova - parčík", k.ú. Holešovice, Praha 7, v souladu se zákonem 137/2006 Sb.</li>
+<li>
+<strong>2.2 Termín: </strong>17.07.2008</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: MUDr. Tomáš Kaštovský 
+</div>
+</div>

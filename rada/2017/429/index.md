@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na uzavření Dohody o převodu práv a povinností ke stavbě se společností
+  PREdistribuce, a.s.,sídlo: Praha 5, Svornosti 3199/19a,IČO: 27376516'
+datum_vzniku_usneseni: '2017-05-09 00:00:00'
+cislo_usneseni: '0429/17-R'
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29003/export/PRE_dohoda_oprevoduprav~198336.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29003/export/PREinfosml8831607149~198335.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29003/export/DohodaoprevodupravPREopr~198334.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29003/export/export~296137.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li id="" class="urzClass1"><span name="1">bere na vědomí</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>návrh na uzavření Dohody o převodu práv a povinností ke stavbě se společností PREdistribuce, a.s.,sídlo: Praha 5, Svornosti 3199/19a, IČO: 27376516</p></span></li></ol></li><li id="" class="urzClass1"><span name="50">konstatuje,</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>že součástí stavby WC u dětského hřiště Sedmikráska“ je energetické dílo - Elektro rozvod ze stávajícího podzemního vedení NN na pozemku parc. č. 1185 k.ú. Holešovice, D-142552, pro které MČ Praha 7 není nezbytné zajistit vydání kolaudačního souhlasu ani nebude stavebnímu úřadu oznamovat užívání stavby</p></span></li><li style="text-align: left;" id="" class="urzClass2"><span><p>že z uvedeného důvodu v bodě II. konstatuje 1 je nutné uzavřít Dohodu o převodu práv a povinností ke stavbě se společností PREdistribuce, a.s.,sídlo : Praha 5, Svornosti 3199/19a, IČO: 27376516</p></span></li></ol></li><li id="" class="urzClass1"><span name="24">schvaluje</span><ol class="urzOlClass"><li style="text-align: left;" id="" class="urzClass2"><span><p>uzavření Dohody o převodu práv a povinností ke stavbě se společností PREdistribuce, a.s.,sídlo: Praha 5, Svornosti 3199/19a, IČO: 27376516, která je v příloze č. 3 tohoto materiálu <br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>podepsat Dohodu o převodu práv a povinností ke stavbě se společností PREdistribuce, a.s.,sídlo : Praha 5, Svornosti 3199/19a, IČO: 27376516, která je v příloze č. 3 tohoto materiálu</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.5.2017</span></li></ul></li></ol></li></ol>

@@ -1,0 +1,13 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na prodloužení nájemní smlouvy s panem Jiřím Knopem, na byt č. 6,
+  v podílovém domě Plynární 39/798, za tržní nájemné, na základě žádosti spoluvlastníků
+datum_vzniku_usneseni: '2018-06-26 00:00:00'
+cislo_usneseni: 0514/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30057/export/01_BJ20180626~370990.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30057/export/02_BJ20180626~370989.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/30057/export/export~371279.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>Návrh na prodloužení nájemní smlouvy s panem Jiřím Knopem, na byt č. 6, v podílovém domě Plynární 39/798, za tržní nájemné, na základě žádosti spoluvlastníků</p></span></li></ol></li><li class="urzClass1" id=""><span name="26">souhlasí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>s uzavřením dodatku č. 1 k nájemní smlouvě č. 7625/2017, ze dne 25.07.2017, na byt č. 6, na adrese Plynární 798/39, Praha 7, za nájemné 8.200,- Kč/měsíc/předmět nájmu, s panem Jiřím Knopem, kterým se mění doba trvání nájmu na dobu určitou do 31.07.2019 a výše nájmu na 10.000,- Kč/měsíc/předmět nájmu, na základě doporučení ostatních spoluvlastníků domu, s podmínkou podpisu dodatku k nájemní smlouvě ze strany nájemce nejpozději do 6 týdnů od usnesení Rady MČ Praha 7</p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>MISTA Ing. Kamil Vavřinec Mareš</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>uzavřít dodatek č. 1 k nájemní smlouvě č. 7625/2017, ze dne 25.07.2017, na byt č. 6, na adrese Plynární 798/39, Praha 7, za nájemné 8.200,- Kč/měsíc/předmět nájmu, s panem Jiřím Knopem, kterým se mění doba trvání nájmu na dobu určitou do 31.07.2019 a výše nájmu na 10.000,- Kč/měsíc/předmět nájmu, na základě doporučení ostatních spoluvlastníků domu, s podmínkou podpisu dodatku k nájemní smlouvě ze strany nájemce nejpozději do 6 týdnů od usnesení Rady MČ Praha 7</p></span><span class="urzUkolTermin">  Termín:&nbsp;20.7.2018</span></li></ul></li></ol></li></ol>

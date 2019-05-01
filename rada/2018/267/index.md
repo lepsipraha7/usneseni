@@ -1,0 +1,14 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na poskytnutí individuální dotace v oblasti sociální, dle žádosti
+  podané v únoru 2018
+datum_vzniku_usneseni: '2018-04-10 00:00:00'
+cislo_usneseni: 0267/18-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29782/export/duvodovazprava_individualnidotace_022018~342570.docx
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29782/export/Zadost_MS_a_ZSS_Diakonie_CCE_Praha_4~342569.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29782/export/Smlouva_o_poskytnuti_individualni_dotace_MSZSDiakonieP4_2018~342568.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29782/export/export~343293.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na poskytnutí individuální dotace v oblasti sociální, dle žádosti podané v únoru 2018</p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal " id=""><li class="urzClass2" id="" style="text-align: left;"><span><p>poskytnutí individuální dotace v oblasti sociální, Mateřské škole a základní škole speciální Diakonie ČCE Praha 4, dle žádosti podané v únoru 2018, která je přílohou č. 2 tohoto materiálu, ve výši 10.000,- Kč, hrazeno z rozpočtu ORJ 0516<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>záměr zajistit jednotlivé činnosti dle přílohy č. 2 tohoto materiálu</p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>uzavření Smlouvy o poskytnutí individuální dotace v oblasti sociální mezi Městskou částí Praha 7 a Mateřskou školou a základní školou speciální Diakonie ČCE Praha 4, smlouva je přílohou č. 3 tohoto materiálu <br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>STA Mgr. Jan Čižinský</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>1. podepat smlouvu o poskytnutí dotace s Mateřskou školou a základní školou speciální Diakonie ČCE Praha 4</p></span><span class="urzUkolTermin">  Termín:&nbsp;13.4.2018</span></li></ul></li><li class="urzClass2"><span><p>VED OSZ PaedDr. Miroslav Luczka</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>2. organizačně a finančně zajistit poskytnutí dotace v oblasti sociální</p></span><span class="urzUkolTermin">  Termín:&nbsp;30.4.2018</span></li></ul></li></ol></li></ol>

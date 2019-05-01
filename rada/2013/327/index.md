@@ -1,0 +1,55 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na uzavření nájemních smluv na volné nebytové prostory po výběrovém
+  řízení, které KHsNP provedla při svém 28.jednání dne 17.4.2013
+datum_vzniku_usneseni: '2013-04-30 00:00:00'
+cislo_usneseni: 0327/13
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/24054/23-13-or_la_france.pdf
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na uzavření nájemních smluv na volné nebytové prostory po výběrovém řízení, které KHsNP provedla při svém 28.jednání dne 17.4.2013</h3></span><div class="center">
+		<strong>č. 0327/13</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 30.04.2013</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> předložený materiál - Návrh na uzavření nájemních smluv na volné nebytové prostory po výběrovém řízení, které KHsNP provedla při svém 28.jednání dne 17.4.2013</li></ul>
+</li>
+<li>Souhlasí<ul>
+<li>
+<strong>1.</strong> s uzavřením nájemní smlouvy na dobu neurčitou, po výběrovém řízení, na pronájem NBP prodejna, 34,71 m2, v 1.NP domu na adrese Farského 1/1385, P7 (dle PV jed.č. 1385/101), se společností La France s.r.o., IČ 27920666, se sídlem Praha 7 - Bubeneč, Šmeralova 292, PSČ 170 00, za nájemné 2.939,-Kč / m2 / rok</li>
+<li>
+<strong>2.</strong> s uzavřením nájemní smlouvy na dobu neurčitou, po výběrovém řízení, na pronájem NBP garáž, 18,2 m2, v 1.PP domu na adrese Šmeralova 25/198, P7 (dle PV jed.č.198/103), s M.S., za nájemné 1.680,-Kč / m2 / rok  ( 1 )</li>
+<li>
+<strong>3.</strong> s uzavřením nájemní smlouvy na dobu neurčitou, po výběrovém řízení, na pronájem NBP garáž, 13 m2, ve dvoře domu na adrese Šternberkova 17/446, P7, s T.D., za nájemné 1.552,-Kč / m2 / rok  ( 2 ) </li>
+</ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>RAD Justová Marcela Mgr.</li>
+<li>
+<strong>1.1 Úkol: </strong>uzavřít nájemní smlouvu na dobu neurčitou, po výběrovém řízení, na pronájem NBP prodejna, 34,71 m2, v 1.NP domu na adrese Farského 1/1385, P7 (dle PV jed.č. 1385/101), se společností La France s.r.o., IČ 27920666, se sídlem Praha 7 - Bubeneč, Šmeralova 292, PSČ 170 00, za nájemné 2.939,-Kč / m2 / rok</li>
+<li>
+<strong>1.2 Termín: </strong>31.05.2013</li>
+<li>
+<strong><br>2. Určen: </strong>RAD Justová Marcela Mgr.</li>
+<li>
+<strong>2.1 Úkol: </strong>uzavřít nájemní smlouvu na dobu neurčitou, po výběrovém řízení, na pronájem NBP garáž, 18,2 m2, v 1.PP domu na adrese Šmeralova 25/198, P7 (dle PV jed.č.198/103), s M.S., za nájemné 1.680,-Kč / m2 / rok  ( 1 )</li>
+<li>
+<strong>2.2 Termín: </strong>31.05.2013</li>
+<li>
+<strong><br>3. Určen: </strong>RAD Justová Marcela Mgr.</li>
+<li>
+<strong>3.1 Úkol: </strong>uzavřít nájemní smlouvu na dobu neurčitou, po výběrovém řízení, na pronájem NBP garáž, 13 m2, ve dvoře domu na adrese Šternberkova 17/446, P7, s T.D., za nájemné 1.552,-Kč / m2 / rok  ( 2 )</li>
+<li>
+<strong>3.2 Termín: </strong>31.05.2013</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>

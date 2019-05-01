@@ -1,0 +1,15 @@
+---
+layout: detail_usneseni
+nazev_bodu: Návrh na schválení kompletní výroční zprávy za školní rok 2016/2017 školských
+  zařízení zřízených městskou částí Praha 7 a správní obvod Praha 7 - Troja
+datum_vzniku_usneseni: '2017-12-05 00:00:00'
+cislo_usneseni: 1094/17-R
+prilohy:
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29687/export/1Duvodovazprava~305282.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29687/export/2Osnova_vyrocni_zpravy_2017~305281.pdf
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29687/export/3Vyrocni_zprava_ZS_2016_2017~305280.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29687/export/4Vyrocni_zprava_MS_2016_2017~305279.doc
+- https://www.praha7.cz/wp-content/uploads/councilResolution/Resolutions/29687/export/export~306476.pdf
+organ: rada
+---
+<ol id="urzList" class="urzList_view"><li class="urzClass1" id=""><span name="1">bere na vědomí</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>návrh na schválení kompletní výroční zprávy za školní rok 2016/2017 školských zařízení zřízených městskou částí Praha 7 a správní obvod&nbsp; Praha 7 - Troja, dle § 7 vyhlášky č. 15/2005 Sb., kterou se stanoví náležitosti dlouhodobých záměrů, výročních zpráv a vlastní hodnocení školy a § 10 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon)<br></p></span></li></ol></li><li class="urzClass1" id=""><span name="24">schvaluje</span><ol class="urzOlClass decimal "><li class="urzClass2" id="" style="text-align: left;"><span><p>text kompletní výroční zprávy za školní rok 2016/2017 za všechny základní školy zřízené městskou částí Praha 7 a správní obvod <br>Praha 7 - Troja<br></p></span></li><li class="urzClass2" id="" style="text-align: left;"><span><p>text kompletní výroční zprávy za školní rok 2016/2017 za všechny mateřské školy zřízené městskou částí praha 7 a správní obvod <br>Praha 7 - Troja<br></p></span></li></ol></li><li class="urzClass1" id="urzUkoly"><span name="1">ukládá</span><ol class="urzOlClass"><li class="urzClass2"><span><p>VED OŠK Ing. Dita Výborová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>zaslat kompletní výroční zprávy za školská zařízení MČ Praha 7 a správní obvod Praha 7 - Troja na odbor školství a mládeže při MHMP</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.12.2017</span></li></ul></li><li class="urzClass2"><span><p>VED OŠK Ing. Dita Výborová</p></span><ul class="urzUlClass"><li class="urzClass3"><span><p>vyvěsit na úřední desku MČ Praha 7 kompletní výroční zprávy za ZŠ a MŠ MČ Praha 7 a správní obvod Praha 7 - Troja</p></span><span class="urzUkolTermin">  Termín:&nbsp;15.12.2017</span></li></ul></li></ol></li></ol>

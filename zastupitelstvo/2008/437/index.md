@@ -1,0 +1,47 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na uzavření kupní smlouvy  a smlouvy o zřízení zástavního a předkupního
+  práva jako práva věcného mezi MČ Praha 7 a "Bytovým družstvem Šmeralka", se sídlem
+  Šmeralova 21/331, Praha 7, IČ : 63081369 o odkoupení  parc.č. 365, k.ú. Bubeneč'
+datum_vzniku_usneseni: '2008-12-08 00:00:00'
+cislo_usneseni: 0437/08
+prilohy: []
+organ: zastupitelstvo
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení zastupitelstva MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na uzavření kupní smlouvy  a smlouvy o zřízení zástavního a předkupního práva jako práva věcného mezi MČ Praha 7 a "Bytovým družstvem Šmeralka", se sídlem Šmeralova 21/331, Praha 7, IČ : 63081369 o odkoupení  parc.č. 365, k.ú. Bubeneč</h3></span><div class="center">
+		<strong>č. 0437/08</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 08.12.2008</strong><br><br>
+	</div>Zastupitelstvo MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> předložený materiál - návrh na uzavření kupní smlouvy  a smlouvy o zřízení zástavního a předkupního práva jako práva věcného mezi MČ Praha 7 a "Bytovým družstvem Šmeralka", se sídlem Šmeralova 21/331, Praha 7, IČ : 63081369 o odkoupení  parc.č. 365, k.ú. Bubeneč</li></ul>
+</li>
+<li>Schvaluje<ul>
+<li>
+<strong>1.</strong> uzavření kupní smlouvy  a smlouvy o zřízení zástavního a předkupního práva jako práva věcného mezi MČ Praha 7 a "Bytovým družstvem Šmeralka", se sídlem Šmeralova 21/331, Praha 7, IČ : 63081369 o odkoupení  parc.č. 365 - zahrada o výměře 100 m2, v k.ú. Bubeneč, za kupní cenu 390.500,- Kč (slovy: třistadevadesáttisícpětset korun českých) formou splátek po dobu 10-ti let</li>
+<li>
+<strong>2.</strong> text kupní smlouvy  a smlouvy o zřízení zástavního a předkupního práva jako práva věcného mezi MČ Praha 7 a "Bytovým družstvem Šmeralka", se sídlem Šmeralova 21/331, Praha 7, IČ : 63081369 o odkoupení  parc.č. 365 - zahrada o výměře 100 m2, v k.ú. Bubeneč, za kupní cenu 390.500,- Kč (slovy: třistadevadesáttisícpětset korun českých) formou splátek po dobu 10-ti let</li>
+</ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>STA Ječmének Marek</li>
+<li>
+<strong>1.1 Úkol: </strong>podepsat kupní smlouvu  a smlouvu o zřízení zástavního a předkupního práva jako práva věcného mezi MČ Praha 7 a "Bytovým družstvem Šmeralka", se sídlem Šmeralova 21/331, Praha 7, IČ : 63081369 o odkoupení  parc.č. 365 - zahrada o výměře 100 m2, v k.ú. Bubeneč, za kupní cenu 390.500,- Kč (slovy: třistadevadesáttisícpětset korun českých) formou splátek po dobu 10-ti let   </li>
+<li>
+<strong>1.2 Termín: </strong>27.02.2009</li>
+<li>
+<strong><br>2. Určen: </strong>ZAS STA Neuberg Josef</li>
+<li>
+<strong>2.1 Úkol: </strong>podepsat kupní smlouvu  a smlouvu o zřízení zástavního a předkupního práva jako práva věcného mezi MČ Praha 7 a "Bytovým družstvem Šmeralka", se sídlem Šmeralova 21/331, Praha 7, IČ : 63081369 o odkoupení  parc.č. 365 - zahrada o výměře 100 m2, v k.ú. Bubeneč, za kupní cenu 390.500,- Kč (slovy: třistadevadesáttisícpětset korun českých) formou splátek po dobu 10-ti let   </li>
+<li>
+<strong>2.2 Termín: </strong>27.02.2009</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Josef Neuberg<hr>
+<br>Přílohy: Neveřejné</div>
+</div>

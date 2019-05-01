@@ -1,0 +1,20 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Schválení účasti protidrogové koordinátorky Ing. K. Beranové na celorepublikovém
+  semináři Kalokagathie - Fórum výchovy ke zdraví IV,... '
+datum_vzniku_usneseni: '2001-02-20 00:00:00'
+cislo_usneseni: '0189/01'
+prilohy: []
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Schválení účasti protidrogové koordinátorky Ing. K. Beranové na celorepublikovém semináři Kalokagathie - Fórum výchovy ke zdraví IV,... </h3></span><div class="center">
+		<strong>č. 0189/01</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 20.02.2001</strong><br><br>
+	</div> ... který se koná ve dnech 20.-22.04.2001 v Učebním středisku Institutu pro místní správu, Benešov u Prahy, v ceně 2 500,- za osobu<br><br>Rada MČ Praha 7<br>po projednání<br><br><br>I.	bere na vědomí<br><br> předložený materiál - Návrh na schválení účasti protidrogové koordinátorky Ing. K. Beranové  na celorepublikovém semináři Kalokagathie - Fórum výchovy ke zdraví IV, který se koná ve dnech 20.-22.04.2001 v Učebním středisku Institutu pro místní správu, Benešov u Prahy, v ceně 2 500,- Kč za osobu<br><br><br>II.	schvaluje <br><br>účast protidrogové koordinátorky Ing. K. Beranové na celorepublikovém semináři Kalokagathie - Fórum výchovy ke zdraví IV, který se koná ve dnech 20.-22.04.2001 v Učebním středisku Institutu pro místní správu, Benešov u Prahy, v ceně 2 500,- Kč za osobu<br><br><br>III.	ukládá <br><br> Určen:	–––––	VED KT Hasprová Slávka<br>Termín: 23.02.2000<br>Úkol:	zaslat přihlášku na seminář protidrogové koordinátorky Ing. K. Beranové <br> <br> Určen:	–––––	VED KT Hasprová Slávka<br>Termín: 19.04.2001<br>Úkol:	zajistit veškeré náležitosti spojené s účastí protidrogové koordinátorky Ing. Beranové na semináři uvedeném v bodu II. tohoto usnesení<br> <br><br><br> <br>
+</div>
+</div>

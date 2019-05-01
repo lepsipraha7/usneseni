@@ -1,0 +1,67 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh na souhlas se zněním a formou "Prohlášení vlastníka budovy" k budově
+  č.p. 1392, Františka Křížka č.o. 23 a č.p. 1393, Františka Křížka č.o. 25  , obec
+  Praha, k.ú. Holešovice, vypracovaného dle § 4 zákona č. 72/1994 Sb. v platném znění '
+datum_vzniku_usneseni: '2009-06-16 00:00:00'
+cislo_usneseni: '0618/09'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/18797/31-pv-fr.k%c5%99%c3%ad%c5%beka_23_a_25.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/18797/31-fr.k%c5%99%c3%ad%c5%beka_23,25.pdf
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh na souhlas se zněním a formou "Prohlášení vlastníka budovy" k budově č.p. 1392, Františka Křížka č.o. 23 a č.p. 1393, Františka Křížka č.o. 25  , obec Praha, k.ú. Holešovice, vypracovaného dle § 4 zákona č. 72/1994 Sb. v platném znění </h3></span><div class="center">
+		<strong>č. 0618/09</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 16.06.2009</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul>
+<li>
+<strong>1.</strong> předložený materiál - návrh na souhlas se zněním a formou "Prohlášení vlastníka budovy" k budově č.p. 1392, Františka Křížka č.o. 23 a č.p. 1393, Františka Křížka č.o. 25  , obec Praha, k.ú. Holešovice, vypracovaného dle § 4 zákona č. 72/1994 Sb. v platném znění </li>
+<li>
+<strong>2.</strong> že k převodu vlastnictví bytových jednotek, tedy k podpisu a rozeslání závazných nabídek, je možné přistoupit po provedení zápisu dodatku ke smlouvě o zřízení zástavního práva uzavřeného mezi MHMP a MMR ve věci omezení zástavního práva v katastru nemovitostí pouze na bytové jednotky postavené s dotací MMR</li>
+<li>
+<strong>3.</strong> že na základě usnesení Zastupitelstva MČ Praha 7 č. 0106/07 - Z z jednání č. 2 ze dne 26.2.2007 bylo po nabytí právní moci stavebního povolení k plánovaným půdním vestavbám na základě projektové dokumentace tvořící přílohu tohoto stavebního povolení zpracováno "Prohlášení vlastníka budovy" a v souladu s usnesením jsou v "Prohlášení vlastníka budovy" tyto plánované půdní vestavby vymezeny jako jednotky ve výstavbě</li>
+</ul>
+</li>
+<li>Souhlasí<ul><li>
+<strong>1.</strong> se zněním a formou "Prohlášení vlastníka budovy" k budově č.p. 1392, Františka Křížka č.o. 23 a č.p. 1393, Františka Křížka č.o. 25  , obec Praha, k.ú. Holešovice, vypracovaného dle § 4 zákona č. 72/1994 Sb. v platném znění </li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>STA Ječmének Marek</li>
+<li>
+<strong>1.1 Úkol: </strong>podepsat "Prohlášení vlastníka budovy" k budově č.p. 1392, Františka Křížka č.o. 23 a č.p. 1393, Františka Křížka č.o. 25  , obec Praha, k.ú. Holešovice, vypracovaného dle § 4 zákona č. 72/1994 Sb. v platném znění  </li>
+<li>
+<strong>1.2 Termín: </strong>20.06.2009</li>
+<li>
+<strong>1.3 Úkol: </strong>podepsat závazné nabídky na převod vlastnictví bytových jednotek oprávněným nájemcům budovy č.p. 1392, Františka Křížka č.o. 23 a č.p. 1393, Františka Křížka č.o. 25  , obec Praha, k.ú. Holešovice</li>
+<li>
+<strong>1.4 Termín: </strong>31.12.2009</li>
+<li>
+<strong><br>2. Určen: </strong>RAD Justová Marcela Bc.</li>
+<li>
+<strong>2.1 Úkol: </strong>zadat vypracování znaleckých posudků na bytové jednotky v bytovém domě č.p. 1392, Františka Křížka č.o. 23 a č.p. 1393, Františka Křížka č.o. 25  , obec Praha, k.ú. Holešovice</li>
+<li>
+<strong>2.2 Termín: </strong>31.07.2009</li>
+<li>
+<strong>2.3 Úkol: </strong>zrealizovat proplacení faktury - daňového dokladu - za vypracování znaleckých posudků na bytové jednotky v bytovém domě č.p. 1392, Františka Křížka č.o. 23 a č.p. 1393, Františka Křížka č.o. 25  , obec Praha, k.ú. Holešovice</li>
+<li>
+<strong>2.4 Termín: </strong>31.08.2009</li>
+<li>
+<strong>2.5 Úkol: </strong>zrealizovat proplacení faktury - daňového dokladu - za zpracování "Prohlášení vlastníka budovy" k budově č.p. 1392, Františka Křížka č.o. 23 a č.p. 1393, Františka Křížka č.o. 25  , obec Praha, k.ú. Holešovice, zadané společnosti CENTRA a.s. objednávkou ze dne  16.03.2006 radního Mgr. Jiřího Piskáčka (pro budovyu č.p. 1393) a objednávkou ze dne 18.09.2008 zástupce starosty Josefa Neuberga (pro budovu č.p. 1392) v souladu se Smlouvou o dílo mezi MČ Praha 7 a společností CENTRA a.s. na zakázku "Vyhotovení prohlášení vlastníka budovy dle zákona č. 72/1994 Sb. a další úkony s touto agendou spojené"</li>
+<li>
+<strong>2.6 Termín: </strong>31.08.2009</li>
+<li>
+<strong>2.7 Úkol: </strong>předat "Prohlášení vlastníka budovy" k budově č.p. 1392, Františka Křížka č.o. 23 a č.p. 1393, Františka Křížka č.o. 25společnosti Plugget a.s., která na jeho základě vyhlásí výběrové řízení na plánované půdní vestavby v č.p. 1393 a zpracuje smlouvu o výstavbě</li>
+<li>
+<strong>2.8 Termín: </strong>31.08.2009</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: MUDr. Tomáš Kaštovský 
+</div>
+</div>

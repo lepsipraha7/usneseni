@@ -1,0 +1,46 @@
+---
+layout: detail_usneseni
+nazev_bodu: 'Návrh k rozhodnutí Rady MČP7 v působnosti valné hromady společnosti s
+  ručením omezeným Sedmá ubytovací s.r.o. k předloženým rozborům hospodaření a účetní
+  závěrce společnosti Sedmá ubytovací s.r.o. za  1.-3. čtvrtlelí roku 2011 '
+datum_vzniku_usneseni: '2011-11-22 00:00:00'
+cislo_usneseni: '0837/11'
+prilohy:
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/21188/54-11-rozbor_zpr%c3%a1va_za_3q_roku_2011.pdf
+- https://praha7.cz/wp-content/uploads/councilResolution/Resolutions/21188/54-11-n%c3%a1vrh_usnesen%c3%ad_rozbory1_3_2011dozas.doc
+organ: rada
+---
+<div id="ucUsn_pList" class="usn">
+	<span><h2>Usnesení rady MČ Praha 7 </h2>
+<br></span><div class="standBody">
+<span><h3>Návrh k rozhodnutí Rady MČP7 v působnosti valné hromady společnosti s ručením omezeným Sedmá ubytovací s.r.o. k předloženým rozborům hospodaření a účetní závěrce společnosti Sedmá ubytovací s.r.o. za  1.-3. čtvrtlelí roku 2011 </h3></span><div class="center">
+		<strong>č. 0837/11</strong><br>
+	</div>
+<div class="center">
+		<strong>Ze dne 22.11.2011</strong><br><br>
+	</div>Rada MČ P7<br> po projednání<br><br><ol>
+<li>Bere na vědomí<ul><li>
+<strong>1.</strong> Návrh k rozhodnutí Rady MČP7 v působnosti valné hromady společnosti s ručením omezeným Sedmá ubytovací s.r.o. k předloženým rozborům hospodaření a účetní závěrce společnosti Sedmá ubytovací s.r.o. za 1.-3. čtvrtlelí roku 2011    </li></ul>
+</li>
+<li>Schvaluje<ul>
+<li>
+<strong>1.</strong> předložené rozbory hospodaření společnosti s ručením omezeným Sedmá ubytovací s.r.o., včetně výsledovky a rozvahy</li>
+<li>
+<strong>2.</strong> účetní závěrku společnosti Sedmá ubytovací s.r.o. za 1.-.3.  čtvrtletí 2011, přičemž dosažený výsledek hospodaření vykazuje celkovovou ztrátu ve výši  3 429 861,42 Kč    </li>
+</ul>
+</li>
+<li>Souhlasí<ul><li>
+<strong>1.</strong>  s návrhem usnesení ZMČP7    </li></ul>
+</li>
+<li>Ukládá<ul>
+<li>
+<strong>1. Určen: </strong>ZAS STA Kaštovský Tomáš MUDr.</li>
+<li>
+<strong>1.1 Úkol: </strong>předložit  ZMČP7 informaci o projednání rozborů hospodaření společnosti Sedmá ubytovací s.r.o. Radou MČP7 v působnosti valné hromady společnosti s ručením omezeným Sedmá ubytovací s.r.o.  </li>
+<li>
+<strong>1.2 Termín: </strong>05.12.2011</li>
+</ul>
+</li>
+</ol>starosta Městské části Praha 7: Marek Ječmének<br>zástupce starosty Městské části Praha 7: Daniel Štěpán 
+</div>
+</div>
