@@ -20,3 +20,5 @@ fields:
 - type: text
   name: organ
   label: organ
+pages:
+- zastupitelstvo/2006/20/index.md

@@ -2,10 +2,11 @@
 layout: detail_usneseni
 nazev_bodu: 'Návrh na převod vlastnictví bytové jednotky č. 400/2 v domě č.p. 400,
   Milady Horákové č.o. 23, Praha 7, k.ú. Holešovice, obec Praha '
-datum_vzniku_usneseni: '2006-01-23 00:00:00'
+datum_vzniku_usneseni: 2006-01-23 00:00:00
 cislo_usneseni: 0020/06
 prilohy: []
 organ: zastupitelstvo
+
 ---
 <div id="ucUsn_pList" class="usn">
 	<span><h2>Usnesení zastupitelstva MČ Praha 7 </h2>
