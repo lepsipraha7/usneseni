@@ -1,0 +1,22 @@
+---
+label: usneseni
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: nazev_bodu
+  label: nazev_bodu
+- type: datetime
+  name: datum_vzniku_usneseni
+  label: datum_vzniku_usneseni
+- type: text
+  name: cislo_usneseni
+  label: cislo_usneseni
+- type: list
+  name: prilohy
+  label: prilohy
+- type: text
+  name: organ
+  label: organ
