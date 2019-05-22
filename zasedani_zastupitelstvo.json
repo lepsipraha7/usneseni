@@ -1,5 +1,18 @@
 [
   {
+    "id": "443941",
+    "nazev": "4. zasedání ZMČ P7",
+    "cislo_jednani": "4",
+    "zahajeni": "2019-05-13 00:00:00",
+    "rok_vznik": "2019",
+    "nazev_uradu": "Městská část Praha 7",
+    "typ_jednani": "zasedání",
+    "prilohy": [
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/38/export/Navrzenyprogramjednani~454201.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/38/export/Schvalenyprogramjednani~454202.pdf"
+    ]
+  },
+  {
     "id": "435139",
     "nazev": "3. zasedání ZMČ P7",
     "cislo_jednani": "3",
@@ -8,8 +21,9 @@
     "nazev_uradu": "Městská část Praha 7",
     "typ_jednani": "zasedání",
     "prilohy": [
-      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/37/export/Navrzenyprogramjednani~443980.pdf",
-      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/37/export/Schvalenyprogramjednani~443981.pdf"
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/37/export/Navrzenyprogramjednani~454209.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/37/export/Schvalenyprogramjednani~454210.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/37/export/Hlasovani_3ZMC_0804~454211.pdf"
     ]
   },
   {
