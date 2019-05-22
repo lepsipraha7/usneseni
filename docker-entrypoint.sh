@@ -14,4 +14,4 @@ echo "Fetching from praha7.cz..." &&
 ./fetcher.rb &&
 echo "Pushing to github.com..." &&
 cd /source &&
-git diff --quiet && git diff --staged --quiet || (git commit -am 'Auto imported new data' && git push $REPO source:import-$timestamp)
+git diff --quiet && git diff --staged --quiet || (git commit -am 'Auto imported new data' && git push $REPO source)
