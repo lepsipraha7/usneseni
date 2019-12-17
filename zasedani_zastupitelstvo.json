@@ -1,5 +1,18 @@
 [
   {
+    "id": "508895",
+    "nazev": "zasedání ZMČ",
+    "cislo_jednani": "9",
+    "zahajeni": "2019-12-16 00:00:00",
+    "rok_vznik": "2019",
+    "nazev_uradu": "Městská část Praha 7",
+    "typ_jednani": "zasedání",
+    "prilohy": [
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/43/export/Navrzenyprogramjednani~518020.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/43/export/Schvalenyprogramjednani~518275.pdf"
+    ]
+  },
+  {
     "id": "496772",
     "nazev": "8. zasedání ZMČ P7",
     "cislo_jednani": "8",
