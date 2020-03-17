@@ -1,5 +1,19 @@
 [
   {
+    "id": "520706",
+    "nazev": "zasedání ZMČ",
+    "cislo_jednani": "1",
+    "zahajeni": "2020-03-02 00:00:00",
+    "rok_vznik": "2020",
+    "nazev_uradu": "Městská část Praha 7",
+    "typ_jednani": "zasedání",
+    "prilohy": [
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/44/export/Navrzenyprogramjednani~539925.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/44/export/Schvalenyprogramjednani~539926.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/44/export/hlasovani1ZMC_P7~539927.pdf"
+    ]
+  },
+  {
     "id": "508895",
     "nazev": "9. zasedání ZMČ P7",
     "cislo_jednani": "9",
