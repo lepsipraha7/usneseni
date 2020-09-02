@@ -1,5 +1,20 @@
 [
   {
+    "id": "556941",
+    "nazev": "4. zasedání ZMČ P7",
+    "cislo_jednani": "4",
+    "zahajeni": "2020-06-22 00:00:00",
+    "rok_vznik": "2020",
+    "nazev_uradu": "Městská část Praha 7",
+    "typ_jednani": "zasedání",
+    "prilohy": [
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/47/export/zapisz4zasedaniZMCP7dne2262020~573829.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/47/export/Navrzenyprogramjednani~573830.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/47/export/Schvalenyprogramjednani~573831.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/47/export/hlasovani4ZMC_P7~573832.pdf"
+    ]
+  },
+  {
     "id": "546048",
     "nazev": "3. zasedání ZMČ P7",
     "cislo_jednani": "3",
@@ -8,21 +23,25 @@
     "nazev_uradu": "Městská část Praha 7",
     "typ_jednani": "zasedání",
     "prilohy": [
-      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/46/export/Navrzenyprogramjednani~556956.pdf",
-      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/46/export/Schvalenyprogramjednani~556957.pdf"
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/46/export/3_zapis~568214.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/46/export/Navrzenyprogramjednani~568215.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/46/export/Schvalenyprogramjednani~568216.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/46/export/hlasovani3_ZMCP7_2020~568217.docx"
     ]
   },
   {
     "id": "537962",
-    "nazev": "7. zasedání ZMČ P7",
+    "nazev": "2. zasedání ZMČ P7",
     "cislo_jednani": "2",
     "zahajeni": "2020-04-06 00:00:00",
     "rok_vznik": "2020",
     "nazev_uradu": "Městská část Praha 7",
     "typ_jednani": "zasedání",
     "prilohy": [
-      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/45/export/Navrzenyprogramjednani~546043.pdf",
-      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/45/export/Schvalenyprogramjednani~546044.pdf"
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/45/export/2_zapis~568200.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/45/export/Navrzenyprogramjednani~568201.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/45/export/Schvalenyprogramjednani~568202.pdf",
+      "https://www.praha7.cz/wp-content/uploads/councilResolution/Meetings/45/export/hlasovani_2_ZMC_P7docx002~568203.pdf"
     ]
   },
   {
